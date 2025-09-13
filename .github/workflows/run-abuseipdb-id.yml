@@ -1,4 +1,4 @@
-name: Synchronize Blocklist AbuseIPDB (Country Specific: Indonesia)
+name: Synchronize Blocklist AbuseIPDB (Country Specific Indonesia)
 
 on:
   schedule:
