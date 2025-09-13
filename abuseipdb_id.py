@@ -73,8 +73,52 @@ def write_blocklist_file(lines, file_path):
         print(f'Gagal menulis file: {e}')
         return False
 
+
+def update_readme_stats(file_stats, timestamp):
+    """Update blocklist statistics section in README.md."""
+    readme_path = "README.md"
+    stats_start = "<!-- blocklist-stats-start -->"
+    stats_end = "<!-- blocklist-stats-end -->"
+    try:
+        with open(readme_path, "r", encoding="utf-8") as f:
+            content = f.read()
+    except Exception as e:
+        print(f"Failed to read README.md: {e}")
+        return
+
+    stats_lines = [stats_start]
+    stats_lines.append(f"Last check: {timestamp} (UTC)")
+    for fname, count in file_stats.items():
+        stats_lines.append(f"❯ {fname} ({count} ips)")
+    stats_lines.append(stats_end)
+    stats_block = "\n".join(stats_lines)
+
+    # Replace or insert stats block before LICENSE section
+    license_marker = "## \U0001F4C4 License"  # 📄
+    if stats_start in content and stats_end in content:
+        # Remove old block
+        content = re.sub(f"{stats_start}.*?{stats_end}\n?", "", content, flags=re.DOTALL)
+    idx = content.find(license_marker)
+    if idx != -1:
+        new_content = content[:idx] + stats_block + "\n\n" + content[idx:]
+    else:
+        new_content = content + "\n" + stats_block
+
+    try:
+        with open(readme_path, "w", encoding="utf-8") as f:
+            f.write(new_content)
+        print("README.md statistics updated.")
+    except Exception as e:
+        print(f"Failed to write README.md: {e}")
+
+
 if __name__ == '__main__':
+    file_stats = {}
     for url, filename in url_file_pairs.items():
         valid_lines = get_lines_from_url(url)
         if valid_lines:
             write_blocklist_file(valid_lines, filename)
+            file_stats[filename] = len(valid_lines)
+    # Update README.md stats
+    timestamp = datetime.utcnow().strftime('%Y-%m-%d - %H:%M:%S')
+    update_readme_stats(file_stats, timestamp)
