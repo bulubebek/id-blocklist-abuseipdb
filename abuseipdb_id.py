@@ -93,16 +93,22 @@ def update_readme_stats(file_stats, timestamp):
     stats_lines.append(stats_end)
     stats_block = "\n".join(stats_lines)
 
-    # Replace or insert stats block before LICENSE section
-    license_marker = "## \U0001F4C4 License"  # 📄
+    # Replace or insert stats block
     if stats_start in content and stats_end in content:
-        # Remove old block
-        content = re.sub(f"{stats_start}.*?{stats_end}\n?", "", content, flags=re.DOTALL)
-    idx = content.find(license_marker)
-    if idx != -1:
-        new_content = content[:idx] + stats_block + "\n\n" + content[idx:]
+        new_content = re.sub(f"{stats_start}.*?{stats_end}", stats_block, content, flags=re.DOTALL)
     else:
-        new_content = content + "\n" + stats_block
+        # Insert after Output Files section
+        marker = "## \U0001F4E6 Output Files"  # 📦
+        idx = content.find(marker)
+        if idx != -1:
+            idx = content.find("---", idx)
+            if idx != -1:
+                idx += 3
+                new_content = content[:idx] + "\n" + stats_block + "\n" + content[idx:]
+            else:
+                new_content = content + "\n" + stats_block
+        else:
+            new_content = content + "\n" + stats_block
 
     try:
         with open(readme_path, "w", encoding="utf-8") as f:
