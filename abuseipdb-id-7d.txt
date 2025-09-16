@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1094
-# Last updated:           2025-09-16 01:40:45
+# Number of ips:          1102
+# Last updated:           2025-09-16 06:33:03
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -248,6 +248,7 @@
 103.179.56.170   # ID  AS136052  PT Cloud Hosting Indonesia
 103.179.56.195   # ID  AS136052  PT Cloud Hosting Indonesia
 103.179.56.29    # ID  AS136052  PT Cloud Hosting Indonesia
+103.179.56.33    # ID  AS136052  PT Cloud Hosting Indonesia
 103.179.56.44    # ID  AS136052  PT Cloud Hosting Indonesia
 103.179.56.51    # ID  AS136052  PT Cloud Hosting Indonesia
 103.179.56.75    # ID  AS136052  PT Cloud Hosting Indonesia
@@ -276,6 +277,7 @@
 103.182.234.218  # ID  AS17995   PT iForte Global Internet
 103.182.236.26   # ID  AS17995   PT iForte Global Internet
 103.183.74.130   # ID  AS136052  PT Cloud Hosting Indonesia
+103.183.74.171   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.74.214   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.74.22    # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.74.85    # ID  AS136052  PT Cloud Hosting Indonesia
@@ -480,6 +482,7 @@
 103.59.160.94    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.94.134    # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.94.155    # ID  AS136052  PT Cloud Hosting Indonesia
+103.59.94.209    # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.94.223    # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.94.23     # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.94.4      # ID  AS136052  PT Cloud Hosting Indonesia
@@ -500,6 +503,7 @@
 103.63.25.115    # ID  AS136052  PT Cloud Hosting Indonesia
 103.63.25.13     # ID  AS136052  PT Cloud Hosting Indonesia
 103.63.25.171    # ID  AS136052  PT Cloud Hosting Indonesia
+103.63.25.203    # ID  AS136052  PT Cloud Hosting Indonesia
 103.63.25.210    # ID  AS136052  PT Cloud Hosting Indonesia
 103.63.25.79     # ID  AS136052  PT Cloud Hosting Indonesia
 103.65.237.146   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
@@ -863,11 +867,13 @@
 202.46.155.230   # ID  AS149746  PT Blip Integrator Provider
 202.46.68.0      # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.46.68.127    # ID  AS9341    PT INDONESIA COMNETS PLUS
+202.46.68.148    # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.46.68.153    # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.46.68.155    # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.46.68.169    # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.46.68.211    # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.46.68.234    # ID  AS9341    PT INDONESIA COMNETS PLUS
+202.46.68.237    # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.46.68.247    # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.46.68.48     # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.51.102.86    # ID  AS17995   PT iForte Global Internet
@@ -943,10 +949,12 @@
 27.112.78.223    # ID  AS136052  PT Cloud Hosting Indonesia
 27.112.78.245    # ID  AS136052  PT Cloud Hosting Indonesia
 27.112.78.77     # ID  AS136052  PT Cloud Hosting Indonesia
+27.112.78.80     # ID  AS136052  PT Cloud Hosting Indonesia
 27.112.79.10     # ID  AS136052  PT Cloud Hosting Indonesia
 27.112.79.121    # ID  AS136052  PT Cloud Hosting Indonesia
 27.112.79.123    # ID  AS136052  PT Cloud Hosting Indonesia
 27.112.79.127    # ID  AS136052  PT Cloud Hosting Indonesia
+27.112.79.143    # ID  AS136052  PT Cloud Hosting Indonesia
 27.112.79.160    # ID  AS136052  PT Cloud Hosting Indonesia
 27.112.79.178    # ID  AS136052  PT Cloud Hosting Indonesia
 27.112.79.50     # ID  AS136052  PT Cloud Hosting Indonesia
