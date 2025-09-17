@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1327
-# Last updated:           2025-09-17 01:40:44
+# Number of ips:          1330
+# Last updated:           2025-09-17 06:33:23
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -890,6 +890,8 @@
 157.66.55.50     # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.56.131    # ID  AS58477   Argon Data Communication
 157.66.56.15     # ID  AS58477   Argon Data Communication
+157.66.56.161    # ID  AS58477   Argon Data Communication
+157.66.56.164    # ID  AS58477   Argon Data Communication
 157.66.56.171    # ID  AS58477   Argon Data Communication
 157.66.56.174    # ID  AS58477   Argon Data Communication
 157.66.56.177    # ID  AS58477   Argon Data Communication
@@ -1047,6 +1049,7 @@
 202.46.68.136    # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.46.68.148    # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.46.68.153    # ID  AS9341    PT INDONESIA COMNETS PLUS
+202.46.68.154    # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.46.68.155    # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.46.68.16     # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.46.68.169    # ID  AS9341    PT INDONESIA COMNETS PLUS
