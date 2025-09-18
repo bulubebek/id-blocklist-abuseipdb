@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1745
-# Last updated:           2025-09-18 01:40:21
+# Number of ips:          1747
+# Last updated:           2025-09-18 06:32:47
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -60,6 +60,7 @@
 103.126.172.86   # ID  AS138112  PT. Megarap Mitra Solusi
 103.126.173.57   # ID  AS138112  PT. Megarap Mitra Solusi
 103.127.136.111  # ID  AS133800  PT Biznet Gio Nusantara
+103.127.169.10   # ID  AS45287   Varnion Technology Semesta, PT
 103.129.16.243   # ID  AS63859   PT. Eka Mas Republik
 103.129.221.147  # ID  AS138062  PT. Awan Kilat Semesta
 103.13.139.6     # ID  AS150215  PT Era Bangun Indonesia
@@ -1713,6 +1714,7 @@
 58.147.189.199   # ID  AS24534   PT. Transhybrid Communication
 58.147.189.209   # ID  AS24534   PT. Transhybrid Communication
 58.147.189.220   # ID  AS24534   PT. Transhybrid Communication
+58.147.189.63    # ID  AS24534   PT. Transhybrid Communication
 58.147.190.122   # ID  AS24534   PT. Transhybrid Communication
 61.5.16.85       # ID  AS7713    PT Telekomunikasi Indonesia
 61.5.23.107      # ID  AS7713    PT Telekomunikasi Indonesia

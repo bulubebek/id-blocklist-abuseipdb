@@ -1,14 +1,15 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          938
-# Last updated:           2025-09-18 01:40:22
+# Number of ips:          945
+# Last updated:           2025-09-18 06:32:47
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
 # Credits 1:              https://www.abuseipdb.com - please support them!
 # Credits 2:              https://ipinfo.io - The Trusted Source For IP Address Data
 #
+101.128.84.8     # ID  AS135478  PT. Cyberindo Aditama
 101.255.164.234  # ID  AS38511   PT Remala Abadi
 101.255.165.242  # ID  AS38511   PT Remala Abadi
 101.255.169.29   # ID  AS38511   PT Remala Abadi
@@ -39,6 +40,7 @@
 103.126.172.10   # ID  AS138112  PT. Megarap Mitra Solusi
 103.126.172.86   # ID  AS138112  PT. Megarap Mitra Solusi
 103.126.173.57   # ID  AS138112  PT. Megarap Mitra Solusi
+103.127.169.10   # ID  AS45287   Varnion Technology Semesta, PT
 103.129.16.243   # ID  AS63859   PT. Eka Mas Republik
 103.129.221.147  # ID  AS138062  PT. Awan Kilat Semesta
 103.13.139.6     # ID  AS150215  PT Era Bangun Indonesia
@@ -314,6 +316,7 @@
 103.214.229.236  # ID  AS64030   Politeknik Negeri Semarang
 103.215.25.250   # ID  AS9341    PT INDONESIA COMNETS PLUS
 103.217.144.113  # ID  AS136052  PT Cloud Hosting Indonesia
+103.217.144.13   # ID  AS136052  PT Cloud Hosting Indonesia
 103.217.144.155  # ID  AS136052  PT Cloud Hosting Indonesia
 103.217.144.161  # ID  AS136052  PT Cloud Hosting Indonesia
 103.217.144.35   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -560,6 +563,7 @@
 116.193.191.90   # ID  AS136052  PT Cloud Hosting Indonesia
 116.68.162.118   # ID  AS56246   PT Sumber Data Indonesia
 117.102.100.58   # ID  AS17451   BIZNET NETWORKS
+117.102.75.60    # ID  AS17451   BIZNET NETWORKS
 117.103.169.169  # ID  AS38506   PT Pika Media Komunika
 117.20.52.40     # ID  AS23951   PT JEMBATAN CITRA NUSANTARA
 117.20.58.58     # ID  AS23951   PT JEMBATAN CITRA NUSANTARA
@@ -581,6 +585,7 @@
 121.101.133.67   # ID  AS131706  PT SELARAS CITRA TERABIT
 123.231.137.43   # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.153.146  # ID  AS4800    PT Aplikanusa Lintasarta
+123.231.157.194  # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.166.202  # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.179.26   # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.181.156  # ID  AS4800    PT Aplikanusa Lintasarta
@@ -712,6 +717,7 @@
 182.8.182.49     # ID  AS23693   PT. Telekomunikasi Selular
 182.8.225.170    # ID  AS23693   PT. Telekomunikasi Selular
 182.9.1.229      # ID  AS23693   PT. Telekomunikasi Selular
+183.91.83.132    # ID  AS4800    PT Aplikanusa Lintasarta
 183.91.87.85     # ID  AS4800    PT Aplikanusa Lintasarta
 202.10.36.124    # ID  AS58487   CV. Rumahweb Indonesia
 202.125.94.71    # ID  AS46042   Gunadarma University
@@ -924,6 +930,7 @@
 58.147.189.196   # ID  AS24534   PT. Transhybrid Communication
 58.147.189.198   # ID  AS24534   PT. Transhybrid Communication
 58.147.189.199   # ID  AS24534   PT. Transhybrid Communication
+58.147.189.63    # ID  AS24534   PT. Transhybrid Communication
 58.147.190.122   # ID  AS24534   PT. Transhybrid Communication
 61.5.16.85       # ID  AS7713    PT Telekomunikasi Indonesia
 66.96.239.187    # ID  AS63859   PT. Eka Mas Republik
