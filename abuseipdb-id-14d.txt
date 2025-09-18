@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1325
-# Last updated:           2025-09-18 12:43:54
+# Number of ips:          1326
+# Last updated:           2025-09-18 18:31:48
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -313,6 +313,7 @@
 103.181.143.69   # ID  AS136052  PT Cloud Hosting Indonesia
 103.181.143.85   # ID  AS136052  PT Cloud Hosting Indonesia
 103.181.143.99   # ID  AS136052  PT Cloud Hosting Indonesia
+103.182.189.198  # ID  AS17995   PT iForte Global Internet
 103.182.189.90   # ID  AS17995   PT iForte Global Internet
 103.182.192.126  # ID  AS17995   PT iForte Global Internet
 103.182.192.22   # ID  AS17995   PT iForte Global Internet
