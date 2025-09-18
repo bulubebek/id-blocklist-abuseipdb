@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1322
-# Last updated:           2025-09-18 06:32:47
+# Number of ips:          1325
+# Last updated:           2025-09-18 12:43:54
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -229,6 +229,7 @@
 103.172.205.6    # ID  AS136052  PT Cloud Hosting Indonesia
 103.172.205.68   # ID  AS136052  PT Cloud Hosting Indonesia
 103.172.34.37    # ID  AS58821   PT Lintas Jaringan Nusantara
+103.174.114.107  # ID  AS136052  PT Cloud Hosting Indonesia
 103.174.114.123  # ID  AS136052  PT Cloud Hosting Indonesia
 103.174.114.143  # ID  AS136052  PT Cloud Hosting Indonesia
 103.174.114.164  # ID  AS136052  PT Cloud Hosting Indonesia
@@ -434,6 +435,7 @@
 103.226.139.139  # ID  AS136052  PT Cloud Hosting Indonesia
 103.226.139.143  # ID  AS136052  PT Cloud Hosting Indonesia
 103.226.139.208  # ID  AS136052  PT Cloud Hosting Indonesia
+103.226.232.199  # ID  AS59276   PT Jaringan Multimedia Indonesia
 103.227.243.217  # ID  AS59278   PT Jaringan VNT Indonesia
 103.227.255.41   # ID  AS59279   PT Raja Mitra Informatika
 103.228.242.141  # ID  AS45700   PT. NAP Info Lintas Nusa
@@ -748,6 +750,7 @@
 116.193.191.209  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.46   # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.90   # ID  AS136052  PT Cloud Hosting Indonesia
+116.197.130.58   # ID  AS58369   PT. Fiber Networks Indonesia
 116.68.162.118   # ID  AS56246   PT Sumber Data Indonesia
 117.102.100.58   # ID  AS17451   BIZNET NETWORKS
 117.102.114.74   # ID  AS17451   BIZNET NETWORKS
