@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1744
-# Last updated:           2025-09-19 12:44:46
+# Number of ips:          1748
+# Last updated:           2025-09-19 18:30:31
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -909,6 +909,7 @@
 116.193.191.46   # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.90   # ID  AS136052  PT Cloud Hosting Indonesia
 116.197.130.58   # ID  AS58369   PT. Fiber Networks Indonesia
+116.254.119.202  # ID  AS55666   PT Media Sarana Data
 116.68.162.118   # ID  AS56246   PT Sumber Data Indonesia
 117.102.100.58   # ID  AS17451   BIZNET NETWORKS
 117.102.114.74   # ID  AS17451   BIZNET NETWORKS
@@ -1012,6 +1013,7 @@
 128.14.233.33    # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 139.0.28.226     # ID  AS9905    Linknet ASN
 139.0.29.221     # ID  AS9905    Linknet ASN
+139.255.104.178  # ID  AS9905    Linknet ASN
 139.255.253.74   # ID  AS9905    Linknet ASN
 140.0.228.219    # ID  AS23700   Linknet-Fastnet ASN
 140.213.190.32   # ID  AS139994  PT XL Axiata Tbk
@@ -1154,6 +1156,7 @@
 165.154.48.206   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 165.154.48.24    # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 165.154.49.137   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+168.110.214.163  # ID  AS31898   Oracle Corporation
 172.232.232.10   # ID  AS63949   Akamai Connected Cloud
 172.232.245.182  # ID  AS63949   Akamai Connected Cloud
 172.232.245.73   # ID  AS63949   Akamai Connected Cloud
@@ -1583,6 +1586,7 @@
 36.77.219.216    # ID  AS7713    PT Telekomunikasi Indonesia
 36.77.28.118     # ID  AS7713    PT Telekomunikasi Indonesia
 36.77.34.209     # ID  AS7713    PT Telekomunikasi Indonesia
+36.77.72.1       # ID  AS7713    PT Telekomunikasi Indonesia
 36.77.76.138     # ID  AS7713    PT Telekomunikasi Indonesia
 36.79.109.99     # ID  AS7713    PT Telekomunikasi Indonesia
 36.79.122.71     # ID  AS7713    PT Telekomunikasi Indonesia
