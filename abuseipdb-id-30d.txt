@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1715
-# Last updated:           2025-09-20 12:40:30
+# Number of ips:          1717
+# Last updated:           2025-09-20 18:26:54
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -54,6 +54,7 @@
 103.122.66.214   # ID  AS138064  PT. Jinom Network Indonesia
 103.123.175.74   # ID  AS150968  PT Jaringanku Media Telekomunikasi
 103.123.62.101   # ID  AS136052  PT Cloud Hosting Indonesia
+103.124.113.21   # ID  AS131111  PT Mora Telematika Indonesia
 103.125.38.185   # ID  AS63859   PT. Eka Mas Republik
 103.126.118.234  # ID  AS138116  PT. Media Tekno Nusantara
 103.126.172.10   # ID  AS138112  PT. Megarap Mitra Solusi
@@ -1669,6 +1670,7 @@
 43.252.159.101   # ID  AS149746  PT Blip Integrator Provider
 43.252.159.216   # ID  AS149746  PT Blip Integrator Provider
 43.252.159.226   # ID  AS149746  PT Blip Integrator Provider
+43.252.159.252   # ID  AS149746  PT Blip Integrator Provider
 43.252.159.76    # ID  AS149746  PT Blip Integrator Provider
 43.252.159.78    # ID  AS149746  PT Blip Integrator Provider
 43.252.159.79    # ID  AS149746  PT Blip Integrator Provider
