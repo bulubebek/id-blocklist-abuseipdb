@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1271
-# Last updated:           2025-09-21 01:50:14
+# Number of ips:          1272
+# Last updated:           2025-09-21 06:31:00
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -771,6 +771,7 @@
 123.231.171.196  # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.179.26   # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.181.156  # ID  AS4800    PT Aplikanusa Lintasarta
+123.231.210.210  # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.211.66   # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.214.210  # ID  AS4800    PT Aplikanusa Lintasarta
 124.40.249.190   # ID  AS45305   Lintas Data Prima, PT
