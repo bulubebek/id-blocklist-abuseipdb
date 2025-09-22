@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1071
-# Last updated:           2025-09-21 18:28:04
+# Number of ips:          1065
+# Last updated:           2025-09-22 01:50:29
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -400,6 +400,7 @@
 103.250.15.2     # ID  AS151590  PT Pandawa Global Telematika
 103.252.12.242   # ID  AS133838  PT Infotek Global Network
 103.27.36.4      # ID  AS132670  PT Aseli Dagadu Djokdja
+103.28.221.44    # ID  AS58492   Universitas Islam Sultan Agung
 103.28.52.67     # ID  AS136052  PT Cloud Hosting Indonesia
 103.28.53.34     # ID  AS136052  PT Cloud Hosting Indonesia
 103.28.57.98     # ID  AS58474   PT. MATRIXNET GLOBAL INDONESIA
@@ -627,13 +628,11 @@
 118.97.134.220   # ID  AS7713    PT Telekomunikasi Indonesia
 118.97.46.244    # ID  AS7713    PT Telekomunikasi Indonesia
 118.97.97.162    # ID  AS7713    PT Telekomunikasi Indonesia
-118.98.227.180   # ID  AS18051   Pustekkom
 118.99.121.214   # ID  AS17451   BIZNET NETWORKS
 118.99.65.1      # ID  AS17451   BIZNET NETWORKS
 118.99.80.18     # ID  AS17451   BIZNET NETWORKS
 118.99.80.2      # ID  AS17451   BIZNET NETWORKS
 118.99.80.223    # ID  AS17451   BIZNET NETWORKS
-118.99.80.42     # ID  AS17451   BIZNET NETWORKS
 118.99.80.45     # ID  AS17451   BIZNET NETWORKS
 118.99.80.47     # ID  AS17451   BIZNET NETWORKS
 118.99.80.5      # ID  AS17451   BIZNET NETWORKS
@@ -642,7 +641,6 @@
 119.235.255.212  # ID  AS45146   PT. Raja Sepadan Abadi
 119.47.90.13     # ID  AS38527   JAWA POS NATIONAL NETWORK MEDIALINK, PT
 119.47.90.19     # ID  AS38527   JAWA POS NATIONAL NETWORK MEDIALINK, PT
-119.82.246.30    # ID  AS24521   PT. DATA Utama Dinamika
 121.101.133.67   # ID  AS131706  PT SELARAS CITRA TERABIT
 123.231.137.43   # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.153.146  # ID  AS4800    PT Aplikanusa Lintasarta
@@ -752,6 +750,7 @@
 160.22.24.98     # ID  AS152800  PT Giga Media Internet
 160.25.118.13    # ID  AS153096  PT High Speed Connection Network
 160.25.196.251   # ID  AS153107  PT Rnet Mitra Sentosa
+163.171.167.182  # ID  AS54994   Meteverse Limited.
 163.223.227.3    # ID  AS199695  PT Anym Network Indonesia
 163.227.52.50    # ID  AS153804  PT Jagoan Data Nusantara
 163.61.134.104   # ID  AS153615  PT Lentera Abadi Solusinet
@@ -778,17 +777,13 @@
 180.250.95.154   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.149.251  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.151.45   # ID  AS7713    PT Telekomunikasi Indonesia
-180.252.157.221  # ID  AS7713    PT Telekomunikasi Indonesia
-180.252.198.46   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.238.99   # ID  AS7713    PT Telekomunikasi Indonesia
-180.253.176.81   # ID  AS7713    PT Telekomunikasi Indonesia
 180.94.23.36     # ID  AS152041  PT. KARYA HASTA JAYA
 182.16.186.118   # ID  AS17995   PT iForte Global Internet
 182.23.54.125    # ID  AS4800    PT Aplikanusa Lintasarta
 182.253.156.173  # ID  AS17451   BIZNET NETWORKS
 182.253.156.184  # ID  AS17451   BIZNET NETWORKS
 182.253.176.172  # ID  AS17451   BIZNET NETWORKS
-182.253.176.41   # ID  AS17451   BIZNET NETWORKS
 182.253.177.11   # ID  AS17451   BIZNET NETWORKS
 182.253.178.217  # ID  AS17451   BIZNET NETWORKS
 182.253.183.244  # ID  AS17451   BIZNET NETWORKS
@@ -810,7 +805,6 @@
 183.91.83.132    # ID  AS4800    PT Aplikanusa Lintasarta
 183.91.87.85     # ID  AS4800    PT Aplikanusa Lintasarta
 202.10.36.124    # ID  AS58487   CV. Rumahweb Indonesia
-202.10.42.167    # ID  AS58487   CV. Rumahweb Indonesia
 202.125.94.71    # ID  AS46042   Gunadarma University
 202.137.7.252    # ID  AS9905    Linknet ASN
 202.137.7.58     # ID  AS9905    Linknet ASN
@@ -876,7 +870,6 @@
 202.57.30.210    # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.59.194.246   # ID  AS63859   PT. Eka Mas Republik
 202.6.226.18     # ID  AS23756   PADINET - Padi Internet
-202.65.118.212   # ID  AS23951   PT JEMBATAN CITRA NUSANTARA
 202.73.27.129    # ID  AS55701   PT. Usaha Adisanggoro
 202.74.239.68    # ID  AS131775  PT. Jupiter Jala Arta
 202.74.75.192    # ID  AS133800  PT Biznet Gio Nusantara
@@ -1028,6 +1021,7 @@
 43.133.132.62    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.133.139.6     # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.235.95    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
+43.165.193.252   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.165.196.146   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.173.1.57      # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.173.1.69      # ID  AS132203  Tencent Building, Kejizhongyi Avenue

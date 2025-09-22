@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1698
-# Last updated:           2025-09-21 18:28:04
+# Number of ips:          1685
+# Last updated:           2025-09-22 01:50:28
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -335,7 +335,6 @@
 103.179.56.75    # ID  AS136052  PT Cloud Hosting Indonesia
 103.179.56.78    # ID  AS136052  PT Cloud Hosting Indonesia
 103.179.57.150   # ID  AS136052  PT Cloud Hosting Indonesia
-103.179.57.156   # ID  AS136052  PT Cloud Hosting Indonesia
 103.179.57.172   # ID  AS136052  PT Cloud Hosting Indonesia
 103.179.57.212   # ID  AS136052  PT Cloud Hosting Indonesia
 103.179.57.220   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -555,7 +554,6 @@
 103.28.53.34     # ID  AS136052  PT Cloud Hosting Indonesia
 103.28.57.98     # ID  AS58474   PT. MATRIXNET GLOBAL INDONESIA
 103.29.185.162   # ID  AS56260   PT Pascal Indonesia
-103.29.212.68    # ID  AS58377   Sentra Niaga Solusindo, PT.
 103.3.46.135     # ID  AS56237   Universitas Lampung
 103.30.183.186   # ID  AS45302   PT DES Teknologi Informasi
 103.30.92.188    # ID  AS18103   Neuviz Net
@@ -761,7 +759,6 @@
 103.77.106.204   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.106.226   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.106.242   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
-103.77.106.245   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.106.247   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.106.40    # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.106.52    # ID  AS135450  PT Berkah Solusi Teknologi Informasi
@@ -841,7 +838,6 @@
 110.138.80.175   # ID  AS7713    PT Telekomunikasi Indonesia
 110.138.83.83    # ID  AS7713    PT Telekomunikasi Indonesia
 110.138.89.236   # ID  AS7713    PT Telekomunikasi Indonesia
-110.138.93.237   # ID  AS7713    PT Telekomunikasi Indonesia
 110.138.98.91    # ID  AS7713    PT Telekomunikasi Indonesia
 110.139.53.114   # ID  AS7713    PT Telekomunikasi Indonesia
 110.35.81.182    # ID  AS17727   PT. NAP Info Lintas Nusa
@@ -927,7 +923,6 @@
 118.99.80.47     # ID  AS17451   BIZNET NETWORKS
 118.99.80.5      # ID  AS17451   BIZNET NETWORKS
 118.99.80.57     # ID  AS17451   BIZNET NETWORKS
-119.110.72.118   # ID  AS38320   PT Maxindo Mitra Solusi
 119.18.157.114   # ID  AS55685   PT Jala Lintas Media
 119.235.221.162  # ID  AS131111  PT Mora Telematika Indonesia
 119.235.255.212  # ID  AS45146   PT. Raja Sepadan Abadi
@@ -952,7 +947,6 @@
 123.231.210.242  # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.211.66   # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.214.210  # ID  AS4800    PT Aplikanusa Lintasarta
-124.109.21.230   # ID  AS38527   JAWA POS NATIONAL NETWORK MEDIALINK, PT
 124.40.249.190   # ID  AS45305   Lintas Data Prima, PT
 124.40.252.176   # ID  AS45305   Lintas Data Prima, PT
 125.163.141.169  # ID  AS7713    PT Telekomunikasi Indonesia
@@ -961,7 +955,6 @@
 125.163.158.1    # ID  AS7713    PT Telekomunikasi Indonesia
 125.163.159.111  # ID  AS7713    PT Telekomunikasi Indonesia
 125.163.28.198   # ID  AS7713    PT Telekomunikasi Indonesia
-125.163.68.108   # ID  AS7713    PT Telekomunikasi Indonesia
 125.163.68.77    # ID  AS7713    PT Telekomunikasi Indonesia
 125.164.14.37    # ID  AS7713    PT Telekomunikasi Indonesia
 125.164.19.160   # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1021,7 +1014,6 @@
 152.32.153.148   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 152.32.153.228   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 152.32.153.245   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
-152.32.153.246   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 152.32.153.53    # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 152.32.153.67    # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 152.32.154.182   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
@@ -1143,7 +1135,6 @@
 180.178.99.163   # ID  AS38758   PT. HIPERNET INDODATA
 180.241.237.19   # ID  AS7713    PT Telekomunikasi Indonesia
 180.241.238.177  # ID  AS7713    PT Telekomunikasi Indonesia
-180.241.239.209  # ID  AS7713    PT Telekomunikasi Indonesia
 180.241.44.214   # ID  AS7713    PT Telekomunikasi Indonesia
 180.242.106.130  # ID  AS7713    PT Telekomunikasi Indonesia
 180.242.149.79   # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1236,7 +1227,6 @@
 182.8.161.36     # ID  AS23693   PT. Telekomunikasi Selular
 182.8.161.56     # ID  AS23693   PT. Telekomunikasi Selular
 182.8.179.39     # ID  AS23693   PT. Telekomunikasi Selular
-182.8.179.53     # ID  AS23693   PT. Telekomunikasi Selular
 182.8.179.68     # ID  AS23693   PT. Telekomunikasi Selular
 182.8.182.237    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.182.49     # ID  AS23693   PT. Telekomunikasi Selular
@@ -1316,7 +1306,6 @@
 202.46.68.154    # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.46.68.155    # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.46.68.16     # ID  AS9341    PT INDONESIA COMNETS PLUS
-202.46.68.168    # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.46.68.169    # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.46.68.172    # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.46.68.179    # ID  AS9341    PT INDONESIA COMNETS PLUS
@@ -1342,7 +1331,6 @@
 202.51.208.194   # ID  AS55685   PT Jala Lintas Media
 202.51.214.98    # ID  AS10220   PT. Kreasi Sejahtera Teknologi
 202.51.214.99    # ID  AS10220   PT. Kreasi Sejahtera Teknologi
-202.51.216.112   # ID  AS55685   PT Jala Lintas Media
 202.51.216.118   # ID  AS55685   PT Jala Lintas Media
 202.51.97.204    # ID  AS17995   PT iForte Global Internet
 202.52.137.22    # ID  AS46059   Universitas Negeri Malang
@@ -1360,7 +1348,6 @@
 202.75.28.137    # ID  AS138871  PT. Trans Indonesia Superkoridor
 202.75.28.144    # ID  AS138871  PT. Trans Indonesia Superkoridor
 202.75.28.154    # ID  AS138871  PT. Trans Indonesia Superkoridor
-202.75.28.160    # ID  AS138871  PT. Trans Indonesia Superkoridor
 202.75.28.161    # ID  AS138871  PT. Trans Indonesia Superkoridor
 202.75.28.181    # ID  AS138871  PT. Trans Indonesia Superkoridor
 202.75.28.195    # ID  AS138871  PT. Trans Indonesia Superkoridor
@@ -1639,6 +1626,7 @@
 43.157.235.95    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.251.175   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.251.222   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
+43.165.193.252   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.165.196.146   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.173.1.57      # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.173.1.69      # ID  AS132203  Tencent Building, Kejizhongyi Avenue
@@ -1662,7 +1650,6 @@
 58.147.189.196   # ID  AS24534   PT. Transhybrid Communication
 58.147.189.198   # ID  AS24534   PT. Transhybrid Communication
 58.147.189.199   # ID  AS24534   PT. Transhybrid Communication
-58.147.189.220   # ID  AS24534   PT. Transhybrid Communication
 58.147.189.63    # ID  AS24534   PT. Transhybrid Communication
 58.147.189.65    # ID  AS24534   PT. Transhybrid Communication
 58.147.190.122   # ID  AS24534   PT. Transhybrid Communication
