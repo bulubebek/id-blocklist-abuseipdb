@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1717
-# Last updated:           2025-09-24 12:45:39
+# Number of ips:          1718
+# Last updated:           2025-09-24 18:29:23
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -802,6 +802,7 @@
 103.77.206.75    # ID  AS64297   PT Medialink Global Mandiri
 103.77.207.75    # ID  AS64297   PT Medialink Global Mandiri
 103.78.195.182   # ID  AS64303   Universitas Islam Bandung
+103.78.9.84      # ID  AS131111  PT Mora Telematika Indonesia
 103.79.239.113   # ID  AS136841  PT MITRA TELEMEDIA MANUNGGAL
 103.8.186.170    # ID  AS4800    PT Aplikanusa Lintasarta
 103.8.195.18     # ID  AS4800    PT Aplikanusa Lintasarta
