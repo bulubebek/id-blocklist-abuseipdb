@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1247
-# Last updated:           2025-09-25 12:47:04
+# Number of ips:          1249
+# Last updated:           2025-09-25 18:32:09
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -30,6 +30,8 @@
 103.111.100.34   # ID  AS136093  PT Mitra Lintas Multimedia
 103.111.136.254  # ID  AS136093  PT Mitra Lintas Multimedia
 103.111.211.47   # ID  AS4787    PT Cyberindo Aditama
+103.112.245.92   # ID  AS136107  PT. Tujuh Ion Indonesia
+103.112.245.93   # ID  AS136107  PT. Tujuh Ion Indonesia
 103.113.135.82   # ID  AS4787    PT Cyberindo Aditama
 103.113.3.14     # ID  AS137342  DISKOMINFO TANGERANG SELATAN
 103.113.50.214   # ID  AS4787    PT Cyberindo Aditama
