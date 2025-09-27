@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1670
-# Last updated:           2025-09-27 06:28:24
+# Number of ips:          1673
+# Last updated:           2025-09-27 12:39:29
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -436,6 +436,7 @@
 103.186.30.230   # ID  AS141892  CV Andhika Pratama Sanggoro
 103.186.31.45    # ID  AS141892  CV Andhika Pratama Sanggoro
 103.187.162.224  # ID  AS149744  PT Misqot Sejahtera Indonesia
+103.187.162.225  # ID  AS149744  PT Misqot Sejahtera Indonesia
 103.187.165.26   # ID  AS149897  PT Amanusa Telemedia Mahardika
 103.187.91.2     # ID  AS149722  Dinas Komunikasi dan Informatika Kabupaten Kepulauan Metawai
 103.188.173.22   # ID  AS149736  PT Satria Digital Media
@@ -788,6 +789,7 @@
 103.77.207.75    # ID  AS64297   PT Medialink Global Mandiri
 103.78.195.182   # ID  AS64303   Universitas Islam Bandung
 103.78.9.84      # ID  AS131111  PT Mora Telematika Indonesia
+103.79.155.141   # ID  AS131111  PT Mora Telematika Indonesia
 103.79.239.113   # ID  AS136841  PT MITRA TELEMEDIA MANUNGGAL
 103.8.186.170    # ID  AS4800    PT Aplikanusa Lintasarta
 103.8.195.18     # ID  AS4800    PT Aplikanusa Lintasarta
@@ -1151,6 +1153,7 @@
 180.241.44.214   # ID  AS7713    PT Telekomunikasi Indonesia
 180.242.106.130  # ID  AS7713    PT Telekomunikasi Indonesia
 180.242.149.79   # ID  AS7713    PT Telekomunikasi Indonesia
+180.242.224.99   # ID  AS7713    PT Telekomunikasi Indonesia
 180.243.57.165   # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.134.49   # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.135.176  # ID  AS7713    PT Telekomunikasi Indonesia
