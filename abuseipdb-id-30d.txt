@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1670
-# Last updated:           2025-09-28 12:39:54
+# Number of ips:          1672
+# Last updated:           2025-09-28 18:27:28
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -439,6 +439,7 @@
 103.186.31.45    # ID  AS141892  CV Andhika Pratama Sanggoro
 103.187.162.224  # ID  AS149744  PT Misqot Sejahtera Indonesia
 103.187.162.225  # ID  AS149744  PT Misqot Sejahtera Indonesia
+103.187.162.235  # ID  AS149744  PT Misqot Sejahtera Indonesia
 103.187.165.26   # ID  AS149897  PT Amanusa Telemedia Mahardika
 103.187.91.2     # ID  AS149722  Dinas Komunikasi dan Informatika Kabupaten Kepulauan Metawai
 103.188.173.22   # ID  AS149736  PT Satria Digital Media
@@ -1646,6 +1647,7 @@
 66.96.239.187    # ID  AS63859   PT. Eka Mas Republik
 66.96.246.146    # ID  AS133798  PT. Smartfren Telecom, Tbk
 69.5.13.214      # ID  AS150436  Byteplus Pte. Ltd.
+69.5.14.144      # ID  AS150436  Byteplus Pte. Ltd.
 69.5.14.33       # ID  AS150436  Byteplus Pte. Ltd.
 69.5.15.194      # ID  AS150436  Byteplus Pte. Ltd.
 69.5.15.9        # ID  AS150436  Byteplus Pte. Ltd.
