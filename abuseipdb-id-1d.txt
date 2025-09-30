@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          861
-# Last updated:           2025-09-30 01:40:14
+# Number of ips:          866
+# Last updated:           2025-09-30 06:33:51
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -53,6 +53,7 @@
 103.132.52.4     # ID  AS138123  PT. ADEAKSA INDO JAYATAMA
 103.133.36.6     # ID  AS138133  Universitas Muslim Indonesia
 103.133.61.219   # ID  AS138134  PT Tunas Link Indonesia
+103.137.125.249  # ID  AS138832  Dinas Komunikasi dan Informatika Kota Tebing Tinggi
 103.137.65.2     # ID  AS58495   PT Parsaoran Global Datatrans
 103.137.9.254    # ID  AS138824  PT. Gemilang Jaya Elektrindo
 103.138.68.74    # ID  AS138842  PT Internetwork Komunikasi Indonesia
@@ -253,6 +254,7 @@
 103.183.74.214   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.74.22    # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.74.85    # ID  AS136052  PT Cloud Hosting Indonesia
+103.183.75.135   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.75.228   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.75.239   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.75.47    # ID  AS136052  PT Cloud Hosting Indonesia
@@ -531,6 +533,8 @@
 116.193.191.90   # ID  AS136052  PT Cloud Hosting Indonesia
 116.68.162.118   # ID  AS56246   PT Sumber Data Indonesia
 117.102.100.58   # ID  AS17451   BIZNET NETWORKS
+117.102.74.130   # ID  AS17451   BIZNET NETWORKS
+117.102.75.60    # ID  AS17451   BIZNET NETWORKS
 117.103.169.169  # ID  AS38506   PT Pika Media Komunika
 117.20.52.40     # ID  AS23951   PT JEMBATAN CITRA NUSANTARA
 117.20.58.58     # ID  AS23951   PT JEMBATAN CITRA NUSANTARA
@@ -712,6 +716,7 @@
 203.145.34.132   # ID  AS136052  PT Cloud Hosting Indonesia
 203.145.34.222   # ID  AS136052  PT Cloud Hosting Indonesia
 203.145.34.31    # ID  AS136052  PT Cloud Hosting Indonesia
+203.171.217.66   # ID  AS9341    PT INDONESIA COMNETS PLUS
 203.190.43.49    # ID  AS45317   Jaringan Lintas Utara, PT
 203.190.53.154   # ID  AS24530   PT. Power Telecom Indonesia
 203.210.85.208   # ID  AS55699   PT. Cemerlang Multimedia
