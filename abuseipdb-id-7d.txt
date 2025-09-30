@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1040
-# Last updated:           2025-09-30 06:33:50
+# Number of ips:          1043
+# Last updated:           2025-09-30 12:48:45
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -84,6 +84,7 @@
 103.139.193.65   # ID  AS136052  PT Cloud Hosting Indonesia
 103.144.178.211  # ID  AS9341    PT INDONESIA COMNETS PLUS
 103.145.240.110  # ID  AS132641  PT Netciti Persada
+103.145.244.26   # ID  AS132641  PT Netciti Persada
 103.146.184.128  # ID  AS139967  PT. Yasmin Amanah Media
 103.146.184.29   # ID  AS139967  PT. Yasmin Amanah Media
 103.146.202.22   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -144,6 +145,7 @@
 103.160.41.138   # ID  AS141596  PT Wistel Teknologi Solusi
 103.161.114.67   # ID  AS141612  PT Mukti Dua Bersama
 103.161.184.210  # ID  AS141623  PT Registrasi Neva Angkasa
+103.162.146.66   # ID  AS17995   PT iForte Global Internet
 103.162.205.60   # ID  AS141664  PT Jaringan Inti Exadata
 103.162.232.27   # ID  AS141667  PT Amboro Integrasi Teknologi Inovasi
 103.162.61.220   # ID  AS141648  PT Indo Prima Akses
@@ -153,6 +155,7 @@
 103.163.161.30   # ID  AS141892  CV Andhika Pratama Sanggoro
 103.163.231.115  # ID  AS141907  PT Metrosolusi Teknologi Indonesia
 103.163.36.243   # ID  AS138886  PT Data Buana Nusantara
+103.164.137.206  # ID  AS17995   PT iForte Global Internet
 103.164.194.237  # ID  AS17995   PT iForte Global Internet
 103.164.213.22   # ID  AS17995   PT iForte Global Internet
 103.164.213.42   # ID  AS17995   PT iForte Global Internet
