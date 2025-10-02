@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1616
-# Last updated:           2025-10-02 06:32:07
+# Number of ips:          1619
+# Last updated:           2025-10-02 12:42:59
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -1151,8 +1151,10 @@
 180.252.195.111  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.198.46   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.238.99   # ID  AS7713    PT Telekomunikasi Indonesia
+180.252.81.160   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.90.168   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.92.27    # ID  AS7713    PT Telekomunikasi Indonesia
+180.252.94.109   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.94.154   # ID  AS7713    PT Telekomunikasi Indonesia
 180.253.176.81   # ID  AS7713    PT Telekomunikasi Indonesia
 180.253.43.65    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1228,6 +1230,7 @@
 202.152.16.42    # ID  AS4800    PT Aplikanusa Lintasarta
 202.152.16.70    # ID  AS4800    PT Aplikanusa Lintasarta
 202.152.201.166  # ID  AS63859   PT. Eka Mas Republik
+202.152.204.159  # ID  AS63859   PT. Eka Mas Republik
 202.152.49.82    # ID  AS4800    PT Aplikanusa Lintasarta
 202.155.132.161  # ID  AS138115  PT Deneva
 202.155.143.229  # ID  AS151592  PT Awan Data Teknologi
