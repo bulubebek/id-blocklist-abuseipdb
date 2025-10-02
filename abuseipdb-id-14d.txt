@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1262
-# Last updated:           2025-10-02 12:42:59
+# Number of ips:          1264
+# Last updated:           2025-10-02 18:31:06
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -22,6 +22,7 @@
 103.102.152.181  # ID  AS58404   PT Qwords Company International
 103.103.145.130  # ID  AS136861  PT. ARTAMEDIA CITRA TELEMATIKA INDONESIA
 103.103.20.162   # ID  AS133800  PT Biznet Gio Nusantara
+103.103.20.246   # ID  AS133800  PT Biznet Gio Nusantara
 103.103.30.205   # ID  AS136858  PT XL Planet
 103.105.64.146   # ID  AS17995   PT iForte Global Internet
 103.105.67.170   # ID  AS17995   PT iForte Global Internet
@@ -903,6 +904,7 @@
 180.246.229.171  # ID  AS7713    PT Telekomunikasi Indonesia
 180.248.18.130   # ID  AS7713    PT Telekomunikasi Indonesia
 180.248.18.191   # ID  AS7713    PT Telekomunikasi Indonesia
+180.248.19.160   # ID  AS7713    PT Telekomunikasi Indonesia
 180.248.27.78    # ID  AS7713    PT Telekomunikasi Indonesia
 180.250.196.141  # ID  AS7713    PT Telekomunikasi Indonesia
 180.250.33.134   # ID  AS7713    PT Telekomunikasi Indonesia
