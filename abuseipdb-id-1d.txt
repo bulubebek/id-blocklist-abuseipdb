@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          887
-# Last updated:           2025-10-06 01:43:50
+# Number of ips:          890
+# Last updated:           2025-10-06 06:33:54
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -163,6 +163,7 @@
 103.171.85.50    # ID  AS136052  PT Cloud Hosting Indonesia
 103.171.85.56    # ID  AS136052  PT Cloud Hosting Indonesia
 103.172.0.130    # ID  AS141126  PT Cubiespot Pilar Data Nusantara
+103.172.1.190    # ID  AS141126  PT Cubiespot Pilar Data Nusantara
 103.172.1.35     # ID  AS141126  PT Cubiespot Pilar Data Nusantara
 103.172.1.78     # ID  AS141126  PT Cubiespot Pilar Data Nusantara
 103.172.118.65   # ID  AS142395  PT Global Internet Indonesia
@@ -481,6 +482,7 @@
 103.76.120.90    # ID  AS136052  PT Cloud Hosting Indonesia
 103.76.120.94    # ID  AS136052  PT Cloud Hosting Indonesia
 103.76.14.32     # ID  AS131111  PT Mora Telematika Indonesia
+103.76.201.177   # ID  AS135480  PT. Arjuna Global Teknologi Indonesia
 103.77.106.204   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.106.242   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.107.216   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
@@ -630,6 +632,7 @@
 157.66.56.185    # ID  AS58477   Argon Data Communication
 157.66.56.207    # ID  AS58477   Argon Data Communication
 158.140.161.92   # ID  AS63859   PT. Eka Mas Republik
+160.187.174.103  # ID  AS153135  PT Netindo Persada Nusantara
 160.187.174.202  # ID  AS153135  PT Netindo Persada Nusantara
 160.19.18.69     # ID  AS149360  PT Indo Telemedia Solusi
 160.19.19.159    # ID  AS149360  PT Indo Telemedia Solusi
