@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1533
-# Last updated:           2025-10-10 12:45:16
+# Number of ips:          1536
+# Last updated:           2025-10-10 18:31:23
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -107,6 +107,7 @@
 103.144.178.211  # ID  AS9341    PT INDONESIA COMNETS PLUS
 103.145.240.110  # ID  AS132641  PT Netciti Persada
 103.145.244.26   # ID  AS132641  PT Netciti Persada
+103.145.53.222   # ID  AS139455  PT Mikro Mulia Agung Sentosa
 103.146.184.128  # ID  AS139967  PT. Yasmin Amanah Media
 103.146.184.29   # ID  AS139967  PT. Yasmin Amanah Media
 103.146.202.22   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -968,6 +969,7 @@
 157.66.54.166    # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.54.194    # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.54.26     # ID  AS141892  CV Andhika Pratama Sanggoro
+157.66.54.6      # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.54.66     # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.54.86     # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.55.114    # ID  AS141892  CV Andhika Pratama Sanggoro
@@ -1496,6 +1498,7 @@
 69.5.12.239      # ID  AS150436  Byteplus Pte. Ltd.
 69.5.13.214      # ID  AS150436  Byteplus Pte. Ltd.
 69.5.14.144      # ID  AS150436  Byteplus Pte. Ltd.
+69.5.14.241      # ID  AS150436  Byteplus Pte. Ltd.
 69.5.14.62       # ID  AS150436  Byteplus Pte. Ltd.
 69.5.15.194      # ID  AS150436  Byteplus Pte. Ltd.
 69.5.15.3        # ID  AS150436  Byteplus Pte. Ltd.
