@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1114
-# Last updated:           2025-10-12 06:29:37
+# Number of ips:          1117
+# Last updated:           2025-10-12 12:40:17
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -150,6 +150,7 @@
 103.163.231.115  # ID  AS141907  PT Metrosolusi Teknologi Indonesia
 103.163.36.243   # ID  AS138886  PT Data Buana Nusantara
 103.164.137.206  # ID  AS17995   PT iForte Global Internet
+103.164.173.155  # ID  AS138131  CV. NATANETWORK SOLUTION
 103.164.194.237  # ID  AS17995   PT iForte Global Internet
 103.164.213.22   # ID  AS17995   PT iForte Global Internet
 103.164.213.42   # ID  AS17995   PT iForte Global Internet
@@ -759,6 +760,7 @@
 157.66.56.183    # ID  AS58477   Argon Data Communication
 157.66.56.185    # ID  AS58477   Argon Data Communication
 157.66.56.207    # ID  AS58477   Argon Data Communication
+157.66.56.84     # ID  AS58477   Argon Data Communication
 158.140.161.92   # ID  AS63859   PT. Eka Mas Republik
 160.187.174.103  # ID  AS153135  PT Netindo Persada Nusantara
 160.187.174.202  # ID  AS153135  PT Netindo Persada Nusantara
@@ -786,6 +788,7 @@
 165.154.48.24    # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 165.154.49.137   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 168.110.214.163  # ID  AS31898   Oracle Corporation
+168.110.218.166  # ID  AS31898   Oracle Corporation
 172.232.232.10   # ID  AS63949   Akamai Connected Cloud
 175.111.117.146  # ID  AS46026   BATAM BINTAN TELEKOMUNIKASI, PT
 180.178.104.134  # ID  AS38758   PT. HIPERNET INDODATA
