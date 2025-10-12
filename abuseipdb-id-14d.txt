@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1238
-# Last updated:           2025-10-12 12:40:16
+# Number of ips:          1242
+# Last updated:           2025-10-12 18:27:48
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -623,6 +623,7 @@
 103.76.14.32     # ID  AS131111  PT Mora Telematika Indonesia
 103.76.201.177   # ID  AS135480  PT. Arjuna Global Teknologi Indonesia
 103.77.106.204   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
+103.77.106.233   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.106.242   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.107.216   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.206.75    # ID  AS64297   PT Medialink Global Mandiri
@@ -877,6 +878,7 @@
 180.252.207.230  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.238.99   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.81.160   # ID  AS7713    PT Telekomunikasi Indonesia
+180.252.83.1     # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.85.172   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.87.129   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.88.155   # ID  AS7713    PT Telekomunikasi Indonesia
@@ -885,6 +887,7 @@
 180.252.92.27    # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.94.109   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.94.154   # ID  AS7713    PT Telekomunikasi Indonesia
+180.252.94.39    # ID  AS7713    PT Telekomunikasi Indonesia
 180.253.43.65    # ID  AS7713    PT Telekomunikasi Indonesia
 180.94.23.36     # ID  AS152041  PT. KARYA HASTA JAYA
 182.16.172.52    # ID  AS17995   PT iForte Global Internet
@@ -925,6 +928,7 @@
 182.8.161.56     # ID  AS23693   PT. Telekomunikasi Selular
 182.8.179.152    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.179.68     # ID  AS23693   PT. Telekomunikasi Selular
+182.8.193.237    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.193.30     # ID  AS23693   PT. Telekomunikasi Selular
 182.8.225.170    # ID  AS23693   PT. Telekomunikasi Selular
 182.9.1.229      # ID  AS23693   PT. Telekomunikasi Selular
