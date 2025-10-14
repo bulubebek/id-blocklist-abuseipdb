@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1523
-# Last updated:           2025-10-14 01:42:53
+# Number of ips:          1526
+# Last updated:           2025-10-14 06:33:02
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -324,6 +324,7 @@
 103.179.182.177  # ID  AS142394  PT Cahaya Solusindo Internusa
 103.179.217.33   # ID  AS139449  PT Lintas Data Multimedia
 103.179.218.243  # ID  AS141596  PT Wistel Teknologi Solusi
+103.179.27.93    # ID  AS149333  PT Primadona Media Digitalindo
 103.179.27.94    # ID  AS149333  PT Primadona Media Digitalindo
 103.179.56.170   # ID  AS136052  PT Cloud Hosting Indonesia
 103.179.56.195   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -920,6 +921,7 @@
 157.10.253.172   # ID  AS136052  PT Cloud Hosting Indonesia
 157.10.253.188   # ID  AS136052  PT Cloud Hosting Indonesia
 157.10.253.49    # ID  AS136052  PT Cloud Hosting Indonesia
+157.15.40.90     # ID  AS139952  PT Trisari Data Indonusa
 157.15.66.133    # ID  AS152377  PT Trimitra Aditama Koneksindo
 157.15.66.134    # ID  AS152377  PT Trimitra Aditama Koneksindo
 157.15.67.131    # ID  AS152377  PT Trimitra Aditama Koneksindo
@@ -982,6 +984,7 @@
 158.140.161.92   # ID  AS63859   PT. Eka Mas Republik
 158.140.182.67   # ID  AS63859   PT. Eka Mas Republik
 158.140.182.81   # ID  AS63859   PT. Eka Mas Republik
+16.79.95.81      # ID  AS16509   Amazon.com, Inc.
 160.187.174.103  # ID  AS153135  PT Netindo Persada Nusantara
 160.187.174.202  # ID  AS153135  PT Netindo Persada Nusantara
 160.187.174.22   # ID  AS153135  PT Netindo Persada Nusantara
