@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1543
-# Last updated:           2025-10-15 06:33:35
+# Number of ips:          1549
+# Last updated:           2025-10-15 12:49:18
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -593,6 +593,7 @@
 103.49.238.162   # ID  AS136052  PT Cloud Hosting Indonesia
 103.49.238.212   # ID  AS136052  PT Cloud Hosting Indonesia
 103.49.238.251   # ID  AS136052  PT Cloud Hosting Indonesia
+103.49.238.51    # ID  AS136052  PT Cloud Hosting Indonesia
 103.49.238.99    # ID  AS136052  PT Cloud Hosting Indonesia
 103.49.239.124   # ID  AS136052  PT Cloud Hosting Indonesia
 103.49.239.163   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -1066,6 +1067,7 @@
 180.252.238.99   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.81.160   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.82.181   # ID  AS7713    PT Telekomunikasi Indonesia
+180.252.82.56    # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.82.89    # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.83.1     # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.83.114   # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1193,6 +1195,7 @@
 202.169.46.83    # ID  AS17451   BIZNET NETWORKS
 202.179.189.194  # ID  AS38750   Telemedia Dinamika Sarana, PT
 202.180.19.94    # ID  AS38758   PT. HIPERNET INDODATA
+202.180.24.193   # ID  AS38758   PT. HIPERNET INDODATA
 202.182.50.52    # ID  AS38511   PT Remala Abadi
 202.182.54.2     # ID  AS38511   PT Remala Abadi
 202.182.55.114   # ID  AS38511   PT Remala Abadi
@@ -1289,6 +1292,7 @@
 210.79.191.155   # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.191.194   # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.191.20    # ID  AS136052  PT Cloud Hosting Indonesia
+212.85.24.113    # ID  AS47583   Hostinger International Limited
 220.247.174.202  # ID  AS9341    PT INDONESIA COMNETS PLUS
 222.124.14.234   # ID  AS7713    PT Telekomunikasi Indonesia
 222.124.17.227   # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1520,6 +1524,7 @@
 69.5.7.252       # ID  AS150436  Byteplus Pte. Ltd.
 69.5.7.27        # ID  AS150436  Byteplus Pte. Ltd.
 69.5.7.38        # ID  AS150436  Byteplus Pte. Ltd.
+69.5.7.6         # ID  AS150436  Byteplus Pte. Ltd.
 69.5.7.61        # ID  AS150436  Byteplus Pte. Ltd.
 69.5.7.64        # ID  AS150436  Byteplus Pte. Ltd.
 69.5.7.66        # ID  AS150436  Byteplus Pte. Ltd.
@@ -1549,6 +1554,7 @@
 89.21.85.27      # ID  AS141892  CV Andhika Pratama Sanggoro
 89.213.211.210   # ID  AS214882  Hadi Santosa
 89.213.45.30     # ID  AS152368  PT Perwira Pedjoeang Nusantara
+93.185.162.133   # ID  AS209854  Cyberzone S.A.
 93.185.162.26    # ID  AS209854  Cyberzone S.A.
 98.142.245.163   # ID  AS141968  PT Industri Kreatif Digital
 98.142.245.28    # ID  AS141968  PT Industri Kreatif Digital
