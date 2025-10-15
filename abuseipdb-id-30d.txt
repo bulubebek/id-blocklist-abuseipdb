@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1535
-# Last updated:           2025-10-15 01:45:57
+# Number of ips:          1543
+# Last updated:           2025-10-15 06:33:35
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -777,10 +777,12 @@
 108.137.78.102   # ID  AS16509   Amazon.com, Inc.
 109.176.17.84    # ID  AS141968  PT Industri Kreatif Digital
 110.136.190.41   # ID  AS7713    PT Telekomunikasi Indonesia
+110.136.252.242  # ID  AS7713    PT Telekomunikasi Indonesia
 110.136.90.26    # ID  AS7713    PT Telekomunikasi Indonesia
 110.138.119.78   # ID  AS7713    PT Telekomunikasi Indonesia
 110.138.190.141  # ID  AS7713    PT Telekomunikasi Indonesia
 110.138.80.124   # ID  AS7713    PT Telekomunikasi Indonesia
+110.138.91.79    # ID  AS7713    PT Telekomunikasi Indonesia
 111.68.116.116   # ID  AS45287   Varnion Technology Semesta, PT
 111.95.139.53    # ID  AS23700   Linknet-Fastnet ASN
 112.109.20.192   # ID  AS24521   PT. DATA Utama Dinamika
@@ -835,6 +837,7 @@
 118.99.80.2      # ID  AS17451   BIZNET NETWORKS
 118.99.80.223    # ID  AS17451   BIZNET NETWORKS
 118.99.80.39     # ID  AS17451   BIZNET NETWORKS
+118.99.80.44     # ID  AS17451   BIZNET NETWORKS
 118.99.80.45     # ID  AS17451   BIZNET NETWORKS
 118.99.80.47     # ID  AS17451   BIZNET NETWORKS
 118.99.80.5      # ID  AS17451   BIZNET NETWORKS
@@ -847,6 +850,7 @@
 121.101.132.160  # ID  AS131706  PT SELARAS CITRA TERABIT
 121.101.133.67   # ID  AS131706  PT SELARAS CITRA TERABIT
 123.231.137.43   # ID  AS4800    PT Aplikanusa Lintasarta
+123.231.151.82   # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.153.146  # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.157.170  # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.157.194  # ID  AS4800    PT Aplikanusa Lintasarta
@@ -922,6 +926,7 @@
 157.10.253.172   # ID  AS136052  PT Cloud Hosting Indonesia
 157.10.253.188   # ID  AS136052  PT Cloud Hosting Indonesia
 157.10.253.49    # ID  AS136052  PT Cloud Hosting Indonesia
+157.119.59.156   # ID  AS9341    PT INDONESIA COMNETS PLUS
 157.15.40.90     # ID  AS139952  PT Trisari Data Indonusa
 157.15.66.133    # ID  AS152377  PT Trimitra Aditama Koneksindo
 157.15.66.134    # ID  AS152377  PT Trimitra Aditama Koneksindo
@@ -936,6 +941,7 @@
 157.20.32.130    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.131    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.132    # ID  AS152390  PT Intercloud Digital Inovasi
+157.20.32.133    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.142    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.163    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.164    # ID  AS152390  PT Intercloud Digital Inovasi
@@ -1089,6 +1095,7 @@
 182.23.54.125    # ID  AS4800    PT Aplikanusa Lintasarta
 182.23.83.98     # ID  AS4800    PT Aplikanusa Lintasarta
 182.23.90.107    # ID  AS4800    PT Aplikanusa Lintasarta
+182.23.93.18     # ID  AS4800    PT Aplikanusa Lintasarta
 182.253.156.173  # ID  AS17451   BIZNET NETWORKS
 182.253.156.184  # ID  AS17451   BIZNET NETWORKS
 182.253.157.27   # ID  AS17451   BIZNET NETWORKS
@@ -1376,6 +1383,7 @@
 36.77.72.1       # ID  AS7713    PT Telekomunikasi Indonesia
 36.82.253.91     # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.0.66       # ID  AS7713    PT Telekomunikasi Indonesia
+36.83.126.132    # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.127.111    # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.99.173     # ID  AS7713    PT Telekomunikasi Indonesia
 36.84.23.7       # ID  AS7713    PT Telekomunikasi Indonesia
