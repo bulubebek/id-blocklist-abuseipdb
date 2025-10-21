@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1263
-# Last updated:           2025-10-21 01:46:50
+# Number of ips:          1267
+# Last updated:           2025-10-21 06:33:33
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -79,6 +79,7 @@
 103.139.192.247  # ID  AS136052  PT Cloud Hosting Indonesia
 103.139.192.90   # ID  AS136052  PT Cloud Hosting Indonesia
 103.139.193.176  # ID  AS136052  PT Cloud Hosting Indonesia
+103.139.193.182  # ID  AS136052  PT Cloud Hosting Indonesia
 103.139.193.187  # ID  AS136052  PT Cloud Hosting Indonesia
 103.139.193.223  # ID  AS136052  PT Cloud Hosting Indonesia
 103.139.193.37   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -155,6 +156,7 @@
 103.162.232.27   # ID  AS141667  PT Amboro Integrasi Teknologi Inovasi
 103.162.61.220   # ID  AS141648  PT Indo Prima Akses
 103.162.62.7     # ID  AS141642  PT Ring Media Nusantara
+103.163.139.117  # ID  AS55688   PT. Beon Intermedia
 103.163.161.30   # ID  AS141892  CV Andhika Pratama Sanggoro
 103.163.231.115  # ID  AS141907  PT Metrosolusi Teknologi Indonesia
 103.163.36.243   # ID  AS138886  PT Data Buana Nusantara
@@ -281,6 +283,7 @@
 103.179.27.94    # ID  AS149333  PT Primadona Media Digitalindo
 103.179.56.170   # ID  AS136052  PT Cloud Hosting Indonesia
 103.179.56.195   # ID  AS136052  PT Cloud Hosting Indonesia
+103.179.56.226   # ID  AS136052  PT Cloud Hosting Indonesia
 103.179.56.29    # ID  AS136052  PT Cloud Hosting Indonesia
 103.179.56.44    # ID  AS136052  PT Cloud Hosting Indonesia
 103.179.56.51    # ID  AS136052  PT Cloud Hosting Indonesia
@@ -1233,6 +1236,7 @@
 69.5.15.194      # ID  AS150436  Byteplus Pte. Ltd.
 69.5.15.48       # ID  AS150436  Byteplus Pte. Ltd.
 69.5.16.169      # ID  AS150436  Byteplus Pte. Ltd.
+69.5.17.214      # ID  AS150436  Byteplus Pte. Ltd.
 69.5.18.173      # ID  AS150436  Byteplus Pte. Ltd.
 69.5.19.167      # ID  AS150436  Byteplus Pte. Ltd.
 69.5.7.11        # ID  AS150436  Byteplus Pte. Ltd.
