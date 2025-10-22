@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1157
-# Last updated:           2025-10-22 01:49:55
+# Number of ips:          1161
+# Last updated:           2025-10-22 06:34:32
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -366,6 +366,7 @@
 103.193.15.48    # ID  AS134612  PT Atria Teknologi Indonesia
 103.193.176.131  # ID  AS136052  PT Cloud Hosting Indonesia
 103.193.176.147  # ID  AS136052  PT Cloud Hosting Indonesia
+103.193.178.109  # ID  AS136052  PT Cloud Hosting Indonesia
 103.193.178.180  # ID  AS136052  PT Cloud Hosting Indonesia
 103.193.178.227  # ID  AS136052  PT Cloud Hosting Indonesia
 103.193.178.230  # ID  AS136052  PT Cloud Hosting Indonesia
@@ -710,6 +711,7 @@
 147.139.199.208  # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 147.139.241.38   # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 147.93.81.117    # ID  AS47583   Hostinger International Limited
+148.230.97.118   # ID  AS47583   Hostinger International Limited
 149.129.249.160  # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 152.32.153.148   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 152.32.153.228   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
@@ -816,6 +818,7 @@
 180.246.229.171  # ID  AS7713    PT Telekomunikasi Indonesia
 180.248.25.100   # ID  AS7713    PT Telekomunikasi Indonesia
 180.250.196.141  # ID  AS7713    PT Telekomunikasi Indonesia
+180.250.95.154   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.131.128  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.134.148  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.145.243  # ID  AS7713    PT Telekomunikasi Indonesia
@@ -847,6 +850,7 @@
 182.253.156.184  # ID  AS17451   BIZNET NETWORKS
 182.253.176.172  # ID  AS17451   BIZNET NETWORKS
 182.253.183.12   # ID  AS17451   BIZNET NETWORKS
+182.253.183.208  # ID  AS17451   BIZNET NETWORKS
 182.253.191.58   # ID  AS17451   BIZNET NETWORKS
 182.253.205.236  # ID  AS17451   BIZNET NETWORKS
 182.253.209.189  # ID  AS17451   BIZNET NETWORKS
