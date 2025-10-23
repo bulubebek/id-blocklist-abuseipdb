@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1284
-# Last updated:           2025-10-23 01:45:38
+# Number of ips:          1287
+# Last updated:           2025-10-23 06:33:47
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -50,6 +50,7 @@
 103.122.66.122   # ID  AS138064  PT. Jinom Network Indonesia
 103.122.66.214   # ID  AS138064  PT. Jinom Network Indonesia
 103.123.175.74   # ID  AS150968  PT Jaringanku Media Telekomunikasi
+103.123.19.21    # ID  AS138069  PT CITRAWEB DIGITAL MULTISOLUSI
 103.123.85.254   # ID  AS150499  PT Desane Sinar Media
 103.124.113.21   # ID  AS131111  PT Mora Telematika Indonesia
 103.126.118.234  # ID  AS138116  PT. Media Tekno Nusantara
@@ -145,6 +146,7 @@
 103.159.199.42   # ID  AS131111  PT Mora Telematika Indonesia
 103.16.116.47    # ID  AS55688   PT. Beon Intermedia
 103.16.117.107   # ID  AS55688   PT. Beon Intermedia
+103.16.198.9     # ID  AS131775  PT. Jupiter Jala Arta
 103.160.201.156  # ID  AS141600  PT Viriya Surya Abadi
 103.160.37.151   # ID  AS141584  PT Jetorbit Teknologi Indonesia
 103.160.37.157   # ID  AS141584  PT Jetorbit Teknologi Indonesia
@@ -543,6 +545,7 @@
 103.55.36.22     # ID  AS136052  PT Cloud Hosting Indonesia
 103.56.207.30    # ID  AS58477   Argon Data Communication
 103.58.100.104   # ID  AS133800  PT Biznet Gio Nusantara
+103.59.160.105   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.106   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.204   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.209   # ID  AS150493  PT Gunung Sedayu Sentosa
