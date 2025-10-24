@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1197
-# Last updated:           2025-10-24 12:49:19
+# Number of ips:          1199
+# Last updated:           2025-10-24 18:30:14
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -912,6 +912,7 @@
 202.137.7.252    # ID  AS9905    Linknet ASN
 202.137.7.58     # ID  AS9905    Linknet ASN
 202.152.148.2    # ID  AS23951   PT JEMBATAN CITRA NUSANTARA
+202.152.148.4    # ID  AS23951   PT JEMBATAN CITRA NUSANTARA
 202.152.148.5    # ID  AS23951   PT JEMBATAN CITRA NUSANTARA
 202.152.148.6    # ID  AS23951   PT JEMBATAN CITRA NUSANTARA
 202.152.16.42    # ID  AS4800    PT Aplikanusa Lintasarta
@@ -1083,6 +1084,7 @@
 36.69.153.68     # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.226.207    # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.57.211     # ID  AS7713    PT Telekomunikasi Indonesia
+36.70.104.184    # ID  AS7713    PT Telekomunikasi Indonesia
 36.77.31.174     # ID  AS7713    PT Telekomunikasi Indonesia
 36.77.71.211     # ID  AS7713    PT Telekomunikasi Indonesia
 36.82.253.91     # ID  AS7713    PT Telekomunikasi Indonesia
