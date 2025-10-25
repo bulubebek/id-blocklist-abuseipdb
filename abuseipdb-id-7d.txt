@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1207
-# Last updated:           2025-10-25 12:40:51
+# Number of ips:          1210
+# Last updated:           2025-10-25 18:29:14
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -492,6 +492,7 @@
 103.31.39.240    # ID  AS136052  PT Cloud Hosting Indonesia
 103.31.39.66     # ID  AS136052  PT Cloud Hosting Indonesia
 103.31.39.72     # ID  AS136052  PT Cloud Hosting Indonesia
+103.36.32.186    # ID  AS131111  PT Mora Telematika Indonesia
 103.39.70.4      # ID  AS150274  PT Gateway media Zafira
 103.40.121.177   # ID  AS63508   PT DINAMIKA MEDIAKOM
 103.40.121.4     # ID  AS63508   PT DINAMIKA MEDIAKOM
@@ -826,6 +827,7 @@
 161.248.117.50   # ID  AS138096  PT INFORMASI NUSANTARA TEKNOLOGI
 163.223.227.3    # ID  AS199695  PT Anym Network Indonesia
 163.227.52.50    # ID  AS153804  PT Jagoan Data Nusantara
+163.61.112.5     # ID  AS153600  PT VESAKHA SECEPAT KILAT
 163.61.134.104   # ID  AS153615  PT Lentera Abadi Solusinet
 165.154.150.141  # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 165.154.150.65   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
@@ -1136,6 +1138,7 @@
 36.93.44.114     # ID  AS7713    PT Telekomunikasi Indonesia
 36.94.163.34     # ID  AS7713    PT Telekomunikasi Indonesia
 36.94.166.203    # ID  AS7713    PT Telekomunikasi Indonesia
+36.94.216.223    # ID  AS7713    PT Telekomunikasi Indonesia
 36.95.130.211    # ID  AS7713    PT Telekomunikasi Indonesia
 36.95.14.145     # ID  AS7713    PT Telekomunikasi Indonesia
 36.95.194.51     # ID  AS7713    PT Telekomunikasi Indonesia
