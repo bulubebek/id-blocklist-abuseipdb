@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1594
-# Last updated:           2025-10-29 12:50:15
+# Number of ips:          1595
+# Last updated:           2025-10-29 18:33:37
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -1240,6 +1240,7 @@
 202.51.216.114   # ID  AS55685   PT Jala Lintas Media
 202.51.216.115   # ID  AS55685   PT Jala Lintas Media
 202.51.216.118   # ID  AS55685   PT Jala Lintas Media
+202.51.216.119   # ID  AS55685   PT Jala Lintas Media
 202.51.97.204    # ID  AS17995   PT iForte Global Internet
 202.57.27.185    # ID  AS140469  PT Wahyu Adidaya Network
 202.57.30.210    # ID  AS9341    PT INDONESIA COMNETS PLUS
