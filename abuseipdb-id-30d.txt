@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1586
-# Last updated:           2025-10-31 12:47:38
+# Number of ips:          1593
+# Last updated:           2025-10-31 18:32:47
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -860,6 +860,7 @@
 123.231.211.66   # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.214.210  # ID  AS4800    PT Aplikanusa Lintasarta
 124.158.161.99   # ID  AS9341    PT INDONESIA COMNETS PLUS
+125.161.255.250  # ID  AS7713    PT Telekomunikasi Indonesia
 125.162.208.77   # ID  AS7713    PT Telekomunikasi Indonesia
 125.162.230.154  # ID  AS7713    PT Telekomunikasi Indonesia
 125.163.150.176  # ID  AS7713    PT Telekomunikasi Indonesia
@@ -924,6 +925,7 @@
 157.10.253.188   # ID  AS136052  PT Cloud Hosting Indonesia
 157.10.253.49    # ID  AS136052  PT Cloud Hosting Indonesia
 157.119.59.156   # ID  AS9341    PT INDONESIA COMNETS PLUS
+157.15.139.83    # ID  AS141642  PT Ring Media Nusantara
 157.15.40.62     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.90     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.92     # ID  AS139952  PT Trisari Data Indonusa
@@ -1024,6 +1026,7 @@
 180.242.130.197  # ID  AS7713    PT Telekomunikasi Indonesia
 180.242.130.24   # ID  AS7713    PT Telekomunikasi Indonesia
 180.243.188.14   # ID  AS7713    PT Telekomunikasi Indonesia
+180.243.188.8    # ID  AS7713    PT Telekomunikasi Indonesia
 180.243.190.205  # ID  AS7713    PT Telekomunikasi Indonesia
 180.243.191.2    # ID  AS7713    PT Telekomunikasi Indonesia
 180.243.253.229  # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1057,6 +1060,7 @@
 180.252.152.9    # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.157.221  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.194.255  # ID  AS7713    PT Telekomunikasi Indonesia
+180.252.195.119  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.207.230  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.238.99   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.81.160   # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1148,6 +1152,7 @@
 183.91.83.132    # ID  AS4800    PT Aplikanusa Lintasarta
 183.91.87.85     # ID  AS4800    PT Aplikanusa Lintasarta
 195.88.211.163   # ID  AS214882  Hadi Santosa
+195.88.211.70    # ID  AS214882  Hadi Santosa
 195.88.211.81    # ID  AS214882  Hadi Santosa
 202.10.36.124    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.40.167    # ID  AS58487   CV. Rumahweb Indonesia
@@ -1370,6 +1375,7 @@
 36.69.145.107    # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.145.169    # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.148.235    # ID  AS7713    PT Telekomunikasi Indonesia
+36.69.149.72     # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.152.131    # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.152.163    # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.153.30     # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1403,6 +1409,7 @@
 36.83.125.21     # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.126.132    # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.99.173     # ID  AS7713    PT Telekomunikasi Indonesia
+36.84.113.61     # ID  AS7713    PT Telekomunikasi Indonesia
 36.84.23.7       # ID  AS7713    PT Telekomunikasi Indonesia
 36.85.64.93      # ID  AS7713    PT Telekomunikasi Indonesia
 36.88.103.197    # ID  AS7713    PT Telekomunikasi Indonesia
