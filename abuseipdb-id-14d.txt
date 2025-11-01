@@ -2,7 +2,7 @@
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
 # Number of ips:          1411
-# Last updated:           2025-11-01 06:30:25
+# Last updated:           2025-11-01 12:41:13
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
