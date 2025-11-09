@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1225
-# Last updated:           2025-11-09 12:41:19
+# Number of ips:          1231
+# Last updated:           2025-11-09 18:28:35
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -391,6 +391,7 @@
 103.217.145.53   # ID  AS136052  PT Cloud Hosting Indonesia
 103.217.216.34   # ID  AS24529   PT. Infotama Lintas Global
 103.217.219.197  # ID  AS24529   PT. Infotama Lintas Global
+103.217.219.32   # ID  AS24529   PT. Infotama Lintas Global
 103.219.251.163  # ID  AS135444  PT Ikubaru Indonesia
 103.225.149.239  # ID  AS45701   Internet Madju Abad Millenindo, PT
 103.226.138.52   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -430,6 +431,7 @@
 103.244.206.6    # ID  AS131759  PT. Web Data Solusindo
 103.245.39.116   # ID  AS55688   PT. Beon Intermedia
 103.247.13.32    # ID  AS131706  PT SELARAS CITRA TERABIT
+103.247.15.179   # ID  AS131706  PT SELARAS CITRA TERABIT
 103.247.20.83    # ID  AS58485   WIFIAN ID
 103.248.25.138   # ID  AS132658  Dinas Komunikasi dan Informatika Provinsi Sumatera Utara
 103.250.130.103  # ID  AS151555  PT Jawara Lintas Data Nusantara
@@ -738,6 +740,7 @@
 157.20.144.198   # ID  AS150279  PT Lintas Network Solusi
 157.20.144.235   # ID  AS150279  PT Lintas Network Solusi
 157.20.207.165   # ID  AS152436  PT Erajaya Telco Indonesia
+157.20.207.213   # ID  AS152436  PT Erajaya Telco Indonesia
 157.20.238.39    # ID  AS152429  PT Era Network Indonesia
 157.20.252.128   # ID  AS138089  PT.Global Media Data Prima
 157.20.252.253   # ID  AS138089  PT.Global Media Data Prima
@@ -976,6 +979,7 @@
 202.6.226.18     # ID  AS23756   PADINET - Padi Internet
 202.62.8.90      # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.65.118.212   # ID  AS23951   PT JEMBATAN CITRA NUSANTARA
+202.65.225.25    # ID  AS45700   PT. NAP Info Lintas Nusa
 202.65.239.249   # ID  AS45700   PT. NAP Info Lintas Nusa
 202.65.239.43    # ID  AS45700   PT. NAP Info Lintas Nusa
 202.65.239.78    # ID  AS45700   PT. NAP Info Lintas Nusa
@@ -1067,6 +1071,7 @@
 36.69.153.30     # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.62.44      # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.76.140     # ID  AS7713    PT Telekomunikasi Indonesia
+36.69.78.214     # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.79.9       # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.101.90     # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.102.246    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1099,6 +1104,7 @@
 36.70.96.23      # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.98.161     # ID  AS7713    PT Telekomunikasi Indonesia
 36.71.178.205    # ID  AS7713    PT Telekomunikasi Indonesia
+36.71.191.25     # ID  AS7713    PT Telekomunikasi Indonesia
 36.71.20.7       # ID  AS7713    PT Telekomunikasi Indonesia
 36.75.247.184    # ID  AS7713    PT Telekomunikasi Indonesia
 36.75.247.56     # ID  AS7713    PT Telekomunikasi Indonesia
