@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1286
-# Last updated:           2025-11-12 12:50:00
+# Number of ips:          1287
+# Last updated:           2025-11-12 18:35:30
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -1295,3 +1295,4 @@
 89.21.85.27      # ID  AS141892  CV Andhika Pratama Sanggoro
 89.21.85.28      # ID  AS141892  CV Andhika Pratama Sanggoro
 93.185.162.131   # ID  AS209854  Cyberzone S.A.
+93.185.162.142   # ID  AS209854  Cyberzone S.A.

@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1785
-# Last updated:           2025-11-12 12:49:59
+# Number of ips:          1786
+# Last updated:           2025-11-12 18:35:29
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -1793,4 +1793,5 @@
 89.213.45.131    # ID  AS152368  PT Perwira Pedjoeang Nusantara
 93.185.162.131   # ID  AS209854  Cyberzone S.A.
 93.185.162.133   # ID  AS209854  Cyberzone S.A.
+93.185.162.142   # ID  AS209854  Cyberzone S.A.
 98.142.245.28    # ID  AS141968  PT Industri Kreatif Digital
