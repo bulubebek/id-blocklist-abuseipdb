@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1778
-# Last updated:           2025-11-12 06:35:25
+# Number of ips:          1785
+# Last updated:           2025-11-12 12:49:59
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -421,6 +421,7 @@
 103.183.75.150   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.75.162   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.75.172   # ID  AS136052  PT Cloud Hosting Indonesia
+103.183.75.179   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.75.228   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.75.239   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.75.47    # ID  AS136052  PT Cloud Hosting Indonesia
@@ -903,6 +904,7 @@
 117.54.136.11    # ID  AS9340    INDO Internet, PT
 117.54.142.131   # ID  AS9340    INDO Internet, PT
 117.54.156.14    # ID  AS9340    INDO Internet, PT
+118.136.14.38    # ID  AS23700   Linknet-Fastnet ASN
 118.137.156.92   # ID  AS23700   Linknet-Fastnet ASN
 118.137.64.215   # ID  AS23700   Linknet-Fastnet ASN
 118.137.94.46    # ID  AS23700   Linknet-Fastnet ASN
@@ -1169,6 +1171,7 @@
 180.243.8.181    # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.13.186   # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.13.67    # ID  AS7713    PT Telekomunikasi Indonesia
+180.244.15.65    # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.8.105    # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.9.73     # ID  AS7713    PT Telekomunikasi Indonesia
 180.245.103.74   # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1260,6 +1263,7 @@
 182.253.48.213   # ID  AS17451   BIZNET NETWORKS
 182.253.54.13    # ID  AS17451   BIZNET NETWORKS
 182.253.54.23    # ID  AS17451   BIZNET NETWORKS
+182.253.54.29    # ID  AS17451   BIZNET NETWORKS
 182.253.54.48    # ID  AS17451   BIZNET NETWORKS
 182.253.54.53    # ID  AS17451   BIZNET NETWORKS
 182.253.54.54    # ID  AS17451   BIZNET NETWORKS
@@ -1355,6 +1359,8 @@
 202.46.155.230   # ID  AS149746  PT Blip Integrator Provider
 202.46.27.79     # ID  AS63491   Universitas Katolik Widya Mandala
 202.46.68.0      # ID  AS9341    PT INDONESIA COMNETS PLUS
+202.46.68.199    # ID  AS9341    PT INDONESIA COMNETS PLUS
+202.46.68.239    # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.51.102.86    # ID  AS17995   PT iForte Global Internet
 202.51.116.189   # ID  AS17995   PT iForte Global Internet
 202.51.124.26    # ID  AS17995   PT iForte Global Internet
@@ -1529,6 +1535,7 @@
 36.69.153.30     # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.153.68     # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.155.125    # ID  AS7713    PT Telekomunikasi Indonesia
+36.69.159.232    # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.226.207    # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.57.211     # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.62.44      # ID  AS7713    PT Telekomunikasi Indonesia
