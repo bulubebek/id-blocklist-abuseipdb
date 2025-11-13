@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1780
-# Last updated:           2025-11-13 01:52:06
+# Number of ips:          1785
+# Last updated:           2025-11-13 06:35:26
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -476,6 +476,7 @@
 103.191.14.112   # ID  AS38513   PT Aplikanusa Lintasarta
 103.191.14.243   # ID  AS38513   PT Aplikanusa Lintasarta
 103.191.165.87   # ID  AS149925  PT Sakti Wijaya Network
+103.191.218.119  # ID  AS149930  PT Replay Inti Media
 103.191.250.38   # ID  AS149940  PT Mulia Batam Net
 103.191.58.181   # ID  AS149909  PT Panjalu Sarana Data Indonesia
 103.191.58.47    # ID  AS149909  PT Panjalu Sarana Data Indonesia
@@ -931,6 +932,7 @@
 119.47.90.19     # ID  AS38527   JAWA POS NATIONAL NETWORK MEDIALINK, PT
 121.101.133.67   # ID  AS131706  PT SELARAS CITRA TERABIT
 121.101.133.99   # ID  AS131706  PT SELARAS CITRA TERABIT
+122.102.45.170   # ID  AS38758   PT. HIPERNET INDODATA
 123.231.137.43   # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.151.130  # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.151.148  # ID  AS4800    PT Aplikanusa Lintasarta
@@ -1228,6 +1230,7 @@
 180.252.95.202   # ID  AS7713    PT Telekomunikasi Indonesia
 180.253.181.73   # ID  AS7713    PT Telekomunikasi Indonesia
 180.253.41.93    # ID  AS7713    PT Telekomunikasi Indonesia
+180.253.46.27    # ID  AS7713    PT Telekomunikasi Indonesia
 180.94.23.36     # ID  AS152041  PT. KARYA HASTA JAYA
 182.10.161.177   # ID  AS23693   PT. Telekomunikasi Selular
 182.10.161.191   # ID  AS23693   PT. Telekomunikasi Selular
@@ -1357,6 +1360,7 @@
 202.46.27.79     # ID  AS63491   Universitas Katolik Widya Mandala
 202.46.68.0      # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.46.68.199    # ID  AS9341    PT INDONESIA COMNETS PLUS
+202.46.68.215    # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.46.68.239    # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.51.102.86    # ID  AS17995   PT iForte Global Internet
 202.51.116.189   # ID  AS17995   PT iForte Global Internet
@@ -1541,6 +1545,7 @@
 36.69.78.214     # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.79.9       # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.93.169     # ID  AS7713    PT Telekomunikasi Indonesia
+36.70.101.43     # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.101.90     # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.102.246    # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.102.89     # ID  AS7713    PT Telekomunikasi Indonesia

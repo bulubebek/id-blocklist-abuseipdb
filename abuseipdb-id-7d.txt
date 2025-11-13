@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          948
-# Last updated:           2025-11-13 01:52:07
+# Number of ips:          955
+# Last updated:           2025-11-13 06:35:27
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -278,6 +278,7 @@
 103.191.14.112   # ID  AS38513   PT Aplikanusa Lintasarta
 103.191.14.243   # ID  AS38513   PT Aplikanusa Lintasarta
 103.191.165.87   # ID  AS149925  PT Sakti Wijaya Network
+103.191.218.119  # ID  AS149930  PT Replay Inti Media
 103.191.250.38   # ID  AS149940  PT Mulia Batam Net
 103.191.58.181   # ID  AS149909  PT Panjalu Sarana Data Indonesia
 103.191.58.47    # ID  AS149909  PT Panjalu Sarana Data Indonesia
@@ -408,6 +409,7 @@
 103.59.95.177    # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.95.187    # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.95.213    # ID  AS136052  PT Cloud Hosting Indonesia
+103.59.95.42     # ID  AS136052  PT Cloud Hosting Indonesia
 103.63.25.115    # ID  AS136052  PT Cloud Hosting Indonesia
 103.63.25.210    # ID  AS136052  PT Cloud Hosting Indonesia
 103.65.214.57    # ID  AS135449  PT. Broadband Indonesia Pratama
@@ -529,6 +531,7 @@
 119.47.90.19     # ID  AS38527   JAWA POS NATIONAL NETWORK MEDIALINK, PT
 121.101.133.67   # ID  AS131706  PT SELARAS CITRA TERABIT
 121.101.133.99   # ID  AS131706  PT SELARAS CITRA TERABIT
+122.102.45.170   # ID  AS38758   PT. HIPERNET INDODATA
 123.231.137.43   # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.151.130  # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.151.148  # ID  AS4800    PT Aplikanusa Lintasarta
@@ -684,6 +687,8 @@
 180.252.85.62    # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.92.119   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.94.109   # ID  AS7713    PT Telekomunikasi Indonesia
+180.253.46.27    # ID  AS7713    PT Telekomunikasi Indonesia
+182.23.20.116    # ID  AS4800    PT Aplikanusa Lintasarta
 182.23.54.125    # ID  AS4800    PT Aplikanusa Lintasarta
 182.23.93.18     # ID  AS4800    PT Aplikanusa Lintasarta
 182.23.98.12     # ID  AS4800    PT Aplikanusa Lintasarta
@@ -740,6 +745,7 @@
 202.182.50.52    # ID  AS38511   PT Remala Abadi
 202.46.155.230   # ID  AS149746  PT Blip Integrator Provider
 202.46.68.199    # ID  AS9341    PT INDONESIA COMNETS PLUS
+202.46.68.215    # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.46.68.239    # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.51.102.86    # ID  AS17995   PT iForte Global Internet
 202.51.211.13    # ID  AS55685   PT Jala Lintas Media
@@ -842,6 +848,7 @@
 36.69.71.167     # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.78.214     # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.93.169     # ID  AS7713    PT Telekomunikasi Indonesia
+36.70.101.43     # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.108.200    # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.109.60     # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.192.119    # ID  AS7713    PT Telekomunikasi Indonesia
