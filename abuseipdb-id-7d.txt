@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          989
-# Last updated:           2025-11-14 12:48:32
+# Number of ips:          995
+# Last updated:           2025-11-14 18:33:04
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -34,6 +34,7 @@
 103.123.175.74   # ID  AS150968  PT Jaringanku Media Telekomunikasi
 103.124.137.60   # ID  AS138089  PT.Global Media Data Prima
 103.125.40.246   # ID  AS63859   PT. Eka Mas Republik
+103.126.238.10   # ID  AS150503  PT Indo Tungkal Net
 103.126.86.73    # ID  AS138109  PT. Rasi Bintang Perkasa
 103.127.136.111  # ID  AS133800  PT Biznet Gio Nusantara
 103.127.99.117   # ID  AS133800  PT Biznet Gio Nusantara
@@ -509,6 +510,7 @@
 114.7.0.150      # ID  AS4761    INDOSAT Internet Network Provider
 114.7.163.154    # ID  AS4761    INDOSAT Internet Network Provider
 114.8.146.58     # ID  AS4761    INDOSAT Internet Network Provider
+114.9.22.30      # ID  AS4761    INDOSAT Internet Network Provider
 114.9.50.10      # ID  AS4761    INDOSAT Internet Network Provider
 114.9.52.106     # ID  AS4761    INDOSAT Internet Network Provider
 115.85.75.18     # ID  AS23953   PT ARTHA TELEKOMINDO
@@ -676,7 +678,11 @@
 165.154.150.141  # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 165.154.150.65   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 165.154.208.232  # ID  AS142002  Scloud Pte Ltd
+165.154.208.9    # ID  AS142002  Scloud Pte Ltd
+165.154.228.11   # ID  AS142002  Scloud Pte Ltd
+165.154.228.163  # ID  AS142002  Scloud Pte Ltd
 165.154.228.190  # ID  AS142002  Scloud Pte Ltd
+165.154.228.208  # ID  AS142002  Scloud Pte Ltd
 165.154.228.96   # ID  AS142002  Scloud Pte Ltd
 165.154.48.133   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 165.154.48.206   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
