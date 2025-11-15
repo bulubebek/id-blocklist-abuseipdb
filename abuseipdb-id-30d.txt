@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1826
-# Last updated:           2025-11-15 01:46:50
+# Number of ips:          1827
+# Last updated:           2025-11-15 06:31:37
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -112,6 +112,7 @@
 103.142.255.23   # ID  AS139381  PT.CITRA BERDIKARI NUSANTARA
 103.144.102.95   # ID  AS139421  PT Dharma Sarana Solusindo
 103.144.146.186  # ID  AS139428  PT.LEXXA DATA INDONUSA
+103.145.179.140  # ID  AS9341    PT INDONESIA COMNETS PLUS
 103.145.240.110  # ID  AS132641  PT Netciti Persada
 103.146.184.128  # ID  AS139967  PT. Yasmin Amanah Media
 103.146.184.29   # ID  AS139967  PT. Yasmin Amanah Media
