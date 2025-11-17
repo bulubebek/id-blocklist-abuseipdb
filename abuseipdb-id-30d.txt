@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1844
-# Last updated:           2025-11-16 18:30:13
+# Number of ips:          1845
+# Last updated:           2025-11-17 01:52:12
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -840,6 +840,7 @@
 108.136.165.222  # ID  AS16509   Amazon.com, Inc.
 109.105.194.6    # ID  AS141968  PT Industri Kreatif Digital
 109.110.188.166  # ID  AS199695  PT Anym Network Indonesia
+110.136.103.178  # ID  AS7713    PT Telekomunikasi Indonesia
 110.136.144.252  # ID  AS7713    PT Telekomunikasi Indonesia
 110.136.252.242  # ID  AS7713    PT Telekomunikasi Indonesia
 110.136.40.43    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1138,7 +1139,6 @@
 157.66.56.47     # ID  AS58477   Argon Data Communication
 157.66.56.84     # ID  AS58477   Argon Data Communication
 158.140.164.179  # ID  AS63859   PT. Eka Mas Republik
-158.140.182.81   # ID  AS63859   PT. Eka Mas Republik
 160.187.174.202  # ID  AS153135  PT Netindo Persada Nusantara
 160.187.174.254  # ID  AS153135  PT Netindo Persada Nusantara
 160.19.18.49     # ID  AS149360  PT Indo Telemedia Solusi
@@ -1489,6 +1489,7 @@
 208.76.40.165    # ID  AS151592  PT Awan Data Teknologi
 208.76.40.222    # ID  AS151592  PT Awan Data Teknologi
 208.76.40.231    # ID  AS151592  PT Awan Data Teknologi
+208.76.40.69     # ID  AS151592  PT Awan Data Teknologi
 210.211.22.54    # ID  AS56239   PT Graha Anugrah Sejahtera
 210.57.212.101   # ID  AS38142   Universitas Airlangga
 210.79.142.221   # ID  AS141607  PT Gayatri Lintas Nusantara
@@ -1602,6 +1603,7 @@
 36.69.78.214     # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.79.9       # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.93.169     # ID  AS7713    PT Telekomunikasi Indonesia
+36.70.100.227    # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.101.43     # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.101.90     # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.102.246    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1798,7 +1800,6 @@
 58.147.189.199   # ID  AS24534   PT. Transhybrid Communication
 58.147.189.200   # ID  AS24534   PT. Transhybrid Communication
 58.147.189.201   # ID  AS24534   PT. Transhybrid Communication
-58.147.189.204   # ID  AS24534   PT. Transhybrid Communication
 58.147.189.206   # ID  AS24534   PT. Transhybrid Communication
 58.147.189.207   # ID  AS24534   PT. Transhybrid Communication
 58.147.189.222   # ID  AS24534   PT. Transhybrid Communication
