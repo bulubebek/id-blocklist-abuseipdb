@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1167
-# Last updated:           2025-11-17 01:52:12
+# Number of ips:          1173
+# Last updated:           2025-11-17 06:36:02
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -52,6 +52,7 @@
 103.132.52.235   # ID  AS138123  PT. ADEAKSA INDO JAYATAMA
 103.133.222.189  # ID  AS137331  PT Cloud Teknologi Nusantara
 103.133.36.6     # ID  AS138133  Universitas Muslim Indonesia
+103.134.245.156  # ID  AS131773  PT WISUANDHA NETWORK GLOBALINDO
 103.137.111.247  # ID  AS138829  PT Capoeng Digital Nusantara
 103.137.65.2     # ID  AS58495   PT Parsaoran Global Datatrans
 103.137.8.225    # ID  AS138824  PT. Gemilang Jaya Elektrindo
@@ -728,6 +729,7 @@
 157.66.54.122    # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.54.162    # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.54.166    # ID  AS141892  CV Andhika Pratama Sanggoro
+157.66.54.186    # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.54.6      # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.54.66     # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.54.86     # ID  AS141892  CV Andhika Pratama Sanggoro
@@ -737,6 +739,7 @@
 157.66.55.50     # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.56.12     # ID  AS58477   Argon Data Communication
 157.66.56.131    # ID  AS58477   Argon Data Communication
+157.66.56.136    # ID  AS58477   Argon Data Communication
 157.66.56.146    # ID  AS58477   Argon Data Communication
 157.66.56.152    # ID  AS58477   Argon Data Communication
 157.66.56.161    # ID  AS58477   Argon Data Communication
@@ -991,6 +994,7 @@
 27.112.79.50     # ID  AS136052  PT Cloud Hosting Indonesia
 27.112.79.87     # ID  AS136052  PT Cloud Hosting Indonesia
 27.112.79.9      # ID  AS136052  PT Cloud Hosting Indonesia
+27.124.75.60     # ID  AS152052  PT Arsa Work Indonesia
 27.50.25.190     # ID  AS131111  PT Mora Telematika Indonesia
 31.56.121.9      # ID  AS142382  PT Klinik Digital Indonesia JNHOST
 34.101.170.31    # ID  AS396982  Google LLC
@@ -1010,6 +1014,7 @@
 36.64.30.151     # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.36.101     # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.68.99      # ID  AS7713    PT Telekomunikasi Indonesia
+36.65.205.192    # ID  AS7713    PT Telekomunikasi Indonesia
 36.65.91.192     # ID  AS7713    PT Telekomunikasi Indonesia
 36.66.107.178    # ID  AS7713    PT Telekomunikasi Indonesia
 36.66.128.218    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1041,6 +1046,7 @@
 36.70.224.177    # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.224.229    # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.224.74     # ID  AS7713    PT Telekomunikasi Indonesia
+36.70.225.71     # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.227.7      # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.231.214    # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.232.12     # ID  AS7713    PT Telekomunikasi Indonesia
