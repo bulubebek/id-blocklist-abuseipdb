@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          893
-# Last updated:           2025-11-18 01:49:50
+# Number of ips:          900
+# Last updated:           2025-11-18 06:34:36
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -506,6 +506,7 @@
 123.231.211.66   # ID  AS4800    PT Aplikanusa Lintasarta
 125.160.140.4    # ID  AS7713    PT Telekomunikasi Indonesia
 125.161.251.175  # ID  AS7713    PT Telekomunikasi Indonesia
+125.163.112.59   # ID  AS7713    PT Telekomunikasi Indonesia
 125.163.67.211   # ID  AS7713    PT Telekomunikasi Indonesia
 125.164.33.241   # ID  AS7713    PT Telekomunikasi Indonesia
 125.166.17.129   # ID  AS7713    PT Telekomunikasi Indonesia
@@ -530,6 +531,8 @@
 147.139.195.155  # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 147.139.199.208  # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 147.139.201.164  # ID  AS45102   Alibaba (US) Technology Co., Ltd.
+147.139.215.38   # ID  AS45102   Alibaba (US) Technology Co., Ltd.
+148.230.101.165  # ID  AS47583   Hostinger International Limited
 149.108.41.62    # ID  AS23700   Linknet-Fastnet ASN
 149.108.42.255   # ID  AS23700   Linknet-Fastnet ASN
 149.129.195.66   # ID  AS45102   Alibaba (US) Technology Co., Ltd.
@@ -544,6 +547,7 @@
 157.10.253.188   # ID  AS136052  PT Cloud Hosting Indonesia
 157.10.253.49    # ID  AS136052  PT Cloud Hosting Indonesia
 157.15.124.34    # ID  AS138115  PT Deneva
+157.15.40.56     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.57     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.59     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.60     # ID  AS139952  PT Trisari Data Indonusa
@@ -574,6 +578,7 @@
 157.20.32.164    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.165    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.171    # ID  AS152390  PT Intercloud Digital Inovasi
+157.20.32.212    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.217    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.219    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.220    # ID  AS152390  PT Intercloud Digital Inovasi
@@ -585,6 +590,7 @@
 157.66.54.66     # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.54.86     # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.55.114    # ID  AS141892  CV Andhika Pratama Sanggoro
+157.66.55.198    # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.55.247    # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.55.50     # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.56.12     # ID  AS58477   Argon Data Communication
@@ -896,6 +902,7 @@
 61.8.74.162      # ID  AS4800    PT Aplikanusa Lintasarta
 69.5.0.120       # ID  AS150436  Byteplus Pte. Ltd.
 69.5.16.169      # ID  AS150436  Byteplus Pte. Ltd.
+69.5.19.65       # ID  AS150436  Byteplus Pte. Ltd.
 8.215.201.223    # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.33.203     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 89.21.85.150     # ID  AS141892  CV Andhika Pratama Sanggoro
