@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1195
-# Last updated:           2025-11-20 06:34:08
+# Number of ips:          1203
+# Last updated:           2025-11-20 12:48:30
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -323,6 +323,7 @@
 103.188.177.46   # ID  AS149734  PEDEE
 103.189.116.62   # ID  AS149878  PT Callysta Total Solusindo
 103.189.169.122  # ID  AS9341    PT INDONESIA COMNETS PLUS
+103.189.201.157  # ID  AS9341    PT INDONESIA COMNETS PLUS
 103.190.214.241  # ID  AS38513   PT Aplikanusa Lintasarta
 103.191.14.112   # ID  AS38513   PT Aplikanusa Lintasarta
 103.191.14.243   # ID  AS38513   PT Aplikanusa Lintasarta
@@ -443,6 +444,7 @@
 103.36.11.25     # ID  AS133360  PT Awinet Global Mandiri
 103.36.32.186    # ID  AS131111  PT Mora Telematika Indonesia
 103.39.49.177    # ID  AS63501   PT Mega Mentari Mandiri
+103.40.121.177   # ID  AS63508   PT DINAMIKA MEDIAKOM
 103.42.117.165   # ID  AS141968  PT Industri Kreatif Digital
 103.42.242.41    # ID  AS151992  PT Jet Cyber Network Nusantara
 103.46.4.37      # ID  AS150460  PT Akses Sentral Teknologi
@@ -488,10 +490,12 @@
 103.63.25.210    # ID  AS136052  PT Cloud Hosting Indonesia
 103.65.214.57    # ID  AS135449  PT. Broadband Indonesia Pratama
 103.65.236.113   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
+103.65.236.124   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.65.236.149   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.65.236.153   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.67.244.165   # ID  AS138115  PT Deneva
 103.67.244.227   # ID  AS138115  PT Deneva
+103.67.42.1      # ID  AS38513   PT Aplikanusa Lintasarta
 103.67.78.102    # ID  AS136052  PT Cloud Hosting Indonesia
 103.67.78.117    # ID  AS136052  PT Cloud Hosting Indonesia
 103.67.78.132    # ID  AS136052  PT Cloud Hosting Indonesia
@@ -619,6 +623,7 @@
 118.99.80.2      # ID  AS17451   BIZNET NETWORKS
 118.99.80.32     # ID  AS17451   BIZNET NETWORKS
 118.99.80.39     # ID  AS17451   BIZNET NETWORKS
+118.99.80.51     # ID  AS17451   BIZNET NETWORKS
 118.99.80.55     # ID  AS17451   BIZNET NETWORKS
 119.110.72.118   # ID  AS38320   PT Maxindo Mitra Solusi
 119.2.41.106     # ID  AS38524   Laxo Global Akses, PT
@@ -769,6 +774,7 @@
 157.66.56.152    # ID  AS58477   Argon Data Communication
 157.66.56.161    # ID  AS58477   Argon Data Communication
 157.66.56.164    # ID  AS58477   Argon Data Communication
+157.66.56.170    # ID  AS58477   Argon Data Communication
 157.66.56.202    # ID  AS58477   Argon Data Communication
 157.66.56.47     # ID  AS58477   Argon Data Communication
 158.140.164.179  # ID  AS63859   PT. Eka Mas Republik
@@ -838,6 +844,7 @@
 180.252.133.140  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.137.161  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.144.144  # ID  AS7713    PT Telekomunikasi Indonesia
+180.252.149.23   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.155.80   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.207.216  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.209.203  # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1186,6 +1193,7 @@
 58.147.189.201   # ID  AS24534   PT. Transhybrid Communication
 58.147.189.202   # ID  AS24534   PT. Transhybrid Communication
 58.147.189.203   # ID  AS24534   PT. Transhybrid Communication
+58.147.189.204   # ID  AS24534   PT. Transhybrid Communication
 58.147.189.206   # ID  AS24534   PT. Transhybrid Communication
 58.147.189.207   # ID  AS24534   PT. Transhybrid Communication
 58.147.189.222   # ID  AS24534   PT. Transhybrid Communication
