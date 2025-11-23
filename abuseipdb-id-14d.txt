@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1193
-# Last updated:           2025-11-23 02:03:48
+# Number of ips:          1196
+# Last updated:           2025-11-23 06:33:05
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -20,6 +20,7 @@
 103.105.64.146   # ID  AS17995   PT iForte Global Internet
 103.105.66.26    # ID  AS17995   PT iForte Global Internet
 103.105.67.170   # ID  AS17995   PT iForte Global Internet
+103.106.115.26   # ID  AS136880  PT. Sumatra Multimedia Solusi
 103.107.187.9    # ID  AS137300  UIN AR-RANIRY
 103.108.156.124  # ID  AS140454  PT Pop Net Indonesia
 103.108.156.125  # ID  AS140454  PT Pop Net Indonesia
@@ -71,6 +72,7 @@
 103.140.130.60   # ID  AS138866  PT Mitra Media Data
 103.140.34.106   # ID  AS58369   PT. Fiber Networks Indonesia
 103.141.148.93   # ID  AS138890  PT Acehlink Media
+103.141.255.141  # ID  AS131769  PT Mayatama Solusindo
 103.142.255.23   # ID  AS139381  PT.CITRA BERDIKARI NUSANTARA
 103.144.102.95   # ID  AS139421  PT Dharma Sarana Solusindo
 103.144.146.186  # ID  AS139428  PT.LEXXA DATA INDONUSA
@@ -386,6 +388,7 @@
 103.226.139.104  # ID  AS136052  PT Cloud Hosting Indonesia
 103.226.139.139  # ID  AS136052  PT Cloud Hosting Indonesia
 103.226.139.207  # ID  AS136052  PT Cloud Hosting Indonesia
+103.227.254.59   # ID  AS59279   PT Raja Mitra Informatika
 103.228.242.209  # ID  AS45700   PT. NAP Info Lintas Nusa
 103.228.246.148  # ID  AS59282   PT Giga Patra Multimedia
 103.23.198.111   # ID  AS136052  PT Cloud Hosting Indonesia
