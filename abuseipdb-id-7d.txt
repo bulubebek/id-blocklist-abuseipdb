@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          891
-# Last updated:           2025-11-25 06:36:50
+# Number of ips:          897
+# Last updated:           2025-11-25 12:50:27
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -93,6 +93,7 @@
 103.159.96.181   # ID  AS141140  PT Jinde Grup Indonesia
 103.160.212.28   # ID  AS140389  PT Dewa Bisnis Digital
 103.161.207.2    # ID  AS141627  PT Media Solusi Network
+103.162.54.14    # ID  AS141645  PT Pratama Asia Globalindo
 103.163.161.30   # ID  AS141892  CV Andhika Pratama Sanggoro
 103.164.137.206  # ID  AS17995   PT iForte Global Internet
 103.164.194.238  # ID  AS17995   PT iForte Global Internet
@@ -134,6 +135,8 @@
 103.171.85.50    # ID  AS136052  PT Cloud Hosting Indonesia
 103.172.118.65   # ID  AS142395  PT Global Internet Indonesia
 103.172.118.81   # ID  AS142395  PT Global Internet Indonesia
+103.172.144.67   # ID  AS142389  IKI INDONESIA
+103.172.144.70   # ID  AS142389  IKI INDONESIA
 103.172.20.218   # ID  AS142383  PT Vaiotech Lintas Nusantara
 103.172.204.108  # ID  AS136052  PT Cloud Hosting Indonesia
 103.172.204.15   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -479,6 +482,7 @@
 118.99.80.2      # ID  AS17451   BIZNET NETWORKS
 118.99.80.32     # ID  AS17451   BIZNET NETWORKS
 118.99.80.39     # ID  AS17451   BIZNET NETWORKS
+118.99.80.47     # ID  AS17451   BIZNET NETWORKS
 118.99.80.51     # ID  AS17451   BIZNET NETWORKS
 118.99.80.55     # ID  AS17451   BIZNET NETWORKS
 119.2.41.106     # ID  AS38524   Laxo Global Akses, PT
@@ -791,10 +795,12 @@
 36.64.10.42      # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.146.74     # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.15.201     # ID  AS7713    PT Telekomunikasi Indonesia
+36.64.169.227    # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.211.93     # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.30.151     # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.36.101     # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.68.99      # ID  AS7713    PT Telekomunikasi Indonesia
+36.65.110.13     # ID  AS7713    PT Telekomunikasi Indonesia
 36.65.205.192    # ID  AS7713    PT Telekomunikasi Indonesia
 36.65.223.67     # ID  AS7713    PT Telekomunikasi Indonesia
 36.66.107.178    # ID  AS7713    PT Telekomunikasi Indonesia
