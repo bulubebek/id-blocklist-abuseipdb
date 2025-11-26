@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1647
-# Last updated:           2025-11-26 12:51:31
+# Number of ips:          1653
+# Last updated:           2025-11-26 18:30:39
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -13,6 +13,7 @@
 101.128.84.8     # ID  AS135478  PT. Cyberindo Aditama
 101.255.104.19   # ID  AS38511   PT Remala Abadi
 101.255.164.234  # ID  AS38511   PT Remala Abadi
+101.255.73.30    # ID  AS38511   PT Remala Abadi
 101.50.2.97      # ID  AS55688   PT. Beon Intermedia
 103.1.51.223     # ID  AS142352  PT. PRATAMA HASTA UTAMA SOLUSINDO
 103.101.216.218  # ID  AS150941  PT Duta Trans Nusantara Network
@@ -715,6 +716,7 @@
 103.83.84.25     # ID  AS150253  PT. FINS MEDIATECHNO NUSANTARA
 103.83.84.5      # ID  AS150253  PT. FINS MEDIATECHNO NUSANTARA
 103.84.119.130   # ID  AS64316   Universitas Islam Negeri Raden Fatah Palembang
+103.87.69.8      # ID  AS56301   National Data Center building
 103.89.242.2     # ID  AS150913  PT Alam Daur Nusantara
 103.89.77.148    # ID  AS45701   Internet Madju Abad Millenindo, PT
 103.90.27.83     # ID  AS132673  PT Arana Teknologi Indonesia
@@ -912,6 +914,7 @@
 149.108.41.62    # ID  AS23700   Linknet-Fastnet ASN
 149.108.42.255   # ID  AS23700   Linknet-Fastnet ASN
 149.108.87.47    # ID  AS23700   Linknet-Fastnet ASN
+149.108.92.15    # ID  AS23700   Linknet-Fastnet ASN
 149.108.93.247   # ID  AS23700   Linknet-Fastnet ASN
 149.129.195.66   # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 149.129.221.165  # ID  AS45102   Alibaba (US) Technology Co., Ltd.
@@ -1293,6 +1296,7 @@
 202.58.207.249   # ID  AS45701   Internet Madju Abad Millenindo, PT
 202.58.74.18     # ID  AS138886  PT Data Buana Nusantara
 202.58.74.228    # ID  AS138886  PT Data Buana Nusantara
+202.58.74.231    # ID  AS138886  PT Data Buana Nusantara
 202.59.194.246   # ID  AS63859   PT. Eka Mas Republik
 202.6.226.18     # ID  AS23756   PADINET - Padi Internet
 202.62.8.90      # ID  AS9341    PT INDONESIA COMNETS PLUS
@@ -1375,10 +1379,12 @@
 27.112.79.87     # ID  AS136052  PT Cloud Hosting Indonesia
 27.112.79.9      # ID  AS136052  PT Cloud Hosting Indonesia
 27.121.83.191    # ID  AS55652   Sumidhaz Permata Bunda, PT
+27.121.83.49     # ID  AS55652   Sumidhaz Permata Bunda, PT
 27.124.75.60     # ID  AS152052  PT Arsa Work Indonesia
 27.124.95.235    # ID  AS9341    PT INDONESIA COMNETS PLUS
 27.50.25.190     # ID  AS131111  PT Mora Telematika Indonesia
 31.56.121.9      # ID  AS142382  PT Klinik Digital Indonesia JNHOST
+31.56.56.74      # ID  AS141892  CV Andhika Pratama Sanggoro
 34.101.137.195   # ID  AS396982  Google LLC
 34.101.170.31    # ID  AS396982  Google LLC
 34.101.80.233    # ID  AS396982  Google LLC
