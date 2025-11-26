@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1641
-# Last updated:           2025-11-26 01:51:28
+# Number of ips:          1644
+# Last updated:           2025-11-26 06:36:04
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -350,6 +350,7 @@
 103.179.57.27    # ID  AS136052  PT Cloud Hosting Indonesia
 103.179.57.31    # ID  AS136052  PT Cloud Hosting Indonesia
 103.18.133.253   # ID  AS55693   PT. Bangun Abadi Teknologi Indonesia
+103.18.79.204    # ID  AS55701   PT. Usaha Adisanggoro
 103.181.142.133  # ID  AS136052  PT Cloud Hosting Indonesia
 103.181.142.228  # ID  AS136052  PT Cloud Hosting Indonesia
 103.181.142.244  # ID  AS136052  PT Cloud Hosting Indonesia
@@ -723,6 +724,7 @@
 103.93.93.211    # ID  AS141140  PT Jinde Grup Indonesia
 103.94.250.137   # ID  AS138884  PT Centronet Data Indonesia
 103.94.7.50      # ID  AS9341    PT INDONESIA COMNETS PLUS
+103.96.146.185   # ID  AS140456  PT Era Awan Digital
 103.97.140.243   # ID  AS141071  PT Jembatan Data Pangrango
 103.98.176.164   # ID  AS136827  Universitas PGRI Semarang
 108.136.162.67   # ID  AS16509   Amazon.com, Inc.
@@ -1370,6 +1372,7 @@
 27.112.79.50     # ID  AS136052  PT Cloud Hosting Indonesia
 27.112.79.87     # ID  AS136052  PT Cloud Hosting Indonesia
 27.112.79.9      # ID  AS136052  PT Cloud Hosting Indonesia
+27.121.83.191    # ID  AS55652   Sumidhaz Permata Bunda, PT
 27.124.75.60     # ID  AS152052  PT Arsa Work Indonesia
 27.124.95.235    # ID  AS9341    PT INDONESIA COMNETS PLUS
 27.50.25.190     # ID  AS131111  PT Mora Telematika Indonesia
