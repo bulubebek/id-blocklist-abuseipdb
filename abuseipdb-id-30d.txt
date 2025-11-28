@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1644
-# Last updated:           2025-11-28 12:48:52
+# Number of ips:          1647
+# Last updated:           2025-11-28 18:32:19
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -757,6 +757,7 @@
 111.95.219.32    # ID  AS23700   Linknet-Fastnet ASN
 112.78.135.82    # ID  AS38482   Biznet ISP
 112.78.138.82    # ID  AS17451   BIZNET NETWORKS
+112.78.177.43    # ID  AS17451   BIZNET NETWORKS
 112.78.185.12    # ID  AS17451   BIZNET NETWORKS
 113.11.176.251   # ID  AS17451   BIZNET NETWORKS
 113.192.1.5      # ID  AS152060  PT Surya Bestari Lestari
@@ -891,6 +892,7 @@
 139.192.87.54    # ID  AS23700   Linknet-Fastnet ASN
 139.192.90.142   # ID  AS23700   Linknet-Fastnet ASN
 139.192.90.149   # ID  AS23700   Linknet-Fastnet ASN
+139.192.92.245   # ID  AS23700   Linknet-Fastnet ASN
 139.194.73.65    # ID  AS23700   Linknet-Fastnet ASN
 139.195.85.42    # ID  AS23700   Linknet-Fastnet ASN
 139.228.35.222   # ID  AS23700   Linknet-Fastnet ASN
@@ -1314,6 +1316,7 @@
 202.65.239.78    # ID  AS45700   PT. NAP Info Lintas Nusa
 202.73.26.78     # ID  AS141892  CV Andhika Pratama Sanggoro
 202.74.239.125   # ID  AS131775  PT. Jupiter Jala Arta
+202.75.28.243    # ID  AS138871  PT. Trans Indonesia Superkoridor
 202.83.120.202   # ID  AS131745  PT. Cybertechtonic Pratama
 202.83.121.42    # ID  AS131745  PT. Cybertechtonic Pratama
 202.83.121.46    # ID  AS131745  PT. Cybertechtonic Pratama
