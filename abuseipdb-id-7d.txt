@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          928
-# Last updated:           2025-11-30 06:34:44
+# Number of ips:          933
+# Last updated:           2025-11-30 12:43:34
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -233,6 +233,7 @@
 103.183.74.130   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.74.187   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.74.214   # ID  AS136052  PT Cloud Hosting Indonesia
+103.183.74.39    # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.75.135   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.75.162   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.75.179   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -638,6 +639,7 @@
 160.191.171.114  # ID  AS153154  Universitas Katholik Soegijapranata
 160.202.40.145   # ID  AS9341    PT INDONESIA COMNETS PLUS
 160.22.200.53    # ID  AS153070  PT Karangmukti Global Netmedia
+160.25.174.7     # ID  AS153073  PT KANAL TELU MULTITEKNOLOGI
 163.227.52.50    # ID  AS153804  PT Jagoan Data Nusantara
 163.61.112.5     # ID  AS153600  PT VESAKHA SECEPAT KILAT
 163.61.134.228   # ID  AS153615  PT Lentera Abadi Solusinet
@@ -758,6 +760,7 @@
 202.47.89.195    # ID  AS149963  PT Layanan Internet Sakti
 202.51.102.86    # ID  AS17995   PT iForte Global Internet
 202.51.116.189   # ID  AS17995   PT iForte Global Internet
+202.51.208.170   # ID  AS55685   PT Jala Lintas Media
 202.51.211.13    # ID  AS55685   PT Jala Lintas Media
 202.51.214.98    # ID  AS10220   PT. Kreasi Sejahtera Teknologi
 202.51.214.99    # ID  AS10220   PT. Kreasi Sejahtera Teknologi
@@ -891,6 +894,7 @@
 36.92.84.132     # ID  AS7713    PT Telekomunikasi Indonesia
 36.93.154.207    # ID  AS7713    PT Telekomunikasi Indonesia
 36.93.224.153    # ID  AS7713    PT Telekomunikasi Indonesia
+36.93.247.226    # ID  AS7713    PT Telekomunikasi Indonesia
 36.93.249.106    # ID  AS7713    PT Telekomunikasi Indonesia
 36.95.14.145     # ID  AS7713    PT Telekomunikasi Indonesia
 36.95.194.54     # ID  AS7713    PT Telekomunikasi Indonesia
@@ -911,6 +915,7 @@
 43.173.30.241    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.228.175.218   # ID  AS152025  PT Tungkal Lintas Bersama
 43.245.186.121   # ID  AS55666   PT Media Sarana Data
+43.245.249.251   # ID  AS131740  PT Smart Media Pratama
 43.252.156.204   # ID  AS55666   PT Media Sarana Data
 43.252.159.100   # ID  AS149746  PT Blip Integrator Provider
 43.252.159.101   # ID  AS149746  PT Blip Integrator Provider
