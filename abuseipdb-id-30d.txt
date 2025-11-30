@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1579
-# Last updated:           2025-11-30 02:02:59
+# Number of ips:          1584
+# Last updated:           2025-11-30 06:34:43
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -25,6 +25,7 @@
 103.105.66.26    # ID  AS17995   PT iForte Global Internet
 103.105.67.170   # ID  AS17995   PT iForte Global Internet
 103.106.115.26   # ID  AS136880  PT. Sumatra Multimedia Solusi
+103.106.216.116  # ID  AS137329  PT. ARTHA LINTAS DATA MANDIRI
 103.107.187.9    # ID  AS137300  UIN AR-RANIRY
 103.108.130.165  # ID  AS55685   PT Jala Lintas Media
 103.108.156.124  # ID  AS140454  PT Pop Net Indonesia
@@ -749,10 +750,13 @@
 116.193.190.134  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.190.177  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.190.239  # ID  AS136052  PT Cloud Hosting Indonesia
+116.193.190.5    # ID  AS136052  PT Cloud Hosting Indonesia
+116.193.190.51   # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.190.94   # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.100  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.104  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.125  # ID  AS136052  PT Cloud Hosting Indonesia
+116.193.191.137  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.159  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.201  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.206  # ID  AS136052  PT Cloud Hosting Indonesia
@@ -770,6 +774,7 @@
 117.18.16.37     # ID  AS152769  PT Gopal Network Solusindo
 117.18.17.75     # ID  AS152769  PT Gopal Network Solusindo
 117.20.58.58     # ID  AS23951   PT JEMBATAN CITRA NUSANTARA
+117.53.45.167    # ID  AS58397   PT Infinys System Indonesia
 117.53.46.209    # ID  AS58397   PT Infinys System Indonesia
 117.54.136.11    # ID  AS9340    INDO Internet, PT
 117.54.156.14    # ID  AS9340    INDO Internet, PT
