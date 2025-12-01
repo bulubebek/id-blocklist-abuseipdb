@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1562
-# Last updated:           2025-12-01 02:10:11
+# Number of ips:          1566
+# Last updated:           2025-12-01 06:38:54
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -302,6 +302,7 @@
 103.176.78.28    # ID  AS136052  PT Cloud Hosting Indonesia
 103.176.79.115   # ID  AS136052  PT Cloud Hosting Indonesia
 103.176.79.117   # ID  AS136052  PT Cloud Hosting Indonesia
+103.176.79.125   # ID  AS136052  PT Cloud Hosting Indonesia
 103.176.79.137   # ID  AS136052  PT Cloud Hosting Indonesia
 103.176.79.139   # ID  AS136052  PT Cloud Hosting Indonesia
 103.176.79.190   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -418,6 +419,7 @@
 103.191.250.38   # ID  AS149940  PT Mulia Batam Net
 103.191.58.181   # ID  AS149909  PT Panjalu Sarana Data Indonesia
 103.191.58.47    # ID  AS149909  PT Panjalu Sarana Data Indonesia
+103.191.58.50    # ID  AS149909  PT Panjalu Sarana Data Indonesia
 103.191.92.110   # ID  AS136052  PT Cloud Hosting Indonesia
 103.191.92.118   # ID  AS136052  PT Cloud Hosting Indonesia
 103.191.92.139   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -536,6 +538,7 @@
 103.3.46.135     # ID  AS56237   Universitas Lampung
 103.30.181.182   # ID  AS45302   PT DES Teknologi Informasi
 103.31.119.10    # ID  AS150263  PT Alnet Telekomunikasi Indonesia
+103.31.235.246   # ID  AS55701   PT. Usaha Adisanggoro
 103.31.38.141    # ID  AS136052  PT Cloud Hosting Indonesia
 103.31.38.163    # ID  AS136052  PT Cloud Hosting Indonesia
 103.31.38.209    # ID  AS136052  PT Cloud Hosting Indonesia
@@ -1226,6 +1229,7 @@
 202.51.216.106   # ID  AS55685   PT Jala Lintas Media
 202.51.216.108   # ID  AS55685   PT Jala Lintas Media
 202.51.216.111   # ID  AS55685   PT Jala Lintas Media
+202.51.216.112   # ID  AS55685   PT Jala Lintas Media
 202.51.216.114   # ID  AS55685   PT Jala Lintas Media
 202.51.216.115   # ID  AS55685   PT Jala Lintas Media
 202.51.216.118   # ID  AS55685   PT Jala Lintas Media

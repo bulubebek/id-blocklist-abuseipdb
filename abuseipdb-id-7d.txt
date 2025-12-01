@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          922
-# Last updated:           2025-12-01 02:10:12
+# Number of ips:          930
+# Last updated:           2025-12-01 06:38:54
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -78,6 +78,8 @@
 103.150.113.254  # ID  AS17995   PT iForte Global Internet
 103.150.226.139  # ID  AS133800  PT Biznet Gio Nusantara
 103.151.214.12   # ID  AS58495   PT Parsaoran Global Datatrans
+103.151.63.80    # ID  AS140410  Politeknik Negeri Lampung
+103.151.63.81    # ID  AS140410  Politeknik Negeri Lampung
 103.152.36.150   # ID  AS140433  PT. Colo Media Netindo
 103.153.190.105  # ID  AS140469  PT Wahyu Adidaya Network
 103.153.35.1     # ID  AS140452  PT Jaya Media Expres
@@ -187,6 +189,7 @@
 103.176.78.28    # ID  AS136052  PT Cloud Hosting Indonesia
 103.176.79.115   # ID  AS136052  PT Cloud Hosting Indonesia
 103.176.79.117   # ID  AS136052  PT Cloud Hosting Indonesia
+103.176.79.125   # ID  AS136052  PT Cloud Hosting Indonesia
 103.176.79.137   # ID  AS136052  PT Cloud Hosting Indonesia
 103.176.79.139   # ID  AS136052  PT Cloud Hosting Indonesia
 103.176.79.190   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -270,6 +273,7 @@
 103.190.214.241  # ID  AS38513   PT Aplikanusa Lintasarta
 103.191.14.112   # ID  AS38513   PT Aplikanusa Lintasarta
 103.191.15.151   # ID  AS38513   PT Aplikanusa Lintasarta
+103.191.58.50    # ID  AS149909  PT Panjalu Sarana Data Indonesia
 103.191.92.118   # ID  AS136052  PT Cloud Hosting Indonesia
 103.193.145.7    # ID  AS58821   PT Lintas Jaringan Nusantara
 103.193.15.48    # ID  AS134612  PT Atria Teknologi Indonesia
@@ -352,6 +356,7 @@
 103.29.185.162   # ID  AS56260   PT Pascal Indonesia
 103.3.46.135     # ID  AS56237   Universitas Lampung
 103.31.119.10    # ID  AS150263  PT Alnet Telekomunikasi Indonesia
+103.31.235.246   # ID  AS55701   PT. Usaha Adisanggoro
 103.31.38.141    # ID  AS136052  PT Cloud Hosting Indonesia
 103.31.38.163    # ID  AS136052  PT Cloud Hosting Indonesia
 103.31.38.209    # ID  AS136052  PT Cloud Hosting Indonesia
@@ -758,6 +763,7 @@
 202.51.214.98    # ID  AS10220   PT. Kreasi Sejahtera Teknologi
 202.51.214.99    # ID  AS10220   PT. Kreasi Sejahtera Teknologi
 202.51.216.108   # ID  AS55685   PT Jala Lintas Media
+202.51.216.112   # ID  AS55685   PT Jala Lintas Media
 202.51.216.119   # ID  AS55685   PT Jala Lintas Media
 202.51.97.204    # ID  AS17995   PT iForte Global Internet
 202.56.167.206   # ID  AS45305   Lintas Data Prima, PT
@@ -771,6 +777,7 @@
 202.58.74.231    # ID  AS138886  PT Data Buana Nusantara
 202.59.194.246   # ID  AS63859   PT. Eka Mas Republik
 202.62.8.90      # ID  AS9341    PT INDONESIA COMNETS PLUS
+202.73.26.78     # ID  AS141892  CV Andhika Pratama Sanggoro
 202.74.239.125   # ID  AS131775  PT. Jupiter Jala Arta
 202.75.28.243    # ID  AS138871  PT. Trans Indonesia Superkoridor
 202.83.120.202   # ID  AS131745  PT. Cybertechtonic Pratama
@@ -903,6 +910,7 @@
 43.173.1.57      # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.173.1.69      # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.228.175.218   # ID  AS152025  PT Tungkal Lintas Bersama
+43.229.254.199   # ID  AS23679   PT. Media Antar Nusa
 43.245.186.121   # ID  AS55666   PT Media Sarana Data
 43.245.249.251   # ID  AS131740  PT Smart Media Pratama
 43.252.156.204   # ID  AS55666   PT Media Sarana Data
