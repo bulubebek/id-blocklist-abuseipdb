@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          919
-# Last updated:           2025-12-03 01:53:22
+# Number of ips:          924
+# Last updated:           2025-12-03 06:37:02
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -137,6 +137,7 @@
 103.168.159.158  # ID  AS142317  PT Cover Network Indonesia
 103.168.21.194   # ID  AS142329  Universitas Palangkaraya
 103.169.255.128  # ID  AS142370  PT Master Star Network
+103.17.244.171   # ID  AS55666   PT Media Sarana Data
 103.171.158.78   # ID  AS63859   PT. Eka Mas Republik
 103.171.31.37    # ID  AS131111  PT Mora Telematika Indonesia
 103.171.84.20    # ID  AS136052  PT Cloud Hosting Indonesia
@@ -276,6 +277,7 @@
 103.191.14.112   # ID  AS38513   PT Aplikanusa Lintasarta
 103.191.14.210   # ID  AS38513   PT Aplikanusa Lintasarta
 103.191.15.151   # ID  AS38513   PT Aplikanusa Lintasarta
+103.191.250.48   # ID  AS149940  PT Mulia Batam Net
 103.191.58.50    # ID  AS149909  PT Panjalu Sarana Data Indonesia
 103.191.92.118   # ID  AS136052  PT Cloud Hosting Indonesia
 103.193.145.7    # ID  AS58821   PT Lintas Jaringan Nusantara
@@ -853,6 +855,7 @@
 36.66.16.233     # ID  AS7713    PT Telekomunikasi Indonesia
 36.66.7.82       # ID  AS7713    PT Telekomunikasi Indonesia
 36.66.74.234     # ID  AS7713    PT Telekomunikasi Indonesia
+36.67.0.67       # ID  AS7713    PT Telekomunikasi Indonesia
 36.67.11.250     # ID  AS7713    PT Telekomunikasi Indonesia
 36.67.192.254    # ID  AS7713    PT Telekomunikasi Indonesia
 36.67.197.20     # ID  AS7713    PT Telekomunikasi Indonesia
@@ -860,6 +863,7 @@
 36.69.152.146    # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.165.196    # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.227.7      # ID  AS7713    PT Telekomunikasi Indonesia
+36.71.183.202    # ID  AS7713    PT Telekomunikasi Indonesia
 36.75.247.56     # ID  AS7713    PT Telekomunikasi Indonesia
 36.77.29.212     # ID  AS7713    PT Telekomunikasi Indonesia
 36.81.237.33     # ID  AS7713    PT Telekomunikasi Indonesia
@@ -927,4 +931,5 @@
 8.215.33.203     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.43.101     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.69.55      # ID  AS45102   Alibaba (US) Technology Co., Ltd.
+89.21.85.114     # ID  AS141892  CV Andhika Pratama Sanggoro
 93.185.162.142   # ID  AS209854  Cyberzone S.A.
