@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1126
-# Last updated:           2025-12-05 06:37:03
+# Number of ips:          1127
+# Last updated:           2025-12-05 12:50:16
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -844,6 +844,7 @@
 182.253.54.114   # ID  AS17451   BIZNET NETWORKS
 182.253.54.29    # ID  AS17451   BIZNET NETWORKS
 182.253.54.53    # ID  AS17451   BIZNET NETWORKS
+182.253.54.54    # ID  AS17451   BIZNET NETWORKS
 182.253.54.63    # ID  AS17451   BIZNET NETWORKS
 182.253.58.139   # ID  AS17451   BIZNET NETWORKS
 182.253.79.194   # ID  AS17451   BIZNET NETWORKS
