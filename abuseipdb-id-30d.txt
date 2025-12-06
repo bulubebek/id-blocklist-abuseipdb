@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1558
-# Last updated:           2025-12-06 06:33:19
+# Number of ips:          1561
+# Last updated:           2025-12-06 12:44:22
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -68,6 +68,7 @@
 103.126.201.184  # ID  AS138113  PT Amron Citinet
 103.126.238.10   # ID  AS150503  PT Indo Tungkal Net
 103.126.86.73    # ID  AS138109  PT. Rasi Bintang Perkasa
+103.126.87.30    # ID  AS138109  PT. Rasi Bintang Perkasa
 103.127.136.111  # ID  AS133800  PT Biznet Gio Nusantara
 103.127.99.117   # ID  AS133800  PT Biznet Gio Nusantara
 103.13.138.22    # ID  AS150215  PT Era Bangun Indonesia
@@ -315,6 +316,7 @@
 103.176.79.58    # ID  AS136052  PT Cloud Hosting Indonesia
 103.176.79.6     # ID  AS136052  PT Cloud Hosting Indonesia
 103.176.97.35    # ID  AS147131  PT Global Sarana Elektronika
+103.176.99.34    # ID  AS149344  PT Dhoho Mitra Abadi
 103.177.11.101   # ID  AS147164  PT Nalendra Gigantara Media
 103.178.153.248  # ID  AS140443  PT Herza Digital Indonesia
 103.178.171.107  # ID  AS139952  PT Trisari Data Indonusa
@@ -854,6 +856,7 @@
 125.213.152.34   # ID  AS4800    PT Aplikanusa Lintasarta
 139.0.106.151    # ID  AS23700   Linknet-Fastnet ASN
 139.0.23.123     # ID  AS9905    Linknet ASN
+139.0.23.124     # ID  AS9905    Linknet ASN
 139.0.230.175    # ID  AS23700   Linknet-Fastnet ASN
 139.0.240.132    # ID  AS23700   Linknet-Fastnet ASN
 139.192.187.152  # ID  AS23700   Linknet-Fastnet ASN
