@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1540
-# Last updated:           2025-12-08 01:55:23
+# Number of ips:          1542
+# Last updated:           2025-12-08 06:39:50
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -99,6 +99,7 @@
 103.140.130.60   # ID  AS138866  PT Mitra Media Data
 103.140.34.106   # ID  AS58369   PT. Fiber Networks Indonesia
 103.141.148.93   # ID  AS138890  PT Acehlink Media
+103.141.150.182  # ID  AS133815  PT Primacom Interbuana
 103.141.255.141  # ID  AS131769  PT Mayatama Solusindo
 103.142.255.23   # ID  AS139381  PT.CITRA BERDIKARI NUSANTARA
 103.144.102.95   # ID  AS139421  PT Dharma Sarana Solusindo
@@ -1158,6 +1159,7 @@
 202.10.48.71     # ID  AS58487   CV. Rumahweb Indonesia
 202.10.48.78     # ID  AS58487   CV. Rumahweb Indonesia
 202.122.13.130   # ID  AS24209   PT. Inter Media Lintas Nusa
+202.122.13.93    # ID  AS24209   PT. Inter Media Lintas Nusa
 202.122.8.58     # ID  AS24209   PT. Inter Media Lintas Nusa
 202.125.100.20   # ID  AS45700   PT. NAP Info Lintas Nusa
 202.125.94.71    # ID  AS46042   Gunadarma University
