@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1583
-# Last updated:           2025-12-09 06:37:57
+# Number of ips:          1590
+# Last updated:           2025-12-09 12:52:44
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -465,6 +465,7 @@
 103.207.97.111   # ID  AS134643  PT Jaya Kartha Solusindo
 103.207.99.1     # ID  AS134643  PT Jaya Kartha Solusindo
 103.209.1.145    # ID  AS134650  Politeknik Negeri Batam
+103.21.84.2      # ID  AS45786   PT. Hawk Teknologi Solusi
 103.210.69.38    # ID  AS141107  PT Linkgo Metro Teknologi
 103.210.69.81    # ID  AS141107  PT Linkgo Metro Teknologi
 103.211.160.228  # ID  AS131769  PT Mayatama Solusindo
@@ -515,6 +516,7 @@
 103.226.139.216  # ID  AS136052  PT Cloud Hosting Indonesia
 103.227.243.217  # ID  AS59278   PT Jaringan VNT Indonesia
 103.227.254.59   # ID  AS59279   PT Raja Mitra Informatika
+103.228.118.162  # ID  AS59281   PT Sumber Koneksi Indonesia
 103.228.242.209  # ID  AS45700   PT. NAP Info Lintas Nusa
 103.228.246.148  # ID  AS59282   PT Giga Patra Multimedia
 103.23.198.111   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -747,6 +749,7 @@
 110.239.65.14    # ID  AS136907  HUAWEI CLOUDS
 111.95.21.147    # ID  AS23700   Linknet-Fastnet ASN
 111.95.219.32    # ID  AS23700   Linknet-Fastnet ASN
+111.95.57.202    # ID  AS23700   Linknet-Fastnet ASN
 112.78.135.82    # ID  AS38482   Biznet ISP
 112.78.138.82    # ID  AS17451   BIZNET NETWORKS
 112.78.177.43    # ID  AS17451   BIZNET NETWORKS
@@ -777,6 +780,7 @@
 116.193.190.134  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.190.177  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.190.239  # ID  AS136052  PT Cloud Hosting Indonesia
+116.193.190.37   # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.190.5    # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.190.51   # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.190.94   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -806,6 +810,7 @@
 118.136.157.14   # ID  AS23700   Linknet-Fastnet ASN
 118.137.156.174  # ID  AS23700   Linknet-Fastnet ASN
 118.137.160.210  # ID  AS23700   Linknet-Fastnet ASN
+118.137.71.8     # ID  AS23700   Linknet-Fastnet ASN
 118.137.94.178   # ID  AS23700   Linknet-Fastnet ASN
 118.97.46.244    # ID  AS7713    PT Telekomunikasi Indonesia
 118.97.53.100    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1135,6 +1140,7 @@
 180.253.182.80   # ID  AS7713    PT Telekomunikasi Indonesia
 180.253.32.193   # ID  AS7713    PT Telekomunikasi Indonesia
 180.253.46.27    # ID  AS7713    PT Telekomunikasi Indonesia
+180.254.102.62   # ID  AS7713    PT Telekomunikasi Indonesia
 182.10.129.192   # ID  AS23693   PT. Telekomunikasi Selular
 182.10.161.105   # ID  AS23693   PT. Telekomunikasi Selular
 182.10.161.238   # ID  AS23693   PT. Telekomunikasi Selular
@@ -1346,6 +1352,7 @@
 27.112.78.77     # ID  AS136052  PT Cloud Hosting Indonesia
 27.112.78.80     # ID  AS136052  PT Cloud Hosting Indonesia
 27.112.78.95     # ID  AS136052  PT Cloud Hosting Indonesia
+27.112.78.97     # ID  AS136052  PT Cloud Hosting Indonesia
 27.112.79.123    # ID  AS136052  PT Cloud Hosting Indonesia
 27.112.79.174    # ID  AS136052  PT Cloud Hosting Indonesia
 27.112.79.178    # ID  AS136052  PT Cloud Hosting Indonesia
