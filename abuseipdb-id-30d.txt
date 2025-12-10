@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1551
-# Last updated:           2025-12-10 06:38:14
+# Number of ips:          1560
+# Last updated:           2025-12-10 12:53:11
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -21,6 +21,7 @@
 103.1.51.223     # ID  AS142352  PT. PRATAMA HASTA UTAMA SOLUSINDO
 103.101.216.218  # ID  AS150941  PT Duta Trans Nusantara Network
 103.101.225.22   # ID  AS134612  PT Atria Teknologi Indonesia
+103.102.152.219  # ID  AS58404   PT Qwords Company International
 103.102.152.243  # ID  AS58404   PT Qwords Company International
 103.102.248.227  # ID  AS131769  PT Mayatama Solusindo
 103.103.145.130  # ID  AS136861  PT. ARTAMEDIA CITRA TELEMATIKA INDONESIA
@@ -421,6 +422,7 @@
 103.19.59.177    # ID  AS132637  PT BINA INFORMATIKA SOLUSI
 103.19.78.227    # ID  AS149359  PT Persada Data Multimedia
 103.190.214.241  # ID  AS38513   PT Aplikanusa Lintasarta
+103.191.129.134  # ID  AS149920  PT Metro Ring Bersama
 103.191.14.112   # ID  AS38513   PT Aplikanusa Lintasarta
 103.191.14.210   # ID  AS38513   PT Aplikanusa Lintasarta
 103.191.14.243   # ID  AS38513   PT Aplikanusa Lintasarta
@@ -637,6 +639,7 @@
 103.65.236.153   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.65.236.169   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.65.237.124   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
+103.65.237.194   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.65.237.216   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.67.244.227   # ID  AS138115  PT Deneva
 103.67.42.1      # ID  AS38513   PT Aplikanusa Lintasarta
@@ -792,6 +795,8 @@
 117.54.136.11    # ID  AS9340    INDO Internet, PT
 118.136.14.38    # ID  AS23700   Linknet-Fastnet ASN
 118.136.157.14   # ID  AS23700   Linknet-Fastnet ASN
+118.136.43.122   # ID  AS23700   Linknet-Fastnet ASN
+118.136.84.15    # ID  AS23700   Linknet-Fastnet ASN
 118.137.156.174  # ID  AS23700   Linknet-Fastnet ASN
 118.137.160.210  # ID  AS23700   Linknet-Fastnet ASN
 118.137.71.8     # ID  AS23700   Linknet-Fastnet ASN
@@ -925,6 +930,8 @@
 157.10.253.188   # ID  AS136052  PT Cloud Hosting Indonesia
 157.10.253.49    # ID  AS136052  PT Cloud Hosting Indonesia
 157.119.223.3    # ID  AS45302   PT DES Teknologi Informasi
+157.15.1.164     # ID  AS152769  PT Gopal Network Solusindo
+157.15.1.165     # ID  AS152769  PT Gopal Network Solusindo
 157.15.1.167     # ID  AS152769  PT Gopal Network Solusindo
 157.15.124.34    # ID  AS138115  PT Deneva
 157.15.4.133     # ID  AS152358  PT Gema Teknologi Cahaya Gemilang
@@ -1002,6 +1009,7 @@
 157.66.56.47     # ID  AS58477   Argon Data Communication
 158.140.164.179  # ID  AS63859   PT. Eka Mas Republik
 16.79.186.202    # ID  AS16509   Amazon.com, Inc.
+160.187.174.1    # ID  AS153135  PT Netindo Persada Nusantara
 160.187.174.22   # ID  AS153135  PT Netindo Persada Nusantara
 160.187.174.254  # ID  AS153135  PT Netindo Persada Nusantara
 160.19.18.49     # ID  AS149360  PT Indo Telemedia Solusi
@@ -1315,6 +1323,7 @@
 223.27.148.107   # ID  AS38496   PT Cyber Network Indonesia
 27.111.32.174    # ID  AS24532   PT. Inet Global Indo
 27.112.70.210    # ID  AS46063   PT.Graha Telekomunikasi Indonesia
+27.112.70.211    # ID  AS46063   PT.Graha Telekomunikasi Indonesia
 27.112.78.170    # ID  AS136052  PT Cloud Hosting Indonesia
 27.112.78.177    # ID  AS136052  PT Cloud Hosting Indonesia
 27.112.78.223    # ID  AS136052  PT Cloud Hosting Indonesia
