@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1148
-# Last updated:           2025-12-11 01:58:06
+# Number of ips:          1156
+# Last updated:           2025-12-11 06:39:00
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -36,6 +36,7 @@
 103.108.156.125  # ID  AS140454  PT Pop Net Indonesia
 103.110.9.212    # ID  AS131717  PT Citra Jelajah Informatika
 103.112.163.154  # ID  AS137331  PT Cloud Teknologi Nusantara
+103.112.245.93   # ID  AS136107  PT. Tujuh Ion Indonesia
 103.113.135.82   # ID  AS4787    PT Cyberindo Aditama
 103.113.50.214   # ID  AS4787    PT Cyberindo Aditama
 103.114.112.242  # ID  AS4787    PT Cyberindo Aditama
@@ -98,6 +99,7 @@
 103.148.195.191  # ID  AS139996  DINAS KOMUNIKASI DAN INFORMATIKA KABUPATEN TABANAN
 103.148.49.205   # ID  AS139983  PT. Borneo Cakrawala Media
 103.148.89.142   # ID  AS140421  PT APLIKA DATA NUSANTARA
+103.149.230.119  # ID  AS133815  PT Primacom Interbuana
 103.149.230.61   # ID  AS133815  PT Primacom Interbuana
 103.150.113.254  # ID  AS17995   PT iForte Global Internet
 103.150.226.139  # ID  AS133800  PT Biznet Gio Nusantara
@@ -487,6 +489,7 @@
 103.55.28.100    # ID  AS150487  PT Nusantara Akses Telekomunikasi
 103.55.36.22     # ID  AS136052  PT Cloud Hosting Indonesia
 103.56.148.108   # ID  AS55688   PT. Beon Intermedia
+103.56.235.50    # ID  AS131111  PT Mora Telematika Indonesia
 103.59.160.148   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.170   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.179   # ID  AS150493  PT Gunung Sedayu Sentosa
@@ -595,6 +598,7 @@
 110.136.185.72   # ID  AS7713    PT Telekomunikasi Indonesia
 110.136.190.20   # ID  AS7713    PT Telekomunikasi Indonesia
 110.137.100.120  # ID  AS7713    PT Telekomunikasi Indonesia
+111.95.137.100   # ID  AS23700   Linknet-Fastnet ASN
 111.95.28.61     # ID  AS23700   Linknet-Fastnet ASN
 111.95.57.202    # ID  AS23700   Linknet-Fastnet ASN
 112.78.135.82    # ID  AS38482   Biznet ISP
@@ -743,8 +747,10 @@
 157.15.40.62     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.74     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.76     # ID  AS139952  PT Trisari Data Indonusa
+157.15.40.8      # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.83     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.85     # ID  AS139952  PT Trisari Data Indonusa
+157.15.40.88     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.90     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.91     # ID  AS139952  PT Trisari Data Indonusa
 157.15.66.94     # ID  AS152377  PT Trimitra Aditama Koneksindo
@@ -823,6 +829,7 @@
 165.154.49.137   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 165.99.102.4     # ID  AS153938  PT Digital Omni Telekomunikasi
 165.99.102.5     # ID  AS153938  PT Digital Omni Telekomunikasi
+168.110.212.136  # ID  AS31898   Oracle Corporation
 172.235.246.151  # ID  AS63949   Akamai Connected Cloud
 175.106.13.35    # ID  AS46023   PT Quantum Tera Network
 175.111.117.146  # ID  AS46026   BATAM BINTAN TELEKOMUNIKASI, PT
@@ -896,6 +903,7 @@
 202.10.41.223    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.45.109    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.45.61     # ID  AS58487   CV. Rumahweb Indonesia
+202.122.10.70    # ID  AS24209   PT. Inter Media Lintas Nusa
 202.122.13.130   # ID  AS24209   PT. Inter Media Lintas Nusa
 202.122.13.178   # ID  AS24209   PT. Inter Media Lintas Nusa
 202.122.13.93    # ID  AS24209   PT. Inter Media Lintas Nusa
