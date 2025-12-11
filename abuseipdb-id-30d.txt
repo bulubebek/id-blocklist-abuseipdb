@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1537
-# Last updated:           2025-12-11 12:54:26
+# Number of ips:          1544
+# Last updated:           2025-12-11 18:35:43
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -70,6 +70,7 @@
 103.126.87.30    # ID  AS138109  PT. Rasi Bintang Perkasa
 103.127.136.111  # ID  AS133800  PT Biznet Gio Nusantara
 103.127.99.117   # ID  AS133800  PT Biznet Gio Nusantara
+103.129.148.48   # ID  AS133800  PT Biznet Gio Nusantara
 103.13.138.22    # ID  AS150215  PT Era Bangun Indonesia
 103.13.235.115   # ID  AS150232  PT Disafa Cahaya Utama
 103.130.167.81   # ID  AS63859   PT. Eka Mas Republik
@@ -275,9 +276,11 @@
 103.174.115.61   # ID  AS136052  PT Cloud Hosting Indonesia
 103.174.115.72   # ID  AS136052  PT Cloud Hosting Indonesia
 103.174.115.91   # ID  AS136052  PT Cloud Hosting Indonesia
+103.174.122.173  # ID  AS147096  PT Jaya Sejahtra Nugraha
 103.174.19.82    # ID  AS131111  PT Mora Telematika Indonesia
 103.174.19.83    # ID  AS131111  PT Mora Telematika Indonesia
 103.175.206.22   # ID  AS147124  PT Hostingan Awan Indonesia
+103.175.236.117  # ID  AS147121  PT Marva Global Telekomunikasi
 103.175.236.26   # ID  AS147121  PT Marva Global Telekomunikasi
 103.175.237.29   # ID  AS147121  PT Marva Global Telekomunikasi
 103.175.45.2     # ID  AS131111  PT Mora Telematika Indonesia
@@ -326,6 +329,7 @@
 103.179.57.150   # ID  AS136052  PT Cloud Hosting Indonesia
 103.179.57.27    # ID  AS136052  PT Cloud Hosting Indonesia
 103.179.57.31    # ID  AS136052  PT Cloud Hosting Indonesia
+103.179.65.74    # ID  AS149335  PT Gogiga Media Teknologi
 103.18.133.253   # ID  AS55693   PT. Bangun Abadi Teknologi Indonesia
 103.18.78.45     # ID  AS55701   PT. Usaha Adisanggoro
 103.18.78.46     # ID  AS55701   PT. Usaha Adisanggoro
@@ -402,6 +406,7 @@
 103.187.165.26   # ID  AS149897  PT Amanusa Telemedia Mahardika
 103.188.173.124  # ID  AS149736  PT Satria Digital Media
 103.188.173.178  # ID  AS149736  PT Satria Digital Media
+103.188.173.22   # ID  AS149736  PT Satria Digital Media
 103.188.173.54   # ID  AS149736  PT Satria Digital Media
 103.188.177.46   # ID  AS149734  PEDEE
 103.188.38.178   # ID  AS4800    PT Aplikanusa Lintasarta
@@ -784,6 +789,7 @@
 117.20.58.58     # ID  AS23951   PT JEMBATAN CITRA NUSANTARA
 117.53.45.167    # ID  AS58397   PT Infinys System Indonesia
 117.54.136.11    # ID  AS9340    INDO Internet, PT
+118.136.110.189  # ID  AS23700   Linknet-Fastnet ASN
 118.136.14.38    # ID  AS23700   Linknet-Fastnet ASN
 118.136.157.14   # ID  AS23700   Linknet-Fastnet ASN
 118.136.43.122   # ID  AS23700   Linknet-Fastnet ASN
@@ -1461,6 +1467,7 @@
 36.94.105.46     # ID  AS7713    PT Telekomunikasi Indonesia
 36.94.166.203    # ID  AS7713    PT Telekomunikasi Indonesia
 36.94.2.139      # ID  AS7713    PT Telekomunikasi Indonesia
+36.94.2.141      # ID  AS7713    PT Telekomunikasi Indonesia
 36.94.237.123    # ID  AS7713    PT Telekomunikasi Indonesia
 36.95.14.145     # ID  AS7713    PT Telekomunikasi Indonesia
 36.95.147.117    # ID  AS7713    PT Telekomunikasi Indonesia
