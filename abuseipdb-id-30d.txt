@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1510
-# Last updated:           2025-12-13 06:34:55
+# Number of ips:          1515
+# Last updated:           2025-12-13 12:45:43
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -205,6 +205,7 @@
 103.165.37.68    # ID  AS17995   PT iForte Global Internet
 103.166.105.26   # ID  AS17995   PT iForte Global Internet
 103.166.226.235  # ID  AS141959  PT Arta Flash Sintesa Nusantara
+103.166.254.66   # ID  AS141966  PT Instanet Media Nusantara
 103.167.217.137  # ID  AS142367  Institut Teknologi Del
 103.167.4.155    # ID  AS17995   PT iForte Global Internet
 103.167.5.174    # ID  AS17995   PT iForte Global Internet
@@ -329,6 +330,7 @@
 103.18.79.204    # ID  AS55701   PT. Usaha Adisanggoro
 103.18.79.82     # ID  AS55701   PT. Usaha Adisanggoro
 103.180.162.183  # ID  AS149377  PT Komit Kreasi Indonesia
+103.180.196.36   # ID  AS149369  PT Dekadata Lingkar Nusantara
 103.180.196.6    # ID  AS149369  PT Dekadata Lingkar Nusantara
 103.181.142.219  # ID  AS136052  PT Cloud Hosting Indonesia
 103.181.142.22   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -535,6 +537,7 @@
 103.27.206.169   # ID  AS55688   PT. Beon Intermedia
 103.27.206.6     # ID  AS55688   PT. Beon Intermedia
 103.27.36.4      # ID  AS132670  PT Aseli Dagadu Djokdja
+103.28.112.182   # ID  AS45305   Lintas Data Prima, PT
 103.28.221.44    # ID  AS58492   Universitas Islam Sultan Agung
 103.28.57.98     # ID  AS58474   PT. MATRIXNET GLOBAL INDONESIA
 103.29.185.162   # ID  AS56260   PT Pascal Indonesia
@@ -806,6 +809,7 @@
 119.47.90.13     # ID  AS38527   JAWA POS NATIONAL NETWORK MEDIALINK, PT
 119.82.240.10    # ID  AS24521   PT. DATA Utama Dinamika
 121.101.133.67   # ID  AS131706  PT SELARAS CITRA TERABIT
+121.101.134.141  # ID  AS131706  PT SELARAS CITRA TERABIT
 121.101.185.26   # ID  AS38785   PT. BORNEO BROADBAND TECHNOLOGY
 122.102.45.170   # ID  AS38758   PT. HIPERNET INDODATA
 123.231.151.130  # ID  AS4800    PT Aplikanusa Lintasarta
@@ -1129,6 +1133,7 @@
 182.253.58.188   # ID  AS17451   BIZNET NETWORKS
 182.253.79.194   # ID  AS17451   BIZNET NETWORKS
 182.50.249.59    # ID  AS45786   PT. Hawk Teknologi Solusi
+182.8.161.0      # ID  AS23693   PT. Telekomunikasi Selular
 182.8.161.141    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.179.96     # ID  AS23693   PT. Telekomunikasi Selular
 182.8.182.186    # ID  AS23693   PT. Telekomunikasi Selular
