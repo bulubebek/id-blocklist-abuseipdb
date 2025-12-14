@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          957
-# Last updated:           2025-12-14 02:03:51
+# Number of ips:          963
+# Last updated:           2025-12-14 06:34:51
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -21,12 +21,14 @@
 103.105.64.146   # ID  AS17995   PT iForte Global Internet
 103.105.66.26    # ID  AS17995   PT iForte Global Internet
 103.105.67.170   # ID  AS17995   PT iForte Global Internet
+103.105.69.42    # ID  AS17995   PT iForte Global Internet
 103.105.69.45    # ID  AS17995   PT iForte Global Internet
 103.106.216.116  # ID  AS137329  PT. ARTHA LINTAS DATA MANDIRI
 103.106.76.90    # ID  AS46023   PT Quantum Tera Network
 103.107.187.9    # ID  AS137300  UIN AR-RANIRY
 103.108.156.124  # ID  AS140454  PT Pop Net Indonesia
 103.108.156.125  # ID  AS140454  PT Pop Net Indonesia
+103.108.157.209  # ID  AS140454  PT Pop Net Indonesia
 103.110.9.212    # ID  AS131717  PT Citra Jelajah Informatika
 103.112.245.93   # ID  AS136107  PT. Tujuh Ion Indonesia
 103.113.135.82   # ID  AS4787    PT Cyberindo Aditama
@@ -280,6 +282,7 @@
 103.188.173.22   # ID  AS149736  PT Satria Digital Media
 103.188.173.54   # ID  AS149736  PT Satria Digital Media
 103.188.177.46   # ID  AS149734  PEDEE
+103.188.38.178   # ID  AS4800    PT Aplikanusa Lintasarta
 103.189.169.122  # ID  AS9341    PT INDONESIA COMNETS PLUS
 103.189.201.143  # ID  AS9341    PT INDONESIA COMNETS PLUS
 103.19.59.177    # ID  AS132637  PT BINA INFORMATIKA SOLUSI
@@ -503,6 +506,7 @@
 103.98.176.164   # ID  AS136827  Universitas PGRI Semarang
 109.110.188.166  # ID  AS199695  PT Anym Network Indonesia
 110.137.100.120  # ID  AS7713    PT Telekomunikasi Indonesia
+110.5.104.162    # ID  AS24523   Orion Cyber Internet
 111.95.0.254     # ID  AS23700   Linknet-Fastnet ASN
 111.95.137.100   # ID  AS23700   Linknet-Fastnet ASN
 111.95.2.235     # ID  AS23700   Linknet-Fastnet ASN
@@ -895,6 +899,7 @@
 36.91.108.27     # ID  AS7713    PT Telekomunikasi Indonesia
 36.91.166.189    # ID  AS7713    PT Telekomunikasi Indonesia
 36.91.166.34     # ID  AS7713    PT Telekomunikasi Indonesia
+36.91.6.18       # ID  AS7713    PT Telekomunikasi Indonesia
 36.91.81.195     # ID  AS7713    PT Telekomunikasi Indonesia
 36.92.107.106    # ID  AS7713    PT Telekomunikasi Indonesia
 36.92.108.10     # ID  AS7713    PT Telekomunikasi Indonesia
@@ -966,3 +971,4 @@
 8.215.69.55      # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 89.21.85.150     # ID  AS141892  CV Andhika Pratama Sanggoro
 89.21.85.26      # ID  AS141892  CV Andhika Pratama Sanggoro
+93.185.162.118   # ID  AS209854  Cyberzone S.A.
