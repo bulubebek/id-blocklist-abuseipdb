@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          968
-# Last updated:           2025-12-15 06:40:47
+# Number of ips:          974
+# Last updated:           2025-12-15 12:55:14
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -322,6 +322,7 @@
 103.213.234.150  # ID  AS151003  PT. Tri Akses Nusantara
 103.214.112.160  # ID  AS136052  PT Cloud Hosting Indonesia
 103.214.112.63   # ID  AS136052  PT Cloud Hosting Indonesia
+103.214.112.75   # ID  AS136052  PT Cloud Hosting Indonesia
 103.214.229.236  # ID  AS64030   Politeknik Negeri Semarang
 103.214.55.7     # ID  AS38517   PT.Bangsawan Cyberindo
 103.215.25.250   # ID  AS9341    PT INDONESIA COMNETS PLUS
@@ -504,6 +505,7 @@
 103.98.176.164   # ID  AS136827  Universitas PGRI Semarang
 109.110.188.166  # ID  AS199695  PT Anym Network Indonesia
 110.137.100.120  # ID  AS7713    PT Telekomunikasi Indonesia
+110.138.132.112  # ID  AS7713    PT Telekomunikasi Indonesia
 110.5.104.162    # ID  AS24523   Orion Cyber Internet
 111.95.0.254     # ID  AS23700   Linknet-Fastnet ASN
 111.95.137.100   # ID  AS23700   Linknet-Fastnet ASN
@@ -586,6 +588,7 @@
 125.163.65.88    # ID  AS7713    PT Telekomunikasi Indonesia
 125.164.38.8     # ID  AS7713    PT Telekomunikasi Indonesia
 125.164.42.102   # ID  AS7713    PT Telekomunikasi Indonesia
+125.166.17.129   # ID  AS7713    PT Telekomunikasi Indonesia
 125.213.152.34   # ID  AS4800    PT Aplikanusa Lintasarta
 139.0.23.123     # ID  AS9905    Linknet ASN
 139.0.23.124     # ID  AS9905    Linknet ASN
@@ -612,6 +615,7 @@
 157.10.252.69    # ID  AS136052  PT Cloud Hosting Indonesia
 157.10.253.188   # ID  AS136052  PT Cloud Hosting Indonesia
 157.119.223.3    # ID  AS45302   PT DES Teknologi Informasi
+157.15.1.160     # ID  AS152769  PT Gopal Network Solusindo
 157.15.1.164     # ID  AS152769  PT Gopal Network Solusindo
 157.15.1.165     # ID  AS152769  PT Gopal Network Solusindo
 157.15.1.167     # ID  AS152769  PT Gopal Network Solusindo
@@ -726,6 +730,7 @@
 182.253.48.81    # ID  AS17451   BIZNET NETWORKS
 182.253.54.82    # ID  AS17451   BIZNET NETWORKS
 182.253.58.115   # ID  AS17451   BIZNET NETWORKS
+182.253.58.139   # ID  AS17451   BIZNET NETWORKS
 182.253.79.194   # ID  AS17451   BIZNET NETWORKS
 182.8.161.0      # ID  AS23693   PT. Telekomunikasi Selular
 182.8.179.96     # ID  AS23693   PT. Telekomunikasi Selular
@@ -886,6 +891,7 @@
 36.67.9.186      # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.153.140    # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.154.4      # ID  AS7713    PT Telekomunikasi Indonesia
+36.70.192.20     # ID  AS7713    PT Telekomunikasi Indonesia
 36.71.168.96     # ID  AS7713    PT Telekomunikasi Indonesia
 36.71.181.51     # ID  AS7713    PT Telekomunikasi Indonesia
 36.71.183.202    # ID  AS7713    PT Telekomunikasi Indonesia
