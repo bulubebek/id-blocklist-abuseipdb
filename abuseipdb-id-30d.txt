@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1488
-# Last updated:           2025-12-15 12:55:13
+# Number of ips:          1493
+# Last updated:           2025-12-15 18:37:16
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -18,6 +18,7 @@
 101.50.0.34      # ID  AS55688   PT. Beon Intermedia
 101.50.2.97      # ID  AS55688   PT. Beon Intermedia
 103.1.51.223     # ID  AS142352  PT. PRATAMA HASTA UTAMA SOLUSINDO
+103.10.61.114    # ID  AS38758   PT. HIPERNET INDODATA
 103.101.216.218  # ID  AS150941  PT Duta Trans Nusantara Network
 103.101.225.22   # ID  AS134612  PT Atria Teknologi Indonesia
 103.102.152.219  # ID  AS58404   PT Qwords Company International
@@ -108,6 +109,7 @@
 103.146.202.174  # ID  AS136052  PT Cloud Hosting Indonesia
 103.146.202.84   # ID  AS136052  PT Cloud Hosting Indonesia
 103.146.203.212  # ID  AS136052  PT Cloud Hosting Indonesia
+103.146.203.22   # ID  AS136052  PT Cloud Hosting Indonesia
 103.146.203.227  # ID  AS136052  PT Cloud Hosting Indonesia
 103.146.203.72   # ID  AS136052  PT Cloud Hosting Indonesia
 103.147.159.198  # ID  AS38513   PT Aplikanusa Lintasarta
@@ -984,6 +986,7 @@
 160.25.174.7     # ID  AS153073  PT KANAL TELU MULTITEKNOLOGI
 160.25.58.19     # ID  AS152833  PT Tuxsindo Cyber Networks
 161.248.117.46   # ID  AS138096  PT INFORMASI NUSANTARA TEKNOLOGI
+163.227.124.16   # ID  AS131775  PT. Jupiter Jala Arta
 163.227.52.50    # ID  AS153804  PT Jagoan Data Nusantara
 163.61.112.5     # ID  AS153600  PT VESAKHA SECEPAT KILAT
 163.61.134.228   # ID  AS153615  PT Lentera Abadi Solusinet
@@ -1301,7 +1304,9 @@
 27.124.95.235    # ID  AS9341    PT INDONESIA COMNETS PLUS
 27.50.25.190     # ID  AS131111  PT Mora Telematika Indonesia
 31.56.56.74      # ID  AS141892  CV Andhika Pratama Sanggoro
+31.97.223.32     # ID  AS47583   Hostinger International Limited
 34.128.77.56     # ID  AS396982  Google LLC
+34.34.216.115    # ID  AS396982  Google LLC
 34.50.74.75      # ID  AS396982  Google LLC
 35.219.77.127    # ID  AS15169   Google LLC
 36.37.111.10     # ID  AS4800    PT Aplikanusa Lintasarta
