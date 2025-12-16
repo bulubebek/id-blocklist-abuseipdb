@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          975
-# Last updated:           2025-12-16 12:53:42
+# Number of ips:          977
+# Last updated:           2025-12-16 18:37:17
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -504,6 +504,7 @@
 103.98.176.164   # ID  AS136827  Universitas PGRI Semarang
 109.110.188.166  # ID  AS199695  PT Anym Network Indonesia
 110.137.100.120  # ID  AS7713    PT Telekomunikasi Indonesia
+110.138.114.30   # ID  AS7713    PT Telekomunikasi Indonesia
 110.138.132.112  # ID  AS7713    PT Telekomunikasi Indonesia
 110.5.104.162    # ID  AS24523   Orion Cyber Internet
 111.95.0.254     # ID  AS23700   Linknet-Fastnet ASN
@@ -694,6 +695,7 @@
 165.154.49.137   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 165.99.102.4     # ID  AS153938  PT Digital Omni Telekomunikasi
 168.110.212.136  # ID  AS31898   Oracle Corporation
+172.232.232.162  # ID  AS63949   Akamai Connected Cloud
 175.106.13.35    # ID  AS46023   PT Quantum Tera Network
 175.111.117.146  # ID  AS46026   BATAM BINTAN TELEKOMUNIKASI, PT
 180.178.94.73    # ID  AS45722   Widya Intersat Nusantara, PT
