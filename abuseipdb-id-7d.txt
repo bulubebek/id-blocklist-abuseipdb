@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          955
-# Last updated:           2025-12-17 06:38:41
+# Number of ips:          964
+# Last updated:           2025-12-17 12:53:33
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -388,6 +388,7 @@
 103.36.11.25     # ID  AS133360  PT Awinet Global Mandiri
 103.36.32.186    # ID  AS131111  PT Mora Telematika Indonesia
 103.42.117.165   # ID  AS141968  PT Industri Kreatif Digital
+103.46.7.235     # ID  AS45701   Internet Madju Abad Millenindo, PT
 103.49.238.104   # ID  AS136052  PT Cloud Hosting Indonesia
 103.49.238.134   # ID  AS136052  PT Cloud Hosting Indonesia
 103.49.238.251   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -493,6 +494,7 @@
 103.93.93.182    # ID  AS141140  PT Jinde Grup Indonesia
 103.93.93.211    # ID  AS141140  PT Jinde Grup Indonesia
 103.94.250.137   # ID  AS138884  PT Centronet Data Indonesia
+103.94.7.50      # ID  AS9341    PT INDONESIA COMNETS PLUS
 103.96.146.111   # ID  AS140456  PT Era Awan Digital
 103.98.176.164   # ID  AS136827  Universitas PGRI Semarang
 109.110.188.166  # ID  AS199695  PT Anym Network Indonesia
@@ -574,6 +576,7 @@
 123.231.211.178  # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.211.66   # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.253.20   # ID  AS4800    PT Aplikanusa Lintasarta
+124.40.250.105   # ID  AS45305   Lintas Data Prima, PT
 125.160.187.89   # ID  AS7713    PT Telekomunikasi Indonesia
 125.163.248.85   # ID  AS7713    PT Telekomunikasi Indonesia
 125.163.65.88    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -620,6 +623,7 @@
 157.15.40.8      # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.85     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.88     # ID  AS139952  PT Trisari Data Indonusa
+157.15.40.90     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.91     # ID  AS139952  PT Trisari Data Indonusa
 157.15.66.94     # ID  AS152377  PT Trimitra Aditama Koneksindo
 157.15.67.180    # ID  AS152377  PT Trimitra Aditama Koneksindo
@@ -659,6 +663,7 @@
 160.187.174.1    # ID  AS153135  PT Netindo Persada Nusantara
 160.187.174.22   # ID  AS153135  PT Netindo Persada Nusantara
 160.22.200.53    # ID  AS153070  PT Karangmukti Global Netmedia
+160.22.251.157   # ID  AS140456  PT Era Awan Digital
 161.248.117.46   # ID  AS138096  PT INFORMASI NUSANTARA TEKNOLOGI
 163.227.124.16   # ID  AS131775  PT. Jupiter Jala Arta
 163.227.52.50    # ID  AS153804  PT Jagoan Data Nusantara
@@ -687,6 +692,7 @@
 168.110.202.196  # ID  AS31898   Oracle Corporation
 168.110.212.136  # ID  AS31898   Oracle Corporation
 172.232.232.162  # ID  AS63949   Akamai Connected Cloud
+172.232.234.212  # ID  AS63949   Akamai Connected Cloud
 175.106.13.35    # ID  AS46023   PT Quantum Tera Network
 175.111.117.146  # ID  AS46026   BATAM BINTAN TELEKOMUNIKASI, PT
 180.178.94.73    # ID  AS45722   Widya Intersat Nusantara, PT
@@ -715,12 +721,14 @@
 182.253.176.250  # ID  AS17451   BIZNET NETWORKS
 182.253.191.58   # ID  AS17451   BIZNET NETWORKS
 182.253.209.189  # ID  AS17451   BIZNET NETWORKS
+182.253.238.235  # ID  AS38482   Biznet ISP
 182.253.38.193   # ID  AS17451   BIZNET NETWORKS
 182.253.40.151   # ID  AS17451   BIZNET NETWORKS
 182.253.48.81    # ID  AS17451   BIZNET NETWORKS
 182.253.54.82    # ID  AS17451   BIZNET NETWORKS
 182.253.58.139   # ID  AS17451   BIZNET NETWORKS
 182.253.79.194   # ID  AS17451   BIZNET NETWORKS
+182.50.249.59    # ID  AS45786   PT. Hawk Teknologi Solusi
 182.8.161.0      # ID  AS23693   PT. Telekomunikasi Selular
 182.8.179.96     # ID  AS23693   PT. Telekomunikasi Selular
 182.8.193.237    # ID  AS23693   PT. Telekomunikasi Selular
@@ -786,6 +794,7 @@
 202.73.25.70     # ID  AS141892  CV Andhika Pratama Sanggoro
 202.73.26.78     # ID  AS141892  CV Andhika Pratama Sanggoro
 202.74.239.125   # ID  AS131775  PT. Jupiter Jala Arta
+202.83.120.202   # ID  AS131745  PT. Cybertechtonic Pratama
 202.93.133.49    # ID  AS4382    PT. Indonusa System Integrator Prima
 202.93.142.86    # ID  AS4382    PT. Indonusa System Integrator Prima
 203.128.67.61    # ID  AS18103   Neuviz Net
