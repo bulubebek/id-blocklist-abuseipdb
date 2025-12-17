@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          949
-# Last updated:           2025-12-17 01:53:28
+# Number of ips:          955
+# Last updated:           2025-12-17 06:38:41
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -20,6 +20,7 @@
 103.102.152.219  # ID  AS58404   PT Qwords Company International
 103.102.248.227  # ID  AS131769  PT Mayatama Solusindo
 103.103.145.130  # ID  AS136861  PT. ARTAMEDIA CITRA TELEMATIKA INDONESIA
+103.103.22.99    # ID  AS133800  PT Biznet Gio Nusantara
 103.105.64.146   # ID  AS17995   PT iForte Global Internet
 103.105.66.26    # ID  AS17995   PT iForte Global Internet
 103.105.67.170   # ID  AS17995   PT iForte Global Internet
@@ -255,6 +256,7 @@
 103.184.122.39   # ID  AS149705  PT Wijaya Trimitra Indonesia
 103.184.122.46   # ID  AS149705  PT Wijaya Trimitra Indonesia
 103.184.122.74   # ID  AS149705  PT Wijaya Trimitra Indonesia
+103.184.63.130   # ID  AS149674  PT Cloudwel Network Indonesia
 103.186.0.101    # ID  AS136052  PT Cloud Hosting Indonesia
 103.186.0.155    # ID  AS136052  PT Cloud Hosting Indonesia
 103.186.0.68     # ID  AS136052  PT Cloud Hosting Indonesia
@@ -455,6 +457,7 @@
 103.76.172.11    # ID  AS9341    PT INDONESIA COMNETS PLUS
 103.77.106.118   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.106.135   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
+103.77.106.154   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.106.233   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.106.57    # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.106.81    # ID  AS135450  PT Berkah Solusi Teknologi Informasi
@@ -575,6 +578,7 @@
 125.163.248.85   # ID  AS7713    PT Telekomunikasi Indonesia
 125.163.65.88    # ID  AS7713    PT Telekomunikasi Indonesia
 125.164.42.102   # ID  AS7713    PT Telekomunikasi Indonesia
+125.166.16.94    # ID  AS7713    PT Telekomunikasi Indonesia
 125.166.17.129   # ID  AS7713    PT Telekomunikasi Indonesia
 125.213.152.34   # ID  AS4800    PT Aplikanusa Lintasarta
 139.0.23.123     # ID  AS9905    Linknet ASN
@@ -695,6 +699,7 @@
 180.243.254.67   # ID  AS7713    PT Telekomunikasi Indonesia
 180.245.255.194  # ID  AS7713    PT Telekomunikasi Indonesia
 180.250.196.141  # ID  AS7713    PT Telekomunikasi Indonesia
+180.250.33.134   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.129.26   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.202.6    # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.84.63    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -776,6 +781,7 @@
 202.57.30.210    # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.58.207.249   # ID  AS45701   Internet Madju Abad Millenindo, PT
 202.59.194.246   # ID  AS63859   PT. Eka Mas Republik
+202.6.226.17     # ID  AS23756   PADINET - Padi Internet
 202.62.8.90      # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.73.25.70     # ID  AS141892  CV Andhika Pratama Sanggoro
 202.73.26.78     # ID  AS141892  CV Andhika Pratama Sanggoro
