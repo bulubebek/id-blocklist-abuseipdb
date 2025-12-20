@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1118
-# Last updated:           2025-12-20 06:35:02
+# Number of ips:          1125
+# Last updated:           2025-12-20 12:45:33
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -178,6 +178,7 @@
 103.172.144.67   # ID  AS142389  IKI INDONESIA
 103.172.18.144   # ID  AS142382  PT Klinik Digital Indonesia JNHOST
 103.172.20.218   # ID  AS142383  PT Vaiotech Lintas Nusantara
+103.172.204.108  # ID  AS136052  PT Cloud Hosting Indonesia
 103.172.204.15   # ID  AS136052  PT Cloud Hosting Indonesia
 103.172.204.152  # ID  AS136052  PT Cloud Hosting Indonesia
 103.172.204.219  # ID  AS136052  PT Cloud Hosting Indonesia
@@ -389,6 +390,7 @@
 103.226.139.207  # ID  AS136052  PT Cloud Hosting Indonesia
 103.227.254.59   # ID  AS59279   PT Raja Mitra Informatika
 103.228.118.162  # ID  AS59281   PT Sumber Koneksi Indonesia
+103.228.240.164  # ID  AS45700   PT. NAP Info Lintas Nusa
 103.23.198.111   # ID  AS136052  PT Cloud Hosting Indonesia
 103.23.198.128   # ID  AS136052  PT Cloud Hosting Indonesia
 103.23.198.201   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -461,6 +463,7 @@
 103.59.160.170   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.179   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.195   # ID  AS150493  PT Gunung Sedayu Sentosa
+103.59.160.207   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.250   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.161.73    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.94.124    # ID  AS136052  PT Cloud Hosting Indonesia
@@ -631,6 +634,7 @@
 118.99.80.15     # ID  AS17451   BIZNET NETWORKS
 118.99.80.32     # ID  AS17451   BIZNET NETWORKS
 118.99.80.55     # ID  AS17451   BIZNET NETWORKS
+118.99.80.56     # ID  AS17451   BIZNET NETWORKS
 119.2.41.106     # ID  AS38524   Laxo Global Akses, PT
 119.2.42.138     # ID  AS38524   Laxo Global Akses, PT
 119.235.221.223  # ID  AS131111  PT Mora Telematika Indonesia
@@ -646,6 +650,7 @@
 123.231.166.202  # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.171.242  # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.179.26   # ID  AS4800    PT Aplikanusa Lintasarta
+123.231.179.74   # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.210.242  # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.211.178  # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.211.66   # ID  AS4800    PT Aplikanusa Lintasarta
@@ -704,6 +709,7 @@
 157.15.40.57     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.59     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.60     # ID  AS139952  PT Trisari Data Indonusa
+157.15.40.62     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.74     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.8      # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.83     # ID  AS139952  PT Trisari Data Indonusa
@@ -746,6 +752,7 @@
 157.66.56.131    # ID  AS58477   Argon Data Communication
 157.66.56.136    # ID  AS58477   Argon Data Communication
 157.66.56.152    # ID  AS58477   Argon Data Communication
+157.66.56.157    # ID  AS58477   Argon Data Communication
 157.66.56.161    # ID  AS58477   Argon Data Communication
 157.66.56.170    # ID  AS58477   Argon Data Communication
 157.66.56.171    # ID  AS58477   Argon Data Communication
