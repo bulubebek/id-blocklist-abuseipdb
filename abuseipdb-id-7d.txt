@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          925
-# Last updated:           2025-12-22 02:02:58
+# Number of ips:          928
+# Last updated:           2025-12-22 06:40:05
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -484,6 +484,7 @@
 111.95.0.254     # ID  AS23700   Linknet-Fastnet ASN
 111.95.0.8       # ID  AS23700   Linknet-Fastnet ASN
 111.95.137.100   # ID  AS23700   Linknet-Fastnet ASN
+111.95.219.32    # ID  AS23700   Linknet-Fastnet ASN
 111.95.28.61     # ID  AS23700   Linknet-Fastnet ASN
 111.95.5.194     # ID  AS23700   Linknet-Fastnet ASN
 111.95.57.202    # ID  AS23700   Linknet-Fastnet ASN
@@ -563,6 +564,7 @@
 125.164.42.102   # ID  AS7713    PT Telekomunikasi Indonesia
 125.164.42.154   # ID  AS7713    PT Telekomunikasi Indonesia
 125.166.16.94    # ID  AS7713    PT Telekomunikasi Indonesia
+125.167.152.210  # ID  AS7713    PT Telekomunikasi Indonesia
 125.213.152.34   # ID  AS4800    PT Aplikanusa Lintasarta
 139.0.23.123     # ID  AS9905    Linknet ASN
 139.0.23.124     # ID  AS9905    Linknet ASN
@@ -681,6 +683,7 @@
 180.243.252.46   # ID  AS7713    PT Telekomunikasi Indonesia
 180.245.62.217   # ID  AS7713    PT Telekomunikasi Indonesia
 180.248.247.193  # ID  AS7713    PT Telekomunikasi Indonesia
+180.249.183.27   # ID  AS7713    PT Telekomunikasi Indonesia
 180.250.33.134   # ID  AS7713    PT Telekomunikasi Indonesia
 180.250.44.123   # ID  AS7713    PT Telekomunikasi Indonesia
 180.251.169.3    # ID  AS7713    PT Telekomunikasi Indonesia
