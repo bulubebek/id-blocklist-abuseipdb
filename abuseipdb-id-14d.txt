@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1102
-# Last updated:           2025-12-26 12:50:18
+# Number of ips:          1107
+# Last updated:           2025-12-26 18:34:37
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -531,10 +531,12 @@
 103.94.7.50      # ID  AS9341    PT INDONESIA COMNETS PLUS
 103.96.146.111   # ID  AS140456  PT Era Awan Digital
 103.98.176.164   # ID  AS136827  Universitas PGRI Semarang
+110.137.110.188  # ID  AS7713    PT Telekomunikasi Indonesia
 110.138.114.30   # ID  AS7713    PT Telekomunikasi Indonesia
 110.138.132.112  # ID  AS7713    PT Telekomunikasi Indonesia
 110.5.104.162    # ID  AS24523   Orion Cyber Internet
 110.76.147.145   # ID  AS140481  PT Tonggak Teknologi Netikom
+110.76.147.21    # ID  AS140481  PT Tonggak Teknologi Netikom
 111.95.0.254     # ID  AS23700   Linknet-Fastnet ASN
 111.95.0.8       # ID  AS23700   Linknet-Fastnet ASN
 111.95.137.100   # ID  AS23700   Linknet-Fastnet ASN
@@ -599,6 +601,7 @@
 118.99.116.86    # ID  AS17451   BIZNET NETWORKS
 118.99.80.0      # ID  AS17451   BIZNET NETWORKS
 118.99.80.15     # ID  AS17451   BIZNET NETWORKS
+118.99.80.2      # ID  AS17451   BIZNET NETWORKS
 118.99.80.51     # ID  AS17451   BIZNET NETWORKS
 118.99.80.55     # ID  AS17451   BIZNET NETWORKS
 118.99.80.56     # ID  AS17451   BIZNET NETWORKS
@@ -888,6 +891,7 @@
 202.6.226.17     # ID  AS23756   PADINET - Padi Internet
 202.62.8.90      # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.65.229.247   # ID  AS45700   PT. NAP Info Lintas Nusa
+202.65.234.249   # ID  AS45700   PT. NAP Info Lintas Nusa
 202.72.193.34    # ID  AS18153   PT Multidata Rancana Prima
 202.73.25.70     # ID  AS141892  CV Andhika Pratama Sanggoro
 202.73.26.78     # ID  AS141892  CV Andhika Pratama Sanggoro
@@ -895,6 +899,7 @@
 202.83.120.202   # ID  AS131745  PT. Cybertechtonic Pratama
 202.93.133.49    # ID  AS4382    PT. Indonusa System Integrator Prima
 202.93.142.86    # ID  AS4382    PT. Indonusa System Integrator Prima
+202.93.247.247   # ID  AS38778   PT. Dutakom Wibawa Putra
 203.128.67.61    # ID  AS18103   Neuviz Net
 203.130.212.59   # ID  AS7713    PT Telekomunikasi Indonesia
 203.130.240.98   # ID  AS7713    PT Telekomunikasi Indonesia
