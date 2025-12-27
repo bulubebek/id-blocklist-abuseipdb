@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1094
-# Last updated:           2025-12-27 12:47:21
+# Number of ips:          1095
+# Last updated:           2025-12-27 18:33:14
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -1057,6 +1057,7 @@
 43.157.200.48    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.209.189   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.211.217   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
+43.157.223.37    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.241.18    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.173.1.57      # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.173.1.69      # ID  AS132203  Tencent Building, Kejizhongyi Avenue
