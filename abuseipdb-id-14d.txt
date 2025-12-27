@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1091
-# Last updated:           2025-12-27 06:36:25
+# Number of ips:          1094
+# Last updated:           2025-12-27 12:47:21
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -512,6 +512,7 @@
 103.82.92.35     # ID  AS136052  PT Cloud Hosting Indonesia
 103.83.84.5      # ID  AS150253  PT. FINS MEDIATECHNO NUSANTARA
 103.84.119.130   # ID  AS64316   Universitas Islam Negeri Raden Fatah Palembang
+103.85.58.178    # ID  AS150556  CV KLIK FARM INDONESIA
 103.87.69.139    # ID  AS56301   National Data Center building
 103.87.69.8      # ID  AS56301   National Data Center building
 103.89.154.201   # ID  AS133800  PT Biznet Gio Nusantara
@@ -788,6 +789,7 @@
 182.253.156.184  # ID  AS17451   BIZNET NETWORKS
 182.253.176.250  # ID  AS17451   BIZNET NETWORKS
 182.253.183.221  # ID  AS17451   BIZNET NETWORKS
+182.253.188.163  # ID  AS17451   BIZNET NETWORKS
 182.253.191.58   # ID  AS17451   BIZNET NETWORKS
 182.253.209.189  # ID  AS17451   BIZNET NETWORKS
 182.253.238.218  # ID  AS38482   Biznet ISP
@@ -849,6 +851,7 @@
 202.169.234.52   # ID  AS23671   PT. Sarana InsanMuda Selaras
 202.169.234.54   # ID  AS23671   PT. Sarana InsanMuda Selaras
 202.169.234.55   # ID  AS23671   PT. Sarana InsanMuda Selaras
+202.169.234.67   # ID  AS23671   PT. Sarana InsanMuda Selaras
 202.169.234.7    # ID  AS23671   PT. Sarana InsanMuda Selaras
 202.169.46.83    # ID  AS17451   BIZNET NETWORKS
 202.180.17.173   # ID  AS38758   PT. HIPERNET INDODATA
