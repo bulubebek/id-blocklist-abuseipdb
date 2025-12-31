@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1053
-# Last updated:           2025-12-31 01:59:24
+# Number of ips:          1057
+# Last updated:           2025-12-31 06:38:52
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -737,6 +737,7 @@
 180.243.189.125  # ID  AS7713    PT Telekomunikasi Indonesia
 180.243.252.46   # ID  AS7713    PT Telekomunikasi Indonesia
 180.245.117.182  # ID  AS7713    PT Telekomunikasi Indonesia
+180.245.122.243  # ID  AS7713    PT Telekomunikasi Indonesia
 180.245.62.217   # ID  AS7713    PT Telekomunikasi Indonesia
 180.248.247.193  # ID  AS7713    PT Telekomunikasi Indonesia
 180.249.183.27   # ID  AS7713    PT Telekomunikasi Indonesia
@@ -816,6 +817,7 @@
 202.169.234.206  # ID  AS23671   PT. Sarana InsanMuda Selaras
 202.169.234.24   # ID  AS23671   PT. Sarana InsanMuda Selaras
 202.169.234.27   # ID  AS23671   PT. Sarana InsanMuda Selaras
+202.169.234.33   # ID  AS23671   PT. Sarana InsanMuda Selaras
 202.169.234.39   # ID  AS23671   PT. Sarana InsanMuda Selaras
 202.169.234.5    # ID  AS23671   PT. Sarana InsanMuda Selaras
 202.169.234.52   # ID  AS23671   PT. Sarana InsanMuda Selaras
@@ -926,6 +928,7 @@
 36.37.92.210     # ID  AS4800    PT Aplikanusa Lintasarta
 36.50.92.79      # ID  AS141642  PT Ring Media Nusantara
 36.64.10.42      # ID  AS7713    PT Telekomunikasi Indonesia
+36.64.122.178    # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.146.74     # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.15.201     # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.162.195    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -952,6 +955,7 @@
 36.67.70.198     # ID  AS7713    PT Telekomunikasi Indonesia
 36.67.80.194     # ID  AS7713    PT Telekomunikasi Indonesia
 36.67.9.186      # ID  AS7713    PT Telekomunikasi Indonesia
+36.69.150.31     # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.154.4      # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.231.242    # ID  AS7713    PT Telekomunikasi Indonesia
 36.71.188.190    # ID  AS7713    PT Telekomunikasi Indonesia
