@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1053
-# Last updated:           2026-01-01 02:09:50
+# Number of ips:          1061
+# Last updated:           2026-01-01 06:38:53
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -14,6 +14,7 @@
 101.255.158.241  # ID  AS38511   PT Remala Abadi
 101.255.32.41    # ID  AS38511   PT Remala Abadi
 101.50.0.248     # ID  AS55688   PT. Beon Intermedia
+101.50.0.34      # ID  AS55688   PT. Beon Intermedia
 103.10.61.114    # ID  AS38758   PT. HIPERNET INDODATA
 103.101.216.218  # ID  AS150941  PT Duta Trans Nusantara Network
 103.101.216.74   # ID  AS150941  PT Duta Trans Nusantara Network
@@ -25,6 +26,7 @@
 103.105.64.146   # ID  AS17995   PT iForte Global Internet
 103.105.67.170   # ID  AS17995   PT iForte Global Internet
 103.106.76.90    # ID  AS46023   PT Quantum Tera Network
+103.107.148.150  # ID  AS149322  PT Royal Assetindo
 103.107.187.9    # ID  AS137300  UIN AR-RANIRY
 103.108.156.125  # ID  AS140454  PT Pop Net Indonesia
 103.110.9.212    # ID  AS131717  PT Citra Jelajah Informatika
@@ -240,6 +242,7 @@
 103.182.192.6    # ID  AS17995   PT iForte Global Internet
 103.182.200.10   # ID  AS17995   PT iForte Global Internet
 103.182.236.26   # ID  AS17995   PT iForte Global Internet
+103.183.10.30    # ID  AS139967  PT. Yasmin Amanah Media
 103.183.74.130   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.74.214   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.74.39    # ID  AS136052  PT Cloud Hosting Indonesia
@@ -409,6 +412,7 @@
 103.59.160.195   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.207   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.237   # ID  AS150493  PT Gunung Sedayu Sentosa
+103.59.161.64    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.161.86    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.94.124    # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.94.155    # ID  AS136052  PT Cloud Hosting Indonesia
@@ -665,6 +669,7 @@
 157.66.54.162    # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.54.186    # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.54.6      # ID  AS141892  CV Andhika Pratama Sanggoro
+157.66.54.66     # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.55.46     # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.56.12     # ID  AS58477   Argon Data Communication
 157.66.56.131    # ID  AS58477   Argon Data Communication
@@ -779,6 +784,7 @@
 202.10.34.139    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.36.217    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.36.75     # ID  AS58487   CV. Rumahweb Indonesia
+202.10.41.223    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.45.61     # ID  AS58487   CV. Rumahweb Indonesia
 202.122.10.70    # ID  AS24209   PT. Inter Media Lintas Nusa
 202.122.13.130   # ID  AS24209   PT. Inter Media Lintas Nusa
@@ -1015,8 +1021,10 @@
 43.133.148.170   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.133.156.8     # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.200.48    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
+43.157.209.189   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.211.217   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.223.37    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
+43.157.224.135   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.241.18    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.173.1.57      # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.173.1.69      # ID  AS132203  Tencent Building, Kejizhongyi Avenue
