@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1049
-# Last updated:           2026-01-02 02:01:08
+# Number of ips:          1050
+# Last updated:           2026-01-02 06:39:12
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -429,6 +429,7 @@
 103.65.236.169   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.65.237.124   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.65.237.163   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
+103.65.237.185   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.65.237.194   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.65.237.216   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.67.42.3      # ID  AS38513   PT Aplikanusa Lintasarta
