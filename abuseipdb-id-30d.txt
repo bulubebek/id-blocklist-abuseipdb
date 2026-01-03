@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1409
-# Last updated:           2026-01-03 06:36:45
+# Number of ips:          1411
+# Last updated:           2026-01-03 12:48:00
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -832,6 +832,7 @@
 157.119.223.3    # ID  AS45302   PT DES Teknologi Informasi
 157.15.1.160     # ID  AS152769  PT Gopal Network Solusindo
 157.15.1.161     # ID  AS152769  PT Gopal Network Solusindo
+157.15.1.163     # ID  AS152769  PT Gopal Network Solusindo
 157.15.1.164     # ID  AS152769  PT Gopal Network Solusindo
 157.15.1.165     # ID  AS152769  PT Gopal Network Solusindo
 157.15.1.166     # ID  AS152769  PT Gopal Network Solusindo
@@ -1264,6 +1265,7 @@
 36.67.11.250     # ID  AS7713    PT Telekomunikasi Indonesia
 36.67.192.254    # ID  AS7713    PT Telekomunikasi Indonesia
 36.67.227.66     # ID  AS7713    PT Telekomunikasi Indonesia
+36.67.33.97      # ID  AS7713    PT Telekomunikasi Indonesia
 36.67.70.198     # ID  AS7713    PT Telekomunikasi Indonesia
 36.67.80.194     # ID  AS7713    PT Telekomunikasi Indonesia
 36.67.9.186      # ID  AS7713    PT Telekomunikasi Indonesia
