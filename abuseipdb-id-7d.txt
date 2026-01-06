@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          858
-# Last updated:           2026-01-06 02:01:00
+# Number of ips:          869
+# Last updated:           2026-01-06 06:40:17
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -174,6 +174,7 @@
 103.179.57.31    # ID  AS136052  PT Cloud Hosting Indonesia
 103.18.133.253   # ID  AS55693   PT. Bangun Abadi Teknologi Indonesia
 103.18.78.45     # ID  AS55701   PT. Usaha Adisanggoro
+103.18.78.46     # ID  AS55701   PT. Usaha Adisanggoro
 103.18.79.82     # ID  AS55701   PT. Usaha Adisanggoro
 103.18.79.93     # ID  AS55701   PT. Usaha Adisanggoro
 103.180.162.164  # ID  AS149377  PT Komit Kreasi Indonesia
@@ -243,6 +244,7 @@
 103.211.160.228  # ID  AS131769  PT Mayatama Solusindo
 103.213.234.150  # ID  AS151003  PT. Tri Akses Nusantara
 103.214.112.160  # ID  AS136052  PT Cloud Hosting Indonesia
+103.214.112.166  # ID  AS136052  PT Cloud Hosting Indonesia
 103.214.112.63   # ID  AS136052  PT Cloud Hosting Indonesia
 103.214.112.75   # ID  AS136052  PT Cloud Hosting Indonesia
 103.214.112.84   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -320,10 +322,12 @@
 103.55.216.2     # ID  AS133824  Universitas Islam Negeri Alauddin Makasar
 103.55.216.250   # ID  AS133824  Universitas Islam Negeri Alauddin Makasar
 103.55.36.22     # ID  AS136052  PT Cloud Hosting Indonesia
+103.59.160.119   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.148   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.170   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.207   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.237   # ID  AS150493  PT Gunung Sedayu Sentosa
+103.59.160.250   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.251   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.46    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.77    # ID  AS150493  PT Gunung Sedayu Sentosa
@@ -361,6 +365,7 @@
 103.66.63.1      # ID  AS139982  PT Buana Visualnet Sentra
 103.67.244.205   # ID  AS138115  PT Deneva
 103.67.78.102    # ID  AS136052  PT Cloud Hosting Indonesia
+103.67.78.117    # ID  AS136052  PT Cloud Hosting Indonesia
 103.67.78.132    # ID  AS136052  PT Cloud Hosting Indonesia
 103.67.78.202    # ID  AS136052  PT Cloud Hosting Indonesia
 103.67.78.251    # ID  AS136052  PT Cloud Hosting Indonesia
@@ -377,6 +382,7 @@
 103.70.122.213   # ID  AS150980  PT Menara Digital Salama
 103.70.122.214   # ID  AS150980  PT Menara Digital Salama
 103.70.122.215   # ID  AS150980  PT Menara Digital Salama
+103.70.122.232   # ID  AS150980  PT Menara Digital Salama
 103.70.122.57    # ID  AS150980  PT Menara Digital Salama
 103.75.84.237    # ID  AS136873  MEGADATA-ISP
 103.76.120.106   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -423,6 +429,7 @@
 103.93.93.211    # ID  AS141140  PT Jinde Grup Indonesia
 103.96.146.111   # ID  AS140456  PT Era Awan Digital
 103.98.176.164   # ID  AS136827  Universitas PGRI Semarang
+110.137.110.42   # ID  AS7713    PT Telekomunikasi Indonesia
 110.76.147.145   # ID  AS140481  PT Tonggak Teknologi Netikom
 111.95.0.254     # ID  AS23700   Linknet-Fastnet ASN
 111.95.0.8       # ID  AS23700   Linknet-Fastnet ASN
@@ -469,6 +476,7 @@
 118.99.80.198    # ID  AS17451   BIZNET NETWORKS
 118.99.80.2      # ID  AS17451   BIZNET NETWORKS
 118.99.80.223    # ID  AS17451   BIZNET NETWORKS
+118.99.80.227    # ID  AS17451   BIZNET NETWORKS
 118.99.80.32     # ID  AS17451   BIZNET NETWORKS
 118.99.80.51     # ID  AS17451   BIZNET NETWORKS
 118.99.80.55     # ID  AS17451   BIZNET NETWORKS
@@ -525,6 +533,7 @@
 157.15.40.27     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.39     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.56     # ID  AS139952  PT Trisari Data Indonusa
+157.15.40.57     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.60     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.61     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.62     # ID  AS139952  PT Trisari Data Indonusa
@@ -545,6 +554,7 @@
 157.20.32.165    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.166    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.170    # ID  AS152390  PT Intercloud Digital Inovasi
+157.20.32.173    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.212    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.217    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.219    # ID  AS152390  PT Intercloud Digital Inovasi
@@ -678,6 +688,7 @@
 202.169.234.39   # ID  AS23671   PT. Sarana InsanMuda Selaras
 202.169.234.5    # ID  AS23671   PT. Sarana InsanMuda Selaras
 202.169.234.52   # ID  AS23671   PT. Sarana InsanMuda Selaras
+202.169.234.54   # ID  AS23671   PT. Sarana InsanMuda Selaras
 202.169.234.55   # ID  AS23671   PT. Sarana InsanMuda Selaras
 202.169.234.7    # ID  AS23671   PT. Sarana InsanMuda Selaras
 202.169.46.83    # ID  AS17451   BIZNET NETWORKS

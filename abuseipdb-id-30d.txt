@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1405
-# Last updated:           2026-01-06 02:00:59
+# Number of ips:          1409
+# Last updated:           2026-01-06 06:40:16
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -404,6 +404,7 @@
 103.213.234.148  # ID  AS151003  PT. Tri Akses Nusantara
 103.213.234.150  # ID  AS151003  PT. Tri Akses Nusantara
 103.214.112.160  # ID  AS136052  PT Cloud Hosting Indonesia
+103.214.112.166  # ID  AS136052  PT Cloud Hosting Indonesia
 103.214.112.63   # ID  AS136052  PT Cloud Hosting Indonesia
 103.214.112.75   # ID  AS136052  PT Cloud Hosting Indonesia
 103.214.112.84   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -514,6 +515,7 @@
 103.55.28.100    # ID  AS150487  PT Nusantara Akses Telekomunikasi
 103.55.36.22     # ID  AS136052  PT Cloud Hosting Indonesia
 103.56.235.50    # ID  AS131111  PT Mora Telematika Indonesia
+103.59.160.119   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.148   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.170   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.179   # ID  AS150493  PT Gunung Sedayu Sentosa
@@ -651,6 +653,7 @@
 109.110.188.166  # ID  AS199695  PT Anym Network Indonesia
 110.137.100.120  # ID  AS7713    PT Telekomunikasi Indonesia
 110.137.110.188  # ID  AS7713    PT Telekomunikasi Indonesia
+110.137.110.42   # ID  AS7713    PT Telekomunikasi Indonesia
 110.138.114.30   # ID  AS7713    PT Telekomunikasi Indonesia
 110.138.132.112  # ID  AS7713    PT Telekomunikasi Indonesia
 110.5.104.162    # ID  AS24523   Orion Cyber Internet
@@ -737,6 +740,7 @@
 118.99.80.198    # ID  AS17451   BIZNET NETWORKS
 118.99.80.2      # ID  AS17451   BIZNET NETWORKS
 118.99.80.223    # ID  AS17451   BIZNET NETWORKS
+118.99.80.227    # ID  AS17451   BIZNET NETWORKS
 118.99.80.32     # ID  AS17451   BIZNET NETWORKS
 118.99.80.51     # ID  AS17451   BIZNET NETWORKS
 118.99.80.55     # ID  AS17451   BIZNET NETWORKS
