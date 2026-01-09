@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          841
-# Last updated:           2026-01-09 06:39:50
+# Number of ips:          850
+# Last updated:           2026-01-09 12:53:39
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -319,14 +319,17 @@
 103.59.160.119   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.148   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.170   # ID  AS150493  PT Gunung Sedayu Sentosa
+103.59.160.192   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.207   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.237   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.244   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.250   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.251   # ID  AS150493  PT Gunung Sedayu Sentosa
+103.59.160.46    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.77    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.96    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.161.64    # ID  AS150493  PT Gunung Sedayu Sentosa
+103.59.161.81    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.161.86    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.94.155    # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.94.173    # ID  AS136052  PT Cloud Hosting Indonesia
@@ -383,6 +386,7 @@
 103.76.120.69    # ID  AS136052  PT Cloud Hosting Indonesia
 103.76.120.70    # ID  AS136052  PT Cloud Hosting Indonesia
 103.76.120.90    # ID  AS136052  PT Cloud Hosting Indonesia
+103.76.91.90     # ID  AS150242  PT Kampung Dua Net
 103.77.106.118   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.106.135   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.106.154   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
@@ -391,6 +395,7 @@
 103.77.106.57    # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.106.81    # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.107.139   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
+103.77.107.146   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.107.147   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.107.178   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.107.182   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
@@ -521,12 +526,14 @@
 157.15.40.62     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.74     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.76     # ID  AS139952  PT Trisari Data Indonusa
+157.15.40.77     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.78     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.83     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.86     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.88     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.91     # ID  AS139952  PT Trisari Data Indonusa
 157.20.207.165   # ID  AS152436  PT Erajaya Telco Indonesia
+157.20.255.6     # ID  AS151000  PT Awan Data Indonesia
 157.20.32.130    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.131    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.132    # ID  AS152390  PT Intercloud Digital Inovasi
@@ -562,6 +569,7 @@
 157.66.56.208    # ID  AS58477   Argon Data Communication
 157.66.56.214    # ID  AS58477   Argon Data Communication
 157.66.56.225    # ID  AS58477   Argon Data Communication
+157.66.56.227    # ID  AS58477   Argon Data Communication
 157.66.56.254    # ID  AS58477   Argon Data Communication
 160.187.107.47   # ID  AS153119  PT Intan Pariwara
 160.187.174.22   # ID  AS153135  PT Netindo Persada Nusantara
@@ -603,6 +611,7 @@
 182.253.133.174  # ID  AS17451   BIZNET NETWORKS
 182.253.156.173  # ID  AS17451   BIZNET NETWORKS
 182.253.156.184  # ID  AS17451   BIZNET NETWORKS
+182.253.179.14   # ID  AS17451   BIZNET NETWORKS
 182.253.191.58   # ID  AS17451   BIZNET NETWORKS
 182.253.20.51    # ID  AS17451   BIZNET NETWORKS
 182.253.209.189  # ID  AS17451   BIZNET NETWORKS
