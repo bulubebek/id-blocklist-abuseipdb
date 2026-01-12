@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1374
-# Last updated:           2026-01-12 02:07:07
+# Number of ips:          1377
+# Last updated:           2026-01-12 06:42:20
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -48,6 +48,7 @@
 103.117.56.152   # ID  AS136052  PT Cloud Hosting Indonesia
 103.117.57.134   # ID  AS136052  PT Cloud Hosting Indonesia
 103.118.100.194  # ID  AS4787    PT Cyberindo Aditama
+103.120.170.13   # ID  AS63859   PT. Eka Mas Republik
 103.123.97.10    # ID  AS138074  PT. Wowrack Cepat Teknologi Nusantara
 103.125.175.117  # ID  AS139415  PT Trinity Teknologi Nusantara
 103.125.175.39   # ID  AS139415  PT Trinity Teknologi Nusantara
@@ -130,6 +131,7 @@
 103.156.227.73   # ID  AS45701   Internet Madju Abad Millenindo, PT
 103.157.24.1     # ID  AS141105  PT Dapur Remaja Multi Sarana
 103.157.25.60    # ID  AS141108  Universitas Islam Negeri Sultan Maulana Hasanudin Banten
+103.158.121.26   # ID  AS141127  PT Anugerah Cimanuk Raya
 103.159.199.42   # ID  AS131111  PT Mora Telematika Indonesia
 103.159.96.223   # ID  AS141140  PT Jinde Grup Indonesia
 103.160.150.185  # ID  AS138093  PT. LINTASMAYA MULTI MEDIA
@@ -1000,6 +1002,7 @@
 182.8.161.221    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.161.38     # ID  AS23693   PT. Telekomunikasi Selular
 182.8.161.57     # ID  AS23693   PT. Telekomunikasi Selular
+182.8.179.177    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.179.178    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.193.237    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.225.170    # ID  AS23693   PT. Telekomunikasi Selular
