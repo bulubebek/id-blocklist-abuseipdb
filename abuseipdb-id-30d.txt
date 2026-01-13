@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1379
-# Last updated:           2026-01-13 01:58:18
+# Number of ips:          1384
+# Last updated:           2026-01-13 06:39:53
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -643,6 +643,7 @@
 110.137.110.42   # ID  AS7713    PT Telekomunikasi Indonesia
 110.138.114.30   # ID  AS7713    PT Telekomunikasi Indonesia
 110.138.132.112  # ID  AS7713    PT Telekomunikasi Indonesia
+110.138.220.195  # ID  AS7713    PT Telekomunikasi Indonesia
 110.76.147.145   # ID  AS140481  PT Tonggak Teknologi Netikom
 110.76.147.21    # ID  AS140481  PT Tonggak Teknologi Netikom
 111.95.0.254     # ID  AS23700   Linknet-Fastnet ASN
@@ -1011,6 +1012,7 @@
 183.81.154.217   # ID  AS24527   PT Hanastar dakara
 183.91.83.132    # ID  AS4800    PT Aplikanusa Lintasarta
 183.91.87.210    # ID  AS4800    PT Aplikanusa Lintasarta
+192.145.228.33   # ID  AS140031  PT Mandala Lintas Nusa
 195.88.211.182   # ID  AS214882  Hadi Santosa
 202.10.34.139    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.36.217    # ID  AS58487   CV. Rumahweb Indonesia
@@ -1125,6 +1127,7 @@
 203.175.126.9    # ID  AS141126  PT Cubiespot Pilar Data Nusantara
 203.190.43.49    # ID  AS45317   Jaringan Lintas Utara, PT
 203.190.53.154   # ID  AS24530   PT. Power Telecom Indonesia
+203.190.55.94    # ID  AS24530   PT. Power Telecom Indonesia
 203.194.112.183  # ID  AS58487   CV. Rumahweb Indonesia
 203.194.112.99   # ID  AS58487   CV. Rumahweb Indonesia
 203.194.114.166  # ID  AS58487   CV. Rumahweb Indonesia
@@ -1252,6 +1255,7 @@
 36.89.252.122    # ID  AS7713    PT Telekomunikasi Indonesia
 36.89.252.178    # ID  AS7713    PT Telekomunikasi Indonesia
 36.89.252.210    # ID  AS7713    PT Telekomunikasi Indonesia
+36.89.252.226    # ID  AS7713    PT Telekomunikasi Indonesia
 36.89.252.58     # ID  AS7713    PT Telekomunikasi Indonesia
 36.89.252.82     # ID  AS7713    PT Telekomunikasi Indonesia
 36.89.252.98     # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1349,6 +1353,7 @@
 43.252.159.79    # ID  AS149746  PT Blip Integrator Provider
 43.252.237.174   # ID  AS55701   PT. Usaha Adisanggoro
 43.252.238.221   # ID  AS55701   PT. Usaha Adisanggoro
+45.112.126.69    # ID  AS58369   PT. Fiber Networks Indonesia
 45.118.113.254   # ID  AS131717  PT Citra Jelajah Informatika
 45.126.43.174    # ID  AS151592  PT Awan Data Teknologi
 45.126.43.35     # ID  AS151592  PT Awan Data Teknologi
