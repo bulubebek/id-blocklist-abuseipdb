@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          913
-# Last updated:           2026-01-14 12:55:42
+# Number of ips:          917
+# Last updated:           2026-01-14 18:38:34
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -456,6 +456,7 @@
 103.82.92.35     # ID  AS136052  PT Cloud Hosting Indonesia
 103.84.119.130   # ID  AS64316   Universitas Islam Negeri Raden Fatah Palembang
 103.85.58.178    # ID  AS150556  CV KLIK FARM INDONESIA
+103.87.77.68     # ID  AS4787    PT Cyberindo Aditama
 103.89.154.201   # ID  AS133800  PT Biznet Gio Nusantara
 103.90.27.83     # ID  AS132673  PT Arana Teknologi Indonesia
 103.90.67.3      # ID  AS150265  PT Rajawali Bintang Cemerlang Telkomedia
@@ -482,6 +483,7 @@
 114.7.163.154    # ID  AS4761    INDOSAT Internet Network Provider
 114.8.146.58     # ID  AS4761    INDOSAT Internet Network Provider
 114.9.22.30      # ID  AS4761    INDOSAT Internet Network Provider
+115.85.77.158    # ID  AS23953   PT ARTHA TELEKOMINDO
 115.85.80.12     # ID  AS23953   PT ARTHA TELEKOMINDO
 116.193.190.103  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.190.134  # ID  AS136052  PT Cloud Hosting Indonesia
@@ -525,6 +527,7 @@
 123.231.179.74   # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.211.178  # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.211.66   # ID  AS4800    PT Aplikanusa Lintasarta
+123.231.214.210  # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.253.20   # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.253.21   # ID  AS4800    PT Aplikanusa Lintasarta
 124.158.117.162  # ID  AS23679   PT. Media Antar Nusa
@@ -532,6 +535,7 @@
 125.163.64.132   # ID  AS7713    PT Telekomunikasi Indonesia
 125.164.45.75    # ID  AS7713    PT Telekomunikasi Indonesia
 125.167.146.139  # ID  AS7713    PT Telekomunikasi Indonesia
+125.167.147.159  # ID  AS7713    PT Telekomunikasi Indonesia
 125.213.152.34   # ID  AS4800    PT Aplikanusa Lintasarta
 139.0.23.124     # ID  AS9905    Linknet ASN
 139.192.94.162   # ID  AS23700   Linknet-Fastnet ASN
