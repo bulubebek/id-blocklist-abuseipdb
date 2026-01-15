@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1033
-# Last updated:           2026-01-15 02:00:36
+# Number of ips:          1038
+# Last updated:           2026-01-15 06:39:39
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -387,10 +387,12 @@
 103.59.160.170   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.192   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.207   # ID  AS150493  PT Gunung Sedayu Sentosa
+103.59.160.226   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.237   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.244   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.250   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.251   # ID  AS150493  PT Gunung Sedayu Sentosa
+103.59.160.252   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.46    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.77    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.96    # ID  AS150493  PT Gunung Sedayu Sentosa
@@ -622,6 +624,7 @@
 157.15.1.167     # ID  AS152769  PT Gopal Network Solusindo
 157.15.40.218    # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.27     # ID  AS139952  PT Trisari Data Indonusa
+157.15.40.36     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.39     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.56     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.57     # ID  AS139952  PT Trisari Data Indonusa
@@ -652,6 +655,7 @@
 157.20.32.166    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.170    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.171    # ID  AS152390  PT Intercloud Digital Inovasi
+157.20.32.172    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.173    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.212    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.217    # ID  AS152390  PT Intercloud Digital Inovasi
@@ -754,6 +758,7 @@
 182.8.161.138    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.161.221    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.161.57     # ID  AS23693   PT. Telekomunikasi Selular
+182.8.179.144    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.179.177    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.97.45      # ID  AS23693   PT. Telekomunikasi Selular
 183.91.83.132    # ID  AS4800    PT Aplikanusa Lintasarta
