@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1027
-# Last updated:           2026-01-16 12:53:46
+# Number of ips:          1028
+# Last updated:           2026-01-16 18:38:21
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -605,6 +605,7 @@
 152.32.153.67    # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 152.32.154.182   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 152.32.155.11    # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+154.19.37.154    # ID  AS55688   PT. Beon Intermedia
 154.90.48.62     # ID  AS138915  Kaopu Cloud HK Limited
 157.10.252.119   # ID  AS136052  PT Cloud Hosting Indonesia
 157.10.252.126   # ID  AS136052  PT Cloud Hosting Indonesia

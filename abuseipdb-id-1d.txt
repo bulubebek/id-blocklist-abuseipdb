@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          701
-# Last updated:           2026-01-16 12:53:46
+# Number of ips:          708
+# Last updated:           2026-01-16 18:38:21
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -28,6 +28,7 @@
 103.13.138.22    # ID  AS150215  PT Era Bangun Indonesia
 103.137.65.2     # ID  AS58495   PT Parsaoran Global Datatrans
 103.138.53.19    # ID  AS149723  PT Afna Digital Indonesia
+103.138.68.74    # ID  AS138842  PT Internetwork Komunikasi Indonesia
 103.139.11.246   # ID  AS55699   PT. Cemerlang Multimedia
 103.139.192.163  # ID  AS136052  PT Cloud Hosting Indonesia
 103.139.192.17   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -93,6 +94,7 @@
 103.165.156.195  # ID  AS136873  MEGADATA-ISP
 103.165.230.210  # ID  AS17995   PT iForte Global Internet
 103.166.226.235  # ID  AS141959  PT Arta Flash Sintesa Nusantara
+103.167.4.155    # ID  AS17995   PT iForte Global Internet
 103.167.5.174    # ID  AS17995   PT iForte Global Internet
 103.168.135.187  # ID  AS38513   PT Aplikanusa Lintasarta
 103.168.159.158  # ID  AS142317  PT Cover Network Indonesia
@@ -343,6 +345,7 @@
 103.77.107.139   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.107.146   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.107.178   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
+103.77.107.182   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.107.222   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.107.27    # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.107.57    # ID  AS135450  PT Berkah Solusi Teknologi Informasi
@@ -363,6 +366,7 @@
 108.136.162.67   # ID  AS16509   Amazon.com, Inc.
 110.136.191.176  # ID  AS7713    PT Telekomunikasi Indonesia
 110.138.220.195  # ID  AS7713    PT Telekomunikasi Indonesia
+111.95.0.46      # ID  AS23700   Linknet-Fastnet ASN
 111.95.77.13     # ID  AS23700   Linknet-Fastnet ASN
 113.20.31.55     # ID  AS45731   ARDH GLOBAL INDONESIA, PT
 114.10.47.206    # ID  AS4761    INDOSAT Internet Network Provider
@@ -400,6 +404,7 @@
 118.99.80.51     # ID  AS17451   BIZNET NETWORKS
 118.99.80.55     # ID  AS17451   BIZNET NETWORKS
 118.99.80.56     # ID  AS17451   BIZNET NETWORKS
+119.47.90.13     # ID  AS38527   JAWA POS NATIONAL NETWORK MEDIALINK, PT
 121.101.185.26   # ID  AS38785   PT. BORNEO BROADBAND TECHNOLOGY
 123.231.157.170  # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.157.242  # ID  AS4800    PT Aplikanusa Lintasarta
@@ -426,6 +431,7 @@
 152.32.153.53    # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 152.32.153.67    # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 152.32.154.182   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+154.19.37.154    # ID  AS55688   PT. Beon Intermedia
 154.90.48.62     # ID  AS138915  Kaopu Cloud HK Limited
 157.10.252.119   # ID  AS136052  PT Cloud Hosting Indonesia
 157.15.124.97    # ID  AS138115  PT Deneva
@@ -547,6 +553,7 @@
 202.169.234.55   # ID  AS23671   PT. Sarana InsanMuda Selaras
 202.169.234.67   # ID  AS23671   PT. Sarana InsanMuda Selaras
 202.169.234.7    # ID  AS23671   PT. Sarana InsanMuda Selaras
+202.169.46.83    # ID  AS17451   BIZNET NETWORKS
 202.169.56.221   # ID  AS17451   BIZNET NETWORKS
 202.182.50.52    # ID  AS38511   PT Remala Abadi
 202.47.67.234    # ID  AS139972  PT. Putra Lebak Banten
