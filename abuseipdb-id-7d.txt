@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          899
-# Last updated:           2026-01-16 06:39:39
+# Number of ips:          902
+# Last updated:           2026-01-16 12:53:46
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -424,6 +424,7 @@
 103.76.120.69    # ID  AS136052  PT Cloud Hosting Indonesia
 103.76.120.70    # ID  AS136052  PT Cloud Hosting Indonesia
 103.76.120.90    # ID  AS136052  PT Cloud Hosting Indonesia
+103.77.106.109   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.106.118   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.106.233   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.106.41    # ID  AS135450  PT Berkah Solusi Teknologi Informasi
@@ -789,6 +790,7 @@
 36.64.174.98     # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.184.42     # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.184.50     # ID  AS7713    PT Telekomunikasi Indonesia
+36.64.191.18     # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.211.93     # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.30.151     # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.31.226     # ID  AS7713    PT Telekomunikasi Indonesia
@@ -806,6 +808,7 @@
 36.69.150.31     # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.153.164    # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.154.4      # ID  AS7713    PT Telekomunikasi Indonesia
+36.77.27.172     # ID  AS7713    PT Telekomunikasi Indonesia
 36.77.31.165     # ID  AS7713    PT Telekomunikasi Indonesia
 36.79.156.234    # ID  AS7713    PT Telekomunikasi Indonesia
 36.88.119.162    # ID  AS7713    PT Telekomunikasi Indonesia
