@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1363
-# Last updated:           2026-01-17 01:56:31
+# Number of ips:          1367
+# Last updated:           2026-01-17 06:35:50
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -482,6 +482,7 @@
 103.58.100.104   # ID  AS133800  PT Biznet Gio Nusantara
 103.59.160.104   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.119   # ID  AS150493  PT Gunung Sedayu Sentosa
+103.59.160.131   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.146   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.148   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.151   # ID  AS150493  PT Gunung Sedayu Sentosa
@@ -490,6 +491,7 @@
 103.59.160.192   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.195   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.207   # ID  AS150493  PT Gunung Sedayu Sentosa
+103.59.160.218   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.226   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.237   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.244   # ID  AS150493  PT Gunung Sedayu Sentosa
@@ -1303,9 +1305,11 @@
 43.133.148.170   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.133.156.8     # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.133.157.163   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
+43.133.157.26    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.200.48    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.209.189   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.211.217   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
+43.157.212.179   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.223.37    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.224.135   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.241.18    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
