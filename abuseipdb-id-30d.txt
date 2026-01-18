@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1359
-# Last updated:           2026-01-18 02:09:33
+# Number of ips:          1362
+# Last updated:           2026-01-18 06:36:40
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -245,6 +245,7 @@
 103.176.97.225   # ID  AS147131  PT Global Sarana Elektronika
 103.176.97.226   # ID  AS147131  PT Global Sarana Elektronika
 103.176.99.34    # ID  AS149344  PT Dhoho Mitra Abadi
+103.178.153.227  # ID  AS140443  PT Herza Digital Indonesia
 103.178.175.180  # ID  AS137331  PT Cloud Teknologi Nusantara
 103.179.217.33   # ID  AS139449  PT Lintas Data Multimedia
 103.179.218.243  # ID  AS141596  PT Wistel Teknologi Solusi
@@ -416,6 +417,7 @@
 103.232.20.98    # ID  AS151508  PT Terabyte Network Indonesia
 103.235.75.212   # ID  AS135444  PT Ikubaru Indonesia
 103.236.140.19   # ID  AS151518  SMK Negeri 22 Jakarta
+103.236.201.29   # ID  AS136052  PT Cloud Hosting Indonesia
 103.244.206.186  # ID  AS131759  PT. Web Data Solusindo
 103.244.206.6    # ID  AS131759  PT. Web Data Solusindo
 103.244.207.188  # ID  AS131759  PT. Web Data Solusindo
@@ -1202,6 +1204,7 @@
 36.67.227.66     # ID  AS7713    PT Telekomunikasi Indonesia
 36.67.33.97      # ID  AS7713    PT Telekomunikasi Indonesia
 36.67.56.52      # ID  AS7713    PT Telekomunikasi Indonesia
+36.67.6.139      # ID  AS7713    PT Telekomunikasi Indonesia
 36.67.70.198     # ID  AS7713    PT Telekomunikasi Indonesia
 36.67.80.194     # ID  AS7713    PT Telekomunikasi Indonesia
 36.67.9.186      # ID  AS7713    PT Telekomunikasi Indonesia
