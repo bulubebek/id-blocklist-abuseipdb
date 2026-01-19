@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1355
-# Last updated:           2026-01-19 12:58:36
+# Number of ips:          1360
+# Last updated:           2026-01-19 18:37:30
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -423,6 +423,7 @@
 103.250.15.64    # ID  AS151590  PT Pandawa Global Telematika
 103.252.12.242   # ID  AS133838  PT Infotek Global Network
 103.27.206.120   # ID  AS55688   PT. Beon Intermedia
+103.27.206.233   # ID  AS55688   PT. Beon Intermedia
 103.27.206.6     # ID  AS55688   PT. Beon Intermedia
 103.27.36.4      # ID  AS132670  PT Aseli Dagadu Djokdja
 103.28.221.44    # ID  AS58492   Universitas Islam Sultan Agung
@@ -630,6 +631,7 @@
 111.95.5.194     # ID  AS23700   Linknet-Fastnet ASN
 111.95.77.13     # ID  AS23700   Linknet-Fastnet ASN
 112.109.20.226   # ID  AS24521   PT. DATA Utama Dinamika
+112.109.20.72    # ID  AS24521   PT. DATA Utama Dinamika
 112.78.135.82    # ID  AS38482   Biznet ISP
 112.78.177.159   # ID  AS17451   BIZNET NETWORKS
 112.78.185.12    # ID  AS17451   BIZNET NETWORKS
@@ -937,6 +939,7 @@
 180.252.148.249  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.149.115  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.149.23   # ID  AS7713    PT Telekomunikasi Indonesia
+180.252.154.100  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.154.9    # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.157.122  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.157.187  # ID  AS7713    PT Telekomunikasi Indonesia
@@ -990,6 +993,7 @@
 202.10.34.139    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.35.29     # ID  AS58487   CV. Rumahweb Indonesia
 202.10.36.217    # ID  AS58487   CV. Rumahweb Indonesia
+202.10.36.52     # ID  AS58487   CV. Rumahweb Indonesia
 202.10.36.75     # ID  AS58487   CV. Rumahweb Indonesia
 202.10.41.223    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.45.61     # ID  AS58487   CV. Rumahweb Indonesia
@@ -1177,6 +1181,7 @@
 36.64.174.50     # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.174.98     # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.175.50     # ID  AS7713    PT Telekomunikasi Indonesia
+36.64.184.26     # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.184.42     # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.184.50     # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.191.18     # ID  AS7713    PT Telekomunikasi Indonesia
