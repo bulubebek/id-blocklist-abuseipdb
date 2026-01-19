@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1025
-# Last updated:           2026-01-19 02:07:31
+# Number of ips:          1031
+# Last updated:           2026-01-19 06:45:08
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -386,6 +386,8 @@
 103.59.160.148   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.151   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.170   # ID  AS150493  PT Gunung Sedayu Sentosa
+103.59.160.174   # ID  AS150493  PT Gunung Sedayu Sentosa
+103.59.160.175   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.192   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.207   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.218   # ID  AS150493  PT Gunung Sedayu Sentosa
@@ -505,6 +507,7 @@
 103.98.176.164   # ID  AS136827  Universitas PGRI Semarang
 108.136.162.67   # ID  AS16509   Amazon.com, Inc.
 108.137.8.107    # ID  AS16509   Amazon.com, Inc.
+109.110.188.124  # ID  AS199695  PT Anym Network Indonesia
 110.136.191.176  # ID  AS7713    PT Telekomunikasi Indonesia
 110.137.110.42   # ID  AS7713    PT Telekomunikasi Indonesia
 110.138.220.195  # ID  AS7713    PT Telekomunikasi Indonesia
@@ -543,6 +546,7 @@
 117.102.121.163  # ID  AS17451   BIZNET NETWORKS
 117.102.94.130   # ID  AS17451   BIZNET NETWORKS
 117.53.45.126    # ID  AS58397   PT Infinys System Indonesia
+117.53.45.221    # ID  AS58397   PT Infinys System Indonesia
 117.53.45.35     # ID  AS58397   PT Infinys System Indonesia
 118.136.74.242   # ID  AS23700   Linknet-Fastnet ASN
 118.137.160.210  # ID  AS23700   Linknet-Fastnet ASN
@@ -620,6 +624,7 @@
 157.15.1.165     # ID  AS152769  PT Gopal Network Solusindo
 157.15.1.166     # ID  AS152769  PT Gopal Network Solusindo
 157.15.1.167     # ID  AS152769  PT Gopal Network Solusindo
+157.15.124.186   # ID  AS138115  PT Deneva
 157.15.124.97    # ID  AS138115  PT Deneva
 157.15.40.218    # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.27     # ID  AS139952  PT Trisari Data Indonusa
@@ -752,6 +757,7 @@
 183.91.83.132    # ID  AS4800    PT Aplikanusa Lintasarta
 192.145.228.33   # ID  AS140031  PT Mandala Lintas Nusa
 195.88.211.182   # ID  AS214882  Hadi Santosa
+202.10.35.29     # ID  AS58487   CV. Rumahweb Indonesia
 202.10.47.35     # ID  AS58487   CV. Rumahweb Indonesia
 202.122.13.130   # ID  AS24209   PT. Inter Media Lintas Nusa
 202.122.13.178   # ID  AS24209   PT. Inter Media Lintas Nusa
