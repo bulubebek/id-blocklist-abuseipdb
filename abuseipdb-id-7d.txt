@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          855
-# Last updated:           2026-01-20 06:41:54
+# Number of ips:          863
+# Last updated:           2026-01-20 12:59:21
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -57,6 +57,7 @@
 103.146.202.84   # ID  AS136052  PT Cloud Hosting Indonesia
 103.146.203.212  # ID  AS136052  PT Cloud Hosting Indonesia
 103.146.203.22   # ID  AS136052  PT Cloud Hosting Indonesia
+103.146.63.132   # ID  AS139457  PT Semut Data Indonesia
 103.147.159.91   # ID  AS38513   PT Aplikanusa Lintasarta
 103.147.211.2    # ID  AS150544  PT Global Visi Vindici
 103.148.100.146  # ID  AS139988  PT. GARUDA PRIMA INTERNETINDO
@@ -230,6 +231,7 @@
 103.184.122.84   # ID  AS149705  PT Wijaya Trimitra Indonesia
 103.184.128.159  # ID  AS149680  CV Restu Media
 103.184.56.245   # ID  AS149667  PT Gading Bhakti Utama
+103.184.56.249   # ID  AS149667  PT Gading Bhakti Utama
 103.186.0.101    # ID  AS136052  PT Cloud Hosting Indonesia
 103.186.0.19     # ID  AS136052  PT Cloud Hosting Indonesia
 103.186.0.68     # ID  AS136052  PT Cloud Hosting Indonesia
@@ -238,6 +240,7 @@
 103.186.1.197    # ID  AS136052  PT Cloud Hosting Indonesia
 103.186.1.59     # ID  AS136052  PT Cloud Hosting Indonesia
 103.186.193.149  # ID  AS149713  PT Lentera Digital Nusantara
+103.186.31.44    # ID  AS141892  CV Andhika Pratama Sanggoro
 103.186.31.45    # ID  AS141892  CV Andhika Pratama Sanggoro
 103.187.165.26   # ID  AS149897  PT Amanusa Telemedia Mahardika
 103.188.177.46   # ID  AS149734  PEDEE
@@ -350,6 +353,7 @@
 103.59.160.251   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.252   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.46    # ID  AS150493  PT Gunung Sedayu Sentosa
+103.59.160.79    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.96    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.161.64    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.94.155    # ID  AS136052  PT Cloud Hosting Indonesia
@@ -369,6 +373,7 @@
 103.59.95.7      # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.95.81     # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.95.94     # ID  AS136052  PT Cloud Hosting Indonesia
+103.63.101.42    # ID  AS150273  PT Berkah Maju Interasional
 103.63.25.111    # ID  AS136052  PT Cloud Hosting Indonesia
 103.63.25.115    # ID  AS136052  PT Cloud Hosting Indonesia
 103.63.25.203    # ID  AS136052  PT Cloud Hosting Indonesia
@@ -529,6 +534,7 @@
 157.15.40.56     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.57     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.58     # ID  AS139952  PT Trisari Data Indonusa
+157.15.40.59     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.6      # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.60     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.61     # ID  AS139952  PT Trisari Data Indonusa
@@ -612,6 +618,7 @@
 180.252.154.100  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.154.9    # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.80.19    # ID  AS7713    PT Telekomunikasi Indonesia
+180.252.90.232   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.92.78    # ID  AS7713    PT Telekomunikasi Indonesia
 182.10.161.82    # ID  AS23693   PT. Telekomunikasi Selular
 182.13.96.129    # ID  AS23693   PT. Telekomunikasi Selular
@@ -793,6 +800,7 @@
 36.92.154.18     # ID  AS7713    PT Telekomunikasi Indonesia
 36.92.154.194    # ID  AS7713    PT Telekomunikasi Indonesia
 36.92.154.210    # ID  AS7713    PT Telekomunikasi Indonesia
+36.92.154.218    # ID  AS7713    PT Telekomunikasi Indonesia
 36.92.154.226    # ID  AS7713    PT Telekomunikasi Indonesia
 36.92.154.234    # ID  AS7713    PT Telekomunikasi Indonesia
 36.92.174.85     # ID  AS7713    PT Telekomunikasi Indonesia
