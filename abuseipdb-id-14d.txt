@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1026
-# Last updated:           2026-01-21 02:05:08
+# Number of ips:          1032
+# Last updated:           2026-01-21 06:42:25
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -104,6 +104,7 @@
 103.163.138.146  # ID  AS55688   PT. Beon Intermedia
 103.163.138.165  # ID  AS55688   PT. Beon Intermedia
 103.163.138.166  # ID  AS55688   PT. Beon Intermedia
+103.163.138.168  # ID  AS55688   PT. Beon Intermedia
 103.163.138.170  # ID  AS55688   PT. Beon Intermedia
 103.163.138.217  # ID  AS55688   PT. Beon Intermedia
 103.163.138.23   # ID  AS55688   PT. Beon Intermedia
@@ -390,6 +391,7 @@
 103.59.160.174   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.175   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.192   # ID  AS150493  PT Gunung Sedayu Sentosa
+103.59.160.195   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.207   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.218   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.226   # ID  AS150493  PT Gunung Sedayu Sentosa
@@ -432,6 +434,7 @@
 103.65.236.153   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.65.236.169   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.65.237.124   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
+103.65.237.163   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.65.237.185   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.65.237.194   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.65.237.216   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
@@ -747,6 +750,7 @@
 182.8.125.6      # ID  AS23693   PT. Telekomunikasi Selular
 182.8.161.0      # ID  AS23693   PT. Telekomunikasi Selular
 182.8.161.138    # ID  AS23693   PT. Telekomunikasi Selular
+182.8.179.124    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.179.144    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.179.177    # ID  AS23693   PT. Telekomunikasi Selular
 192.145.228.33   # ID  AS140031  PT Mandala Lintas Nusa
@@ -917,6 +921,7 @@
 36.77.31.165     # ID  AS7713    PT Telekomunikasi Indonesia
 36.79.136.202    # ID  AS7713    PT Telekomunikasi Indonesia
 36.79.156.234    # ID  AS7713    PT Telekomunikasi Indonesia
+36.83.120.91     # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.121.208    # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.122.26     # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.68.167     # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1033,5 +1038,6 @@
 8.215.59.153     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.69.225     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.69.55      # ID  AS45102   Alibaba (US) Technology Co., Ltd.
+82.25.62.102     # ID  AS141968  PT Industri Kreatif Digital
 89.21.85.27      # ID  AS141892  CV Andhika Pratama Sanggoro
 93.185.162.126   # ID  AS209854  Cyberzone S.A.
