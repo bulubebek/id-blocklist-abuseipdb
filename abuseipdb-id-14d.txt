@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1050
-# Last updated:           2026-01-22 06:40:51
+# Number of ips:          1055
+# Last updated:           2026-01-22 12:58:50
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -252,6 +252,7 @@
 103.183.74.214   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.74.39    # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.75.135   # ID  AS136052  PT Cloud Hosting Indonesia
+103.183.75.150   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.75.162   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.75.228   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.75.239   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -390,6 +391,7 @@
 103.55.216.2     # ID  AS133824  Universitas Islam Negeri Alauddin Makasar
 103.55.216.250   # ID  AS133824  Universitas Islam Negeri Alauddin Makasar
 103.55.36.22     # ID  AS136052  PT Cloud Hosting Indonesia
+103.56.207.214   # ID  AS58477   Argon Data Communication
 103.58.100.104   # ID  AS133800  PT Biznet Gio Nusantara
 103.59.160.104   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.119   # ID  AS150493  PT Gunung Sedayu Sentosa
@@ -604,9 +606,11 @@
 125.160.118.66   # ID  AS7713    PT Telekomunikasi Indonesia
 125.163.64.132   # ID  AS7713    PT Telekomunikasi Indonesia
 125.164.45.75    # ID  AS7713    PT Telekomunikasi Indonesia
+125.166.19.12    # ID  AS7713    PT Telekomunikasi Indonesia
 125.167.146.139  # ID  AS7713    PT Telekomunikasi Indonesia
 125.167.147.159  # ID  AS7713    PT Telekomunikasi Indonesia
 125.213.152.34   # ID  AS4800    PT Aplikanusa Lintasarta
+128.14.232.254   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 128.14.233.253   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 139.0.23.124     # ID  AS9905    Linknet ASN
 139.192.252.87   # ID  AS23700   Linknet-Fastnet ASN
@@ -922,6 +926,7 @@
 36.64.36.101     # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.68.99      # ID  AS7713    PT Telekomunikasi Indonesia
 36.65.82.154     # ID  AS7713    PT Telekomunikasi Indonesia
+36.65.83.189     # ID  AS7713    PT Telekomunikasi Indonesia
 36.66.16.233     # ID  AS7713    PT Telekomunikasi Indonesia
 36.66.66.195     # ID  AS7713    PT Telekomunikasi Indonesia
 36.66.74.234     # ID  AS7713    PT Telekomunikasi Indonesia

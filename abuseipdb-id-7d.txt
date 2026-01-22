@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          885
-# Last updated:           2026-01-22 06:40:52
+# Number of ips:          893
+# Last updated:           2026-01-22 12:58:51
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -227,6 +227,7 @@
 103.183.74.214   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.74.39    # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.75.135   # ID  AS136052  PT Cloud Hosting Indonesia
+103.183.75.150   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.75.162   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.75.228   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.75.239   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -340,6 +341,7 @@
 103.52.115.25    # ID  AS136052  PT Cloud Hosting Indonesia
 103.55.216.2     # ID  AS133824  Universitas Islam Negeri Alauddin Makasar
 103.55.36.22     # ID  AS136052  PT Cloud Hosting Indonesia
+103.56.207.214   # ID  AS58477   Argon Data Communication
 103.58.100.104   # ID  AS133800  PT Biznet Gio Nusantara
 103.59.160.104   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.119   # ID  AS150493  PT Gunung Sedayu Sentosa
@@ -454,6 +456,7 @@
 111.95.0.46      # ID  AS23700   Linknet-Fastnet ASN
 111.95.77.13     # ID  AS23700   Linknet-Fastnet ASN
 112.109.20.72    # ID  AS24521   PT. DATA Utama Dinamika
+113.20.31.55     # ID  AS45731   ARDH GLOBAL INDONESIA, PT
 114.10.41.132    # ID  AS4761    INDOSAT Internet Network Provider
 114.10.47.206    # ID  AS4761    INDOSAT Internet Network Provider
 114.10.47.6      # ID  AS4761    INDOSAT Internet Network Provider
@@ -514,8 +517,10 @@
 123.231.253.21   # ID  AS4800    PT Aplikanusa Lintasarta
 124.40.250.105   # ID  AS45305   Lintas Data Prima, PT
 125.160.118.66   # ID  AS7713    PT Telekomunikasi Indonesia
+125.166.19.12    # ID  AS7713    PT Telekomunikasi Indonesia
 125.167.147.159  # ID  AS7713    PT Telekomunikasi Indonesia
 125.213.152.34   # ID  AS4800    PT Aplikanusa Lintasarta
+128.14.232.254   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 128.14.233.253   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 139.0.23.124     # ID  AS9905    Linknet ASN
 139.192.252.87   # ID  AS23700   Linknet-Fastnet ASN
@@ -555,6 +560,7 @@
 157.15.40.61     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.62     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.74     # ID  AS139952  PT Trisari Data Indonusa
+157.15.40.76     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.77     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.78     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.8      # ID  AS139952  PT Trisari Data Indonusa
@@ -616,6 +622,7 @@
 163.223.227.6    # ID  AS199695  PT Anym Network Indonesia
 163.227.146.148  # ID  AS153820  PT EXA TELEKOMUNIKASI NUSANTARA
 163.227.52.50    # ID  AS153804  PT Jagoan Data Nusantara
+163.53.186.130   # ID  AS9341    PT INDONESIA COMNETS PLUS
 165.101.18.73    # ID  AS153985  PT LAYANAN SERVER INDONESIA
 165.154.150.141  # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 165.154.150.65   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
@@ -782,6 +789,7 @@
 36.64.36.101     # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.68.99      # ID  AS7713    PT Telekomunikasi Indonesia
 36.65.82.154     # ID  AS7713    PT Telekomunikasi Indonesia
+36.65.83.189     # ID  AS7713    PT Telekomunikasi Indonesia
 36.66.16.233     # ID  AS7713    PT Telekomunikasi Indonesia
 36.66.66.195     # ID  AS7713    PT Telekomunikasi Indonesia
 36.66.74.234     # ID  AS7713    PT Telekomunikasi Indonesia
