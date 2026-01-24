@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          699
-# Last updated:           2026-01-24 12:49:41
+# Number of ips:          704
+# Last updated:           2026-01-24 18:35:14
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -12,6 +12,7 @@
 103.101.216.74   # ID  AS150941  PT Duta Trans Nusantara Network
 103.102.248.227  # ID  AS131769  PT Mayatama Solusindo
 103.103.145.130  # ID  AS136861  PT. ARTAMEDIA CITRA TELEMATIKA INDONESIA
+103.103.21.109   # ID  AS133800  PT Biznet Gio Nusantara
 103.105.52.129   # ID  AS136873  MEGADATA-ISP
 103.105.67.170   # ID  AS17995   PT iForte Global Internet
 103.110.9.212    # ID  AS131717  PT Citra Jelajah Informatika
@@ -155,6 +156,7 @@
 103.179.57.150   # ID  AS136052  PT Cloud Hosting Indonesia
 103.18.133.253   # ID  AS55693   PT. Bangun Abadi Teknologi Indonesia
 103.18.77.113    # ID  AS55701   PT. Usaha Adisanggoro
+103.18.78.45     # ID  AS55701   PT. Usaha Adisanggoro
 103.18.78.46     # ID  AS55701   PT. Usaha Adisanggoro
 103.18.79.183    # ID  AS55701   PT. Usaha Adisanggoro
 103.18.79.82     # ID  AS55701   PT. Usaha Adisanggoro
@@ -319,6 +321,7 @@
 103.60.182.22    # ID  AS55685   PT Jala Lintas Media
 103.63.101.42    # ID  AS150273  PT Berkah Maju Interasional
 103.63.25.203    # ID  AS136052  PT Cloud Hosting Indonesia
+103.65.236.149   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.65.236.153   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.65.237.124   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.65.237.194   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
@@ -466,6 +469,7 @@
 157.20.32.173    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.212    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.217    # ID  AS152390  PT Intercloud Digital Inovasi
+157.66.249.14    # ID  AS152797  PT Global Media Integra
 157.66.34.121    # ID  AS55688   PT. Beon Intermedia
 157.66.55.50     # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.56.12     # ID  AS58477   Argon Data Communication
@@ -645,6 +649,7 @@
 36.89.252.226    # ID  AS7713    PT Telekomunikasi Indonesia
 36.89.252.58     # ID  AS7713    PT Telekomunikasi Indonesia
 36.89.62.181     # ID  AS7713    PT Telekomunikasi Indonesia
+36.91.108.27     # ID  AS7713    PT Telekomunikasi Indonesia
 36.91.166.189    # ID  AS7713    PT Telekomunikasi Indonesia
 36.91.166.34     # ID  AS7713    PT Telekomunikasi Indonesia
 36.91.6.18       # ID  AS7713    PT Telekomunikasi Indonesia
