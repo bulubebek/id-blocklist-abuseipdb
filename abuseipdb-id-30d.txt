@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1331
-# Last updated:           2026-01-27 02:08:59
+# Number of ips:          1335
+# Last updated:           2026-01-27 06:41:26
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -347,6 +347,7 @@
 103.193.178.68   # ID  AS136052  PT Cloud Hosting Indonesia
 103.194.47.52    # ID  AS149971  PT Jujur Amanah Barokah
 103.196.116.79   # ID  AS23679   PT. Media Antar Nusa
+103.196.146.240  # ID  AS133800  PT Biznet Gio Nusantara
 103.196.147.233  # ID  AS133800  PT Biznet Gio Nusantara
 103.197.190.87   # ID  AS133800  PT Biznet Gio Nusantara
 103.197.191.6    # ID  AS133800  PT Biznet Gio Nusantara
@@ -723,6 +724,7 @@
 125.163.62.124   # ID  AS7713    PT Telekomunikasi Indonesia
 125.163.64.132   # ID  AS7713    PT Telekomunikasi Indonesia
 125.163.64.98    # ID  AS7713    PT Telekomunikasi Indonesia
+125.164.43.73    # ID  AS7713    PT Telekomunikasi Indonesia
 125.164.44.231   # ID  AS7713    PT Telekomunikasi Indonesia
 125.164.45.75    # ID  AS7713    PT Telekomunikasi Indonesia
 125.166.19.12    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -787,6 +789,7 @@
 157.15.1.167     # ID  AS152769  PT Gopal Network Solusindo
 157.15.124.186   # ID  AS138115  PT Deneva
 157.15.124.97    # ID  AS138115  PT Deneva
+157.15.40.1      # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.21     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.218    # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.27     # ID  AS139952  PT Trisari Data Indonusa
@@ -812,6 +815,7 @@
 157.15.40.91     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.93     # ID  AS139952  PT Trisari Data Indonusa
 157.20.207.165   # ID  AS152436  PT Erajaya Telco Indonesia
+157.20.220.42    # ID  AS152426  PT Nawasena Andalan Indonesia
 157.20.238.119   # ID  AS152429  PT Era Network Indonesia
 157.20.255.6     # ID  AS151000  PT Awan Data Indonesia
 157.20.32.130    # ID  AS152390  PT Intercloud Digital Inovasi
