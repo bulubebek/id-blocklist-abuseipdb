@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1017
-# Last updated:           2026-01-28 02:04:59
+# Number of ips:          1019
+# Last updated:           2026-01-28 06:42:01
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -348,6 +348,7 @@
 103.250.15.65    # ID  AS151590  PT Pandawa Global Telematika
 103.252.12.242   # ID  AS133838  PT Infotek Global Network
 103.27.206.120   # ID  AS55688   PT. Beon Intermedia
+103.27.206.168   # ID  AS55688   PT. Beon Intermedia
 103.27.206.233   # ID  AS55688   PT. Beon Intermedia
 103.27.206.6     # ID  AS55688   PT. Beon Intermedia
 103.27.36.4      # ID  AS132670  PT Aseli Dagadu Djokdja
@@ -905,6 +906,7 @@
 36.79.156.234    # ID  AS7713    PT Telekomunikasi Indonesia
 36.81.232.168    # ID  AS7713    PT Telekomunikasi Indonesia
 36.81.238.33     # ID  AS7713    PT Telekomunikasi Indonesia
+36.83.112.6      # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.120.85     # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.120.91     # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.121.208    # ID  AS7713    PT Telekomunikasi Indonesia
