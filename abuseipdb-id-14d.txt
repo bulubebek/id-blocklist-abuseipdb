@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1024
-# Last updated:           2026-01-28 12:59:14
+# Number of ips:          1027
+# Last updated:           2026-01-28 18:42:28
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -495,6 +495,7 @@
 103.93.93.182    # ID  AS141140  PT Jinde Grup Indonesia
 103.93.93.211    # ID  AS141140  PT Jinde Grup Indonesia
 103.98.176.164   # ID  AS136827  Universitas PGRI Semarang
+103.99.27.12     # ID  AS150279  PT Lintas Network Solusi
 104.28.247.132   # ID  AS13335   Cloudflare, Inc.
 108.136.162.67   # ID  AS16509   Amazon.com, Inc.
 109.110.188.124  # ID  AS199695  PT Anym Network Indonesia
@@ -729,6 +730,7 @@
 180.244.238.73   # ID  AS7713    PT Telekomunikasi Indonesia
 180.245.135.58   # ID  AS7713    PT Telekomunikasi Indonesia
 180.250.196.141  # ID  AS7713    PT Telekomunikasi Indonesia
+180.250.33.134   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.144.62   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.146.130  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.148.246  # ID  AS7713    PT Telekomunikasi Indonesia
@@ -765,6 +767,7 @@
 202.10.35.29     # ID  AS58487   CV. Rumahweb Indonesia
 202.10.36.217    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.36.52     # ID  AS58487   CV. Rumahweb Indonesia
+202.10.45.212    # ID  AS58487   CV. Rumahweb Indonesia
 202.122.13.130   # ID  AS24209   PT. Inter Media Lintas Nusa
 202.125.94.71    # ID  AS46042   Gunadarma University
 202.152.201.166  # ID  AS63859   PT. Eka Mas Republik
