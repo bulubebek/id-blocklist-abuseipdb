@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1326
-# Last updated:           2026-01-28 06:42:00
+# Number of ips:          1330
+# Last updated:           2026-01-28 12:59:14
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -683,6 +683,7 @@
 118.99.80.223    # ID  AS17451   BIZNET NETWORKS
 118.99.80.227    # ID  AS17451   BIZNET NETWORKS
 118.99.80.230    # ID  AS17451   BIZNET NETWORKS
+118.99.80.231    # ID  AS17451   BIZNET NETWORKS
 118.99.80.24     # ID  AS17451   BIZNET NETWORKS
 118.99.80.26     # ID  AS17451   BIZNET NETWORKS
 118.99.80.32     # ID  AS17451   BIZNET NETWORKS
@@ -789,6 +790,7 @@
 157.15.40.27     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.36     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.39     # ID  AS139952  PT Trisari Data Indonusa
+157.15.40.50     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.56     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.57     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.58     # ID  AS139952  PT Trisari Data Indonusa
@@ -918,8 +920,10 @@
 180.245.135.58   # ID  AS7713    PT Telekomunikasi Indonesia
 180.248.244.95   # ID  AS7713    PT Telekomunikasi Indonesia
 180.250.112.146  # ID  AS7713    PT Telekomunikasi Indonesia
+180.250.196.141  # ID  AS7713    PT Telekomunikasi Indonesia
 180.250.33.134   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.123.217  # ID  AS7713    PT Telekomunikasi Indonesia
+180.252.144.62   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.145.132  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.146.130  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.146.162  # ID  AS7713    PT Telekomunikasi Indonesia
