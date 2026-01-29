@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          883
-# Last updated:           2026-01-29 13:06:12
+# Number of ips:          886
+# Last updated:           2026-01-29 18:53:58
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -432,6 +432,7 @@
 103.98.176.164   # ID  AS136827  Universitas PGRI Semarang
 103.99.27.12     # ID  AS150279  PT Lintas Network Solusi
 104.28.247.132   # ID  AS13335   Cloudflare, Inc.
+108.136.162.67   # ID  AS16509   Amazon.com, Inc.
 109.110.188.124  # ID  AS199695  PT Anym Network Indonesia
 110.76.147.145   # ID  AS140481  PT Tonggak Teknologi Netikom
 111.95.0.254     # ID  AS23700   Linknet-Fastnet ASN
@@ -573,6 +574,7 @@
 157.20.32.173    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.212    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.217    # ID  AS152390  PT Intercloud Digital Inovasi
+157.66.16.103    # ID  AS136089  PT Mitra Mandiri Network
 157.66.249.14    # ID  AS152797  PT Global Media Integra
 157.66.34.121    # ID  AS55688   PT. Beon Intermedia
 157.66.55.46     # ID  AS141892  CV Andhika Pratama Sanggoro
@@ -663,6 +665,7 @@
 202.10.36.52     # ID  AS58487   CV. Rumahweb Indonesia
 202.10.45.212    # ID  AS58487   CV. Rumahweb Indonesia
 202.125.94.71    # ID  AS46042   Gunadarma University
+202.137.7.58     # ID  AS9905    Linknet ASN
 202.152.201.166  # ID  AS63859   PT. Eka Mas Republik
 202.152.204.159  # ID  AS63859   PT. Eka Mas Republik
 202.155.14.84    # ID  AS138115  PT Deneva
