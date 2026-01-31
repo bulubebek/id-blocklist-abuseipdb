@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1311
-# Last updated:           2026-01-31 12:56:27
+# Number of ips:          1314
+# Last updated:           2026-01-31 18:38:12
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -154,6 +154,7 @@
 103.165.156.50   # ID  AS136873  MEGADATA-ISP
 103.165.156.59   # ID  AS136873  MEGADATA-ISP
 103.165.222.189  # ID  AS17995   PT iForte Global Internet
+103.165.230.198  # ID  AS17995   PT iForte Global Internet
 103.165.230.210  # ID  AS17995   PT iForte Global Internet
 103.165.236.27   # ID  AS17995   PT iForte Global Internet
 103.165.37.68    # ID  AS17995   PT iForte Global Internet
@@ -906,6 +907,7 @@
 180.244.238.73   # ID  AS7713    PT Telekomunikasi Indonesia
 180.245.122.243  # ID  AS7713    PT Telekomunikasi Indonesia
 180.245.135.58   # ID  AS7713    PT Telekomunikasi Indonesia
+180.247.127.16   # ID  AS7713    PT Telekomunikasi Indonesia
 180.248.244.95   # ID  AS7713    PT Telekomunikasi Indonesia
 180.250.196.141  # ID  AS7713    PT Telekomunikasi Indonesia
 180.250.33.134   # ID  AS7713    PT Telekomunikasi Indonesia
@@ -977,6 +979,7 @@
 202.150.131.18   # ID  AS23949   PT Comtronics Systems
 202.152.201.166  # ID  AS63859   PT. Eka Mas Republik
 202.152.204.159  # ID  AS63859   PT. Eka Mas Republik
+202.152.44.18    # ID  AS4800    PT Aplikanusa Lintasarta
 202.152.49.82    # ID  AS4800    PT Aplikanusa Lintasarta
 202.155.14.182   # ID  AS138115  PT Deneva
 202.155.14.84    # ID  AS138115  PT Deneva
