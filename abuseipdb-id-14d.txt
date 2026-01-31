@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1022
-# Last updated:           2026-01-31 02:22:15
+# Number of ips:          1027
+# Last updated:           2026-01-31 06:45:43
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -133,6 +133,7 @@
 103.166.254.66   # ID  AS141966  PT Instanet Media Nusantara
 103.166.33.52    # ID  AS141929  PT Daniswara Citra Informatika
 103.166.33.69    # ID  AS141929  PT Daniswara Citra Informatika
+103.167.4.154    # ID  AS17995   PT iForte Global Internet
 103.167.4.155    # ID  AS17995   PT iForte Global Internet
 103.167.5.174    # ID  AS17995   PT iForte Global Internet
 103.168.135.187  # ID  AS38513   PT Aplikanusa Lintasarta
@@ -491,6 +492,7 @@
 104.28.247.132   # ID  AS13335   Cloudflare, Inc.
 108.136.162.67   # ID  AS16509   Amazon.com, Inc.
 109.110.188.124  # ID  AS199695  PT Anym Network Indonesia
+110.136.15.132   # ID  AS7713    PT Telekomunikasi Indonesia
 110.136.191.176  # ID  AS7713    PT Telekomunikasi Indonesia
 110.136.191.240  # ID  AS7713    PT Telekomunikasi Indonesia
 110.138.220.195  # ID  AS7713    PT Telekomunikasi Indonesia
@@ -575,6 +577,7 @@
 125.164.43.73    # ID  AS7713    PT Telekomunikasi Indonesia
 125.164.44.231   # ID  AS7713    PT Telekomunikasi Indonesia
 125.166.19.12    # ID  AS7713    PT Telekomunikasi Indonesia
+125.167.146.41   # ID  AS7713    PT Telekomunikasi Indonesia
 125.167.147.159  # ID  AS7713    PT Telekomunikasi Indonesia
 125.213.152.34   # ID  AS4800    PT Aplikanusa Lintasarta
 128.14.232.254   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
@@ -682,6 +685,7 @@
 157.66.56.210    # ID  AS58477   Argon Data Communication
 157.66.56.214    # ID  AS58477   Argon Data Communication
 157.66.56.220    # ID  AS58477   Argon Data Communication
+157.66.56.223    # ID  AS58477   Argon Data Communication
 157.66.56.225    # ID  AS58477   Argon Data Communication
 157.66.56.227    # ID  AS58477   Argon Data Communication
 157.66.56.231    # ID  AS58477   Argon Data Communication
@@ -867,6 +871,7 @@
 27.121.87.31     # ID  AS55652   Sumidhaz Permata Bunda, PT
 27.121.87.45     # ID  AS55652   Sumidhaz Permata Bunda, PT
 27.50.25.190     # ID  AS131111  PT Mora Telematika Indonesia
+31.97.109.87     # ID  AS47583   Hostinger International Limited
 34.101.147.42    # ID  AS396982  Google LLC
 34.128.77.56     # ID  AS396982  Google LLC
 34.50.115.68     # ID  AS396982  Google LLC
