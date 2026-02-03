@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1316
-# Last updated:           2026-02-03 06:57:23
+# Number of ips:          1320
+# Last updated:           2026-02-03 13:10:11
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -709,6 +709,7 @@
 125.164.43.73    # ID  AS7713    PT Telekomunikasi Indonesia
 125.164.44.231   # ID  AS7713    PT Telekomunikasi Indonesia
 125.164.45.75    # ID  AS7713    PT Telekomunikasi Indonesia
+125.164.47.1     # ID  AS7713    PT Telekomunikasi Indonesia
 125.166.18.238   # ID  AS7713    PT Telekomunikasi Indonesia
 125.166.19.12    # ID  AS7713    PT Telekomunikasi Indonesia
 125.167.146.139  # ID  AS7713    PT Telekomunikasi Indonesia
@@ -827,6 +828,7 @@
 157.66.55.50     # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.56.113    # ID  AS58477   Argon Data Communication
 157.66.56.12     # ID  AS58477   Argon Data Communication
+157.66.56.121    # ID  AS58477   Argon Data Communication
 157.66.56.131    # ID  AS58477   Argon Data Communication
 157.66.56.134    # ID  AS58477   Argon Data Communication
 157.66.56.136    # ID  AS58477   Argon Data Communication
@@ -1155,6 +1157,7 @@
 36.69.153.164    # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.153.93     # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.154.4      # ID  AS7713    PT Telekomunikasi Indonesia
+36.69.158.217    # ID  AS7713    PT Telekomunikasi Indonesia
 36.71.185.236    # ID  AS7713    PT Telekomunikasi Indonesia
 36.71.190.152    # ID  AS7713    PT Telekomunikasi Indonesia
 36.75.106.244    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1318,6 +1321,7 @@
 8.215.14.103     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.33.203     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.38.216     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
+8.215.41.147     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.59.153     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.69.225     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.69.55      # ID  AS45102   Alibaba (US) Technology Co., Ltd.
