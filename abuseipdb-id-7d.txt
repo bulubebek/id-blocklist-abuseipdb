@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          897
-# Last updated:           2026-02-03 13:10:11
+# Number of ips:          902
+# Last updated:           2026-02-03 19:00:53
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -653,8 +653,10 @@
 182.253.79.194   # ID  AS17451   BIZNET NETWORKS
 182.253.79.195   # ID  AS17451   BIZNET NETWORKS
 182.8.161.112    # ID  AS23693   PT. Telekomunikasi Selular
+182.8.161.138    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.179.124    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.182.14     # ID  AS23693   PT. Telekomunikasi Selular
+183.91.83.132    # ID  AS4800    PT Aplikanusa Lintasarta
 192.145.228.33   # ID  AS140031  PT Mandala Lintas Nusa
 202.10.34.104    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.35.29     # ID  AS58487   CV. Rumahweb Indonesia
@@ -702,6 +704,7 @@
 202.169.46.83    # ID  AS17451   BIZNET NETWORKS
 202.46.155.230   # ID  AS149746  PT Blip Integrator Provider
 202.47.67.234    # ID  AS139972  PT. Putra Lebak Banten
+202.51.102.86    # ID  AS17995   PT iForte Global Internet
 202.51.208.170   # ID  AS55685   PT Jala Lintas Media
 202.51.214.98    # ID  AS10220   PT. Kreasi Sejahtera Teknologi
 202.51.214.99    # ID  AS10220   PT. Kreasi Sejahtera Teknologi
@@ -880,6 +883,7 @@
 43.218.86.143    # ID  AS16509   Amazon.com, Inc.
 43.243.142.42    # ID  AS131111  PT Mora Telematika Indonesia
 43.245.249.251   # ID  AS131740  PT Smart Media Pratama
+43.247.22.139    # ID  AS24523   Orion Cyber Internet
 43.248.213.232   # ID  AS58474   PT. MATRIXNET GLOBAL INDONESIA
 43.252.156.204   # ID  AS55666   PT Media Sarana Data
 43.252.159.100   # ID  AS149746  PT Blip Integrator Provider
@@ -887,6 +891,7 @@
 43.252.159.78    # ID  AS149746  PT Blip Integrator Provider
 43.252.159.79    # ID  AS149746  PT Blip Integrator Provider
 43.252.236.237   # ID  AS55701   PT. Usaha Adisanggoro
+43.252.237.174   # ID  AS55701   PT. Usaha Adisanggoro
 43.252.238.221   # ID  AS55701   PT. Usaha Adisanggoro
 45.251.72.2      # ID  AS131711  PT Global Teknologi Teraindo
 58.147.187.34    # ID  AS24534   PT. Transhybrid Communication

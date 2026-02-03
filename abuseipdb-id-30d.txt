@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1320
-# Last updated:           2026-02-03 13:10:11
+# Number of ips:          1321
+# Last updated:           2026-02-03 19:00:53
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -1283,6 +1283,7 @@
 43.229.254.199   # ID  AS23679   PT. Media Antar Nusa
 43.243.142.42    # ID  AS131111  PT Mora Telematika Indonesia
 43.245.249.251   # ID  AS131740  PT Smart Media Pratama
+43.247.22.139    # ID  AS24523   Orion Cyber Internet
 43.248.213.232   # ID  AS58474   PT. MATRIXNET GLOBAL INDONESIA
 43.252.156.204   # ID  AS55666   PT Media Sarana Data
 43.252.159.100   # ID  AS149746  PT Blip Integrator Provider
