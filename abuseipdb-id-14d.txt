@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1026
-# Last updated:           2026-02-04 13:08:52
+# Number of ips:          1029
+# Last updated:           2026-02-04 18:56:25
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -294,6 +294,7 @@
 103.217.146.41   # ID  AS151513  PT Infotech Tantami Nusantara
 103.219.251.163  # ID  AS135444  PT Ikubaru Indonesia
 103.224.125.60   # ID  AS150197  PT Curug Lintas Indonesia
+103.224.125.61   # ID  AS150197  PT Curug Lintas Indonesia
 103.226.138.198  # ID  AS136052  PT Cloud Hosting Indonesia
 103.226.138.241  # ID  AS136052  PT Cloud Hosting Indonesia
 103.226.138.52   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -301,6 +302,7 @@
 103.226.138.95   # ID  AS136052  PT Cloud Hosting Indonesia
 103.226.139.139  # ID  AS136052  PT Cloud Hosting Indonesia
 103.226.139.207  # ID  AS136052  PT Cloud Hosting Indonesia
+103.228.240.165  # ID  AS45700   PT. NAP Info Lintas Nusa
 103.23.198.111   # ID  AS136052  PT Cloud Hosting Indonesia
 103.23.198.128   # ID  AS136052  PT Cloud Hosting Indonesia
 103.23.198.201   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -538,6 +540,7 @@
 118.99.80.42     # ID  AS17451   BIZNET NETWORKS
 118.99.80.55     # ID  AS17451   BIZNET NETWORKS
 118.99.80.56     # ID  AS17451   BIZNET NETWORKS
+118.99.80.6      # ID  AS17451   BIZNET NETWORKS
 118.99.80.61     # ID  AS17451   BIZNET NETWORKS
 119.235.221.223  # ID  AS131111  PT Mora Telematika Indonesia
 119.47.90.13     # ID  AS38527   JAWA POS NATIONAL NETWORK MEDIALINK, PT
