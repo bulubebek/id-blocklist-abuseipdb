@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1317
-# Last updated:           2026-02-05 02:29:13
+# Number of ips:          1322
+# Last updated:           2026-02-05 07:04:15
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -69,6 +69,7 @@
 103.140.35.140   # ID  AS58369   PT. Fiber Networks Indonesia
 103.141.255.141  # ID  AS131769  PT Mayatama Solusindo
 103.142.62.35    # ID  AS139372  Institut Agama Islam Negeri Pekalongan
+103.143.196.42   # ID  AS139409  PT JERNIH MULTI KOMUNIKASI
 103.144.175.118  # ID  AS9341    PT INDONESIA COMNETS PLUS
 103.144.179.85   # ID  AS9341    PT INDONESIA COMNETS PLUS
 103.145.244.7    # ID  AS132641  PT Netciti Persada
@@ -567,6 +568,7 @@
 103.77.107.222   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.107.27    # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.107.57    # ID  AS135450  PT Berkah Solusi Teknologi Informasi
+103.77.107.72    # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.207.53    # ID  AS64297   PT Medialink Global Mandiri
 103.78.195.193   # ID  AS64303   Universitas Islam Bandung
 103.78.97.230    # ID  AS131111  PT Mora Telematika Indonesia
@@ -677,6 +679,7 @@
 118.99.80.32     # ID  AS17451   BIZNET NETWORKS
 118.99.80.35     # ID  AS17451   BIZNET NETWORKS
 118.99.80.42     # ID  AS17451   BIZNET NETWORKS
+118.99.80.50     # ID  AS17451   BIZNET NETWORKS
 118.99.80.51     # ID  AS17451   BIZNET NETWORKS
 118.99.80.55     # ID  AS17451   BIZNET NETWORKS
 118.99.80.56     # ID  AS17451   BIZNET NETWORKS
@@ -1061,6 +1064,7 @@
 203.210.85.208   # ID  AS55699   PT. Cemerlang Multimedia
 203.217.140.193  # ID  AS45293   Universitas Terbuka
 203.83.40.2      # ID  AS63859   PT. Eka Mas Republik
+206.84.112.212   # ID  AS64315   PT MITRA VISIONER PRATAMA
 208.76.40.162    # ID  AS151592  PT Awan Data Teknologi
 208.76.40.188    # ID  AS151592  PT Awan Data Teknologi
 210.79.142.221   # ID  AS141607  PT Gayatri Lintas Nusantara
@@ -1220,6 +1224,7 @@
 36.92.51.147     # ID  AS7713    PT Telekomunikasi Indonesia
 36.92.51.234     # ID  AS7713    PT Telekomunikasi Indonesia
 36.92.57.21      # ID  AS7713    PT Telekomunikasi Indonesia
+36.92.58.162     # ID  AS7713    PT Telekomunikasi Indonesia
 36.92.84.132     # ID  AS7713    PT Telekomunikasi Indonesia
 36.92.9.2        # ID  AS7713    PT Telekomunikasi Indonesia
 36.93.120.23     # ID  AS7713    PT Telekomunikasi Indonesia
