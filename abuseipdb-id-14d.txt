@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1034
-# Last updated:           2026-02-06 02:30:01
+# Number of ips:          1038
+# Last updated:           2026-02-06 07:00:19
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -238,6 +238,8 @@
 103.183.75.228   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.75.60    # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.75.90    # ID  AS136052  PT Cloud Hosting Indonesia
+103.184.56.220   # ID  AS149667  PT Gading Bhakti Utama
+103.184.56.233   # ID  AS149667  PT Gading Bhakti Utama
 103.184.56.235   # ID  AS149667  PT Gading Bhakti Utama
 103.184.56.240   # ID  AS149667  PT Gading Bhakti Utama
 103.184.56.241   # ID  AS149667  PT Gading Bhakti Utama
@@ -404,6 +406,7 @@
 103.59.95.177    # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.95.187    # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.95.206    # ID  AS136052  PT Cloud Hosting Indonesia
+103.59.95.21     # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.95.213    # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.95.240    # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.95.42     # ID  AS136052  PT Cloud Hosting Indonesia
@@ -683,6 +686,7 @@
 158.140.191.113  # ID  AS63859   PT. Eka Mas Republik
 16.78.194.104    # ID  AS16509   Amazon.com, Inc.
 160.187.107.47   # ID  AS153119  PT Intan Pariwara
+160.187.165.218  # ID  AS153128  PT Techchandra Solusi Telematika
 160.191.171.42   # ID  AS153154  Universitas Katholik Soegijapranata
 160.22.193.35    # ID  AS152830  PT Elemen Jaringan Nusantara
 160.22.251.106   # ID  AS140456  PT Era Awan Digital
