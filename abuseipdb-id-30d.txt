@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1310
-# Last updated:           2026-02-07 02:25:11
+# Number of ips:          1313
+# Last updated:           2026-02-07 06:49:32
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -1109,6 +1109,7 @@
 36.37.111.10     # ID  AS4800    PT Aplikanusa Lintasarta
 36.37.117.50     # ID  AS4800    PT Aplikanusa Lintasarta
 36.37.122.175    # ID  AS38513   PT Aplikanusa Lintasarta
+36.37.92.210     # ID  AS4800    PT Aplikanusa Lintasarta
 36.64.10.42      # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.122.178    # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.146.74     # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1193,6 +1194,7 @@
 36.91.166.34     # ID  AS7713    PT Telekomunikasi Indonesia
 36.91.6.18       # ID  AS7713    PT Telekomunikasi Indonesia
 36.91.81.195     # ID  AS7713    PT Telekomunikasi Indonesia
+36.92.106.185    # ID  AS7713    PT Telekomunikasi Indonesia
 36.92.107.106    # ID  AS7713    PT Telekomunikasi Indonesia
 36.92.154.106    # ID  AS7713    PT Telekomunikasi Indonesia
 36.92.154.178    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1315,6 +1317,7 @@
 8.215.59.153     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.69.225     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.69.55      # ID  AS45102   Alibaba (US) Technology Co., Ltd.
+8.215.91.8       # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 82.25.62.102     # ID  AS141968  PT Industri Kreatif Digital
 82.41.42.41      # ID  AS211407  PT Perwira Media Solusi
 89.21.85.27      # ID  AS141892  CV Andhika Pratama Sanggoro
