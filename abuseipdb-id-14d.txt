@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1027
-# Last updated:           2026-02-10 13:22:57
+# Number of ips:          1029
+# Last updated:           2026-02-10 19:11:01
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -467,6 +467,7 @@
 103.90.67.3      # ID  AS150265  PT Rajawali Bintang Cemerlang Telkomedia
 103.93.93.182    # ID  AS141140  PT Jinde Grup Indonesia
 103.93.93.211    # ID  AS141140  PT Jinde Grup Indonesia
+103.94.238.183   # ID  AS133800  PT Biznet Gio Nusantara
 103.96.146.111   # ID  AS140456  PT Era Awan Digital
 103.98.176.164   # ID  AS136827  Universitas PGRI Semarang
 103.99.27.12     # ID  AS150279  PT Lintas Network Solusi
@@ -800,6 +801,7 @@
 202.58.207.249   # ID  AS45701   Internet Madju Abad Millenindo, PT
 202.59.194.246   # ID  AS63859   PT. Eka Mas Republik
 202.6.226.17     # ID  AS23756   PADINET - Padi Internet
+202.65.226.216   # ID  AS45700   PT. NAP Info Lintas Nusa
 202.65.227.3     # ID  AS45700   PT. NAP Info Lintas Nusa
 202.72.193.34    # ID  AS18153   PT Multidata Rancana Prima
 202.73.25.70     # ID  AS141892  CV Andhika Pratama Sanggoro
