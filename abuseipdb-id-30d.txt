@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1305
-# Last updated:           2026-02-10 07:10:41
+# Number of ips:          1308
+# Last updated:           2026-02-10 13:22:56
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -84,6 +84,7 @@
 103.148.195.237  # ID  AS139996  DINAS KOMUNIKASI DAN INFORMATIKA KABUPATEN TABANAN
 103.148.25.242   # ID  AS139981  PT. Menaksopal Link Nusantara
 103.148.29.174   # ID  AS140012  PT Dewata Solusi Tehnologi
+103.148.49.238   # ID  AS139983  PT. Borneo Cakrawala Media
 103.148.79.138   # ID  AS139980  Dinas Komunikasi Informasi Kota Tasikmalaya
 103.148.89.154   # ID  AS140421  PT APLIKA DATA NUSANTARA
 103.150.113.254  # ID  AS17995   PT iForte Global Internet
@@ -634,6 +635,7 @@
 116.254.101.102  # ID  AS55693   PT. Bangun Abadi Teknologi Indonesia
 116.254.96.51    # ID  AS45700   PT. NAP Info Lintas Nusa
 116.254.98.170   # ID  AS45700   PT. NAP Info Lintas Nusa
+116.254.98.63    # ID  AS45700   PT. NAP Info Lintas Nusa
 116.66.205.182   # ID  AS137346  PT Cyber Network Indonesia
 117.102.100.58   # ID  AS17451   BIZNET NETWORKS
 117.102.121.163  # ID  AS17451   BIZNET NETWORKS
@@ -724,6 +726,7 @@
 139.195.194.84   # ID  AS23700   Linknet-Fastnet ASN
 139.195.82.17    # ID  AS23700   Linknet-Fastnet ASN
 139.195.85.219   # ID  AS23700   Linknet-Fastnet ASN
+140.0.220.77     # ID  AS23700   Linknet-Fastnet ASN
 140.0.6.152      # ID  AS23700   Linknet-Fastnet ASN
 141.11.25.98     # ID  AS141968  PT Industri Kreatif Digital
 143.20.199.10    # ID  AS151592  PT Awan Data Teknologi
