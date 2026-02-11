@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          853
-# Last updated:           2026-02-11 13:19:45
+# Number of ips:          859
+# Last updated:           2026-02-11 19:08:44
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -11,6 +11,7 @@
 #
 103.101.216.74   # ID  AS150941  PT Duta Trans Nusantara Network
 103.103.21.109   # ID  AS133800  PT Biznet Gio Nusantara
+103.105.130.179  # ID  AS17727   PT. NAP Info Lintas Nusa
 103.105.52.129   # ID  AS136873  MEGADATA-ISP
 103.105.67.170   # ID  AS17995   PT iForte Global Internet
 103.110.9.212    # ID  AS131717  PT Citra Jelajah Informatika
@@ -421,9 +422,11 @@
 103.98.176.164   # ID  AS136827  Universitas PGRI Semarang
 103.99.27.12     # ID  AS150279  PT Lintas Network Solusi
 104.28.221.100   # ID  AS13335   Cloudflare, Inc.
+104.28.221.99    # ID  AS13335   Cloudflare, Inc.
 104.28.253.100   # ID  AS13335   Cloudflare, Inc.
 104.28.253.99    # ID  AS13335   Cloudflare, Inc.
 109.110.188.124  # ID  AS199695  PT Anym Network Indonesia
+110.136.190.62   # ID  AS7713    PT Telekomunikasi Indonesia
 110.136.191.240  # ID  AS7713    PT Telekomunikasi Indonesia
 111.95.0.98      # ID  AS23700   Linknet-Fastnet ASN
 111.95.93.80     # ID  AS23700   Linknet-Fastnet ASN
@@ -516,6 +519,7 @@
 152.32.155.11    # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 154.19.37.154    # ID  AS55688   PT. Beon Intermedia
 154.19.37.2      # ID  AS55688   PT. Beon Intermedia
+154.47.151.20    # ID  AS136093  PT Mitra Lintas Multimedia
 157.10.252.119   # ID  AS136052  PT Cloud Hosting Indonesia
 157.10.252.126   # ID  AS136052  PT Cloud Hosting Indonesia
 157.10.252.183   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -676,6 +680,7 @@
 202.169.46.83    # ID  AS17451   BIZNET NETWORKS
 202.46.155.230   # ID  AS149746  PT Blip Integrator Provider
 202.47.67.234    # ID  AS139972  PT. Putra Lebak Banten
+202.51.101.250   # ID  AS17995   PT iForte Global Internet
 202.51.102.86    # ID  AS17995   PT iForte Global Internet
 202.51.214.98    # ID  AS10220   PT. Kreasi Sejahtera Teknologi
 202.51.214.99    # ID  AS10220   PT. Kreasi Sejahtera Teknologi
@@ -744,6 +749,7 @@
 34.101.147.42    # ID  AS396982  Google LLC
 34.101.46.40     # ID  AS396982  Google LLC
 34.101.52.164    # ID  AS396982  Google LLC
+34.128.105.219   # ID  AS396982  Google LLC
 34.128.109.106   # ID  AS396982  Google LLC
 34.128.116.29    # ID  AS396982  Google LLC
 34.128.77.56     # ID  AS396982  Google LLC
