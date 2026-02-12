@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1013
-# Last updated:           2026-02-12 13:17:29
+# Number of ips:          1018
+# Last updated:           2026-02-12 19:08:23
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -10,6 +10,7 @@
 # Credits 2:              https://ipinfo.io - The Trusted Source For IP Address Data
 #
 101.128.84.91    # ID  AS135478  PT. Cyberindo Aditama
+101.128.98.27    # ID  AS135478  PT. Cyberindo Aditama
 103.101.216.218  # ID  AS150941  PT Duta Trans Nusantara Network
 103.101.216.74   # ID  AS150941  PT Duta Trans Nusantara Network
 103.102.248.227  # ID  AS131769  PT Mayatama Solusindo
@@ -28,6 +29,7 @@
 103.125.175.117  # ID  AS139415  PT Trinity Teknologi Nusantara
 103.126.201.184  # ID  AS138113  PT Amron Citinet
 103.126.202.104  # ID  AS138113  PT Amron Citinet
+103.127.132.197  # ID  AS133800  PT Biznet Gio Nusantara
 103.13.138.22    # ID  AS150215  PT Era Bangun Indonesia
 103.137.65.2     # ID  AS58495   PT Parsaoran Global Datatrans
 103.138.53.19    # ID  AS149723  PT Afna Digital Indonesia
@@ -535,6 +537,7 @@
 123.231.137.45   # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.151.148  # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.157.170  # ID  AS4800    PT Aplikanusa Lintasarta
+123.231.157.242  # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.166.202  # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.171.242  # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.179.26   # ID  AS4800    PT Aplikanusa Lintasarta
@@ -721,6 +724,7 @@
 182.8.161.112    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.161.138    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.179.124    # ID  AS23693   PT. Telekomunikasi Selular
+182.8.179.234    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.179.57     # ID  AS23693   PT. Telekomunikasi Selular
 182.8.182.14     # ID  AS23693   PT. Telekomunikasi Selular
 183.91.83.132    # ID  AS4800    PT Aplikanusa Lintasarta
@@ -1012,6 +1016,7 @@
 69.5.23.76       # ID  AS150436  Byteplus Pte. Ltd.
 69.5.7.169       # ID  AS150436  Byteplus Pte. Ltd.
 69.5.7.182       # ID  AS150436  Byteplus Pte. Ltd.
+69.5.7.75        # ID  AS150436  Byteplus Pte. Ltd.
 70.153.84.38     # ID  AS8075    Microsoft Corporation
 8.215.14.103     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.33.203     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
