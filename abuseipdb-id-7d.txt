@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          842
-# Last updated:           2026-02-13 07:04:01
+# Number of ips:          844
+# Last updated:           2026-02-13 13:09:10
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -61,6 +61,7 @@
 103.148.89.154   # ID  AS140421  PT APLIKA DATA NUSANTARA
 103.150.113.254  # ID  AS17995   PT iForte Global Internet
 103.150.227.100  # ID  AS133800  PT Biznet Gio Nusantara
+103.150.227.211  # ID  AS133800  PT Biznet Gio Nusantara
 103.151.63.80    # ID  AS140410  Politeknik Negeri Lampung
 103.151.63.83    # ID  AS140410  Politeknik Negeri Lampung
 103.152.36.150   # ID  AS140433  PT. Colo Media Netindo
@@ -767,6 +768,7 @@
 36.69.158.217    # ID  AS7713    PT Telekomunikasi Indonesia
 36.71.176.70     # ID  AS7713    PT Telekomunikasi Indonesia
 36.71.178.162    # ID  AS7713    PT Telekomunikasi Indonesia
+36.71.188.233    # ID  AS7713    PT Telekomunikasi Indonesia
 36.71.190.152    # ID  AS7713    PT Telekomunikasi Indonesia
 36.73.252.66     # ID  AS7713    PT Telekomunikasi Indonesia
 36.79.125.128    # ID  AS7713    PT Telekomunikasi Indonesia
