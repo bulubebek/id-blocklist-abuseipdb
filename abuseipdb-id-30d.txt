@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1283
-# Last updated:           2026-02-13 02:39:24
+# Number of ips:          1286
+# Last updated:           2026-02-13 07:04:00
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -396,6 +396,7 @@
 103.27.36.4      # ID  AS132670  PT Aseli Dagadu Djokdja
 103.28.57.98     # ID  AS58474   PT. MATRIXNET GLOBAL INDONESIA
 103.29.185.162   # ID  AS56260   PT Pascal Indonesia
+103.29.214.199   # ID  AS58377   Sentra Niaga Solusindo, PT.
 103.3.46.135     # ID  AS56237   Universitas Lampung
 103.3.46.145     # ID  AS56237   Universitas Lampung
 103.30.181.210   # ID  AS45302   PT DES Teknologi Informasi
@@ -697,6 +698,7 @@
 139.192.252.87   # ID  AS23700   Linknet-Fastnet ASN
 139.192.49.168   # ID  AS23700   Linknet-Fastnet ASN
 139.192.51.220   # ID  AS23700   Linknet-Fastnet ASN
+139.192.53.193   # ID  AS23700   Linknet-Fastnet ASN
 139.192.54.179   # ID  AS23700   Linknet-Fastnet ASN
 139.192.63.134   # ID  AS23700   Linknet-Fastnet ASN
 139.192.63.72    # ID  AS23700   Linknet-Fastnet ASN
@@ -844,6 +846,7 @@
 163.227.146.148  # ID  AS153820  PT EXA TELEKOMUNIKASI NUSANTARA
 163.227.52.50    # ID  AS153804  PT Jagoan Data Nusantara
 163.53.186.130   # ID  AS9341    PT INDONESIA COMNETS PLUS
+163.61.58.49     # ID  AS138829  PT Capoeng Digital Nusantara
 165.101.18.147   # ID  AS153985  PT LAYANAN SERVER INDONESIA
 165.101.18.164   # ID  AS153985  PT LAYANAN SERVER INDONESIA
 165.101.18.73    # ID  AS153985  PT LAYANAN SERVER INDONESIA
