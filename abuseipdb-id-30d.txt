@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1283
-# Last updated:           2026-02-14 06:52:20
+# Number of ips:          1286
+# Last updated:           2026-02-14 12:57:57
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -462,6 +462,7 @@
 103.59.160.96    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.161.64    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.161.78    # ID  AS150493  PT Gunung Sedayu Sentosa
+103.59.161.94    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.94.155    # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.94.173    # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.94.226    # ID  AS136052  PT Cloud Hosting Indonesia
@@ -508,6 +509,7 @@
 103.67.78.49     # ID  AS136052  PT Cloud Hosting Indonesia
 103.67.78.56     # ID  AS136052  PT Cloud Hosting Indonesia
 103.7.226.91     # ID  AS59135   PT Suraloka Digital Kreatif
+103.75.54.67     # ID  AS46023   PT Quantum Tera Network
 103.75.84.237    # ID  AS136873  MEGADATA-ISP
 103.76.120.106   # ID  AS136052  PT Cloud Hosting Indonesia
 103.76.120.191   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -700,6 +702,7 @@
 139.192.63.72    # ID  AS23700   Linknet-Fastnet ASN
 139.192.85.204   # ID  AS23700   Linknet-Fastnet ASN
 139.192.90.46    # ID  AS23700   Linknet-Fastnet ASN
+139.192.91.206   # ID  AS23700   Linknet-Fastnet ASN
 139.192.94.162   # ID  AS23700   Linknet-Fastnet ASN
 139.194.213.152  # ID  AS23700   Linknet-Fastnet ASN
 139.194.78.231   # ID  AS23700   Linknet-Fastnet ASN
