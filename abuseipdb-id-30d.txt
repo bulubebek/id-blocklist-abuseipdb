@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1286
-# Last updated:           2026-02-14 12:57:57
+# Number of ips:          1289
+# Last updated:           2026-02-14 18:40:32
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -652,6 +652,7 @@
 118.99.80.6      # ID  AS17451   BIZNET NETWORKS
 118.99.80.61     # ID  AS17451   BIZNET NETWORKS
 119.110.68.21    # ID  AS38320   PT Maxindo Mitra Solusi
+119.235.221.209  # ID  AS131111  PT Mora Telematika Indonesia
 119.235.221.223  # ID  AS131111  PT Mora Telematika Indonesia
 119.47.90.13     # ID  AS38527   JAWA POS NATIONAL NETWORK MEDIALINK, PT
 119.47.90.19     # ID  AS38527   JAWA POS NATIONAL NETWORK MEDIALINK, PT
@@ -776,6 +777,7 @@
 157.20.207.165   # ID  AS152436  PT Erajaya Telco Indonesia
 157.20.220.42    # ID  AS152426  PT Nawasena Andalan Indonesia
 157.20.238.119   # ID  AS152429  PT Era Network Indonesia
+157.20.244.77    # ID  AS138089  PT.Global Media Data Prima
 157.20.255.6     # ID  AS151000  PT Awan Data Indonesia
 157.20.32.130    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.131    # ID  AS152390  PT Intercloud Digital Inovasi
@@ -832,6 +834,7 @@
 157.66.56.38     # ID  AS58477   Argon Data Communication
 157.66.56.39     # ID  AS58477   Argon Data Communication
 157.66.56.98     # ID  AS58477   Argon Data Communication
+158.140.161.135  # ID  AS63859   PT. Eka Mas Republik
 158.140.182.70   # ID  AS63859   PT. Eka Mas Republik
 158.140.182.84   # ID  AS63859   PT. Eka Mas Republik
 158.140.191.113  # ID  AS63859   PT. Eka Mas Republik
