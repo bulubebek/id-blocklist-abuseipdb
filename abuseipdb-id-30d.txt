@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1290
-# Last updated:           2026-02-18 07:05:53
+# Number of ips:          1298
+# Last updated:           2026-02-18 13:14:13
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -408,6 +408,7 @@
 103.36.11.25     # ID  AS133360  PT Awinet Global Mandiri
 103.36.32.186    # ID  AS131111  PT Mora Telematika Indonesia
 103.40.121.4     # ID  AS63508   PT DINAMIKA MEDIAKOM
+103.44.19.165    # ID  AS150191  PT Sarana Intimedia Telematika
 103.49.238.104   # ID  AS136052  PT Cloud Hosting Indonesia
 103.49.238.134   # ID  AS136052  PT Cloud Hosting Indonesia
 103.49.238.168   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -525,6 +526,7 @@
 103.77.107.147   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.107.178   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.107.182   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
+103.77.107.190   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.107.199   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.107.204   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.107.222   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
@@ -648,6 +650,7 @@
 118.99.80.26     # ID  AS17451   BIZNET NETWORKS
 118.99.80.35     # ID  AS17451   BIZNET NETWORKS
 118.99.80.42     # ID  AS17451   BIZNET NETWORKS
+118.99.80.46     # ID  AS17451   BIZNET NETWORKS
 118.99.80.50     # ID  AS17451   BIZNET NETWORKS
 118.99.80.55     # ID  AS17451   BIZNET NETWORKS
 118.99.80.56     # ID  AS17451   BIZNET NETWORKS
@@ -707,6 +710,7 @@
 139.192.90.46    # ID  AS23700   Linknet-Fastnet ASN
 139.192.91.206   # ID  AS23700   Linknet-Fastnet ASN
 139.192.94.162   # ID  AS23700   Linknet-Fastnet ASN
+139.194.204.233  # ID  AS23700   Linknet-Fastnet ASN
 139.194.213.152  # ID  AS23700   Linknet-Fastnet ASN
 139.194.73.239   # ID  AS23700   Linknet-Fastnet ASN
 139.194.78.231   # ID  AS23700   Linknet-Fastnet ASN
@@ -768,6 +772,7 @@
 157.15.40.85     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.86     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.88     # ID  AS139952  PT Trisari Data Indonusa
+157.15.40.89     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.90     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.91     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.93     # ID  AS139952  PT Trisari Data Indonusa
@@ -802,6 +807,7 @@
 157.66.54.26     # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.55.46     # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.55.50     # ID  AS141892  CV Andhika Pratama Sanggoro
+157.66.56.108    # ID  AS58477   Argon Data Communication
 157.66.56.113    # ID  AS58477   Argon Data Communication
 157.66.56.12     # ID  AS58477   Argon Data Communication
 157.66.56.121    # ID  AS58477   Argon Data Communication
@@ -838,6 +844,7 @@
 158.140.182.70   # ID  AS63859   PT. Eka Mas Republik
 158.140.182.84   # ID  AS63859   PT. Eka Mas Republik
 158.140.191.113  # ID  AS63859   PT. Eka Mas Republik
+158.140.191.93   # ID  AS63859   PT. Eka Mas Republik
 16.78.194.104    # ID  AS16509   Amazon.com, Inc.
 160.187.107.47   # ID  AS153119  PT Intan Pariwara
 160.187.165.218  # ID  AS153128  PT Techchandra Solusi Telematika
@@ -1268,6 +1275,7 @@
 43.252.236.237   # ID  AS55701   PT. Usaha Adisanggoro
 43.252.237.174   # ID  AS55701   PT. Usaha Adisanggoro
 43.252.238.221   # ID  AS55701   PT. Usaha Adisanggoro
+45.118.113.254   # ID  AS131717  PT Citra Jelajah Informatika
 45.198.2.19      # ID  AS41095   IPTP LTD
 45.251.72.2      # ID  AS131711  PT Global Teknologi Teraindo
 58.147.187.34    # ID  AS24534   PT. Transhybrid Communication
