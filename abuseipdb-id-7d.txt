@@ -1,14 +1,15 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          854
-# Last updated:           2026-02-19 07:04:57
+# Number of ips:          863
+# Last updated:           2026-02-19 13:15:45
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
 # Credits 1:              https://www.abuseipdb.com - please support them!
 # Credits 2:              https://ipinfo.io - The Trusted Source For IP Address Data
 #
+103.10.56.140    # ID  AS56241   PT Telkom Satelit Indonesia
 103.101.216.74   # ID  AS150941  PT Duta Trans Nusantara Network
 103.103.21.109   # ID  AS133800  PT Biznet Gio Nusantara
 103.105.130.179  # ID  AS17727   PT. NAP Info Lintas Nusa
@@ -22,10 +23,12 @@
 103.118.100.194  # ID  AS4787    PT Cyberindo Aditama
 103.121.199.166  # ID  AS58495   PT Parsaoran Global Datatrans
 103.123.175.12   # ID  AS150968  PT Jaringanku Media Telekomunikasi
+103.126.173.61   # ID  AS138112  PT. Megarap Mitra Solusi
 103.126.202.104  # ID  AS138113  PT Amron Citinet
 103.126.86.165   # ID  AS138109  PT. Rasi Bintang Perkasa
 103.127.132.197  # ID  AS133800  PT Biznet Gio Nusantara
 103.13.138.22    # ID  AS150215  PT Era Bangun Indonesia
+103.133.63.166   # ID  AS138134  PT Tunas Link Indonesia
 103.137.65.2     # ID  AS58495   PT Parsaoran Global Datatrans
 103.138.53.19    # ID  AS149723  PT Afna Digital Indonesia
 103.138.68.74    # ID  AS138842  PT Internetwork Komunikasi Indonesia
@@ -136,6 +139,7 @@
 103.175.206.22   # ID  AS147124  PT Hostingan Awan Indonesia
 103.176.78.100   # ID  AS136052  PT Cloud Hosting Indonesia
 103.176.78.149   # ID  AS136052  PT Cloud Hosting Indonesia
+103.176.78.169   # ID  AS136052  PT Cloud Hosting Indonesia
 103.176.78.178   # ID  AS136052  PT Cloud Hosting Indonesia
 103.176.78.193   # ID  AS136052  PT Cloud Hosting Indonesia
 103.176.78.213   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -186,10 +190,12 @@
 103.183.10.24    # ID  AS139967  PT. Yasmin Amanah Media
 103.183.10.28    # ID  AS139967  PT. Yasmin Amanah Media
 103.183.10.29    # ID  AS139967  PT. Yasmin Amanah Media
+103.183.74.120   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.74.130   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.74.187   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.74.205   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.74.214   # ID  AS136052  PT Cloud Hosting Indonesia
+103.183.74.252   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.74.4     # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.74.72    # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.74.87    # ID  AS136052  PT Cloud Hosting Indonesia
@@ -345,6 +351,7 @@
 103.59.160.253   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.37    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.96    # ID  AS150493  PT Gunung Sedayu Sentosa
+103.59.161.112   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.161.78    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.161.94    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.94.124    # ID  AS136052  PT Cloud Hosting Indonesia
@@ -521,6 +528,7 @@
 140.0.220.77     # ID  AS23700   Linknet-Fastnet ASN
 147.139.163.146  # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 147.139.164.196  # ID  AS45102   Alibaba (US) Technology Co., Ltd.
+147.139.176.62   # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 147.139.215.38   # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 149.108.91.99    # ID  AS23700   Linknet-Fastnet ASN
 149.129.251.251  # ID  AS45102   Alibaba (US) Technology Co., Ltd.
@@ -663,6 +671,7 @@
 202.155.143.184  # ID  AS151592  PT Awan Data Teknologi
 202.155.143.185  # ID  AS151592  PT Awan Data Teknologi
 202.155.157.129  # ID  AS138115  PT Deneva
+202.164.220.229  # ID  AS149400  PT Cyber Akses Indonesia
 202.169.234.114  # ID  AS23671   PT. Sarana InsanMuda Selaras
 202.169.234.116  # ID  AS23671   PT. Sarana InsanMuda Selaras
 202.169.234.117  # ID  AS23671   PT. Sarana InsanMuda Selaras
