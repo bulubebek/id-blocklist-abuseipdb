@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1383
-# Last updated:           2026-02-21 12:56:58
+# Number of ips:          1386
+# Last updated:           2026-02-21 18:40:56
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -72,6 +72,7 @@
 103.141.255.141  # ID  AS131769  PT Mayatama Solusindo
 103.142.62.35    # ID  AS139372  Institut Agama Islam Negeri Pekalongan
 103.143.196.42   # ID  AS139409  PT JERNIH MULTI KOMUNIKASI
+103.144.146.137  # ID  AS139428  PT.LEXXA DATA INDONUSA
 103.144.170.16   # ID  AS9341    PT INDONESIA COMNETS PLUS
 103.144.175.118  # ID  AS9341    PT INDONESIA COMNETS PLUS
 103.145.244.16   # ID  AS132641  PT Netciti Persada
@@ -341,6 +342,7 @@
 103.193.178.248  # ID  AS136052  PT Cloud Hosting Indonesia
 103.193.178.42   # ID  AS136052  PT Cloud Hosting Indonesia
 103.193.178.68   # ID  AS136052  PT Cloud Hosting Indonesia
+103.194.47.52    # ID  AS149971  PT Jujur Amanah Barokah
 103.195.142.237  # ID  AS134614  Universitas Hasanuddin
 103.196.146.240  # ID  AS133800  PT Biznet Gio Nusantara
 103.197.188.243  # ID  AS133800  PT Biznet Gio Nusantara
@@ -1173,6 +1175,7 @@
 34.101.137.217   # ID  AS396982  Google LLC
 34.101.147.42    # ID  AS396982  Google LLC
 34.101.163.161   # ID  AS396982  Google LLC
+34.101.244.47    # ID  AS396982  Google LLC
 34.101.46.40     # ID  AS396982  Google LLC
 34.101.52.164    # ID  AS396982  Google LLC
 34.101.75.246    # ID  AS396982  Google LLC
