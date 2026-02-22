@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1056
-# Last updated:           2026-02-22 02:35:10
+# Number of ips:          1062
+# Last updated:           2026-02-22 06:54:38
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -12,6 +12,7 @@
 101.128.98.27    # ID  AS135478  PT. Cyberindo Aditama
 103.10.56.140    # ID  AS56241   PT Telkom Satelit Indonesia
 103.101.216.74   # ID  AS150941  PT Duta Trans Nusantara Network
+103.103.20.242   # ID  AS133800  PT Biznet Gio Nusantara
 103.103.21.109   # ID  AS133800  PT Biznet Gio Nusantara
 103.105.130.179  # ID  AS17727   PT. NAP Info Lintas Nusa
 103.105.52.129   # ID  AS136873  MEGADATA-ISP
@@ -508,10 +509,12 @@
 109.110.188.124  # ID  AS199695  PT Anym Network Indonesia
 110.136.190.62   # ID  AS7713    PT Telekomunikasi Indonesia
 110.136.191.240  # ID  AS7713    PT Telekomunikasi Indonesia
+110.139.46.47    # ID  AS7713    PT Telekomunikasi Indonesia
 111.95.0.98      # ID  AS23700   Linknet-Fastnet ASN
 111.95.93.80     # ID  AS23700   Linknet-Fastnet ASN
 112.78.135.82    # ID  AS38482   Biznet ISP
 112.78.177.165   # ID  AS17451   BIZNET NETWORKS
+112.78.185.12    # ID  AS17451   BIZNET NETWORKS
 114.10.47.123    # ID  AS4761    INDOSAT Internet Network Provider
 114.10.47.156    # ID  AS4761    INDOSAT Internet Network Provider
 114.10.47.201    # ID  AS4761    INDOSAT Internet Network Provider
@@ -694,6 +697,7 @@
 157.20.32.172    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.173    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.212    # ID  AS152390  PT Intercloud Digital Inovasi
+157.20.32.217    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.220    # ID  AS152390  PT Intercloud Digital Inovasi
 157.66.16.103    # ID  AS136089  PT Mitra Mandiri Network
 157.66.34.121    # ID  AS55688   PT. Beon Intermedia
@@ -921,6 +925,7 @@
 27.121.83.84     # ID  AS55652   Sumidhaz Permata Bunda, PT
 27.50.25.190     # ID  AS131111  PT Mora Telematika Indonesia
 31.97.109.87     # ID  AS47583   Hostinger International Limited
+34.101.132.254   # ID  AS396982  Google LLC
 34.101.244.47    # ID  AS396982  Google LLC
 34.101.75.246    # ID  AS396982  Google LLC
 34.101.81.226    # ID  AS396982  Google LLC
@@ -1051,6 +1056,7 @@
 69.5.22.116      # ID  AS150436  Byteplus Pte. Ltd.
 69.5.22.189      # ID  AS150436  Byteplus Pte. Ltd.
 69.5.22.219      # ID  AS150436  Byteplus Pte. Ltd.
+69.5.22.99       # ID  AS150436  Byteplus Pte. Ltd.
 69.5.23.113      # ID  AS150436  Byteplus Pte. Ltd.
 69.5.23.23       # ID  AS150436  Byteplus Pte. Ltd.
 69.5.23.76       # ID  AS150436  Byteplus Pte. Ltd.
