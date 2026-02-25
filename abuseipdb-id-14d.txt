@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1048
-# Last updated:           2026-02-25 02:33:25
+# Number of ips:          1054
+# Last updated:           2026-02-25 07:06:38
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -596,6 +596,7 @@
 128.14.232.254   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 128.14.233.253   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 139.0.23.124     # ID  AS9905    Linknet ASN
+139.0.251.39     # ID  AS23700   Linknet-Fastnet ASN
 139.0.65.59      # ID  AS23700   Linknet-Fastnet ASN
 139.192.252.15   # ID  AS23700   Linknet-Fastnet ASN
 139.192.53.193   # ID  AS23700   Linknet-Fastnet ASN
@@ -699,6 +700,7 @@
 157.66.56.121    # ID  AS58477   Argon Data Communication
 157.66.56.134    # ID  AS58477   Argon Data Communication
 157.66.56.157    # ID  AS58477   Argon Data Communication
+157.66.56.171    # ID  AS58477   Argon Data Communication
 157.66.56.185    # ID  AS58477   Argon Data Communication
 157.66.56.188    # ID  AS58477   Argon Data Communication
 157.66.56.19     # ID  AS58477   Argon Data Communication
@@ -753,6 +755,7 @@
 180.252.207.95   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.80.161   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.90.151   # ID  AS7713    PT Telekomunikasi Indonesia
+180.253.44.241   # ID  AS7713    PT Telekomunikasi Indonesia
 182.13.96.129    # ID  AS23693   PT. Telekomunikasi Selular
 182.16.181.107   # ID  AS17995   PT iForte Global Internet
 182.160.55.127   # ID  AS136907  HUAWEI CLOUDS
@@ -881,6 +884,7 @@
 222.124.205.34   # ID  AS7713    PT Telekomunikasi Indonesia
 222.124.250.234  # ID  AS7713    PT Telekomunikasi Indonesia
 223.25.108.2     # ID  AS4821    PT Sinergi Semesta Telematika
+223.25.96.181    # ID  AS9341    PT INDONESIA COMNETS PLUS
 27.111.32.174    # ID  AS24532   PT. Inet Global Indo
 27.112.78.170    # ID  AS136052  PT Cloud Hosting Indonesia
 27.112.78.178    # ID  AS136052  PT Cloud Hosting Indonesia
@@ -942,6 +946,7 @@
 36.67.6.139      # ID  AS7713    PT Telekomunikasi Indonesia
 36.67.70.198     # ID  AS7713    PT Telekomunikasi Indonesia
 36.67.9.186      # ID  AS7713    PT Telekomunikasi Indonesia
+36.68.34.67      # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.153.164    # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.158.217    # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.106.175    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -955,6 +960,7 @@
 36.77.145.217    # ID  AS7713    PT Telekomunikasi Indonesia
 36.77.26.7       # ID  AS7713    PT Telekomunikasi Indonesia
 36.77.28.170     # ID  AS7713    PT Telekomunikasi Indonesia
+36.78.221.174    # ID  AS7713    PT Telekomunikasi Indonesia
 36.81.232.185    # ID  AS7713    PT Telekomunikasi Indonesia
 36.81.233.175    # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.112.197    # ID  AS7713    PT Telekomunikasi Indonesia
