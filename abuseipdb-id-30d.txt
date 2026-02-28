@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1448
-# Last updated:           2026-02-28 12:54:07
+# Number of ips:          1453
+# Last updated:           2026-02-28 18:38:28
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -726,6 +726,8 @@
 119.2.42.138     # ID  AS38524   Laxo Global Akses, PT
 119.235.221.209  # ID  AS131111  PT Mora Telematika Indonesia
 119.235.221.223  # ID  AS131111  PT Mora Telematika Indonesia
+119.235.222.173  # ID  AS131111  PT Mora Telematika Indonesia
+119.235.252.8    # ID  AS45146   PT. Raja Sepadan Abadi
 119.47.90.13     # ID  AS38527   JAWA POS NATIONAL NETWORK MEDIALINK, PT
 119.82.246.75    # ID  AS24521   PT. DATA Utama Dinamika
 121.101.130.161  # ID  AS131706  PT SELARAS CITRA TERABIT
@@ -938,6 +940,7 @@
 163.7.1.81       # ID  AS150436  Byteplus Pte. Ltd.
 163.7.3.156      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.3.41       # ID  AS150436  Byteplus Pte. Ltd.
+163.7.4.191      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.4.249      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.6.154      # ID  AS150436  Byteplus Pte. Ltd.
 165.101.18.147   # ID  AS153985  PT LAYANAN SERVER INDONESIA
@@ -1288,6 +1291,7 @@
 36.78.221.174    # ID  AS7713    PT Telekomunikasi Indonesia
 36.79.125.128    # ID  AS7713    PT Telekomunikasi Indonesia
 36.79.136.202    # ID  AS7713    PT Telekomunikasi Indonesia
+36.79.143.219    # ID  AS7713    PT Telekomunikasi Indonesia
 36.81.232.168    # ID  AS7713    PT Telekomunikasi Indonesia
 36.81.232.185    # ID  AS7713    PT Telekomunikasi Indonesia
 36.81.233.175    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1433,6 +1437,7 @@
 8.215.38.113     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.38.216     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.41.147     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
+8.215.69.225     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.69.55      # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.91.8       # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 82.41.42.41      # ID  AS211407  PT Perwira Media Solusi
