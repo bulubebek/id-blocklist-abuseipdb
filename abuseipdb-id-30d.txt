@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1444
-# Last updated:           2026-03-03 13:06:47
+# Number of ips:          1448
+# Last updated:           2026-03-03 18:57:23
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -328,6 +328,7 @@
 103.188.170.216  # ID  AS58369   PT. Fiber Networks Indonesia
 103.188.170.59   # ID  AS58369   PT. Fiber Networks Indonesia
 103.188.177.46   # ID  AS149734  PEDEE
+103.188.33.26    # ID  AS4800    PT Aplikanusa Lintasarta
 103.188.38.178   # ID  AS4800    PT Aplikanusa Lintasarta
 103.19.231.185   # ID  AS132668  PT Bali Towerindo Sentra
 103.19.56.151    # ID  AS132637  PT BINA INFORMATIKA SOLUSI
@@ -379,6 +380,7 @@
 103.217.145.154  # ID  AS136052  PT Cloud Hosting Indonesia
 103.217.145.41   # ID  AS136052  PT Cloud Hosting Indonesia
 103.217.146.41   # ID  AS151513  PT Infotech Tantami Nusantara
+103.217.172.172  # ID  AS133354  PT Anugerah Karunia Perkasa Abadi
 103.219.251.163  # ID  AS135444  PT Ikubaru Indonesia
 103.22.99.130    # ID  AS45305   Lintas Data Prima, PT
 103.22.99.136    # ID  AS45305   Lintas Data Prima, PT
@@ -550,6 +552,7 @@
 103.65.237.124   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.65.237.194   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.65.237.216   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
+103.65.237.234   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.66.63.1      # ID  AS139982  PT Buana Visualnet Sentra
 103.67.78.102    # ID  AS136052  PT Cloud Hosting Indonesia
 103.67.78.132    # ID  AS136052  PT Cloud Hosting Indonesia
@@ -822,6 +825,7 @@
 152.32.153.67    # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 152.32.154.182   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 152.32.155.11    # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+153.92.11.95     # ID  AS47583   Hostinger International Limited
 154.19.37.154    # ID  AS55688   PT. Beon Intermedia
 154.19.37.2      # ID  AS55688   PT. Beon Intermedia
 154.47.151.20    # ID  AS136093  PT Mitra Lintas Multimedia
