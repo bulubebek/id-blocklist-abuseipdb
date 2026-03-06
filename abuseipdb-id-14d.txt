@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1181
-# Last updated:           2026-03-06 02:27:22
+# Number of ips:          1199
+# Last updated:           2026-03-06 06:56:09
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -266,6 +266,7 @@
 103.186.1.197    # ID  AS136052  PT Cloud Hosting Indonesia
 103.186.1.59     # ID  AS136052  PT Cloud Hosting Indonesia
 103.186.193.149  # ID  AS149713  PT Lentera Digital Nusantara
+103.186.30.21    # ID  AS141892  CV Andhika Pratama Sanggoro
 103.186.31.45    # ID  AS141892  CV Andhika Pratama Sanggoro
 103.186.31.46    # ID  AS141892  CV Andhika Pratama Sanggoro
 103.187.165.26   # ID  AS149897  PT Amanusa Telemedia Mahardika
@@ -282,8 +283,12 @@
 103.191.58.54    # ID  AS149909  PT Panjalu Sarana Data Indonesia
 103.191.63.170   # ID  AS138115  PT Deneva
 103.191.92.110   # ID  AS136052  PT Cloud Hosting Indonesia
+103.191.92.14    # ID  AS136052  PT Cloud Hosting Indonesia
 103.191.92.234   # ID  AS136052  PT Cloud Hosting Indonesia
 103.191.92.236   # ID  AS136052  PT Cloud Hosting Indonesia
+103.191.92.63    # ID  AS136052  PT Cloud Hosting Indonesia
+103.191.92.65    # ID  AS136052  PT Cloud Hosting Indonesia
+103.191.92.72    # ID  AS136052  PT Cloud Hosting Indonesia
 103.191.92.75    # ID  AS136052  PT Cloud Hosting Indonesia
 103.193.176.131  # ID  AS136052  PT Cloud Hosting Indonesia
 103.193.178.119  # ID  AS136052  PT Cloud Hosting Indonesia
@@ -427,12 +432,20 @@
 103.59.161.78    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.161.79    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.161.94    # ID  AS150493  PT Gunung Sedayu Sentosa
+103.59.94.117    # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.94.124    # ID  AS136052  PT Cloud Hosting Indonesia
+103.59.94.153    # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.94.155    # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.94.173    # ID  AS136052  PT Cloud Hosting Indonesia
+103.59.94.19     # ID  AS136052  PT Cloud Hosting Indonesia
+103.59.94.199    # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.94.226    # ID  AS136052  PT Cloud Hosting Indonesia
+103.59.94.61     # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.94.62     # ID  AS136052  PT Cloud Hosting Indonesia
+103.59.94.77     # ID  AS136052  PT Cloud Hosting Indonesia
+103.59.94.82     # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.95.12     # ID  AS136052  PT Cloud Hosting Indonesia
+103.59.95.124    # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.95.136    # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.95.156    # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.95.177    # ID  AS136052  PT Cloud Hosting Indonesia
@@ -445,6 +458,7 @@
 103.59.95.240    # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.95.38     # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.95.42     # ID  AS136052  PT Cloud Hosting Indonesia
+103.59.95.55     # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.95.74     # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.95.94     # ID  AS136052  PT Cloud Hosting Indonesia
 103.60.182.22    # ID  AS55685   PT Jala Lintas Media
@@ -931,11 +945,15 @@
 203.142.69.146   # ID  AS17451   BIZNET NETWORKS
 203.142.72.194   # ID  AS17451   BIZNET NETWORKS
 203.142.78.248   # ID  AS17451   BIZNET NETWORKS
+203.145.34.165   # ID  AS136052  PT Cloud Hosting Indonesia
 203.145.34.173   # ID  AS136052  PT Cloud Hosting Indonesia
 203.145.34.182   # ID  AS136052  PT Cloud Hosting Indonesia
 203.145.34.222   # ID  AS136052  PT Cloud Hosting Indonesia
 203.145.34.239   # ID  AS136052  PT Cloud Hosting Indonesia
 203.145.34.240   # ID  AS136052  PT Cloud Hosting Indonesia
+203.145.34.37    # ID  AS136052  PT Cloud Hosting Indonesia
+203.145.34.78    # ID  AS136052  PT Cloud Hosting Indonesia
+203.145.34.82    # ID  AS136052  PT Cloud Hosting Indonesia
 203.145.63.139   # ID  AS46023   PT Quantum Tera Network
 203.161.25.146   # ID  AS138823  PT. Trimitra Usaha Sejahtera
 203.161.30.162   # ID  AS138823  PT. Trimitra Usaha Sejahtera
