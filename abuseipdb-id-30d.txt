@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1502
-# Last updated:           2026-03-09 13:12:48
+# Number of ips:          1508
+# Last updated:           2026-03-09 18:58:31
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -539,6 +539,7 @@
 103.59.95.12     # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.95.124    # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.95.136    # ID  AS136052  PT Cloud Hosting Indonesia
+103.59.95.144    # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.95.156    # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.95.177    # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.95.187    # ID  AS136052  PT Cloud Hosting Indonesia
@@ -688,6 +689,7 @@
 112.78.157.175   # ID  AS17451   BIZNET NETWORKS
 112.78.177.165   # ID  AS17451   BIZNET NETWORKS
 112.78.185.12    # ID  AS17451   BIZNET NETWORKS
+113.192.12.181   # ID  AS58495   PT Parsaoran Global Datatrans
 114.10.47.102    # ID  AS4761    INDOSAT Internet Network Provider
 114.10.47.121    # ID  AS4761    INDOSAT Internet Network Provider
 114.10.47.123    # ID  AS4761    INDOSAT Internet Network Provider
@@ -1007,6 +1009,7 @@
 163.7.3.156      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.3.26       # ID  AS150436  Byteplus Pte. Ltd.
 163.7.3.41       # ID  AS150436  Byteplus Pte. Ltd.
+163.7.3.81       # ID  AS150436  Byteplus Pte. Ltd.
 163.7.4.191      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.4.206      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.4.249      # ID  AS150436  Byteplus Pte. Ltd.
@@ -1098,6 +1101,7 @@
 202.138.247.141  # ID  AS9657    Melsa-i-net AS
 202.150.72.122   # ID  AS131111  PT Mora Telematika Indonesia
 202.152.138.88   # ID  AS23951   PT JEMBATAN CITRA NUSANTARA
+202.152.16.42    # ID  AS4800    PT Aplikanusa Lintasarta
 202.152.201.166  # ID  AS63859   PT. Eka Mas Republik
 202.152.203.28   # ID  AS63859   PT. Eka Mas Republik
 202.152.204.159  # ID  AS63859   PT. Eka Mas Republik
@@ -1269,6 +1273,7 @@
 31.56.56.74      # ID  AS141892  CV Andhika Pratama Sanggoro
 31.97.109.87     # ID  AS47583   Hostinger International Limited
 34.101.132.254   # ID  AS396982  Google LLC
+34.101.171.162   # ID  AS396982  Google LLC
 34.101.208.115   # ID  AS396982  Google LLC
 34.101.238.194   # ID  AS396982  Google LLC
 34.101.244.47    # ID  AS396982  Google LLC
@@ -1277,6 +1282,7 @@
 34.101.32.5      # ID  AS396982  Google LLC
 34.101.67.207    # ID  AS396982  Google LLC
 34.101.75.246    # ID  AS396982  Google LLC
+34.101.76.208    # ID  AS396982  Google LLC
 34.101.77.62     # ID  AS396982  Google LLC
 34.101.81.226    # ID  AS396982  Google LLC
 34.128.105.219   # ID  AS396982  Google LLC
