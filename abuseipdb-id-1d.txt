@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          820
-# Last updated:           2026-03-11 18:58:23
+# Number of ips:          761
+# Last updated:           2026-03-12 02:31:11
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -11,7 +11,6 @@
 #
 101.255.32.40    # ID  AS38511   PT Remala Abadi
 103.101.216.74   # ID  AS150941  PT Duta Trans Nusantara Network
-103.104.135.4    # ID  AS133823  PT Infokom Elektrindo
 103.105.67.170   # ID  AS17995   PT iForte Global Internet
 103.108.141.126  # ID  AS137304  Dinas Komunikasi Dan Informatika Prabumulih
 103.115.104.38   # ID  AS137361  DISKOMINFO Kab. Magelang
@@ -27,7 +26,6 @@
 103.139.192.17   # ID  AS136052  PT Cloud Hosting Indonesia
 103.139.192.188  # ID  AS136052  PT Cloud Hosting Indonesia
 103.139.192.221  # ID  AS136052  PT Cloud Hosting Indonesia
-103.139.192.65   # ID  AS136052  PT Cloud Hosting Indonesia
 103.139.192.90   # ID  AS136052  PT Cloud Hosting Indonesia
 103.139.193.157  # ID  AS136052  PT Cloud Hosting Indonesia
 103.139.193.176  # ID  AS136052  PT Cloud Hosting Indonesia
@@ -36,6 +34,7 @@
 103.139.193.223  # ID  AS136052  PT Cloud Hosting Indonesia
 103.139.193.31   # ID  AS136052  PT Cloud Hosting Indonesia
 103.139.193.37   # ID  AS136052  PT Cloud Hosting Indonesia
+103.142.62.35    # ID  AS139372  Institut Agama Islam Negeri Pekalongan
 103.143.196.61   # ID  AS139409  PT JERNIH MULTI KOMUNIKASI
 103.146.202.174  # ID  AS136052  PT Cloud Hosting Indonesia
 103.146.202.84   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -44,7 +43,6 @@
 103.148.100.146  # ID  AS139988  PT. GARUDA PRIMA INTERNETINDO
 103.148.195.198  # ID  AS139996  DINAS KOMUNIKASI DAN INFORMATIKA KABUPATEN TABANAN
 103.148.89.154   # ID  AS140421  PT APLIKA DATA NUSANTARA
-103.150.113.254  # ID  AS17995   PT iForte Global Internet
 103.150.227.211  # ID  AS133800  PT Biznet Gio Nusantara
 103.151.140.22   # ID  AS140417  PT Indotechno Digital Komputasi
 103.151.63.80    # ID  AS140410  Politeknik Negeri Lampung
@@ -53,7 +51,6 @@
 103.154.123.19   # ID  AS131111  PT Mora Telematika Indonesia
 103.154.231.122  # ID  AS136121  PT Digital Media Telematika
 103.154.77.48    # ID  AS140481  PT Tonggak Teknologi Netikom
-103.154.87.10    # ID  AS131111  PT Mora Telematika Indonesia
 103.156.221.242  # ID  AS149667  PT Gading Bhakti Utama
 103.156.221.253  # ID  AS149667  PT Gading Bhakti Utama
 103.157.96.22    # ID  AS55688   PT. Beon Intermedia
@@ -65,7 +62,6 @@
 103.160.212.122  # ID  AS140389  PT Dewa Bisnis Digital
 103.160.213.27   # ID  AS140389  PT Dewa Bisnis Digital
 103.161.207.2    # ID  AS141627  PT Media Solusi Network
-103.164.194.238  # ID  AS17995   PT iForte Global Internet
 103.164.221.138  # ID  AS17995   PT iForte Global Internet
 103.165.128.173  # ID  AS17995   PT iForte Global Internet
 103.165.130.26   # ID  AS17995   PT iForte Global Internet
@@ -73,10 +69,11 @@
 103.165.230.210  # ID  AS17995   PT iForte Global Internet
 103.166.226.235  # ID  AS141959  PT Arta Flash Sintesa Nusantara
 103.168.135.187  # ID  AS38513   PT Aplikanusa Lintasarta
+103.168.159.158  # ID  AS142317  PT Cover Network Indonesia
 103.169.11.65    # ID  AS142335  GARNET
+103.170.188.1    # ID  -         -
 103.171.84.20    # ID  AS136052  PT Cloud Hosting Indonesia
 103.171.84.217   # ID  AS136052  PT Cloud Hosting Indonesia
-103.171.84.46    # ID  AS136052  PT Cloud Hosting Indonesia
 103.171.85.115   # ID  AS136052  PT Cloud Hosting Indonesia
 103.171.85.117   # ID  AS136052  PT Cloud Hosting Indonesia
 103.171.85.118   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -116,7 +113,6 @@
 103.176.78.193   # ID  AS136052  PT Cloud Hosting Indonesia
 103.176.78.213   # ID  AS136052  PT Cloud Hosting Indonesia
 103.176.78.228   # ID  AS136052  PT Cloud Hosting Indonesia
-103.176.78.240   # ID  AS136052  PT Cloud Hosting Indonesia
 103.176.78.241   # ID  AS136052  PT Cloud Hosting Indonesia
 103.176.78.28    # ID  AS136052  PT Cloud Hosting Indonesia
 103.176.79.117   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -139,7 +135,6 @@
 103.179.56.9     # ID  AS136052  PT Cloud Hosting Indonesia
 103.179.57.150   # ID  AS136052  PT Cloud Hosting Indonesia
 103.179.57.172   # ID  AS136052  PT Cloud Hosting Indonesia
-103.18.133.253   # ID  AS55693   PT. Bangun Abadi Teknologi Indonesia
 103.180.124.221  # ID  AS141968  PT Industri Kreatif Digital
 103.181.143.161  # ID  AS136052  PT Cloud Hosting Indonesia
 103.181.143.216  # ID  AS136052  PT Cloud Hosting Indonesia
@@ -164,7 +159,6 @@
 103.183.10.4     # ID  AS139967  PT. Yasmin Amanah Media
 103.183.14.226   # ID  AS17995   PT iForte Global Internet
 103.183.74.130   # ID  AS136052  PT Cloud Hosting Indonesia
-103.183.74.131   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.74.135   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.74.187   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.74.205   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -198,6 +192,7 @@
 103.187.165.26   # ID  AS149897  PT Amanusa Telemedia Mahardika
 103.188.173.69   # ID  AS149736  PT Satria Digital Media
 103.188.177.46   # ID  AS149734  PEDEE
+103.188.33.26    # ID  AS4800    PT Aplikanusa Lintasarta
 103.188.38.178   # ID  AS4800    PT Aplikanusa Lintasarta
 103.190.214.241  # ID  AS38513   PT Aplikanusa Lintasarta
 103.191.14.210   # ID  AS38513   PT Aplikanusa Lintasarta
@@ -220,6 +215,7 @@
 103.193.178.248  # ID  AS136052  PT Cloud Hosting Indonesia
 103.193.178.42   # ID  AS136052  PT Cloud Hosting Indonesia
 103.193.178.68   # ID  AS136052  PT Cloud Hosting Indonesia
+103.20.91.68     # ID  AS58381   Wow Internet Indonesia
 103.203.76.79    # ID  AS134620  Pusinfolahta TNI
 103.207.99.1     # ID  AS134643  PT Jaya Kartha Solusindo
 103.213.116.242  # ID  AS38750   Telemedia Dinamika Sarana, PT
@@ -250,25 +246,23 @@
 103.23.199.49    # ID  AS136052  PT Cloud Hosting Indonesia
 103.236.140.19   # ID  AS151518  SMK Negeri 22 Jakarta
 103.244.206.6    # ID  AS131759  PT. Web Data Solusindo
-103.244.207.190  # ID  AS131759  PT. Web Data Solusindo
 103.245.17.220   # ID  AS46023   PT Quantum Tera Network
 103.245.38.163   # ID  AS55688   PT. Beon Intermedia
 103.247.20.83    # ID  AS58485   WIFIAN ID
 103.249.19.34    # ID  AS150206  PT Rafa Teknologi Solusi
+103.252.12.242   # ID  AS133838  PT Infotek Global Network
 103.27.36.4      # ID  AS132670  PT Aseli Dagadu Djokdja
 103.28.57.98     # ID  AS58474   PT. MATRIXNET GLOBAL INDONESIA
 103.29.185.162   # ID  AS56260   PT Pascal Indonesia
-103.31.38.141    # ID  AS136052  PT Cloud Hosting Indonesia
+103.3.46.145     # ID  AS56237   Universitas Lampung
 103.31.38.209    # ID  AS136052  PT Cloud Hosting Indonesia
 103.31.38.83     # ID  AS136052  PT Cloud Hosting Indonesia
-103.31.38.92     # ID  AS136052  PT Cloud Hosting Indonesia
 103.31.39.143    # ID  AS136052  PT Cloud Hosting Indonesia
 103.31.39.188    # ID  AS136052  PT Cloud Hosting Indonesia
 103.31.39.224    # ID  AS136052  PT Cloud Hosting Indonesia
 103.31.39.23     # ID  AS136052  PT Cloud Hosting Indonesia
 103.31.39.72     # ID  AS136052  PT Cloud Hosting Indonesia
 103.36.32.186    # ID  AS131111  PT Mora Telematika Indonesia
-103.40.121.4     # ID  AS63508   PT DINAMIKA MEDIAKOM
 103.49.238.104   # ID  AS136052  PT Cloud Hosting Indonesia
 103.49.238.126   # ID  AS136052  PT Cloud Hosting Indonesia
 103.49.238.134   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -299,17 +293,16 @@
 103.56.148.218   # ID  AS55688   PT. Beon Intermedia
 103.58.100.104   # ID  AS133800  PT Biznet Gio Nusantara
 103.59.160.104   # ID  AS150493  PT Gunung Sedayu Sentosa
-103.59.160.135   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.137   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.151   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.174   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.195   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.218   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.226   # ID  AS150493  PT Gunung Sedayu Sentosa
+103.59.160.244   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.245   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.250   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.96    # ID  AS150493  PT Gunung Sedayu Sentosa
-103.59.161.112   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.161.130   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.161.79    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.161.94    # ID  AS150493  PT Gunung Sedayu Sentosa
@@ -334,8 +327,6 @@
 103.59.95.187    # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.95.206    # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.95.21     # ID  AS136052  PT Cloud Hosting Indonesia
-103.59.95.213    # ID  AS136052  PT Cloud Hosting Indonesia
-103.59.95.223    # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.95.224    # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.95.240    # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.95.42     # ID  AS136052  PT Cloud Hosting Indonesia
@@ -382,7 +373,6 @@
 103.67.78.56     # ID  AS136052  PT Cloud Hosting Indonesia
 103.67.78.70     # ID  AS136052  PT Cloud Hosting Indonesia
 103.67.80.61     # ID  AS152001  PT Komunikasi Profesional Indonesia
-103.75.54.67     # ID  AS46023   PT Quantum Tera Network
 103.75.84.237    # ID  AS136873  MEGADATA-ISP
 103.76.120.106   # ID  AS136052  PT Cloud Hosting Indonesia
 103.76.120.118   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -403,7 +393,6 @@
 103.76.120.87    # ID  AS136052  PT Cloud Hosting Indonesia
 103.76.120.90    # ID  AS136052  PT Cloud Hosting Indonesia
 103.76.151.138   # ID  AS135477  PT. Java Digital Nusantara
-103.76.201.177   # ID  AS135480  PT. Arjuna Global Teknologi Indonesia
 103.77.106.118   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.106.245   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.106.246   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
@@ -415,20 +404,16 @@
 103.77.107.222   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.107.27    # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.107.57    # ID  AS135450  PT Berkah Solusi Teknologi Informasi
-103.8.185.158    # ID  AS4800    PT Aplikanusa Lintasarta
 103.8.195.18     # ID  AS4800    PT Aplikanusa Lintasarta
 103.8.59.250     # ID  AS45707   Prime Link Communication, PT
-103.82.240.139   # ID  AS136170  PT. EXABYTES NETWORK INDONESIA
 103.82.92.202    # ID  AS136052  PT Cloud Hosting Indonesia
 103.82.92.231    # ID  AS136052  PT Cloud Hosting Indonesia
 103.82.92.35     # ID  AS136052  PT Cloud Hosting Indonesia
 103.82.92.40     # ID  AS136052  PT Cloud Hosting Indonesia
 103.82.92.54     # ID  AS136052  PT Cloud Hosting Indonesia
 103.82.92.82     # ID  AS136052  PT Cloud Hosting Indonesia
-103.83.178.202   # ID  AS136065  PT SOLUSI TRIMEGAH PERSADA
 103.85.53.60     # ID  AS150555  PT Binerkahan Digital Telco
 103.90.27.83     # ID  AS132673  PT Arana Teknologi Indonesia
-103.90.67.3      # ID  AS150265  PT Rajawali Bintang Cemerlang Telkomedia
 103.93.93.182    # ID  AS141140  PT Jinde Grup Indonesia
 103.93.93.211    # ID  AS141140  PT Jinde Grup Indonesia
 103.97.140.250   # ID  AS141071  PT Jembatan Data Pangrango
@@ -436,19 +421,16 @@
 103.99.214.2     # ID  AS136837  Universitas Muhammadiyah Palembang
 104.28.221.100   # ID  AS13335   Cloudflare, Inc.
 104.28.221.101   # ID  AS13335   Cloudflare, Inc.
-104.28.221.99    # ID  AS13335   Cloudflare, Inc.
 104.28.253.100   # ID  AS13335   Cloudflare, Inc.
 104.28.253.98    # ID  AS13335   Cloudflare, Inc.
 104.28.253.99    # ID  AS13335   Cloudflare, Inc.
 110.138.84.170   # ID  AS7713    PT Telekomunikasi Indonesia
+110.138.94.201   # ID  AS7713    PT Telekomunikasi Indonesia
 110.139.117.9    # ID  AS7713    PT Telekomunikasi Indonesia
 113.192.12.181   # ID  AS58495   PT Parsaoran Global Datatrans
-114.10.47.102    # ID  AS4761    INDOSAT Internet Network Provider
 114.10.47.20     # ID  AS4761    INDOSAT Internet Network Provider
 114.10.47.206    # ID  AS4761    INDOSAT Internet Network Provider
-114.10.47.212    # ID  AS4761    INDOSAT Internet Network Provider
 114.10.47.225    # ID  AS4761    INDOSAT Internet Network Provider
-114.10.47.50     # ID  AS4761    INDOSAT Internet Network Provider
 114.10.47.6      # ID  AS4761    INDOSAT Internet Network Provider
 114.10.47.81     # ID  AS4761    INDOSAT Internet Network Provider
 114.10.47.96     # ID  AS4761    INDOSAT Internet Network Provider
@@ -467,7 +449,6 @@
 116.193.190.80   # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.100  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.104  # ID  AS136052  PT Cloud Hosting Indonesia
-116.193.191.137  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.159  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.169  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.206  # ID  AS136052  PT Cloud Hosting Indonesia
@@ -480,11 +461,9 @@
 116.193.191.90   # ID  AS136052  PT Cloud Hosting Indonesia
 116.197.133.25   # ID  AS58369   PT. Fiber Networks Indonesia
 116.206.198.131  # ID  AS133800  PT Biznet Gio Nusantara
-116.206.241.146  # ID  AS4787    PT Cyberindo Aditama
+116.254.101.102  # ID  AS55693   PT. Bangun Abadi Teknologi Indonesia
 117.102.94.130   # ID  AS17451   BIZNET NETWORKS
-117.18.17.75     # ID  AS152769  PT Gopal Network Solusindo
 117.54.148.120   # ID  AS9340    INDO Internet, PT
-118.97.163.55    # ID  AS7713    PT Telekomunikasi Indonesia
 118.99.102.160   # ID  AS17451   BIZNET NETWORKS
 118.99.102.228   # ID  AS17451   BIZNET NETWORKS
 118.99.114.133   # ID  AS17451   BIZNET NETWORKS
@@ -496,13 +475,9 @@
 118.99.93.38     # ID  AS17451   BIZNET NETWORKS
 119.235.221.127  # ID  AS131111  PT Mora Telematika Indonesia
 121.101.185.26   # ID  AS38785   PT. BORNEO BROADBAND TECHNOLOGY
-123.231.137.45   # ID  AS4800    PT Aplikanusa Lintasarta
-123.231.151.130  # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.151.148  # ID  AS4800    PT Aplikanusa Lintasarta
-123.231.157.170  # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.166.202  # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.171.242  # ID  AS4800    PT Aplikanusa Lintasarta
-123.231.179.26   # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.179.74   # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.211.66   # ID  AS4800    PT Aplikanusa Lintasarta
 125.160.180.158  # ID  AS7713    PT Telekomunikasi Indonesia
@@ -515,19 +490,18 @@
 128.14.232.254   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 128.14.233.253   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 139.0.12.92      # ID  AS9905    Linknet ASN
-139.0.65.59      # ID  AS23700   Linknet-Fastnet ASN
 139.192.61.165   # ID  AS23700   Linknet-Fastnet ASN
-139.194.210.90   # ID  AS23700   Linknet-Fastnet ASN
+139.192.91.206   # ID  AS23700   Linknet-Fastnet ASN
 139.194.74.122   # ID  AS23700   Linknet-Fastnet ASN
 139.255.253.74   # ID  AS9905    Linknet ASN
 140.0.7.98       # ID  AS23700   Linknet-Fastnet ASN
 145.223.108.165  # ID  AS47583   Hostinger International Limited
 147.139.164.196  # ID  AS45102   Alibaba (US) Technology Co., Ltd.
-147.139.215.38   # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 149.108.37.115   # ID  AS23700   Linknet-Fastnet ASN
 152.32.153.228   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 152.32.153.53    # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 152.32.154.177   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+153.92.11.95     # ID  AS47583   Hostinger International Limited
 157.10.160.98    # ID  AS136052  PT Cloud Hosting Indonesia
 157.10.161.105   # ID  AS136052  PT Cloud Hosting Indonesia
 157.10.252.74    # ID  AS136052  PT Cloud Hosting Indonesia
@@ -539,7 +513,6 @@
 157.15.40.6      # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.61     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.62     # ID  AS139952  PT Trisari Data Indonusa
-157.15.40.7      # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.74     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.77     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.83     # ID  AS139952  PT Trisari Data Indonusa
@@ -551,7 +524,6 @@
 157.15.40.90     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.91     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.93     # ID  AS139952  PT Trisari Data Indonusa
-157.15.73.34     # ID  AS150187  PT Indo Teknologi Konstruksi
 157.20.207.165   # ID  AS152436  PT Erajaya Telco Indonesia
 157.20.238.119   # ID  AS152429  PT Era Network Indonesia
 157.20.244.77    # ID  AS138089  PT.Global Media Data Prima
@@ -567,6 +539,7 @@
 157.20.32.212    # ID  AS152390  PT Intercloud Digital Inovasi
 157.66.34.121    # ID  AS55688   PT. Beon Intermedia
 157.66.55.46     # ID  AS141892  CV Andhika Pratama Sanggoro
+157.66.55.50     # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.56.175    # ID  AS58477   Argon Data Communication
 157.66.56.183    # ID  AS58477   Argon Data Communication
 157.66.56.188    # ID  AS58477   Argon Data Communication
@@ -576,20 +549,18 @@
 157.66.56.21     # ID  AS58477   Argon Data Communication
 157.66.56.225    # ID  AS58477   Argon Data Communication
 157.66.56.231    # ID  AS58477   Argon Data Communication
-157.66.56.26     # ID  AS58477   Argon Data Communication
 157.66.56.33     # ID  AS58477   Argon Data Communication
 157.66.56.39     # ID  AS58477   Argon Data Communication
 157.66.56.40     # ID  AS58477   Argon Data Communication
 157.66.56.98     # ID  AS58477   Argon Data Communication
 158.140.161.135  # ID  AS63859   PT. Eka Mas Republik
 160.187.107.47   # ID  AS153119  PT Intan Pariwara
-160.187.174.4    # ID  AS153135  PT Netindo Persada Nusantara
 160.22.193.35    # ID  AS152830  PT Elemen Jaringan Nusantara
-160.25.36.209    # ID  AS152832  PT MAXLINK DATA PRIMA INDONESIA
 163.7.1.133      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.1.152      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.1.156      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.1.207      # ID  AS150436  Byteplus Pte. Ltd.
+163.7.10.112     # ID  AS150436  Byteplus Pte. Ltd.
 163.7.12.49      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.2.231      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.2.245      # ID  AS150436  Byteplus Pte. Ltd.
@@ -600,11 +571,11 @@
 163.7.4.206      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.4.33       # ID  AS150436  Byteplus Pte. Ltd.
 163.7.6.154      # ID  AS150436  Byteplus Pte. Ltd.
+163.7.8.88       # ID  AS150436  Byteplus Pte. Ltd.
 163.7.9.54       # ID  AS150436  Byteplus Pte. Ltd.
 165.154.150.65   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 165.154.151.176  # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 165.154.151.207  # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
-165.154.208.232  # ID  AS142002  Scloud Pte Ltd
 165.154.228.190  # ID  AS142002  Scloud Pte Ltd
 165.154.48.160   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 165.154.48.24    # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
@@ -612,39 +583,30 @@
 168.110.219.125  # ID  AS31898   Oracle Corporation
 180.131.131.177  # ID  AS150478  PT Solusi Teknologi Gemilang
 180.178.94.73    # ID  AS45722   Widya Intersat Nusantara, PT
+180.244.184.160  # ID  AS7713    PT Telekomunikasi Indonesia
 180.245.130.159  # ID  AS7713    PT Telekomunikasi Indonesia
 180.247.102.148  # ID  AS7713    PT Telekomunikasi Indonesia
 180.247.127.16   # ID  AS7713    PT Telekomunikasi Indonesia
 180.250.196.141  # ID  AS7713    PT Telekomunikasi Indonesia
-180.250.33.132   # ID  AS7713    PT Telekomunikasi Indonesia
 180.250.46.242   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.148.16   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.159.151  # ID  AS7713    PT Telekomunikasi Indonesia
-180.252.207.95   # ID  AS7713    PT Telekomunikasi Indonesia
 182.23.54.125    # ID  AS4800    PT Aplikanusa Lintasarta
-182.253.109.224  # ID  AS17451   BIZNET NETWORKS
 182.253.156.173  # ID  AS17451   BIZNET NETWORKS
 182.253.156.184  # ID  AS17451   BIZNET NETWORKS
-182.253.40.151   # ID  AS17451   BIZNET NETWORKS
-182.253.79.195   # ID  AS17451   BIZNET NETWORKS
 182.8.179.78     # ID  AS23693   PT. Telekomunikasi Selular
 202.10.36.104    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.42.168    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.45.145    # ID  AS58487   CV. Rumahweb Indonesia
-202.10.47.188    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.47.211    # ID  AS58487   CV. Rumahweb Indonesia
 202.125.94.71    # ID  AS46042   Gunadarma University
 202.137.7.58     # ID  AS9905    Linknet ASN
 202.150.72.122   # ID  AS131111  PT Mora Telematika Indonesia
-202.152.16.42    # ID  AS4800    PT Aplikanusa Lintasarta
 202.152.201.166  # ID  AS63859   PT. Eka Mas Republik
 202.152.204.159  # ID  AS63859   PT. Eka Mas Republik
 202.152.49.82    # ID  AS4800    PT Aplikanusa Lintasarta
-202.155.143.143  # ID  AS151592  PT Awan Data Teknologi
 202.155.143.254  # ID  AS151592  PT Awan Data Teknologi
 202.155.157.129  # ID  AS138115  PT Deneva
-202.169.234.114  # ID  AS23671   PT. Sarana InsanMuda Selaras
-202.169.234.116  # ID  AS23671   PT. Sarana InsanMuda Selaras
 202.169.234.117  # ID  AS23671   PT. Sarana InsanMuda Selaras
 202.169.234.118  # ID  AS23671   PT. Sarana InsanMuda Selaras
 202.169.234.18   # ID  AS23671   PT. Sarana InsanMuda Selaras
@@ -657,20 +619,15 @@
 202.169.234.5    # ID  AS23671   PT. Sarana InsanMuda Selaras
 202.169.234.52   # ID  AS23671   PT. Sarana InsanMuda Selaras
 202.169.234.54   # ID  AS23671   PT. Sarana InsanMuda Selaras
-202.169.234.55   # ID  AS23671   PT. Sarana InsanMuda Selaras
 202.169.234.56   # ID  AS23671   PT. Sarana InsanMuda Selaras
 202.169.234.67   # ID  AS23671   PT. Sarana InsanMuda Selaras
 202.169.234.7    # ID  AS23671   PT. Sarana InsanMuda Selaras
-202.169.46.83    # ID  AS17451   BIZNET NETWORKS
-202.179.186.109  # ID  AS38750   Telemedia Dinamika Sarana, PT
 202.46.155.230   # ID  AS149746  PT Blip Integrator Provider
-202.51.101.250   # ID  AS17995   PT iForte Global Internet
 202.51.214.98    # ID  AS10220   PT. Kreasi Sejahtera Teknologi
 202.51.214.99    # ID  AS10220   PT. Kreasi Sejahtera Teknologi
 202.57.1.155     # ID  AS9326    PT Centrin Utama
 202.57.27.185    # ID  AS140469  PT Wahyu Adidaya Network
 202.57.30.210    # ID  AS9341    PT INDONESIA COMNETS PLUS
-202.58.201.61    # ID  AS45701   Internet Madju Abad Millenindo, PT
 202.74.74.118    # ID  AS133800  PT Biznet Gio Nusantara
 202.93.133.49    # ID  AS4382    PT. Indonusa System Integrator Prima
 203.130.248.214  # ID  AS7713    PT Telekomunikasi Indonesia
@@ -681,15 +638,14 @@
 203.145.34.37    # ID  AS136052  PT Cloud Hosting Indonesia
 203.145.34.78    # ID  AS136052  PT Cloud Hosting Indonesia
 203.145.34.82    # ID  AS136052  PT Cloud Hosting Indonesia
-203.175.11.63    # ID  AS58487   CV. Rumahweb Indonesia
 203.175.125.130  # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.217  # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.218  # ID  AS139952  PT Trisari Data Indonusa
+203.194.115.202  # ID  AS58487   CV. Rumahweb Indonesia
 203.201.164.142  # ID  AS9794    PT. Core Mediatech (D-NET)
 203.210.85.208   # ID  AS55699   PT. Cemerlang Multimedia
 203.83.43.196    # ID  AS63859   PT. Eka Mas Republik
 206.84.112.212   # ID  AS64315   PT MITRA VISIONER PRATAMA
-208.76.40.188    # ID  AS151592  PT Awan Data Teknologi
 210.79.142.221   # ID  AS141607  PT Gayatri Lintas Nusantara
 210.79.190.151   # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.190.209   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -697,7 +653,6 @@
 210.79.190.46    # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.190.64    # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.191.115   # ID  AS136052  PT Cloud Hosting Indonesia
-210.79.191.137   # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.191.178   # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.191.18    # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.191.199   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -707,7 +662,6 @@
 210.79.191.222   # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.191.48    # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.191.76    # ID  AS136052  PT Cloud Hosting Indonesia
-210.87.90.218    # ID  AS63859   PT. Eka Mas Republik
 222.124.158.10   # ID  AS7713    PT Telekomunikasi Indonesia
 222.124.205.34   # ID  AS7713    PT Telekomunikasi Indonesia
 223.25.108.2     # ID  AS4821    PT Sinergi Semesta Telematika
@@ -729,18 +683,15 @@
 27.50.25.190     # ID  AS131111  PT Mora Telematika Indonesia
 34.101.171.162   # ID  AS396982  Google LLC
 34.101.32.34     # ID  AS396982  Google LLC
-34.101.67.207    # ID  AS396982  Google LLC
 34.101.76.208    # ID  AS396982  Google LLC
 34.101.89.224    # ID  AS396982  Google LLC
 34.128.77.56     # ID  AS396982  Google LLC
 34.128.84.146    # ID  AS396982  Google LLC
 36.37.117.50     # ID  AS4800    PT Aplikanusa Lintasarta
-36.37.122.175    # ID  AS38513   PT Aplikanusa Lintasarta
 36.37.69.163     # ID  AS4800    PT Aplikanusa Lintasarta
 36.64.146.74     # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.162.195    # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.174.98     # ID  AS7713    PT Telekomunikasi Indonesia
-36.64.30.151     # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.33.82      # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.68.99      # ID  AS7713    PT Telekomunikasi Indonesia
 36.66.16.233     # ID  AS7713    PT Telekomunikasi Indonesia
@@ -752,7 +703,6 @@
 36.69.144.10     # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.156.238    # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.102.100    # ID  AS7713    PT Telekomunikasi Indonesia
-36.71.177.5      # ID  AS7713    PT Telekomunikasi Indonesia
 36.71.181.15     # ID  AS7713    PT Telekomunikasi Indonesia
 36.79.129.86     # ID  AS7713    PT Telekomunikasi Indonesia
 36.80.1.199      # ID  AS7713    PT Telekomunikasi Indonesia
@@ -760,12 +710,10 @@
 36.84.236.123    # ID  AS7713    PT Telekomunikasi Indonesia
 36.88.16.31      # ID  AS7713    PT Telekomunikasi Indonesia
 36.89.252.58     # ID  AS7713    PT Telekomunikasi Indonesia
-36.89.28.139     # ID  AS7713    PT Telekomunikasi Indonesia
 36.89.62.181     # ID  AS7713    PT Telekomunikasi Indonesia
 36.91.166.189    # ID  AS7713    PT Telekomunikasi Indonesia
 36.91.166.34     # ID  AS7713    PT Telekomunikasi Indonesia
 36.91.81.195     # ID  AS7713    PT Telekomunikasi Indonesia
-36.92.240.142    # ID  AS7713    PT Telekomunikasi Indonesia
 36.92.51.147     # ID  AS7713    PT Telekomunikasi Indonesia
 36.92.6.45       # ID  AS7713    PT Telekomunikasi Indonesia
 36.92.84.132     # ID  AS7713    PT Telekomunikasi Indonesia
@@ -773,15 +721,11 @@
 36.92.9.2        # ID  AS7713    PT Telekomunikasi Indonesia
 36.93.144.67     # ID  AS7713    PT Telekomunikasi Indonesia
 36.93.152.155    # ID  AS7713    PT Telekomunikasi Indonesia
-36.93.154.207    # ID  AS7713    PT Telekomunikasi Indonesia
 36.93.23.127     # ID  AS7713    PT Telekomunikasi Indonesia
 36.93.249.106    # ID  AS7713    PT Telekomunikasi Indonesia
 36.94.56.242     # ID  AS7713    PT Telekomunikasi Indonesia
 36.95.14.145     # ID  AS7713    PT Telekomunikasi Indonesia
-36.95.16.251     # ID  AS7713    PT Telekomunikasi Indonesia
 36.95.194.50     # ID  AS7713    PT Telekomunikasi Indonesia
-36.95.194.53     # ID  AS7713    PT Telekomunikasi Indonesia
-36.95.194.54     # ID  AS7713    PT Telekomunikasi Indonesia
 36.95.221.140    # ID  AS7713    PT Telekomunikasi Indonesia
 38.253.239.21    # ID  AS141146  PT Indonesia Telekomunikasi Teknologi
 41.216.177.55    # ID  AS139989  CV Atha Media Prima
@@ -790,7 +734,6 @@
 43.133.148.170   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.202.201   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.212.30    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
-43.157.224.131   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.173.1.57      # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.173.1.69      # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.243.142.42    # ID  AS131111  PT Mora Telematika Indonesia
@@ -803,6 +746,7 @@
 43.252.159.78    # ID  AS149746  PT Blip Integrator Provider
 46.202.138.211   # ID  AS47583   Hostinger International Limited
 49.0.27.185      # ID  AS149359  PT Persada Data Multimedia
+58.65.247.16     # ID  AS24535   PT.Insan Sarana Telematika
 58.65.247.22     # ID  AS24535   PT.Insan Sarana Telematika
 61.8.74.162      # ID  AS4800    PT Aplikanusa Lintasarta
 69.5.0.120       # ID  AS150436  Byteplus Pte. Ltd.
@@ -810,12 +754,10 @@
 69.5.22.116      # ID  AS150436  Byteplus Pte. Ltd.
 69.5.22.189      # ID  AS150436  Byteplus Pte. Ltd.
 70.153.129.43    # ID  AS8075    Microsoft Corporation
-70.153.130.251   # ID  AS8075    Microsoft Corporation
 70.153.16.135    # ID  AS8075    Microsoft Corporation
 8.215.200.33     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.205.243    # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.33.203     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
-8.215.41.147     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.69.55      # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 93.185.162.10    # ID  AS209854  Cyberzone S.A.
 93.185.162.116   # ID  AS209854  Cyberzone S.A.
@@ -824,7 +766,6 @@
 93.185.162.138   # ID  AS209854  Cyberzone S.A.
 93.185.162.14    # ID  AS209854  Cyberzone S.A.
 93.185.162.144   # ID  AS209854  Cyberzone S.A.
-93.185.162.147   # ID  AS209854  Cyberzone S.A.
 93.185.162.149   # ID  AS209854  Cyberzone S.A.
 93.185.162.24    # ID  AS209854  Cyberzone S.A.
 93.185.162.26    # ID  AS209854  Cyberzone S.A.
