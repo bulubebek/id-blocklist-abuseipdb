@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1251
-# Last updated:           2026-03-12 13:10:08
+# Number of ips:          1256
+# Last updated:           2026-03-12 18:59:24
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -651,6 +651,7 @@
 118.97.163.55    # ID  AS7713    PT Telekomunikasi Indonesia
 118.97.46.244    # ID  AS7713    PT Telekomunikasi Indonesia
 118.99.102.160   # ID  AS17451   BIZNET NETWORKS
+118.99.102.20    # ID  AS17451   BIZNET NETWORKS
 118.99.102.228   # ID  AS17451   BIZNET NETWORKS
 118.99.114.133   # ID  AS17451   BIZNET NETWORKS
 118.99.115.99    # ID  AS17451   BIZNET NETWORKS
@@ -1026,9 +1027,11 @@
 210.79.142.221   # ID  AS141607  PT Gayatri Lintas Nusantara
 210.79.190.107   # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.190.151   # ID  AS136052  PT Cloud Hosting Indonesia
+210.79.190.178   # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.190.185   # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.190.209   # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.190.22    # ID  AS136052  PT Cloud Hosting Indonesia
+210.79.190.31    # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.190.46    # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.190.64    # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.191.115   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -1043,6 +1046,7 @@
 210.79.191.222   # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.191.48    # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.191.76    # ID  AS136052  PT Cloud Hosting Indonesia
+210.87.74.47     # ID  AS138089  PT.Global Media Data Prima
 210.87.90.218    # ID  AS63859   PT. Eka Mas Republik
 210.87.91.38     # ID  AS63859   PT. Eka Mas Republik
 222.124.158.10   # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1089,6 +1093,7 @@
 34.101.89.224    # ID  AS396982  Google LLC
 34.128.77.56     # ID  AS396982  Google LLC
 34.128.84.146    # ID  AS396982  Google LLC
+34.128.85.18     # ID  AS396982  Google LLC
 34.128.92.56     # ID  AS396982  Google LLC
 34.34.219.203    # ID  AS396982  Google LLC
 34.50.111.168    # ID  AS396982  Google LLC
