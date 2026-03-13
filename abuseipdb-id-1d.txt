@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          762
-# Last updated:           2026-03-13 07:00:10
+# Number of ips:          778
+# Last updated:           2026-03-13 13:07:58
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -54,6 +54,7 @@
 103.154.231.122  # ID  AS136121  PT Digital Media Telematika
 103.154.77.48    # ID  AS140481  PT Tonggak Teknologi Netikom
 103.156.221.242  # ID  AS149667  PT Gading Bhakti Utama
+103.156.221.253  # ID  AS149667  PT Gading Bhakti Utama
 103.157.25.4     # ID  AS141108  Universitas Islam Negeri Sultan Maulana Hasanudin Banten
 103.158.121.26   # ID  AS141127  PT Anugerah Cimanuk Raya
 103.158.121.28   # ID  AS141127  PT Anugerah Cimanuk Raya
@@ -121,6 +122,7 @@
 103.177.15.14    # ID  AS147138  PT Angkasa Pura Sarana Digital
 103.178.175.180  # ID  AS137331  PT Cloud Teknologi Nusantara
 103.178.175.233  # ID  AS137331  PT Cloud Teknologi Nusantara
+103.178.3.241    # ID  AS141077  RSTNET
 103.179.27.94    # ID  AS149333  PT Primadona Media Digitalindo
 103.179.56.102   # ID  AS136052  PT Cloud Hosting Indonesia
 103.179.56.29    # ID  AS136052  PT Cloud Hosting Indonesia
@@ -130,6 +132,7 @@
 103.179.56.9     # ID  AS136052  PT Cloud Hosting Indonesia
 103.179.57.150   # ID  AS136052  PT Cloud Hosting Indonesia
 103.18.133.253   # ID  AS55693   PT. Bangun Abadi Teknologi Indonesia
+103.180.124.221  # ID  AS141968  PT Industri Kreatif Digital
 103.181.143.10   # ID  AS136052  PT Cloud Hosting Indonesia
 103.181.143.104  # ID  AS136052  PT Cloud Hosting Indonesia
 103.181.143.105  # ID  AS136052  PT Cloud Hosting Indonesia
@@ -144,6 +147,8 @@
 103.182.189.90   # ID  AS17995   PT iForte Global Internet
 103.182.192.126  # ID  AS17995   PT iForte Global Internet
 103.182.192.6    # ID  AS17995   PT iForte Global Internet
+103.182.200.10   # ID  AS17995   PT iForte Global Internet
+103.183.10.216   # ID  AS139967  PT. Yasmin Amanah Media
 103.183.10.219   # ID  AS139967  PT. Yasmin Amanah Media
 103.183.10.220   # ID  AS139967  PT. Yasmin Amanah Media
 103.183.10.221   # ID  AS139967  PT. Yasmin Amanah Media
@@ -170,6 +175,7 @@
 103.183.75.60    # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.75.90    # ID  AS136052  PT Cloud Hosting Indonesia
 103.184.56.220   # ID  AS149667  PT Gading Bhakti Utama
+103.184.56.241   # ID  AS149667  PT Gading Bhakti Utama
 103.186.0.101    # ID  AS136052  PT Cloud Hosting Indonesia
 103.186.0.127    # ID  AS136052  PT Cloud Hosting Indonesia
 103.186.0.182    # ID  AS136052  PT Cloud Hosting Indonesia
@@ -483,6 +489,7 @@
 157.10.160.98    # ID  AS136052  PT Cloud Hosting Indonesia
 157.10.161.105   # ID  AS136052  PT Cloud Hosting Indonesia
 157.10.161.11    # ID  AS136052  PT Cloud Hosting Indonesia
+157.10.161.171   # ID  AS136052  PT Cloud Hosting Indonesia
 157.10.252.160   # ID  AS136052  PT Cloud Hosting Indonesia
 157.10.252.74    # ID  AS136052  PT Cloud Hosting Indonesia
 157.15.40.1      # ID  AS139952  PT Trisari Data Indonusa
@@ -495,6 +502,7 @@
 157.15.40.62     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.74     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.77     # ID  AS139952  PT Trisari Data Indonusa
+157.15.40.78     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.83     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.84     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.85     # ID  AS139952  PT Trisari Data Indonusa
@@ -520,6 +528,7 @@
 157.66.34.121    # ID  AS55688   PT. Beon Intermedia
 157.66.54.6      # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.55.50     # ID  AS141892  CV Andhika Pratama Sanggoro
+157.66.56.152    # ID  AS58477   Argon Data Communication
 157.66.56.175    # ID  AS58477   Argon Data Communication
 157.66.56.183    # ID  AS58477   Argon Data Communication
 157.66.56.188    # ID  AS58477   Argon Data Communication
@@ -576,6 +585,7 @@
 180.250.33.132   # ID  AS7713    PT Telekomunikasi Indonesia
 180.250.46.242   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.148.16   # ID  AS7713    PT Telekomunikasi Indonesia
+180.252.151.253  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.159.151  # ID  AS7713    PT Telekomunikasi Indonesia
 182.23.54.125    # ID  AS4800    PT Aplikanusa Lintasarta
 182.253.156.173  # ID  AS17451   BIZNET NETWORKS
@@ -602,6 +612,7 @@
 202.169.234.54   # ID  AS23671   PT. Sarana InsanMuda Selaras
 202.169.234.67   # ID  AS23671   PT. Sarana InsanMuda Selaras
 202.169.234.7    # ID  AS23671   PT. Sarana InsanMuda Selaras
+202.169.46.83    # ID  AS17451   BIZNET NETWORKS
 202.179.186.109  # ID  AS38750   Telemedia Dinamika Sarana, PT
 202.46.155.230   # ID  AS149746  PT Blip Integrator Provider
 202.51.101.250   # ID  AS17995   PT iForte Global Internet
@@ -630,6 +641,8 @@
 203.210.85.208   # ID  AS55699   PT. Cemerlang Multimedia
 203.83.43.196    # ID  AS63859   PT. Eka Mas Republik
 206.84.112.212   # ID  AS64315   PT MITRA VISIONER PRATAMA
+208.76.40.188    # ID  AS151592  PT Awan Data Teknologi
+210.79.142.221   # ID  AS141607  PT Gayatri Lintas Nusantara
 210.79.190.151   # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.190.178   # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.190.209   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -649,6 +662,7 @@
 210.87.74.47     # ID  AS138089  PT.Global Media Data Prima
 210.87.90.218    # ID  AS63859   PT. Eka Mas Republik
 222.124.205.34   # ID  AS7713    PT Telekomunikasi Indonesia
+222.165.222.141  # ID  AS24207   PT NettoCyber Indonesia
 223.25.108.2     # ID  AS4821    PT Sinergi Semesta Telematika
 223.25.96.181    # ID  AS9341    PT INDONESIA COMNETS PLUS
 27.111.32.174    # ID  AS24532   PT. Inet Global Indo
@@ -760,8 +774,10 @@
 93.185.162.116   # ID  AS209854  Cyberzone S.A.
 93.185.162.118   # ID  AS209854  Cyberzone S.A.
 93.185.162.12    # ID  AS209854  Cyberzone S.A.
+93.185.162.123   # ID  AS209854  Cyberzone S.A.
 93.185.162.126   # ID  AS209854  Cyberzone S.A.
 93.185.162.128   # ID  AS209854  Cyberzone S.A.
+93.185.162.131   # ID  AS209854  Cyberzone S.A.
 93.185.162.136   # ID  AS209854  Cyberzone S.A.
 93.185.162.138   # ID  AS209854  Cyberzone S.A.
 93.185.162.14    # ID  AS209854  Cyberzone S.A.

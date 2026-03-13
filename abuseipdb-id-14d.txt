@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1230
-# Last updated:           2026-03-13 07:00:09
+# Number of ips:          1233
+# Last updated:           2026-03-13 13:07:57
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -215,6 +215,7 @@
 103.182.200.10   # ID  AS17995   PT iForte Global Internet
 103.182.244.110  # ID  AS17995   PT iForte Global Internet
 103.183.10.21    # ID  AS139967  PT. Yasmin Amanah Media
+103.183.10.216   # ID  AS139967  PT. Yasmin Amanah Media
 103.183.10.219   # ID  AS139967  PT. Yasmin Amanah Media
 103.183.10.22    # ID  AS139967  PT. Yasmin Amanah Media
 103.183.10.220   # ID  AS139967  PT. Yasmin Amanah Media
@@ -809,6 +810,7 @@
 157.66.56.113    # ID  AS58477   Argon Data Communication
 157.66.56.121    # ID  AS58477   Argon Data Communication
 157.66.56.134    # ID  AS58477   Argon Data Communication
+157.66.56.152    # ID  AS58477   Argon Data Communication
 157.66.56.157    # ID  AS58477   Argon Data Communication
 157.66.56.171    # ID  AS58477   Argon Data Communication
 157.66.56.175    # ID  AS58477   Argon Data Communication
@@ -893,6 +895,7 @@
 180.250.46.242   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.148.16   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.151.1    # ID  AS7713    PT Telekomunikasi Indonesia
+180.252.151.253  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.159.151  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.207.95   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.80.34    # ID  AS7713    PT Telekomunikasi Indonesia
