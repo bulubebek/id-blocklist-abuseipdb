@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1030
-# Last updated:           2026-03-13 13:07:58
+# Number of ips:          1034
+# Last updated:           2026-03-13 18:49:45
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -580,6 +580,7 @@
 118.99.114.133   # ID  AS17451   BIZNET NETWORKS
 118.99.115.99    # ID  AS17451   BIZNET NETWORKS
 118.99.118.214   # ID  AS17451   BIZNET NETWORKS
+118.99.73.70     # ID  AS17451   BIZNET NETWORKS
 118.99.80.24     # ID  AS17451   BIZNET NETWORKS
 118.99.80.40     # ID  AS17451   BIZNET NETWORKS
 118.99.80.6      # ID  AS17451   BIZNET NETWORKS
@@ -772,6 +773,7 @@
 182.253.168.197  # ID  AS17451   BIZNET NETWORKS
 182.253.178.98   # ID  AS17451   BIZNET NETWORKS
 182.253.193.157  # ID  AS17451   BIZNET NETWORKS
+182.253.37.34    # ID  AS17451   BIZNET NETWORKS
 182.253.40.151   # ID  AS17451   BIZNET NETWORKS
 182.253.79.195   # ID  AS17451   BIZNET NETWORKS
 182.8.179.123    # ID  AS23693   PT. Telekomunikasi Selular
@@ -941,6 +943,7 @@
 36.71.178.185    # ID  AS7713    PT Telekomunikasi Indonesia
 36.71.181.15     # ID  AS7713    PT Telekomunikasi Indonesia
 36.71.188.166    # ID  AS7713    PT Telekomunikasi Indonesia
+36.78.114.154    # ID  AS7713    PT Telekomunikasi Indonesia
 36.78.222.163    # ID  AS7713    PT Telekomunikasi Indonesia
 36.78.222.255    # ID  AS7713    PT Telekomunikasi Indonesia
 36.79.129.86     # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1001,6 +1004,7 @@
 43.252.159.79    # ID  AS149746  PT Blip Integrator Provider
 46.202.138.211   # ID  AS47583   Hostinger International Limited
 49.0.27.185      # ID  AS149359  PT Persada Data Multimedia
+58.147.189.129   # ID  AS24534   PT. Transhybrid Communication
 58.65.247.16     # ID  AS24535   PT.Insan Sarana Telematika
 58.65.247.22     # ID  AS24535   PT.Insan Sarana Telematika
 61.8.74.162      # ID  AS4800    PT Aplikanusa Lintasarta
