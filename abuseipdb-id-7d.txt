@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1010
-# Last updated:           2026-03-14 06:53:49
+# Number of ips:          1019
+# Last updated:           2026-03-14 13:01:01
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -85,6 +85,7 @@
 103.160.212.122  # ID  AS140389  PT Dewa Bisnis Digital
 103.160.213.27   # ID  AS140389  PT Dewa Bisnis Digital
 103.160.213.54   # ID  AS140389  PT Dewa Bisnis Digital
+103.160.37.104   # ID  AS141584  PT Jetorbit Teknologi Indonesia
 103.161.207.2    # ID  AS141627  PT Media Solusi Network
 103.164.194.238  # ID  AS17995   PT iForte Global Internet
 103.164.20.42    # ID  AS141899  PT Malfi Karya Berkah
@@ -161,6 +162,7 @@
 103.179.27.94    # ID  AS149333  PT Primadona Media Digitalindo
 103.179.56.102   # ID  AS136052  PT Cloud Hosting Indonesia
 103.179.56.29    # ID  AS136052  PT Cloud Hosting Indonesia
+103.179.56.33    # ID  AS136052  PT Cloud Hosting Indonesia
 103.179.56.44    # ID  AS136052  PT Cloud Hosting Indonesia
 103.179.56.51    # ID  AS136052  PT Cloud Hosting Indonesia
 103.179.56.78    # ID  AS136052  PT Cloud Hosting Indonesia
@@ -189,6 +191,7 @@
 103.183.10.219   # ID  AS139967  PT. Yasmin Amanah Media
 103.183.10.220   # ID  AS139967  PT. Yasmin Amanah Media
 103.183.10.221   # ID  AS139967  PT. Yasmin Amanah Media
+103.183.10.24    # ID  AS139967  PT. Yasmin Amanah Media
 103.183.10.28    # ID  AS139967  PT. Yasmin Amanah Media
 103.183.10.29    # ID  AS139967  PT. Yasmin Amanah Media
 103.183.10.3     # ID  AS139967  PT. Yasmin Amanah Media
@@ -534,6 +537,7 @@
 114.9.29.14      # ID  AS4761    INDOSAT Internet Network Provider
 114.9.48.34      # ID  AS4761    INDOSAT Internet Network Provider
 114.9.50.10      # ID  AS4761    INDOSAT Internet Network Provider
+115.124.75.254   # ID  AS38511   PT Remala Abadi
 115.85.80.12     # ID  AS23953   PT ARTHA TELEKOMINDO
 116.193.190.100  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.190.103  # ID  AS136052  PT Cloud Hosting Indonesia
@@ -547,6 +551,7 @@
 116.193.191.104  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.137  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.159  # ID  AS136052  PT Cloud Hosting Indonesia
+116.193.191.16   # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.169  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.206  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.208  # ID  AS136052  PT Cloud Hosting Indonesia
@@ -582,6 +587,7 @@
 118.99.80.61     # ID  AS17451   BIZNET NETWORKS
 118.99.93.38     # ID  AS17451   BIZNET NETWORKS
 119.235.221.127  # ID  AS131111  PT Mora Telematika Indonesia
+119.82.246.75    # ID  AS24521   PT. DATA Utama Dinamika
 121.101.185.26   # ID  AS38785   PT. BORNEO BROADBAND TECHNOLOGY
 123.231.137.45   # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.151.130  # ID  AS4800    PT Aplikanusa Lintasarta
@@ -810,6 +816,7 @@
 202.57.27.185    # ID  AS140469  PT Wahyu Adidaya Network
 202.57.30.210    # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.58.201.61    # ID  AS45701   Internet Madju Abad Millenindo, PT
+202.6.226.17     # ID  AS23756   PADINET - Padi Internet
 202.74.74.118    # ID  AS133800  PT Biznet Gio Nusantara
 202.93.133.49    # ID  AS4382    PT. Indonusa System Integrator Prima
 203.130.248.214  # ID  AS7713    PT Telekomunikasi Indonesia
@@ -966,7 +973,9 @@
 43.129.55.253    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.133.139.6     # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.133.148.170   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
+43.157.202.100   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.202.201   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
+43.157.202.84    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.212.30    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.224.131   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.173.1.57      # ID  AS132203  Tencent Building, Kejizhongyi Avenue

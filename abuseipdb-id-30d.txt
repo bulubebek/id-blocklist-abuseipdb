@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1529
-# Last updated:           2026-03-14 06:53:48
+# Number of ips:          1533
+# Last updated:           2026-03-14 13:01:00
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -121,6 +121,7 @@
 103.160.212.122  # ID  AS140389  PT Dewa Bisnis Digital
 103.160.213.27   # ID  AS140389  PT Dewa Bisnis Digital
 103.160.213.54   # ID  AS140389  PT Dewa Bisnis Digital
+103.160.37.104   # ID  AS141584  PT Jetorbit Teknologi Indonesia
 103.160.37.151   # ID  AS141584  PT Jetorbit Teknologi Indonesia
 103.161.207.2    # ID  AS141627  PT Media Solusi Network
 103.163.138.116  # ID  AS55688   PT. Beon Intermedia
@@ -714,6 +715,7 @@
 114.9.29.14      # ID  AS4761    INDOSAT Internet Network Provider
 114.9.48.34      # ID  AS4761    INDOSAT Internet Network Provider
 114.9.50.10      # ID  AS4761    INDOSAT Internet Network Provider
+115.124.75.254   # ID  AS38511   PT Remala Abadi
 115.85.80.12     # ID  AS23953   PT ARTHA TELEKOMINDO
 116.193.190.100  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.190.103  # ID  AS136052  PT Cloud Hosting Indonesia
@@ -1459,7 +1461,9 @@
 43.133.148.170   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.133.156.8     # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.133.157.163   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
+43.157.202.100   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.202.201   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
+43.157.202.84    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.212.179   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.212.30    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.223.37    # ID  AS132203  Tencent Building, Kejizhongyi Avenue

@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1217
-# Last updated:           2026-03-14 06:53:48
+# Number of ips:          1223
+# Last updated:           2026-03-14 13:01:01
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -101,6 +101,7 @@
 103.160.212.122  # ID  AS140389  PT Dewa Bisnis Digital
 103.160.213.27   # ID  AS140389  PT Dewa Bisnis Digital
 103.160.213.54   # ID  AS140389  PT Dewa Bisnis Digital
+103.160.37.104   # ID  AS141584  PT Jetorbit Teknologi Indonesia
 103.160.37.151   # ID  AS141584  PT Jetorbit Teknologi Indonesia
 103.161.207.2    # ID  AS141627  PT Media Solusi Network
 103.164.137.206  # ID  AS17995   PT iForte Global Internet
@@ -608,6 +609,7 @@
 114.9.29.14      # ID  AS4761    INDOSAT Internet Network Provider
 114.9.48.34      # ID  AS4761    INDOSAT Internet Network Provider
 114.9.50.10      # ID  AS4761    INDOSAT Internet Network Provider
+115.124.75.254   # ID  AS38511   PT Remala Abadi
 115.85.80.12     # ID  AS23953   PT ARTHA TELEKOMINDO
 116.193.190.100  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.190.103  # ID  AS136052  PT Cloud Hosting Indonesia
@@ -621,6 +623,7 @@
 116.193.191.104  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.137  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.159  # ID  AS136052  PT Cloud Hosting Indonesia
+116.193.191.16   # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.169  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.206  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.208  # ID  AS136052  PT Cloud Hosting Indonesia
@@ -668,6 +671,7 @@
 119.235.222.173  # ID  AS131111  PT Mora Telematika Indonesia
 119.235.252.8    # ID  AS45146   PT. Raja Sepadan Abadi
 119.47.90.13     # ID  AS38527   JAWA POS NATIONAL NETWORK MEDIALINK, PT
+119.82.246.75    # ID  AS24521   PT. DATA Utama Dinamika
 121.101.185.26   # ID  AS38785   PT. BORNEO BROADBAND TECHNOLOGY
 123.231.137.45   # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.151.130  # ID  AS4800    PT Aplikanusa Lintasarta
@@ -1167,7 +1171,9 @@
 43.133.139.6     # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.133.148.170   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.133.156.8     # ID  AS132203  Tencent Building, Kejizhongyi Avenue
+43.157.202.100   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.202.201   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
+43.157.202.84    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.212.30    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.224.131   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.224.135   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
