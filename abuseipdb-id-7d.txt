@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          986
-# Last updated:           2026-03-17 07:09:58
+# Number of ips:          1002
+# Last updated:           2026-03-17 13:21:11
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -126,6 +126,7 @@
 103.174.19.83    # ID  AS131111  PT Mora Telematika Indonesia
 103.175.206.22   # ID  AS147124  PT Hostingan Awan Indonesia
 103.175.207.96   # ID  AS147124  PT Hostingan Awan Indonesia
+103.175.219.123  # ID  AS133800  PT Biznet Gio Nusantara
 103.175.225.15   # ID  AS63859   PT. Eka Mas Republik
 103.175.225.238  # ID  AS63859   PT. Eka Mas Republik
 103.176.78.100   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -267,6 +268,7 @@
 103.217.144.35   # ID  AS136052  PT Cloud Hosting Indonesia
 103.217.144.65   # ID  AS136052  PT Cloud Hosting Indonesia
 103.217.145.104  # ID  AS136052  PT Cloud Hosting Indonesia
+103.217.217.226  # ID  AS24529   PT. Infotama Lintas Global
 103.220.23.235   # ID  AS141607  PT Gayatri Lintas Nusantara
 103.224.19.7     # ID  AS56229   LightsUp Network Solution Sdn. Bhd.
 103.226.138.241  # ID  AS136052  PT Cloud Hosting Indonesia
@@ -455,11 +457,15 @@
 103.76.120.90    # ID  AS136052  PT Cloud Hosting Indonesia
 103.76.151.138   # ID  AS135477  PT. Java Digital Nusantara
 103.76.201.177   # ID  AS135480  PT. Arjuna Global Teknologi Indonesia
+103.77.106.109   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.106.118   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.106.149   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.106.167   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
+103.77.106.210   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
+103.77.106.226   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.106.245   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.106.246   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
+103.77.106.34    # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.106.41    # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.106.57    # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.106.81    # ID  AS135450  PT Berkah Solusi Teknologi Informasi
@@ -561,6 +567,7 @@
 123.231.157.170  # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.166.202  # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.171.242  # ID  AS4800    PT Aplikanusa Lintasarta
+123.231.179.42   # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.179.74   # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.211.66   # ID  AS4800    PT Aplikanusa Lintasarta
 125.160.180.158  # ID  AS7713    PT Telekomunikasi Indonesia
@@ -654,7 +661,9 @@
 157.66.54.6      # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.55.46     # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.55.50     # ID  AS141892  CV Andhika Pratama Sanggoro
+157.66.56.138    # ID  AS58477   Argon Data Communication
 157.66.56.152    # ID  AS58477   Argon Data Communication
+157.66.56.157    # ID  AS58477   Argon Data Communication
 157.66.56.175    # ID  AS58477   Argon Data Communication
 157.66.56.183    # ID  AS58477   Argon Data Communication
 157.66.56.188    # ID  AS58477   Argon Data Communication
@@ -662,6 +671,7 @@
 157.66.56.202    # ID  AS58477   Argon Data Communication
 157.66.56.204    # ID  AS58477   Argon Data Communication
 157.66.56.21     # ID  AS58477   Argon Data Communication
+157.66.56.214    # ID  AS58477   Argon Data Communication
 157.66.56.225    # ID  AS58477   Argon Data Communication
 157.66.56.231    # ID  AS58477   Argon Data Communication
 157.66.56.33     # ID  AS58477   Argon Data Communication
@@ -708,6 +718,7 @@
 165.154.49.137   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 168.110.193.229  # ID  AS31898   Oracle Corporation
 168.110.219.125  # ID  AS31898   Oracle Corporation
+172.232.234.98   # ID  AS63949   Akamai Connected Cloud
 172.232.237.53   # ID  AS63949   Akamai Connected Cloud
 180.131.131.177  # ID  AS150478  PT Solusi Teknologi Gemilang
 180.178.94.73    # ID  AS45722   Widya Intersat Nusantara, PT
@@ -734,6 +745,7 @@
 182.253.193.157  # ID  AS17451   BIZNET NETWORKS
 182.253.37.34    # ID  AS17451   BIZNET NETWORKS
 182.253.79.195   # ID  AS17451   BIZNET NETWORKS
+182.8.179.189    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.179.38     # ID  AS23693   PT. Telekomunikasi Selular
 182.8.179.78     # ID  AS23693   PT. Telekomunikasi Selular
 182.8.226.116    # ID  AS23693   PT. Telekomunikasi Selular
@@ -750,6 +762,7 @@
 202.152.201.166  # ID  AS63859   PT. Eka Mas Republik
 202.152.204.159  # ID  AS63859   PT. Eka Mas Republik
 202.152.49.82    # ID  AS4800    PT Aplikanusa Lintasarta
+202.153.245.26   # ID  AS9340    INDO Internet, PT
 202.155.143.143  # ID  AS151592  PT Awan Data Teknologi
 202.155.143.254  # ID  AS151592  PT Awan Data Teknologi
 202.155.157.129  # ID  AS138115  PT Deneva
@@ -892,6 +905,7 @@
 36.71.188.149    # ID  AS7713    PT Telekomunikasi Indonesia
 36.71.188.166    # ID  AS7713    PT Telekomunikasi Indonesia
 36.71.188.233    # ID  AS7713    PT Telekomunikasi Indonesia
+36.71.189.255    # ID  AS7713    PT Telekomunikasi Indonesia
 36.78.114.154    # ID  AS7713    PT Telekomunikasi Indonesia
 36.78.220.10     # ID  AS7713    PT Telekomunikasi Indonesia
 36.78.222.163    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -943,6 +957,7 @@
 43.157.202.201   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.202.84    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.212.30    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
+43.157.213.31    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.173.1.57      # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.173.1.69      # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.243.142.42    # ID  AS131111  PT Mora Telematika Indonesia
@@ -960,6 +975,7 @@
 58.65.241.173    # ID  AS24535   PT.Insan Sarana Telematika
 58.65.247.16     # ID  AS24535   PT.Insan Sarana Telematika
 58.65.247.22     # ID  AS24535   PT.Insan Sarana Telematika
+61.8.73.38       # ID  AS4800    PT Aplikanusa Lintasarta
 61.8.74.162      # ID  AS4800    PT Aplikanusa Lintasarta
 69.5.0.120       # ID  AS150436  Byteplus Pte. Ltd.
 69.5.20.170      # ID  AS150436  Byteplus Pte. Ltd.
