@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          972
-# Last updated:           2026-03-20 02:29:27
+# Number of ips:          980
+# Last updated:           2026-03-20 07:01:40
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -23,6 +23,7 @@
 103.124.137.202  # ID  AS138089  PT.Global Media Data Prima
 103.125.175.117  # ID  AS139415  PT Trinity Teknologi Nusantara
 103.126.117.26   # ID  AS133800  PT Biznet Gio Nusantara
+103.126.31.13    # ID  AS138119  PT Integra Kreasitama Solusindo
 103.13.138.22    # ID  AS150215  PT Era Bangun Indonesia
 103.133.24.51    # ID  AS138130  PT PHATRIA INTI PERSADA
 103.137.65.2     # ID  AS58495   PT Parsaoran Global Datatrans
@@ -414,6 +415,7 @@
 103.65.237.233   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.65.237.234   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.66.63.1      # ID  AS139982  PT Buana Visualnet Sentra
+103.67.244.133   # ID  AS138115  PT Deneva
 103.67.78.102    # ID  AS136052  PT Cloud Hosting Indonesia
 103.67.78.132    # ID  AS136052  PT Cloud Hosting Indonesia
 103.67.78.18     # ID  AS136052  PT Cloud Hosting Indonesia
@@ -577,11 +579,16 @@
 143.20.199.46    # ID  AS151592  PT Awan Data Teknologi
 143.20.49.70     # ID  AS150249  PT Atharva Telematika Persada
 144.79.187.17    # ID  -         -
+144.79.187.18    # ID  -         -
 144.79.187.20    # ID  -         -
+144.79.187.22    # ID  -         -
 144.79.187.23    # ID  -         -
 144.79.187.24    # ID  -         -
 144.79.187.26    # ID  -         -
+144.79.187.27    # ID  -         -
+144.79.187.29    # ID  -         -
 144.79.187.30    # ID  -         -
+144.79.187.31    # ID  -         -
 145.223.108.165  # ID  AS47583   Hostinger International Limited
 146.196.99.213   # ID  AS38320   PT Maxindo Mitra Solusi
 147.139.136.75   # ID  AS45102   Alibaba (US) Technology Co., Ltd.
@@ -738,6 +745,7 @@
 182.8.179.38     # ID  AS23693   PT. Telekomunikasi Selular
 182.8.179.78     # ID  AS23693   PT. Telekomunikasi Selular
 182.8.226.116    # ID  AS23693   PT. Telekomunikasi Selular
+182.8.228.179    # ID  AS23693   PT. Telekomunikasi Selular
 202.10.41.47     # ID  AS58487   CV. Rumahweb Indonesia
 202.10.42.168    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.47.211    # ID  AS58487   CV. Rumahweb Indonesia
