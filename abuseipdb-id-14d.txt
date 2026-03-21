@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1199
-# Last updated:           2026-03-21 06:51:28
+# Number of ips:          1203
+# Last updated:           2026-03-21 12:58:13
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -743,6 +743,7 @@
 157.15.40.21     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.27     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.56     # ID  AS139952  PT Trisari Data Indonusa
+157.15.40.57     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.58     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.59     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.6      # ID  AS139952  PT Trisari Data Indonusa
@@ -788,6 +789,7 @@
 157.66.56.138    # ID  AS58477   Argon Data Communication
 157.66.56.152    # ID  AS58477   Argon Data Communication
 157.66.56.157    # ID  AS58477   Argon Data Communication
+157.66.56.16     # ID  AS58477   Argon Data Communication
 157.66.56.175    # ID  AS58477   Argon Data Communication
 157.66.56.183    # ID  AS58477   Argon Data Communication
 157.66.56.188    # ID  AS58477   Argon Data Communication
@@ -803,6 +805,7 @@
 157.66.56.38     # ID  AS58477   Argon Data Communication
 157.66.56.39     # ID  AS58477   Argon Data Communication
 157.66.56.40     # ID  AS58477   Argon Data Communication
+157.66.56.42     # ID  AS58477   Argon Data Communication
 157.66.56.98     # ID  AS58477   Argon Data Communication
 158.140.161.135  # ID  AS63859   PT. Eka Mas Republik
 158.140.182.65   # ID  AS63859   PT. Eka Mas Republik
@@ -1039,6 +1042,7 @@
 34.101.76.208    # ID  AS396982  Google LLC
 34.101.78.9      # ID  AS396982  Google LLC
 34.101.89.224    # ID  AS396982  Google LLC
+34.101.98.234    # ID  AS396982  Google LLC
 34.128.77.56     # ID  AS396982  Google LLC
 34.128.84.146    # ID  AS396982  Google LLC
 34.128.85.18     # ID  AS396982  Google LLC
