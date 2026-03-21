@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1580
-# Last updated:           2026-03-21 02:24:02
+# Number of ips:          1584
+# Last updated:           2026-03-21 06:51:27
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -117,6 +117,7 @@
 103.158.121.26   # ID  AS141127  PT Anugerah Cimanuk Raya
 103.158.121.28   # ID  AS141127  PT Anugerah Cimanuk Raya
 103.158.121.29   # ID  AS141127  PT Anugerah Cimanuk Raya
+103.158.162.170  # ID  AS17995   PT iForte Global Internet
 103.158.67.162   # ID  AS17995   PT iForte Global Internet
 103.159.221.207  # ID  AS58369   PT. Fiber Networks Indonesia
 103.160.150.185  # ID  AS138093  PT. LINTASMAYA MULTI MEDIA
@@ -804,6 +805,7 @@
 119.47.90.13     # ID  AS38527   JAWA POS NATIONAL NETWORK MEDIALINK, PT
 119.82.246.75    # ID  AS24521   PT. DATA Utama Dinamika
 121.101.130.161  # ID  AS131706  PT SELARAS CITRA TERABIT
+121.101.133.168  # ID  AS131706  PT SELARAS CITRA TERABIT
 121.101.185.26   # ID  AS38785   PT. BORNEO BROADBAND TECHNOLOGY
 123.231.137.45   # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.151.130  # ID  AS4800    PT Aplikanusa Lintasarta
@@ -818,6 +820,7 @@
 123.231.179.74   # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.181.156  # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.211.66   # ID  AS4800    PT Aplikanusa Lintasarta
+125.160.173.217  # ID  AS7713    PT Telekomunikasi Indonesia
 125.160.178.3    # ID  AS7713    PT Telekomunikasi Indonesia
 125.160.180.158  # ID  AS7713    PT Telekomunikasi Indonesia
 125.160.181.117  # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1056,6 +1059,7 @@
 163.7.1.206      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.1.207      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.10.112     # ID  AS150436  Byteplus Pte. Ltd.
+163.7.10.74      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.12.49      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.2.17       # ID  AS150436  Byteplus Pte. Ltd.
 163.7.2.231      # ID  AS150436  Byteplus Pte. Ltd.
