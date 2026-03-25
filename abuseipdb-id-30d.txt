@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1560
-# Last updated:           2026-03-25 02:35:40
+# Number of ips:          1563
+# Last updated:           2026-03-25 07:07:31
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -43,6 +43,7 @@
 103.127.135.226  # ID  AS133800  PT Biznet Gio Nusantara
 103.13.138.22    # ID  AS150215  PT Era Bangun Indonesia
 103.133.24.51    # ID  AS138130  PT PHATRIA INTI PERSADA
+103.133.56.19    # ID  AS138131  CV. NATANETWORK SOLUTION
 103.133.63.166   # ID  AS138134  PT Tunas Link Indonesia
 103.137.65.2     # ID  AS58495   PT Parsaoran Global Datatrans
 103.137.83.51    # ID  AS138828  PT TELIO INTI NUSA
@@ -783,6 +784,7 @@
 119.235.221.127  # ID  AS131111  PT Mora Telematika Indonesia
 119.235.221.209  # ID  AS131111  PT Mora Telematika Indonesia
 119.235.222.173  # ID  AS131111  PT Mora Telematika Indonesia
+119.235.222.178  # ID  AS131111  PT Mora Telematika Indonesia
 119.235.251.247  # ID  AS45146   PT. Raja Sepadan Abadi
 119.235.252.8    # ID  AS45146   PT. Raja Sepadan Abadi
 119.47.90.13     # ID  AS38527   JAWA POS NATIONAL NETWORK MEDIALINK, PT
@@ -1210,6 +1212,7 @@
 202.57.28.131    # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.57.30.210    # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.58.201.61    # ID  AS45701   Internet Madju Abad Millenindo, PT
+202.58.242.20    # ID  AS138050  Dinas Komunikasi Provins Jawa Barat
 202.58.66.10     # ID  AS141673  PT Mamura Inter Media
 202.58.66.11     # ID  AS141673  PT Mamura Inter Media
 202.6.226.17     # ID  AS23756   PADINET - Padi Internet
