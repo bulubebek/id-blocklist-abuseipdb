@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1563
-# Last updated:           2026-03-28 13:03:29
+# Number of ips:          1567
+# Last updated:           2026-03-28 18:48:09
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -524,6 +524,7 @@
 103.59.160.96    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.161.112   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.161.130   # ID  AS150493  PT Gunung Sedayu Sentosa
+103.59.161.67    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.161.78    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.161.79    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.161.94    # ID  AS150493  PT Gunung Sedayu Sentosa
@@ -798,6 +799,7 @@
 119.235.252.8    # ID  AS45146   PT. Raja Sepadan Abadi
 119.47.90.13     # ID  AS38527   JAWA POS NATIONAL NETWORK MEDIALINK, PT
 119.82.246.75    # ID  AS24521   PT. DATA Utama Dinamika
+121.101.129.131  # ID  AS131706  PT SELARAS CITRA TERABIT
 121.101.133.168  # ID  AS131706  PT SELARAS CITRA TERABIT
 121.101.185.26   # ID  AS38785   PT. BORNEO BROADBAND TECHNOLOGY
 123.231.137.45   # ID  AS4800    PT Aplikanusa Lintasarta
@@ -1178,6 +1180,7 @@
 202.155.157.192  # ID  AS138115  PT Deneva
 202.155.157.8    # ID  AS138115  PT Deneva
 202.155.90.74    # ID  AS138115  PT Deneva
+202.155.95.52    # ID  AS138115  PT Deneva
 202.164.220.228  # ID  AS149400  PT Cyber Akses Indonesia
 202.164.220.232  # ID  AS149400  PT Cyber Akses Indonesia
 202.164.220.253  # ID  AS149400  PT Cyber Akses Indonesia
@@ -1248,6 +1251,7 @@
 203.161.30.162   # ID  AS138823  PT. Trimitra Usaha Sejahtera
 203.161.30.164   # ID  AS138823  PT. Trimitra Usaha Sejahtera
 203.175.11.63    # ID  AS58487   CV. Rumahweb Indonesia
+203.175.125.114  # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.130  # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.217  # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.218  # ID  AS139952  PT Trisari Data Indonusa
