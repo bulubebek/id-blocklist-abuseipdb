@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1529
-# Last updated:           2026-03-30 02:51:42
+# Number of ips:          1534
+# Last updated:           2026-03-30 07:48:39
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -92,6 +92,7 @@
 103.148.29.174   # ID  AS140012  PT Dewata Solusi Tehnologi
 103.148.79.74    # ID  AS139980  Dinas Komunikasi Informasi Kota Tasikmalaya
 103.148.89.154   # ID  AS140421  PT APLIKA DATA NUSANTARA
+103.15.226.202   # ID  AS136052  PT Cloud Hosting Indonesia
 103.150.113.254  # ID  AS17995   PT iForte Global Internet
 103.150.227.211  # ID  AS133800  PT Biznet Gio Nusantara
 103.151.140.22   # ID  AS140417  PT Indotechno Digital Komputasi
@@ -127,6 +128,7 @@
 103.158.162.170  # ID  AS17995   PT iForte Global Internet
 103.158.67.162   # ID  AS17995   PT iForte Global Internet
 103.159.221.207  # ID  AS58369   PT. Fiber Networks Indonesia
+103.159.92.134   # ID  AS141139  PT Chandela Lintas Media
 103.160.150.185  # ID  AS138093  PT. LINTASMAYA MULTI MEDIA
 103.160.212.122  # ID  AS140389  PT Dewa Bisnis Digital
 103.160.213.27   # ID  AS140389  PT Dewa Bisnis Digital
@@ -196,6 +198,7 @@
 103.174.19.83    # ID  AS131111  PT Mora Telematika Indonesia
 103.175.206.22   # ID  AS147124  PT Hostingan Awan Indonesia
 103.175.207.96   # ID  AS147124  PT Hostingan Awan Indonesia
+103.175.218.235  # ID  AS133800  PT Biznet Gio Nusantara
 103.175.219.123  # ID  AS133800  PT Biznet Gio Nusantara
 103.175.221.232  # ID  AS133800  PT Biznet Gio Nusantara
 103.175.225.15   # ID  AS63859   PT. Eka Mas Republik
@@ -1149,6 +1152,7 @@
 202.155.143.185  # ID  AS151592  PT Awan Data Teknologi
 202.155.143.189  # ID  AS151592  PT Awan Data Teknologi
 202.155.143.254  # ID  AS151592  PT Awan Data Teknologi
+202.155.157.109  # ID  AS138115  PT Deneva
 202.155.157.129  # ID  AS138115  PT Deneva
 202.155.157.192  # ID  AS138115  PT Deneva
 202.155.157.204  # ID  AS138115  PT Deneva
@@ -1264,6 +1268,7 @@
 210.87.74.47     # ID  AS138089  PT.Global Media Data Prima
 210.87.90.218    # ID  AS63859   PT. Eka Mas Republik
 210.87.91.38     # ID  AS63859   PT. Eka Mas Republik
+222.124.14.234   # ID  AS7713    PT Telekomunikasi Indonesia
 222.124.158.10   # ID  AS7713    PT Telekomunikasi Indonesia
 222.124.17.227   # ID  AS7713    PT Telekomunikasi Indonesia
 222.124.177.148  # ID  AS7713    PT Telekomunikasi Indonesia
