@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1177
-# Last updated:           2026-04-02 02:41:00
+# Number of ips:          1182
+# Last updated:           2026-04-02 07:18:55
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -20,6 +20,7 @@
 103.103.21.109   # ID  AS133800  PT Biznet Gio Nusantara
 103.104.135.4    # ID  AS133823  PT Infokom Elektrindo
 103.105.67.170   # ID  AS17995   PT iForte Global Internet
+103.107.84.100   # ID  AS136879  DELAPAN BIT
 103.108.141.126  # ID  AS137304  Dinas Komunikasi Dan Informatika Prabumulih
 103.109.204.34   # ID  AS150934  PT Hard Work Media Data Trans
 103.110.9.212    # ID  AS131717  PT Citra Jelajah Informatika
@@ -574,6 +575,7 @@
 103.82.92.40     # ID  AS136052  PT Cloud Hosting Indonesia
 103.82.92.82     # ID  AS136052  PT Cloud Hosting Indonesia
 103.83.179.167   # ID  AS136065  PT SOLUSI TRIMEGAH PERSADA
+103.83.237.25    # ID  AS150540  PT. Kalam Digital Signalindo
 103.84.5.9       # ID  AS132641  PT Netciti Persada
 103.90.27.83     # ID  AS132673  PT Arana Teknologi Indonesia
 103.90.67.3      # ID  AS150265  PT Rajawali Bintang Cemerlang Telkomedia
@@ -880,6 +882,7 @@
 180.252.148.16   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.159.151  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.203.153  # ID  AS7713    PT Telekomunikasi Indonesia
+180.252.31.132   # ID  AS7713    PT Telekomunikasi Indonesia
 182.13.96.129    # ID  AS23693   PT. Telekomunikasi Selular
 182.23.36.166    # ID  AS4800    PT Aplikanusa Lintasarta
 182.23.54.125    # ID  AS4800    PT Aplikanusa Lintasarta
@@ -1050,6 +1053,7 @@
 36.67.6.139      # ID  AS7713    PT Telekomunikasi Indonesia
 36.68.34.81      # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.151.219    # ID  AS7713    PT Telekomunikasi Indonesia
+36.69.152.152    # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.156.238    # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.102.100    # ID  AS7713    PT Telekomunikasi Indonesia
 36.71.177.5      # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1158,6 +1162,7 @@
 70.153.17.111    # ID  AS8075    Microsoft Corporation
 70.153.26.20     # ID  AS8075    Microsoft Corporation
 70.153.84.241    # ID  AS8075    Microsoft Corporation
+76.13.16.70      # ID  AS47583   Hostinger International Limited
 8.215.205.243    # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.33.203     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.38.113     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
