@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1190
-# Last updated:           2026-04-02 13:22:52
+# Number of ips:          1194
+# Last updated:           2026-04-02 19:02:09
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -672,6 +672,7 @@
 125.160.170.49   # ID  AS7713    PT Telekomunikasi Indonesia
 125.160.173.217  # ID  AS7713    PT Telekomunikasi Indonesia
 125.160.178.3    # ID  AS7713    PT Telekomunikasi Indonesia
+125.160.181.117  # ID  AS7713    PT Telekomunikasi Indonesia
 125.160.182.233  # ID  AS7713    PT Telekomunikasi Indonesia
 125.160.183.85   # ID  AS7713    PT Telekomunikasi Indonesia
 125.162.218.197  # ID  AS7713    PT Telekomunikasi Indonesia
@@ -877,6 +878,7 @@
 180.245.130.159  # ID  AS7713    PT Telekomunikasi Indonesia
 180.247.114.97   # ID  AS7713    PT Telekomunikasi Indonesia
 180.247.127.16   # ID  AS7713    PT Telekomunikasi Indonesia
+180.247.81.137   # ID  AS7713    PT Telekomunikasi Indonesia
 180.249.209.217  # ID  AS7713    PT Telekomunikasi Indonesia
 180.249.35.151   # ID  AS7713    PT Telekomunikasi Indonesia
 180.250.196.141  # ID  AS7713    PT Telekomunikasi Indonesia
@@ -896,6 +898,7 @@
 182.253.156.173  # ID  AS17451   BIZNET NETWORKS
 182.253.156.184  # ID  AS17451   BIZNET NETWORKS
 182.253.179.190  # ID  AS17451   BIZNET NETWORKS
+182.253.179.47   # ID  AS17451   BIZNET NETWORKS
 182.253.209.189  # ID  AS17451   BIZNET NETWORKS
 182.253.37.34    # ID  AS17451   BIZNET NETWORKS
 182.253.79.195   # ID  AS17451   BIZNET NETWORKS
@@ -1166,6 +1169,7 @@
 69.5.22.116      # ID  AS150436  Byteplus Pte. Ltd.
 69.5.7.176       # ID  AS150436  Byteplus Pte. Ltd.
 70.153.129.43    # ID  AS8075    Microsoft Corporation
+70.153.146.186   # ID  AS8075    Microsoft Corporation
 70.153.16.135    # ID  AS8075    Microsoft Corporation
 70.153.17.111    # ID  AS8075    Microsoft Corporation
 70.153.26.20     # ID  AS8075    Microsoft Corporation
