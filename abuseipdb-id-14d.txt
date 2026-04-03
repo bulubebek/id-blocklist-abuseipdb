@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1197
-# Last updated:           2026-04-03 13:12:16
+# Number of ips:          1202
+# Last updated:           2026-04-03 18:53:30
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -361,6 +361,7 @@
 103.231.236.235  # ID  AS150964  PT Level Indodata Teknologi
 103.236.140.19   # ID  AS151518  SMK Negeri 22 Jakarta
 103.239.20.130   # ID  AS151519  PT Jaringan FIberku Indonesia
+103.24.212.44    # ID  AS132649  PT Adau Putra Network
 103.240.110.106  # ID  AS58819   PT Arsenet Global Solusi
 103.244.107.238  # ID  AS151542  PT Sahabat Fiber Indonesia
 103.244.206.6    # ID  AS131759  PT. Web Data Solusindo
@@ -425,6 +426,7 @@
 103.55.216.2     # ID  AS133824  Universitas Islam Negeri Alauddin Makasar
 103.56.148.108   # ID  AS55688   PT. Beon Intermedia
 103.56.148.218   # ID  AS55688   PT. Beon Intermedia
+103.56.80.19     # ID  AS152000  PT Jaringan Citra Mandiri
 103.59.160.103   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.104   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.131   # ID  AS150493  PT Gunung Sedayu Sentosa
@@ -589,6 +591,7 @@
 104.28.221.99    # ID  AS13335   Cloudflare, Inc.
 104.28.253.100   # ID  AS13335   Cloudflare, Inc.
 104.28.253.99    # ID  AS13335   Cloudflare, Inc.
+108.136.162.67   # ID  AS16509   Amazon.com, Inc.
 110.136.191.239  # ID  AS7713    PT Telekomunikasi Indonesia
 110.136.29.254   # ID  AS7713    PT Telekomunikasi Indonesia
 110.138.94.201   # ID  AS7713    PT Telekomunikasi Indonesia
@@ -851,6 +854,7 @@
 163.7.8.88       # ID  AS150436  Byteplus Pte. Ltd.
 163.7.8.90       # ID  AS150436  Byteplus Pte. Ltd.
 163.7.9.54       # ID  AS150436  Byteplus Pte. Ltd.
+163.7.9.82       # ID  AS150436  Byteplus Pte. Ltd.
 163.7.9.84       # ID  AS150436  Byteplus Pte. Ltd.
 165.154.150.65   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 165.154.151.176  # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
@@ -1093,6 +1097,7 @@
 36.85.187.221    # ID  AS7713    PT Telekomunikasi Indonesia
 36.85.188.27     # ID  AS7713    PT Telekomunikasi Indonesia
 36.88.119.162    # ID  AS7713    PT Telekomunikasi Indonesia
+36.88.136.42     # ID  AS7713    PT Telekomunikasi Indonesia
 36.88.16.31      # ID  AS7713    PT Telekomunikasi Indonesia
 36.89.252.106    # ID  AS7713    PT Telekomunikasi Indonesia
 36.89.252.58     # ID  AS7713    PT Telekomunikasi Indonesia
