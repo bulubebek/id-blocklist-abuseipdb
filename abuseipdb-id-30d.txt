@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1533
-# Last updated:           2026-04-04 02:33:47
+# Number of ips:          1534
+# Last updated:           2026-04-04 07:06:02
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -701,6 +701,7 @@
 104.28.253.98    # ID  AS13335   Cloudflare, Inc.
 104.28.253.99    # ID  AS13335   Cloudflare, Inc.
 108.136.162.67   # ID  AS16509   Amazon.com, Inc.
+110.136.190.144  # ID  AS7713    PT Telekomunikasi Indonesia
 110.136.191.239  # ID  AS7713    PT Telekomunikasi Indonesia
 110.136.29.254   # ID  AS7713    PT Telekomunikasi Indonesia
 110.138.220.100  # ID  AS7713    PT Telekomunikasi Indonesia
