@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1207
-# Last updated:           2026-04-05 13:06:30
+# Number of ips:          1212
+# Last updated:           2026-04-05 18:51:29
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -35,6 +35,7 @@
 103.125.175.117  # ID  AS139415  PT Trinity Teknologi Nusantara
 103.126.117.26   # ID  AS133800  PT Biznet Gio Nusantara
 103.126.119.252  # ID  AS139972  PT. Putra Lebak Banten
+103.126.173.127  # ID  AS138112  PT. Megarap Mitra Solusi
 103.126.31.13    # ID  AS138119  PT Integra Kreasitama Solusindo
 103.127.135.226  # ID  AS133800  PT Biznet Gio Nusantara
 103.129.150.88   # ID  AS63859   PT. Eka Mas Republik
@@ -914,7 +915,9 @@
 182.253.37.34    # ID  AS17451   BIZNET NETWORKS
 182.253.79.195   # ID  AS17451   BIZNET NETWORKS
 182.253.89.116   # ID  AS17451   BIZNET NETWORKS
+182.8.131.72     # ID  AS23693   PT. Telekomunikasi Selular
 182.8.179.20     # ID  AS23693   PT. Telekomunikasi Selular
+182.8.182.112    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.182.55     # ID  AS23693   PT. Telekomunikasi Selular
 182.8.182.7      # ID  AS23693   PT. Telekomunikasi Selular
 202.10.36.104    # ID  AS58487   CV. Rumahweb Indonesia
@@ -1095,6 +1098,7 @@
 36.81.234.102    # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.114.74     # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.123.206    # ID  AS7713    PT Telekomunikasi Indonesia
+36.83.124.127    # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.124.50     # ID  AS7713    PT Telekomunikasi Indonesia
 36.84.114.3      # ID  AS7713    PT Telekomunikasi Indonesia
 36.84.15.222     # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1140,6 +1144,7 @@
 36.95.194.54     # ID  AS7713    PT Telekomunikasi Indonesia
 36.95.221.140    # ID  AS7713    PT Telekomunikasi Indonesia
 36.95.77.99      # ID  AS7713    PT Telekomunikasi Indonesia
+38.129.9.200     # ID  AS141140  PT Jinde Grup Indonesia
 38.19.236.55     # ID  AS150555  PT Binerkahan Digital Telco
 38.253.239.21    # ID  AS141146  PT Indonesia Telekomunikasi Teknologi
 41.216.177.55    # ID  AS139989  CV Atha Media Prima
