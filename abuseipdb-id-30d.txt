@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1514
-# Last updated:           2026-04-10 07:47:57
+# Number of ips:          1519
+# Last updated:           2026-04-10 13:20:04
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -764,6 +764,7 @@
 116.254.101.102  # ID  AS55693   PT. Bangun Abadi Teknologi Indonesia
 116.68.162.194   # ID  AS56246   PT Sumber Data Indonesia
 117.102.121.163  # ID  AS17451   BIZNET NETWORKS
+117.102.74.131   # ID  AS17451   BIZNET NETWORKS
 117.102.94.130   # ID  AS17451   BIZNET NETWORKS
 117.18.17.75     # ID  AS152769  PT Gopal Network Solusindo
 117.20.49.65     # ID  AS23951   PT JEMBATAN CITRA NUSANTARA
@@ -793,6 +794,7 @@
 119.235.251.247  # ID  AS45146   PT. Raja Sepadan Abadi
 119.82.246.75    # ID  AS24521   PT. DATA Utama Dinamika
 121.101.129.131  # ID  AS131706  PT SELARAS CITRA TERABIT
+121.101.132.206  # ID  AS131706  PT SELARAS CITRA TERABIT
 121.101.133.168  # ID  AS131706  PT SELARAS CITRA TERABIT
 121.101.185.26   # ID  AS38785   PT. BORNEO BROADBAND TECHNOLOGY
 123.231.137.45   # ID  AS4800    PT Aplikanusa Lintasarta
@@ -847,6 +849,7 @@
 128.14.233.253   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 139.0.12.92      # ID  AS9905    Linknet ASN
 139.0.23.124     # ID  AS9905    Linknet ASN
+139.0.65.59      # ID  AS23700   Linknet-Fastnet ASN
 139.192.61.165   # ID  AS23700   Linknet-Fastnet ASN
 139.192.91.206   # ID  AS23700   Linknet-Fastnet ASN
 139.194.211.164  # ID  AS23700   Linknet-Fastnet ASN
@@ -1103,6 +1106,7 @@
 182.253.156.173  # ID  AS17451   BIZNET NETWORKS
 182.253.156.184  # ID  AS17451   BIZNET NETWORKS
 182.253.168.197  # ID  AS17451   BIZNET NETWORKS
+182.253.171.123  # ID  AS17451   BIZNET NETWORKS
 182.253.178.98   # ID  AS17451   BIZNET NETWORKS
 182.253.179.190  # ID  AS17451   BIZNET NETWORKS
 182.253.179.231  # ID  AS17451   BIZNET NETWORKS
@@ -1248,6 +1252,7 @@
 210.87.74.47     # ID  AS138089  PT.Global Media Data Prima
 210.87.90.218    # ID  AS63859   PT. Eka Mas Republik
 222.124.14.234   # ID  AS7713    PT Telekomunikasi Indonesia
+222.124.158.6    # ID  AS7713    PT Telekomunikasi Indonesia
 222.124.17.227   # ID  AS7713    PT Telekomunikasi Indonesia
 222.124.177.148  # ID  AS7713    PT Telekomunikasi Indonesia
 222.124.205.34   # ID  AS7713    PT Telekomunikasi Indonesia
