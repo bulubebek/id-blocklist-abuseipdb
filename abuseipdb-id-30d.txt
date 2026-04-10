@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1509
-# Last updated:           2026-04-10 02:53:44
+# Number of ips:          1514
+# Last updated:           2026-04-10 07:47:57
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -717,6 +717,7 @@
 112.78.177.144   # ID  AS17451   BIZNET NETWORKS
 112.78.39.236    # ID  AS55666   PT Media Sarana Data
 113.192.12.181   # ID  AS58495   PT Parsaoran Global Datatrans
+113.20.30.146    # ID  AS45731   ARDH GLOBAL INDONESIA, PT
 114.10.47.178    # ID  AS4761    INDOSAT Internet Network Provider
 114.10.47.20     # ID  AS4761    INDOSAT Internet Network Provider
 114.10.47.206    # ID  AS4761    INDOSAT Internet Network Provider
@@ -1068,6 +1069,7 @@
 180.243.59.142   # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.184.160  # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.187.188  # ID  AS7713    PT Telekomunikasi Indonesia
+180.244.187.2    # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.187.32   # ID  AS7713    PT Telekomunikasi Indonesia
 180.245.130.159  # ID  AS7713    PT Telekomunikasi Indonesia
 180.245.172.248  # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1128,6 +1130,7 @@
 202.10.41.47     # ID  AS58487   CV. Rumahweb Indonesia
 202.10.42.168    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.45.145    # ID  AS58487   CV. Rumahweb Indonesia
+202.10.46.145    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.47.211    # ID  AS58487   CV. Rumahweb Indonesia
 202.125.94.71    # ID  AS46042   Gunadarma University
 202.137.4.148    # ID  AS9905    Linknet ASN
@@ -1135,6 +1138,7 @@
 202.138.229.190  # ID  AS9657    Melsa-i-net AS
 202.138.242.88   # ID  AS9657    Melsa-i-net AS
 202.138.247.141  # ID  AS9657    Melsa-i-net AS
+202.145.0.61     # ID  AS17884   PT. Uninet Media Sakti (ISP)
 202.148.14.35    # ID  AS38778   PT. Dutakom Wibawa Putra
 202.150.72.122   # ID  AS131111  PT Mora Telematika Indonesia
 202.150.72.124   # ID  AS131111  PT Mora Telematika Indonesia
@@ -1329,6 +1333,7 @@
 36.67.6.139      # ID  AS7713    PT Telekomunikasi Indonesia
 36.68.34.81      # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.144.10     # ID  AS7713    PT Telekomunikasi Indonesia
+36.69.144.192    # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.145.88     # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.147.255    # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.151.219    # ID  AS7713    PT Telekomunikasi Indonesia
