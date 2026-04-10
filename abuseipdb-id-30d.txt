@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1519
-# Last updated:           2026-04-10 13:20:04
+# Number of ips:          1524
+# Last updated:           2026-04-10 19:00:13
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -474,6 +474,7 @@
 103.49.239.252   # ID  AS136052  PT Cloud Hosting Indonesia
 103.49.239.46    # ID  AS136052  PT Cloud Hosting Indonesia
 103.50.24.27     # ID  AS63869   PT MERAH PUTIH TELEMATIKA
+103.50.25.11     # ID  AS63869   PT MERAH PUTIH TELEMATIKA
 103.52.114.120   # ID  AS136052  PT Cloud Hosting Indonesia
 103.52.114.122   # ID  AS136052  PT Cloud Hosting Indonesia
 103.52.114.131   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -782,6 +783,7 @@
 118.99.73.70     # ID  AS17451   BIZNET NETWORKS
 118.99.80.22     # ID  AS17451   BIZNET NETWORKS
 118.99.80.231    # ID  AS17451   BIZNET NETWORKS
+118.99.80.27     # ID  AS17451   BIZNET NETWORKS
 118.99.80.29     # ID  AS17451   BIZNET NETWORKS
 118.99.80.3      # ID  AS17451   BIZNET NETWORKS
 118.99.80.40     # ID  AS17451   BIZNET NETWORKS
@@ -1005,6 +1007,7 @@
 160.187.174.4    # ID  AS153135  PT Netindo Persada Nusantara
 160.19.19.85     # ID  AS149360  PT Indo Telemedia Solusi
 160.191.180.216  # ID  AS138089  PT.Global Media Data Prima
+160.20.105.179   # ID  AS152790  CV Arunika Investama
 160.20.124.41    # ID  AS152780  PT SOLUSI ANDALAN KITA
 160.22.193.35    # ID  AS152830  PT Elemen Jaringan Nusantara
 161.248.116.102  # ID  AS138106  PT Lintas Telematika Nusantara
@@ -1286,6 +1289,7 @@
 31.56.56.74      # ID  AS141892  CV Andhika Pratama Sanggoro
 34.101.130.33    # ID  AS396982  Google LLC
 34.101.135.28    # ID  AS396982  Google LLC
+34.101.156.227   # ID  AS396982  Google LLC
 34.101.157.64    # ID  AS396982  Google LLC
 34.101.159.135   # ID  AS396982  Google LLC
 34.101.171.162   # ID  AS396982  Google LLC
@@ -1380,6 +1384,7 @@
 36.83.114.137    # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.114.74     # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.121.73     # ID  AS7713    PT Telekomunikasi Indonesia
+36.83.122.201    # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.123.156    # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.123.206    # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.124.127    # ID  AS7713    PT Telekomunikasi Indonesia
