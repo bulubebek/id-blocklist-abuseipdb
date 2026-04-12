@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1514
-# Last updated:           2026-04-12 07:20:23
+# Number of ips:          1519
+# Last updated:           2026-04-12 13:09:35
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -425,6 +425,7 @@
 103.247.15.75    # ID  AS131706  PT SELARAS CITRA TERABIT
 103.247.20.83    # ID  AS58485   WIFIAN ID
 103.247.21.225   # ID  AS58485   WIFIAN ID
+103.248.217.53   # ID  AS9422    PT SOLNET INDONESIA
 103.249.19.34    # ID  AS150206  PT Rafa Teknologi Solusi
 103.25.208.43    # ID  AS132653  PT Transdata Sejahtera
 103.252.12.242   # ID  AS133838  PT Infotek Global Network
@@ -470,6 +471,7 @@
 103.49.239.212   # ID  AS136052  PT Cloud Hosting Indonesia
 103.49.239.252   # ID  AS136052  PT Cloud Hosting Indonesia
 103.49.239.46    # ID  AS136052  PT Cloud Hosting Indonesia
+103.49.239.77    # ID  AS136052  PT Cloud Hosting Indonesia
 103.50.24.27     # ID  AS63869   PT MERAH PUTIH TELEMATIKA
 103.50.25.11     # ID  AS63869   PT MERAH PUTIH TELEMATIKA
 103.52.114.120   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -1068,6 +1070,7 @@
 180.241.205.109  # ID  AS7713    PT Telekomunikasi Indonesia
 180.242.7.181    # ID  AS7713    PT Telekomunikasi Indonesia
 180.243.59.142   # ID  AS7713    PT Telekomunikasi Indonesia
+180.244.187.138  # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.187.188  # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.187.2    # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.187.32   # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1305,6 +1308,7 @@
 34.50.118.207    # ID  AS396982  Google LLC
 34.50.68.169     # ID  AS396982  Google LLC
 34.50.69.1       # ID  AS396982  Google LLC
+34.50.91.5       # ID  AS396982  Google LLC
 34.50.94.205     # ID  AS396982  Google LLC
 36.37.111.10     # ID  AS4800    PT Aplikanusa Lintasarta
 36.37.117.50     # ID  AS4800    PT Aplikanusa Lintasarta
@@ -1373,6 +1377,7 @@
 36.81.237.63     # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.114.137    # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.114.74     # ID  AS7713    PT Telekomunikasi Indonesia
+36.83.119.154    # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.121.73     # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.122.201    # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.123.156    # ID  AS7713    PT Telekomunikasi Indonesia
