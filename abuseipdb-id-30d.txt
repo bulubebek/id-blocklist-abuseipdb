@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1519
-# Last updated:           2026-04-12 13:09:35
+# Number of ips:          1523
+# Last updated:           2026-04-12 18:56:18
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -301,6 +301,7 @@
 103.183.75.239   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.75.60    # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.75.90    # ID  AS136052  PT Cloud Hosting Indonesia
+103.183.8.25     # ID  AS149404  PT Cepat Multi Data
 103.184.56.220   # ID  AS149667  PT Gading Bhakti Utama
 103.184.56.241   # ID  AS149667  PT Gading Bhakti Utama
 103.184.64.122   # ID  AS149682  PT Aplikasi Platform Nomaden
@@ -1115,6 +1116,7 @@
 182.253.37.34    # ID  AS17451   BIZNET NETWORKS
 182.253.79.195   # ID  AS17451   BIZNET NETWORKS
 182.253.89.116   # ID  AS17451   BIZNET NETWORKS
+182.50.249.59    # ID  AS45786   PT. Hawk Teknologi Solusi
 182.8.131.72     # ID  AS23693   PT. Telekomunikasi Selular
 182.8.161.188    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.179.189    # ID  AS23693   PT. Telekomunikasi Selular
@@ -1207,6 +1209,7 @@
 203.175.125.130  # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.148  # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.217  # ID  AS139952  PT Trisari Data Indonusa
+203.194.113.123  # ID  AS58487   CV. Rumahweb Indonesia
 203.194.115.202  # ID  AS58487   CV. Rumahweb Indonesia
 203.201.164.142  # ID  AS9794    PT. Core Mediatech (D-NET)
 203.210.85.208   # ID  AS55699   PT. Cemerlang Multimedia
@@ -1283,6 +1286,7 @@
 34.101.159.135   # ID  AS396982  Google LLC
 34.101.171.162   # ID  AS396982  Google LLC
 34.101.177.204   # ID  AS396982  Google LLC
+34.101.179.251   # ID  AS396982  Google LLC
 34.101.186.93    # ID  AS396982  Google LLC
 34.101.193.93    # ID  AS396982  Google LLC
 34.101.218.226   # ID  AS396982  Google LLC
