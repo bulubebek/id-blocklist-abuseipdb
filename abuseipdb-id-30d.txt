@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1506
-# Last updated:           2026-04-12 02:57:03
+# Number of ips:          1514
+# Last updated:           2026-04-12 07:20:23
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -189,6 +189,7 @@
 103.174.114.110  # ID  AS136052  PT Cloud Hosting Indonesia
 103.174.114.164  # ID  AS136052  PT Cloud Hosting Indonesia
 103.174.114.195  # ID  AS136052  PT Cloud Hosting Indonesia
+103.174.114.32   # ID  AS136052  PT Cloud Hosting Indonesia
 103.174.114.50   # ID  AS136052  PT Cloud Hosting Indonesia
 103.174.115.168  # ID  AS136052  PT Cloud Hosting Indonesia
 103.174.115.196  # ID  AS136052  PT Cloud Hosting Indonesia
@@ -747,6 +748,7 @@
 116.193.191.208  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.209  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.211  # ID  AS136052  PT Cloud Hosting Indonesia
+116.193.191.213  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.39   # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.46   # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.64   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -1155,6 +1157,7 @@
 202.155.157.204  # ID  AS138115  PT Deneva
 202.155.157.8    # ID  AS138115  PT Deneva
 202.155.18.147   # ID  -         -
+202.155.95.196   # ID  AS138115  PT Deneva
 202.155.95.52    # ID  AS138115  PT Deneva
 202.169.46.83    # ID  AS17451   BIZNET NETWORKS
 202.179.186.109  # ID  AS38750   Telemedia Dinamika Sarana, PT
@@ -1232,6 +1235,7 @@
 210.79.191.216   # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.191.221   # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.191.222   # ID  AS136052  PT Cloud Hosting Indonesia
+210.79.191.44    # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.191.48    # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.191.76    # ID  AS136052  PT Cloud Hosting Indonesia
 210.87.74.47     # ID  AS138089  PT.Global Media Data Prima
@@ -1262,6 +1266,7 @@
 27.112.79.230    # ID  AS136052  PT Cloud Hosting Indonesia
 27.112.79.3      # ID  AS136052  PT Cloud Hosting Indonesia
 27.112.79.4      # ID  AS136052  PT Cloud Hosting Indonesia
+27.112.79.93     # ID  AS136052  PT Cloud Hosting Indonesia
 27.112.79.97     # ID  AS136052  PT Cloud Hosting Indonesia
 27.121.112.137   # ID  AS23679   PT. Media Antar Nusa
 27.121.83.84     # ID  AS55652   Sumidhaz Permata Bunda, PT
@@ -1282,11 +1287,13 @@
 34.101.238.226   # ID  AS396982  Google LLC
 34.101.244.162   # ID  AS396982  Google LLC
 34.101.249.53    # ID  AS396982  Google LLC
+34.101.40.227    # ID  AS396982  Google LLC
 34.101.58.18     # ID  AS396982  Google LLC
 34.101.78.9      # ID  AS396982  Google LLC
 34.101.86.188    # ID  AS396982  Google LLC
 34.101.89.224    # ID  AS396982  Google LLC
 34.101.98.234    # ID  AS396982  Google LLC
+34.128.107.40    # ID  AS396982  Google LLC
 34.128.77.56     # ID  AS396982  Google LLC
 34.128.85.18     # ID  AS396982  Google LLC
 34.128.85.22     # ID  AS396982  Google LLC
@@ -1297,6 +1304,7 @@
 34.50.111.36     # ID  AS396982  Google LLC
 34.50.118.207    # ID  AS396982  Google LLC
 34.50.68.169     # ID  AS396982  Google LLC
+34.50.69.1       # ID  AS396982  Google LLC
 34.50.94.205     # ID  AS396982  Google LLC
 36.37.111.10     # ID  AS4800    PT Aplikanusa Lintasarta
 36.37.117.50     # ID  AS4800    PT Aplikanusa Lintasarta
