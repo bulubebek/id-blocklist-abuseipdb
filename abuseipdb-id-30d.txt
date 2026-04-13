@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1520
-# Last updated:           2026-04-13 13:48:08
+# Number of ips:          1525
+# Last updated:           2026-04-13 19:18:43
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -227,6 +227,7 @@
 103.178.175.180  # ID  AS137331  PT Cloud Teknologi Nusantara
 103.178.175.233  # ID  AS137331  PT Cloud Teknologi Nusantara
 103.178.3.241    # ID  AS141077  RSTNET
+103.179.183.123  # ID  AS142394  PT Cahaya Solusindo Internusa
 103.179.27.94    # ID  AS149333  PT Primadona Media Digitalindo
 103.179.56.102   # ID  AS136052  PT Cloud Hosting Indonesia
 103.179.56.165   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -719,6 +720,7 @@
 112.78.135.82    # ID  AS38482   Biznet ISP
 112.78.177.144   # ID  AS17451   BIZNET NETWORKS
 112.78.39.236    # ID  AS55666   PT Media Sarana Data
+113.11.177.107   # ID  AS38060   Biznet NAP - Internet Exchange Provider
 113.192.12.181   # ID  AS58495   PT Parsaoran Global Datatrans
 113.20.30.146    # ID  AS45731   ARDH GLOBAL INDONESIA, PT
 114.10.47.178    # ID  AS4761    INDOSAT Internet Network Provider
@@ -1017,6 +1019,7 @@
 163.7.1.207      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.10.112     # ID  AS150436  Byteplus Pte. Ltd.
 163.7.10.74      # ID  AS150436  Byteplus Pte. Ltd.
+163.7.11.126     # ID  AS150436  Byteplus Pte. Ltd.
 163.7.12.49      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.2.17       # ID  AS150436  Byteplus Pte. Ltd.
 163.7.2.231      # ID  AS150436  Byteplus Pte. Ltd.
@@ -1136,6 +1139,7 @@
 202.10.45.145    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.46.145    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.47.211    # ID  AS58487   CV. Rumahweb Indonesia
+202.10.63.50     # ID  AS55653   Skyline Semesta, PT
 202.125.94.71    # ID  AS46042   Gunadarma University
 202.137.4.148    # ID  AS9905    Linknet ASN
 202.137.7.58     # ID  AS9905    Linknet ASN
@@ -1302,6 +1306,7 @@
 34.128.107.40    # ID  AS396982  Google LLC
 34.128.111.148   # ID  AS396982  Google LLC
 34.128.77.56     # ID  AS396982  Google LLC
+34.128.85.15     # ID  AS396982  Google LLC
 34.128.85.22     # ID  AS396982  Google LLC
 34.128.88.65     # ID  AS396982  Google LLC
 34.128.92.56     # ID  AS396982  Google LLC
