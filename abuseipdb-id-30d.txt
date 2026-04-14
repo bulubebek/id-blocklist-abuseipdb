@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1513
-# Last updated:           2026-04-14 07:53:28
+# Number of ips:          1516
+# Last updated:           2026-04-14 13:53:21
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -261,6 +261,7 @@
 103.182.139.128  # ID  AS149411  PT Praweda Sarana Informatika
 103.182.189.90   # ID  AS17995   PT iForte Global Internet
 103.182.192.126  # ID  AS17995   PT iForte Global Internet
+103.182.192.194  # ID  AS17995   PT iForte Global Internet
 103.182.192.22   # ID  AS17995   PT iForte Global Internet
 103.182.192.6    # ID  AS17995   PT iForte Global Internet
 103.182.195.75   # ID  AS17995   PT iForte Global Internet
@@ -999,6 +1000,7 @@
 160.22.193.35    # ID  AS152830  PT Elemen Jaringan Nusantara
 161.248.116.102  # ID  AS138106  PT Lintas Telematika Nusantara
 161.248.171.17   # ID  AS137909  PT JALUR DATA INDONESIA
+161.248.171.21   # ID  AS137909  PT JALUR DATA INDONESIA
 163.223.71.6     # ID  AS153690  PT Menara Langit Nusantara
 163.227.52.50    # ID  AS153804  PT Jagoan Data Nusantara
 163.61.58.124    # ID  AS138829  PT Capoeng Digital Nusantara
@@ -1021,6 +1023,7 @@
 163.7.4.206      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.4.33       # ID  AS150436  Byteplus Pte. Ltd.
 163.7.4.38       # ID  AS150436  Byteplus Pte. Ltd.
+163.7.5.231      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.6.154      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.6.74       # ID  AS150436  Byteplus Pte. Ltd.
 163.7.8.166      # ID  AS150436  Byteplus Pte. Ltd.
