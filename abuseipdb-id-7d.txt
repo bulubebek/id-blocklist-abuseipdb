@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1071
-# Last updated:           2026-04-15 13:47:24
+# Number of ips:          1080
+# Last updated:           2026-04-15 19:23:21
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -109,6 +109,7 @@
 103.165.139.145  # ID  AS17995   PT iForte Global Internet
 103.165.211.206  # ID  AS17995   PT iForte Global Internet
 103.165.230.210  # ID  AS17995   PT iForte Global Internet
+103.166.11.176   # ID  AS139967  PT. Yasmin Amanah Media
 103.166.226.235  # ID  AS141959  PT Arta Flash Sintesa Nusantara
 103.166.255.162  # ID  AS141966  PT Instanet Media Nusantara
 103.167.4.156    # ID  AS17995   PT iForte Global Internet
@@ -322,6 +323,7 @@
 103.25.208.43    # ID  AS132653  PT Transdata Sejahtera
 103.252.12.242   # ID  AS133838  PT Infotek Global Network
 103.253.214.196  # ID  -         -
+103.253.244.139  # ID  AS140389  PT Dewa Bisnis Digital
 103.26.209.181   # ID  AS18103   Neuviz Net
 103.27.36.2      # ID  AS132670  PT Aseli Dagadu Djokdja
 103.27.36.4      # ID  AS132670  PT Aseli Dagadu Djokdja
@@ -535,6 +537,7 @@
 112.78.135.82    # ID  AS38482   Biznet ISP
 112.78.177.144   # ID  AS17451   BIZNET NETWORKS
 113.11.177.107   # ID  AS38060   Biznet NAP - Internet Exchange Provider
+113.192.12.181   # ID  AS58495   PT Parsaoran Global Datatrans
 113.20.30.146    # ID  AS45731   ARDH GLOBAL INDONESIA, PT
 114.10.47.178    # ID  AS4761    INDOSAT Internet Network Provider
 114.10.47.96     # ID  AS4761    INDOSAT Internet Network Provider
@@ -834,6 +837,7 @@
 202.169.46.83    # ID  AS17451   BIZNET NETWORKS
 202.180.20.138   # ID  AS38758   PT. HIPERNET INDODATA
 202.43.228.9     # ID  AS9422    PT SOLNET INDONESIA
+202.46.150.58    # ID  AS55666   PT Media Sarana Data
 202.46.155.230   # ID  AS149746  PT Blip Integrator Provider
 202.51.101.250   # ID  AS17995   PT iForte Global Internet
 202.51.208.195   # ID  AS55685   PT Jala Lintas Media
@@ -920,6 +924,7 @@
 27.121.83.84     # ID  AS55652   Sumidhaz Permata Bunda, PT
 27.123.220.219   # ID  AS58369   PT. Fiber Networks Indonesia
 27.50.25.190     # ID  AS131111  PT Mora Telematika Indonesia
+34.101.151.252   # ID  AS396982  Google LLC
 34.101.156.227   # ID  AS396982  Google LLC
 34.101.157.64    # ID  AS396982  Google LLC
 34.101.177.204   # ID  AS396982  Google LLC
@@ -929,6 +934,7 @@
 34.101.218.226   # ID  AS396982  Google LLC
 34.101.244.162   # ID  AS396982  Google LLC
 34.101.40.227    # ID  AS396982  Google LLC
+34.101.83.218    # ID  AS396982  Google LLC
 34.101.89.224    # ID  AS396982  Google LLC
 34.128.107.40    # ID  AS396982  Google LLC
 34.128.111.148   # ID  AS396982  Google LLC
@@ -940,8 +946,11 @@
 34.50.69.1       # ID  AS396982  Google LLC
 34.50.91.5       # ID  AS396982  Google LLC
 34.50.94.205     # ID  AS396982  Google LLC
+35.219.117.174   # ID  AS15169   Google LLC
 35.219.63.249    # ID  AS15169   Google LLC
+35.219.77.145    # ID  AS15169   Google LLC
 35.219.8.58      # ID  AS15169   Google LLC
+35.219.85.235    # ID  AS15169   Google LLC
 35.219.87.32     # ID  AS15169   Google LLC
 36.37.111.10     # ID  AS4800    PT Aplikanusa Lintasarta
 36.37.117.50     # ID  AS4800    PT Aplikanusa Lintasarta
