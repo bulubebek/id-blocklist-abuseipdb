@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1225
-# Last updated:           2026-04-16 13:56:29
+# Number of ips:          1231
+# Last updated:           2026-04-16 19:21:46
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -234,6 +234,7 @@
 103.183.10.26    # ID  AS139967  PT. Yasmin Amanah Media
 103.183.10.29    # ID  AS139967  PT. Yasmin Amanah Media
 103.183.10.30    # ID  AS139967  PT. Yasmin Amanah Media
+103.183.13.42    # ID  AS17995   PT iForte Global Internet
 103.183.14.226   # ID  AS17995   PT iForte Global Internet
 103.183.74.130   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.74.135   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -792,6 +793,7 @@
 157.20.32.212    # ID  AS152390  PT Intercloud Digital Inovasi
 157.66.21.254    # ID  AS141592  PT Infonet Nusa Solusindo
 157.66.34.121    # ID  AS55688   PT. Beon Intermedia
+157.66.51.197    # ID  AS152438  PT BARAYA TELEKOMUNIKASI INDONESIA
 157.66.55.140    # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.55.46     # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.55.50     # ID  AS141892  CV Andhika Pratama Sanggoro
@@ -828,6 +830,7 @@
 161.248.171.21   # ID  AS137909  PT JALUR DATA INDONESIA
 163.223.71.6     # ID  AS153690  PT Menara Langit Nusantara
 163.227.52.50    # ID  AS153804  PT Jagoan Data Nusantara
+163.61.58.240    # ID  AS138829  PT Capoeng Digital Nusantara
 163.7.1.133      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.1.156      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.1.207      # ID  AS150436  Byteplus Pte. Ltd.
@@ -992,6 +995,7 @@
 203.83.43.196    # ID  AS63859   PT. Eka Mas Republik
 206.84.112.212   # ID  AS64315   PT MITRA VISIONER PRATAMA
 208.76.40.197    # ID  AS151592  PT Awan Data Teknologi
+208.76.40.198    # ID  AS151592  PT Awan Data Teknologi
 210.79.142.221   # ID  AS141607  PT Gayatri Lintas Nusantara
 210.79.190.121   # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.190.151   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -1106,6 +1110,7 @@
 36.71.189.255    # ID  AS7713    PT Telekomunikasi Indonesia
 36.72.69.219     # ID  AS7713    PT Telekomunikasi Indonesia
 36.73.254.32     # ID  AS7713    PT Telekomunikasi Indonesia
+36.74.128.113    # ID  AS7713    PT Telekomunikasi Indonesia
 36.74.208.103    # ID  AS7713    PT Telekomunikasi Indonesia
 36.78.114.154    # ID  AS7713    PT Telekomunikasi Indonesia
 36.78.118.81     # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1121,6 +1126,7 @@
 36.83.119.154    # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.121.73     # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.122.201    # ID  AS7713    PT Telekomunikasi Indonesia
+36.83.123.157    # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.123.206    # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.124.127    # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.126.232    # ID  AS7713    PT Telekomunikasi Indonesia
