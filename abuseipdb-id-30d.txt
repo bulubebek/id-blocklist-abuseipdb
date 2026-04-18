@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1522
-# Last updated:           2026-04-18 13:10:35
+# Number of ips:          1530
+# Last updated:           2026-04-18 18:56:57
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -38,6 +38,7 @@
 103.124.137.202  # ID  AS138089  PT.Global Media Data Prima
 103.125.175.117  # ID  AS139415  PT Trinity Teknologi Nusantara
 103.126.117.26   # ID  AS133800  PT Biznet Gio Nusantara
+103.126.119.241  # ID  AS139972  PT. Putra Lebak Banten
 103.126.119.252  # ID  AS139972  PT. Putra Lebak Banten
 103.126.173.127  # ID  AS138112  PT. Megarap Mitra Solusi
 103.126.31.13    # ID  AS138119  PT Integra Kreasitama Solusindo
@@ -700,6 +701,7 @@
 108.136.165.222  # ID  AS16509   Amazon.com, Inc.
 108.137.132.87   # ID  AS16509   Amazon.com, Inc.
 110.136.190.144  # ID  AS7713    PT Telekomunikasi Indonesia
+110.136.190.226  # ID  AS7713    PT Telekomunikasi Indonesia
 110.136.191.239  # ID  AS7713    PT Telekomunikasi Indonesia
 110.136.29.254   # ID  AS7713    PT Telekomunikasi Indonesia
 110.138.94.201   # ID  AS7713    PT Telekomunikasi Indonesia
@@ -760,6 +762,7 @@
 118.96.141.170   # ID  AS7713    PT Telekomunikasi Indonesia
 118.97.163.55    # ID  AS7713    PT Telekomunikasi Indonesia
 118.97.46.244    # ID  AS7713    PT Telekomunikasi Indonesia
+118.99.102.112   # ID  AS17451   BIZNET NETWORKS
 118.99.102.160   # ID  AS17451   BIZNET NETWORKS
 118.99.102.162   # ID  AS17451   BIZNET NETWORKS
 118.99.102.20    # ID  AS17451   BIZNET NETWORKS
@@ -1100,6 +1103,7 @@
 182.8.179.189    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.179.20     # ID  AS23693   PT. Telekomunikasi Selular
 182.8.179.253    # ID  AS23693   PT. Telekomunikasi Selular
+182.8.179.85     # ID  AS23693   PT. Telekomunikasi Selular
 182.8.182.112    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.182.194    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.182.55     # ID  AS23693   PT. Telekomunikasi Selular
@@ -1306,6 +1310,7 @@
 34.50.118.207    # ID  AS396982  Google LLC
 34.50.68.169     # ID  AS396982  Google LLC
 34.50.69.1       # ID  AS396982  Google LLC
+34.50.78.44      # ID  AS396982  Google LLC
 34.50.91.5       # ID  AS396982  Google LLC
 34.50.94.205     # ID  AS396982  Google LLC
 35.219.105.44    # ID  AS15169   Google LLC
@@ -1349,6 +1354,7 @@
 36.69.151.219    # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.152.152    # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.156.238    # ID  AS7713    PT Telekomunikasi Indonesia
+36.69.56.165     # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.102.100    # ID  AS7713    PT Telekomunikasi Indonesia
 36.71.177.5      # ID  AS7713    PT Telekomunikasi Indonesia
 36.71.181.15     # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1382,6 +1388,7 @@
 36.81.234.102    # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.114.74     # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.116.109    # ID  AS7713    PT Telekomunikasi Indonesia
+36.83.118.49     # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.119.154    # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.121.73     # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.122.201    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1488,6 +1495,7 @@
 66.96.237.254    # ID  AS63859   PT. Eka Mas Republik
 69.5.0.120       # ID  AS150436  Byteplus Pte. Ltd.
 69.5.20.170      # ID  AS150436  Byteplus Pte. Ltd.
+69.5.20.232      # ID  AS150436  Byteplus Pte. Ltd.
 69.5.20.239      # ID  AS150436  Byteplus Pte. Ltd.
 69.5.22.116      # ID  AS150436  Byteplus Pte. Ltd.
 69.5.23.202      # ID  AS150436  Byteplus Pte. Ltd.
