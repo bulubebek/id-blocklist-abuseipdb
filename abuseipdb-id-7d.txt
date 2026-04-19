@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1006
-# Last updated:           2026-04-19 03:20:28
+# Number of ips:          1012
+# Last updated:           2026-04-19 07:25:20
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -220,6 +220,7 @@
 103.188.170.216  # ID  AS58369   PT. Fiber Networks Indonesia
 103.188.177.46   # ID  AS149734  PEDEE
 103.188.33.26    # ID  AS4800    PT Aplikanusa Lintasarta
+103.188.38.178   # ID  AS4800    PT Aplikanusa Lintasarta
 103.19.109.30    # ID  AS132641  PT Netciti Persada
 103.19.180.14    # ID  AS132642  Universitas Ahmad Dahlan
 103.190.108.82   # ID  AS149903  PT Pandawa Lintas Media
@@ -354,6 +355,7 @@
 103.59.160.206   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.208   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.251   # ID  AS150493  PT Gunung Sedayu Sentosa
+103.59.160.37    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.69    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.82    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.93    # ID  AS150493  PT Gunung Sedayu Sentosa
@@ -515,6 +517,7 @@
 114.30.81.140    # ID  AS38766   PT. Bumi Merbabu Permai
 114.7.0.150      # ID  AS4761    INDOSAT Internet Network Provider
 114.8.146.58     # ID  AS4761    INDOSAT Internet Network Provider
+114.9.29.14      # ID  AS4761    INDOSAT Internet Network Provider
 115.124.75.254   # ID  AS38511   PT Remala Abadi
 115.85.80.12     # ID  AS23953   PT ARTHA TELEKOMINDO
 116.193.190.100  # ID  AS136052  PT Cloud Hosting Indonesia
@@ -741,6 +744,7 @@
 182.253.171.3    # ID  AS17451   BIZNET NETWORKS
 182.253.79.195   # ID  AS17451   BIZNET NETWORKS
 182.253.89.116   # ID  AS17451   BIZNET NETWORKS
+182.253.9.88     # ID  AS17451   BIZNET NETWORKS
 182.8.179.253    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.179.85     # ID  AS23693   PT. Telekomunikasi Selular
 182.8.182.194    # ID  AS23693   PT. Telekomunikasi Selular
@@ -968,6 +972,7 @@
 43.133.148.170   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.202.201   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.209.93    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
+43.157.247.85    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.173.1.57      # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.173.1.69      # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.243.142.42    # ID  AS131111  PT Mora Telematika Indonesia
@@ -988,6 +993,7 @@
 69.5.20.232      # ID  AS150436  Byteplus Pte. Ltd.
 69.5.20.239      # ID  AS150436  Byteplus Pte. Ltd.
 70.153.129.43    # ID  AS8075    Microsoft Corporation
+70.153.146.186   # ID  AS8075    Microsoft Corporation
 70.153.17.35     # ID  AS8075    Microsoft Corporation
 76.13.16.70      # ID  AS47583   Hostinger International Limited
 8.215.2.201      # ID  AS45102   Alibaba (US) Technology Co., Ltd.

@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1522
-# Last updated:           2026-04-19 03:20:27
+# Number of ips:          1524
+# Last updated:           2026-04-19 07:25:19
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -1091,6 +1091,7 @@
 182.253.37.34    # ID  AS17451   BIZNET NETWORKS
 182.253.79.195   # ID  AS17451   BIZNET NETWORKS
 182.253.89.116   # ID  AS17451   BIZNET NETWORKS
+182.253.9.88     # ID  AS17451   BIZNET NETWORKS
 182.50.249.59    # ID  AS45786   PT. Hawk Teknologi Solusi
 182.8.131.72     # ID  AS23693   PT. Telekomunikasi Selular
 182.8.161.188    # ID  AS23693   PT. Telekomunikasi Selular
@@ -1463,6 +1464,7 @@
 43.157.209.93    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.213.31    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.225.186   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
+43.157.247.85    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.165.197.76    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.173.1.57      # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.173.1.69      # ID  AS132203  Tencent Building, Kejizhongyi Avenue
