@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1259
-# Last updated:           2026-04-23 08:01:34
+# Number of ips:          1260
+# Last updated:           2026-04-23 13:54:05
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -62,6 +62,7 @@
 103.139.193.37   # ID  AS136052  PT Cloud Hosting Indonesia
 103.140.199.90   # ID  AS134656  PT Cheil Jedang Indonesia
 103.142.255.218  # ID  AS139381  PT.CITRA BERDIKARI NUSANTARA
+103.142.255.219  # ID  AS139381  PT.CITRA BERDIKARI NUSANTARA
 103.143.196.61   # ID  AS139409  PT JERNIH MULTI KOMUNIKASI
 103.144.170.16   # ID  AS9341    PT INDONESIA COMNETS PLUS
 103.144.54.71    # ID  AS139419  PT GURITA CYBER NUSANTARA

@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1571
-# Last updated:           2026-04-23 08:01:34
+# Number of ips:          1572
+# Last updated:           2026-04-23 13:54:05
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -79,6 +79,7 @@
 103.140.199.90   # ID  AS134656  PT Cheil Jedang Indonesia
 103.141.148.93   # ID  AS138890  PT Acehlink Media
 103.142.255.218  # ID  AS139381  PT.CITRA BERDIKARI NUSANTARA
+103.142.255.219  # ID  AS139381  PT.CITRA BERDIKARI NUSANTARA
 103.142.62.35    # ID  AS139372  Institut Agama Islam Negeri Pekalongan
 103.143.196.61   # ID  AS139409  PT JERNIH MULTI KOMUNIKASI
 103.144.170.16   # ID  AS9341    PT INDONESIA COMNETS PLUS
