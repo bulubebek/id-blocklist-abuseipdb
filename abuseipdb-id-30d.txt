@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1571
-# Last updated:           2026-04-26 03:25:34
+# Number of ips:          1572
+# Last updated:           2026-04-26 07:44:56
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -1327,6 +1327,7 @@
 34.101.244.162   # ID  AS396982  Google LLC
 34.101.252.241   # ID  AS396982  Google LLC
 34.101.40.227    # ID  AS396982  Google LLC
+34.101.44.70     # ID  AS396982  Google LLC
 34.101.58.18     # ID  AS396982  Google LLC
 34.101.61.142    # ID  AS396982  Google LLC
 34.101.78.84     # ID  AS396982  Google LLC
