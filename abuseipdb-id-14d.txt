@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1210
-# Last updated:           2026-04-27 03:30:13
+# Number of ips:          1214
+# Last updated:           2026-04-27 08:32:05
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -256,6 +256,7 @@
 103.186.31.133   # ID  AS141892  CV Andhika Pratama Sanggoro
 103.186.31.46    # ID  AS141892  CV Andhika Pratama Sanggoro
 103.186.31.66    # ID  AS141892  CV Andhika Pratama Sanggoro
+103.186.59.134   # ID  AS149704  PT Panglima Kamayo Media
 103.187.165.26   # ID  AS149897  PT Amanusa Telemedia Mahardika
 103.188.170.216  # ID  AS58369   PT. Fiber Networks Indonesia
 103.188.173.178  # ID  AS149736  PT Satria Digital Media
@@ -582,6 +583,7 @@
 113.11.177.107   # ID  AS38060   Biznet NAP - Internet Exchange Provider
 113.192.12.181   # ID  AS58495   PT Parsaoran Global Datatrans
 113.20.30.146    # ID  AS45731   ARDH GLOBAL INDONESIA, PT
+114.10.41.30     # ID  AS4761    INDOSAT Internet Network Provider
 114.10.47.235    # ID  AS4761    INDOSAT Internet Network Provider
 114.10.47.96     # ID  AS4761    INDOSAT Internet Network Provider
 114.141.51.162   # ID  AS38771   PT Cyberplus Media Pratama
@@ -677,6 +679,7 @@
 125.213.152.34   # ID  AS4800    PT Aplikanusa Lintasarta
 128.14.232.254   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 128.14.233.253   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+129.227.46.180   # ID  AS21859   Zenlayer Inc
 139.0.12.92      # ID  AS9905    Linknet ASN
 139.0.23.124     # ID  AS9905    Linknet ASN
 139.255.253.74   # ID  AS9905    Linknet ASN
@@ -1154,6 +1157,7 @@
 41.216.186.115   # ID  AS211407  PT Perwira Media Solusi
 43.129.38.37     # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.129.52.139    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
+43.129.54.130    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.129.57.170    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.133.139.6     # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.133.143.242   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
