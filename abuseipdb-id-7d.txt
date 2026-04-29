@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          795
-# Last updated:           2026-04-29 03:33:29
+# Number of ips:          800
+# Last updated:           2026-04-29 08:24:18
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -375,6 +375,7 @@
 103.76.151.138   # ID  AS135477  PT. Java Digital Nusantara
 103.76.201.177   # ID  AS135480  PT. Arjuna Global Teknologi Indonesia
 103.77.106.118   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
+103.77.106.34    # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.106.41    # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.106.81    # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.107.178   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
@@ -468,7 +469,9 @@
 125.164.127.161  # ID  AS7713    PT Telekomunikasi Indonesia
 125.164.44.159   # ID  AS7713    PT Telekomunikasi Indonesia
 125.164.47.217   # ID  AS7713    PT Telekomunikasi Indonesia
+125.165.155.6    # ID  AS7713    PT Telekomunikasi Indonesia
 125.165.62.11    # ID  AS7713    PT Telekomunikasi Indonesia
+125.166.18.5     # ID  AS7713    PT Telekomunikasi Indonesia
 125.167.187.201  # ID  AS7713    PT Telekomunikasi Indonesia
 125.213.152.34   # ID  AS4800    PT Aplikanusa Lintasarta
 128.14.232.254   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
@@ -577,6 +580,7 @@
 168.110.219.99   # ID  AS31898   Oracle Corporation
 172.232.253.221  # ID  AS63949   Akamai Connected Cloud
 175.158.43.36    # ID  AS135478  PT. Cyberindo Aditama
+180.131.131.177  # ID  AS150478  PT Solusi Teknologi Gemilang
 180.241.196.139  # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.187.138  # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.187.142  # ID  AS7713    PT Telekomunikasi Indonesia
@@ -629,6 +633,7 @@
 202.51.214.98    # ID  AS10220   PT. Kreasi Sejahtera Teknologi
 202.51.214.99    # ID  AS10220   PT. Kreasi Sejahtera Teknologi
 202.57.1.155     # ID  AS9326    PT Centrin Utama
+202.57.25.226    # ID  AS140469  PT Wahyu Adidaya Network
 202.57.27.81     # ID  AS140469  PT Wahyu Adidaya Network
 202.57.30.210    # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.58.242.20    # ID  AS138050  Dinas Komunikasi Provins Jawa Barat
