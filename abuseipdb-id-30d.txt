@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1557
-# Last updated:           2026-05-02 03:20:17
+# Number of ips:          1565
+# Last updated:           2026-05-02 07:49:42
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -119,6 +119,7 @@
 103.153.149.17   # ID  AS64300   PT JARINGANKU SARANA NUSANTARA
 103.153.190.105  # ID  AS140469  PT Wahyu Adidaya Network
 103.153.2.10     # ID  AS140389  PT Dewa Bisnis Digital
+103.153.42.126   # ID  AS140444  Universitas Binawan
 103.154.123.19   # ID  AS131111  PT Mora Telematika Indonesia
 103.154.231.122  # ID  AS136121  PT Digital Media Telematika
 103.154.77.48    # ID  AS140481  PT Tonggak Teknologi Netikom
@@ -704,6 +705,7 @@
 110.239.95.173   # ID  AS136907  HUAWEI CLOUDS
 110.35.80.116    # ID  AS17727   PT. NAP Info Lintas Nusa
 111.68.120.152   # ID  AS45287   Varnion Technology Semesta, PT
+111.95.124.30    # ID  AS23700   Linknet-Fastnet ASN
 111.95.150.84    # ID  AS23700   Linknet-Fastnet ASN
 112.78.135.82    # ID  AS38482   Biznet ISP
 112.78.177.144   # ID  AS17451   BIZNET NETWORKS
@@ -749,6 +751,7 @@
 116.197.133.25   # ID  AS58369   PT. Fiber Networks Indonesia
 116.206.198.131  # ID  AS133800  PT Biznet Gio Nusantara
 116.254.101.102  # ID  AS55693   PT. Bangun Abadi Teknologi Indonesia
+116.254.101.65   # ID  AS55693   PT. Bangun Abadi Teknologi Indonesia
 116.68.162.194   # ID  AS56246   PT Sumber Data Indonesia
 117.102.74.131   # ID  AS17451   BIZNET NETWORKS
 117.102.83.237   # ID  AS38482   Biznet ISP
@@ -800,6 +803,7 @@
 123.231.171.242  # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.179.26   # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.179.74   # ID  AS4800    PT Aplikanusa Lintasarta
+123.231.211.178  # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.211.66   # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.214.210  # ID  AS4800    PT Aplikanusa Lintasarta
 124.153.16.122   # ID  AS9326    PT Centrin Utama
@@ -928,6 +932,7 @@
 157.15.40.86     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.88     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.89     # ID  AS139952  PT Trisari Data Indonusa
+157.15.40.90     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.91     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.93     # ID  AS139952  PT Trisari Data Indonusa
 157.15.67.253    # ID  AS152377  PT Trimitra Aditama Koneksindo
@@ -981,6 +986,7 @@
 160.187.107.47   # ID  AS153119  PT Intan Pariwara
 160.187.165.218  # ID  AS153128  PT Techchandra Solusi Telematika
 160.19.19.85     # ID  AS149360  PT Indo Telemedia Solusi
+160.191.180.107  # ID  AS138089  PT.Global Media Data Prima
 160.20.105.179   # ID  AS152790  CV Arunika Investama
 160.20.124.41    # ID  AS152780  PT SOLUSI ANDALAN KITA
 160.22.193.35    # ID  AS152830  PT Elemen Jaringan Nusantara
@@ -1076,6 +1082,7 @@
 180.252.152.51   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.154.224  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.166.31   # ID  AS7713    PT Telekomunikasi Indonesia
+180.252.199.166  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.203.153  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.239.231  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.31.132   # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1225,6 +1232,7 @@
 203.201.164.142  # ID  AS9794    PT. Core Mediatech (D-NET)
 203.210.85.208   # ID  AS55699   PT. Cemerlang Multimedia
 203.83.39.7      # ID  AS63859   PT. Eka Mas Republik
+203.83.40.7      # ID  AS63859   PT. Eka Mas Republik
 203.83.43.196    # ID  AS63859   PT. Eka Mas Republik
 206.84.112.212   # ID  AS64315   PT MITRA VISIONER PRATAMA
 208.76.40.195    # ID  AS151592  PT Awan Data Teknologi
