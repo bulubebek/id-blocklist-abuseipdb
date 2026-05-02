@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1218
-# Last updated:           2026-05-02 07:49:42
+# Number of ips:          1220
+# Last updated:           2026-05-02 13:20:38
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -533,6 +533,7 @@
 103.84.5.9       # ID  AS132641  PT Netciti Persada
 103.84.7.190     # ID  AS132641  PT Netciti Persada
 103.86.117.203   # ID  AS150552  PT Link Data Sumber Barokah
+103.89.77.114    # ID  AS45701   Internet Madju Abad Millenindo, PT
 103.90.27.83     # ID  AS132673  PT Arana Teknologi Indonesia
 103.90.67.3      # ID  AS150265  PT Rajawali Bintang Cemerlang Telkomedia
 103.93.121.34    # ID  AS150461  PT Iftalink Media Karya
@@ -559,6 +560,7 @@
 110.139.60.14    # ID  AS7713    PT Telekomunikasi Indonesia
 110.232.92.91    # ID  AS23679   PT. Media Antar Nusa
 110.239.65.57    # ID  AS136907  HUAWEI CLOUDS
+110.239.70.100   # ID  AS136907  HUAWEI CLOUDS
 110.239.88.219   # ID  AS136907  HUAWEI CLOUDS
 110.35.80.116    # ID  AS17727   PT. NAP Info Lintas Nusa
 111.68.120.152   # ID  AS45287   Varnion Technology Semesta, PT
