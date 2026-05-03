@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1257
-# Last updated:           2026-05-03 08:05:18
+# Number of ips:          1265
+# Last updated:           2026-05-03 13:19:38
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -15,9 +15,11 @@
 101.255.117.38   # ID  AS38511   PT Remala Abadi
 101.255.125.2    # ID  AS38511   PT Remala Abadi
 101.255.139.98   # ID  AS38511   PT Remala Abadi
+103.10.223.16    # ID  AS38750   Telemedia Dinamika Sarana, PT
 103.101.216.218  # ID  AS150941  PT Duta Trans Nusantara Network
 103.101.216.74   # ID  AS150941  PT Duta Trans Nusantara Network
 103.102.12.16    # ID  AS136865  PT Foura Inti Sinergi
+103.102.152.72   # ID  AS58404   PT Qwords Company International
 103.103.20.239   # ID  AS133800  PT Biznet Gio Nusantara
 103.105.130.86   # ID  AS17727   PT. NAP Info Lintas Nusa
 103.105.53.243   # ID  AS136873  MEGADATA-ISP
@@ -54,6 +56,7 @@
 103.132.236.30   # ID  AS138129  PT Sinergi Inti Andalan Prima
 103.132.52.46    # ID  AS138123  PT. ADEAKSA INDO JAYATAMA
 103.132.53.205   # ID  AS138123  PT. ADEAKSA INDO JAYATAMA
+103.133.160.33   # ID  AS138136  Universitas Mataram
 103.133.24.51    # ID  AS138130  PT PHATRIA INTI PERSADA
 103.134.17.85    # ID  AS138144  Institut Agama Islam Negeri Kediri
 103.134.17.88    # ID  AS138144  Institut Agama Islam Negeri Kediri
@@ -133,6 +136,7 @@
 103.165.128.173  # ID  AS17995   PT iForte Global Internet
 103.165.139.145  # ID  AS17995   PT iForte Global Internet
 103.165.211.206  # ID  AS17995   PT iForte Global Internet
+103.165.218.154  # ID  AS17995   PT iForte Global Internet
 103.165.230.210  # ID  AS17995   PT iForte Global Internet
 103.166.11.176   # ID  AS139967  PT. Yasmin Amanah Media
 103.166.11.59    # ID  AS139967  PT. Yasmin Amanah Media
@@ -173,6 +177,7 @@
 103.174.115.72   # ID  AS136052  PT Cloud Hosting Indonesia
 103.174.115.91   # ID  AS136052  PT Cloud Hosting Indonesia
 103.174.19.83    # ID  AS131111  PT Mora Telematika Indonesia
+103.174.66.11    # ID  AS141618  PT Asia Central Telematika
 103.175.206.22   # ID  AS147124  PT Hostingan Awan Indonesia
 103.175.206.39   # ID  AS147124  PT Hostingan Awan Indonesia
 103.175.207.96   # ID  AS147124  PT Hostingan Awan Indonesia
@@ -361,6 +366,7 @@
 103.28.53.98     # ID  AS136052  PT Cloud Hosting Indonesia
 103.29.185.162   # ID  AS56260   PT Pascal Indonesia
 103.3.222.59     # ID  AS139994  PT XL Axiata Tbk
+103.3.46.129     # ID  AS56237   Universitas Lampung
 103.31.38.209    # ID  AS136052  PT Cloud Hosting Indonesia
 103.31.38.83     # ID  AS136052  PT Cloud Hosting Indonesia
 103.31.39.143    # ID  AS136052  PT Cloud Hosting Indonesia
@@ -551,6 +557,7 @@
 103.82.92.255    # ID  AS136052  PT Cloud Hosting Indonesia
 103.82.92.40     # ID  AS136052  PT Cloud Hosting Indonesia
 103.82.92.82     # ID  AS136052  PT Cloud Hosting Indonesia
+103.83.173.179   # ID  AS132641  PT Netciti Persada
 103.83.237.25    # ID  AS150540  PT. Kalam Digital Signalindo
 103.84.193.204   # ID  AS59147   PT. Drupadi Prima
 103.84.207.194   # ID  AS58487   CV. Rumahweb Indonesia
@@ -810,6 +817,7 @@
 157.66.56.90     # ID  AS58477   Argon Data Communication
 157.85.211.113   # ID  AS139994  PT XL Axiata Tbk
 160.187.107.47   # ID  AS153119  PT Intan Pariwara
+160.19.147.7     # ID  AS152775  PT Taska Sarana Nusantara
 160.191.180.107  # ID  AS138089  PT.Global Media Data Prima
 160.20.105.179   # ID  AS152790  CV Arunika Investama
 160.20.124.41    # ID  AS152780  PT SOLUSI ANDALAN KITA
