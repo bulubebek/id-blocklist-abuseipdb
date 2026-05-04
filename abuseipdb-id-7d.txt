@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          892
-# Last updated:           2026-05-04 14:10:48
+# Number of ips:          896
+# Last updated:           2026-05-04 19:45:24
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -271,6 +271,7 @@
 103.247.120.55   # ID  AS55666   PT Media Sarana Data
 103.247.14.25    # ID  AS131706  PT SELARAS CITRA TERABIT
 103.247.15.179   # ID  AS131706  PT SELARAS CITRA TERABIT
+103.247.15.75    # ID  AS131706  PT SELARAS CITRA TERABIT
 103.247.20.83    # ID  AS58485   WIFIAN ID
 103.249.19.34    # ID  AS150206  PT Rafa Teknologi Solusi
 103.252.12.242   # ID  AS133838  PT Infotek Global Network
@@ -647,6 +648,7 @@
 180.245.172.248  # ID  AS7713    PT Telekomunikasi Indonesia
 180.245.65.193   # ID  AS7713    PT Telekomunikasi Indonesia
 180.247.81.137   # ID  AS7713    PT Telekomunikasi Indonesia
+180.248.10.152   # ID  AS7713    PT Telekomunikasi Indonesia
 180.250.196.141  # ID  AS7713    PT Telekomunikasi Indonesia
 180.250.46.242   # ID  AS7713    PT Telekomunikasi Indonesia
 180.251.148.133  # ID  AS7713    PT Telekomunikasi Indonesia
@@ -703,6 +705,7 @@
 202.57.27.81     # ID  AS140469  PT Wahyu Adidaya Network
 202.57.30.210    # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.58.242.20    # ID  AS138050  Dinas Komunikasi Provins Jawa Barat
+202.58.242.242   # ID  AS138050  Dinas Komunikasi Provins Jawa Barat
 202.58.242.243   # ID  AS138050  Dinas Komunikasi Provins Jawa Barat
 202.58.66.10     # ID  AS141673  PT Mamura Inter Media
 202.72.196.75    # ID  AS18153   PT Multidata Rancana Prima
@@ -718,6 +721,7 @@
 203.145.34.37    # ID  AS136052  PT Cloud Hosting Indonesia
 203.145.34.78    # ID  AS136052  PT Cloud Hosting Indonesia
 203.145.34.82    # ID  AS136052  PT Cloud Hosting Indonesia
+203.145.63.139   # ID  AS46023   PT Quantum Tera Network
 203.160.61.18    # ID  AS24527   PT Hanastar dakara
 203.175.125.130  # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.148  # ID  AS139952  PT Trisari Data Indonusa
