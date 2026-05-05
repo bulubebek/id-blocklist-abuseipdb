@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1622
-# Last updated:           2026-05-05 08:16:27
+# Number of ips:          1626
+# Last updated:           2026-05-05 19:27:10
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -254,6 +254,7 @@
 103.178.175.187  # ID  AS137331  PT Cloud Teknologi Nusantara
 103.178.175.233  # ID  AS137331  PT Cloud Teknologi Nusantara
 103.179.183.123  # ID  AS142394  PT Cahaya Solusindo Internusa
+103.179.216.158  # ID  AS139449  PT Lintas Data Multimedia
 103.179.216.97   # ID  AS139449  PT Lintas Data Multimedia
 103.179.27.94    # ID  AS149333  PT Primadona Media Digitalindo
 103.179.56.102   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -434,6 +435,7 @@
 103.23.199.49    # ID  AS136052  PT Cloud Hosting Indonesia
 103.23.203.130   # ID  AS45287   Varnion Technology Semesta, PT
 103.232.243.226  # ID  AS63497   PT. Arana Teknologi Indonesia
+103.235.75.215   # ID  AS135444  PT Ikubaru Indonesia
 103.236.140.19   # ID  AS151518  SMK Negeri 22 Jakarta
 103.236.201.227  # ID  AS136052  PT Cloud Hosting Indonesia
 103.238.232.122  # ID  AS151540  PT Digital Netcom Solution
@@ -744,6 +746,7 @@
 110.239.88.219   # ID  AS136907  HUAWEI CLOUDS
 110.35.80.116    # ID  AS17727   PT. NAP Info Lintas Nusa
 111.68.120.152   # ID  AS45287   Varnion Technology Semesta, PT
+111.68.25.6      # ID  AS55666   PT Media Sarana Data
 111.95.124.30    # ID  AS23700   Linknet-Fastnet ASN
 111.95.150.84    # ID  AS23700   Linknet-Fastnet ASN
 112.78.135.82    # ID  AS38482   Biznet ISP
@@ -1280,6 +1283,7 @@
 203.83.40.48     # ID  AS63859   PT. Eka Mas Republik
 203.83.40.7      # ID  AS63859   PT. Eka Mas Republik
 203.83.43.196    # ID  AS63859   PT. Eka Mas Republik
+203.83.45.6      # ID  AS63859   PT. Eka Mas Republik
 206.84.112.212   # ID  AS64315   PT MITRA VISIONER PRATAMA
 208.76.40.195    # ID  AS151592  PT Awan Data Teknologi
 208.76.40.197    # ID  AS151592  PT Awan Data Teknologi
