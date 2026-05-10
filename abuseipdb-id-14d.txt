@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1147
-# Last updated:           2026-05-10 13:26:49
+# Number of ips:          1150
+# Last updated:           2026-05-10 19:10:03
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -27,6 +27,7 @@
 103.105.130.86   # ID  AS17727   PT. NAP Info Lintas Nusa
 103.105.53.243   # ID  AS136873  MEGADATA-ISP
 103.105.67.170   # ID  AS17995   PT iForte Global Internet
+103.107.138.10   # ID  AS150948  PT Existnet Mathesis Teknologi
 103.107.84.100   # ID  AS136879  DELAPAN BIT
 103.108.141.126  # ID  AS137304  Dinas Komunikasi Dan Informatika Prabumulih
 103.108.156.1    # ID  AS140454  PT Pop Net Indonesia
@@ -785,6 +786,7 @@
 168.110.207.85   # ID  AS31898   Oracle Corporation
 168.110.219.99   # ID  AS31898   Oracle Corporation
 168.110.221.138  # ID  AS31898   Oracle Corporation
+172.232.232.104  # ID  AS63949   Akamai Connected Cloud
 172.232.246.140  # ID  AS63949   Akamai Connected Cloud
 172.232.253.221  # ID  AS63949   Akamai Connected Cloud
 175.158.43.36    # ID  AS135478  PT. Cyberindo Aditama
@@ -1152,6 +1154,7 @@
 8.215.205.243    # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.69.55      # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.90.193     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
+93.185.162.10    # ID  AS209854  Cyberzone S.A.
 93.185.162.116   # ID  AS209854  Cyberzone S.A.
 93.185.162.121   # ID  AS209854  Cyberzone S.A.
 93.185.162.138   # ID  AS209854  Cyberzone S.A.
