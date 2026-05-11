@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1623
-# Last updated:           2026-05-11 03:53:55
+# Number of ips:          1628
+# Last updated:           2026-05-11 09:47:39
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -452,6 +452,7 @@
 103.253.214.196  # ID  -         -
 103.253.244.139  # ID  AS140389  PT Dewa Bisnis Digital
 103.253.244.94   # ID  AS140389  PT Dewa Bisnis Digital
+103.253.68.13    # ID  AS132644  PT. Cyberindo Mega Persada
 103.26.209.118   # ID  AS18103   Neuviz Net
 103.26.209.181   # ID  AS18103   Neuviz Net
 103.27.36.2      # ID  AS132670  PT Aseli Dagadu Djokdja
@@ -673,6 +674,7 @@
 103.77.107.57    # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.78.195.193   # ID  AS64303   Universitas Islam Bandung
 103.78.97.230    # ID  AS131111  PT Mora Telematika Indonesia
+103.79.244.210   # ID  AS150949  PT RumahNET Internusa
 103.8.185.158    # ID  AS4800    PT Aplikanusa Lintasarta
 103.8.195.18     # ID  AS4800    PT Aplikanusa Lintasarta
 103.8.59.250     # ID  AS45707   Prime Link Communication, PT
@@ -977,6 +979,7 @@
 157.20.32.172    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.173    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.212    # ID  AS152390  PT Intercloud Digital Inovasi
+157.20.92.199    # ID  AS152407  PT Netfinity Network Indonesia
 157.66.192.143   # ID  AS152770  PT Indotech Digitama Superlink
 157.66.21.254    # ID  AS141592  PT Infonet Nusa Solusindo
 157.66.34.121    # ID  AS55688   PT. Beon Intermedia
@@ -1281,6 +1284,7 @@
 210.79.190.22    # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.190.31    # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.190.46    # ID  AS136052  PT Cloud Hosting Indonesia
+210.79.190.90    # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.191.115   # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.191.159   # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.191.170   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -1506,6 +1510,7 @@
 36.91.81.195     # ID  AS7713    PT Telekomunikasi Indonesia
 36.92.107.106    # ID  AS7713    PT Telekomunikasi Indonesia
 36.92.140.209    # ID  AS7713    PT Telekomunikasi Indonesia
+36.92.154.210    # ID  AS7713    PT Telekomunikasi Indonesia
 36.92.154.218    # ID  AS7713    PT Telekomunikasi Indonesia
 36.92.175.209    # ID  AS7713    PT Telekomunikasi Indonesia
 36.92.240.142    # ID  AS7713    PT Telekomunikasi Indonesia
