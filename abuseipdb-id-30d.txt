@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1628
-# Last updated:           2026-05-11 09:47:39
+# Number of ips:          1630
+# Last updated:           2026-05-11 15:19:13
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -160,6 +160,7 @@
 103.160.37.151   # ID  AS141584  PT Jetorbit Teknologi Indonesia
 103.161.207.2    # ID  AS141627  PT Media Solusi Network
 103.162.54.10    # ID  AS141645  PT Pratama Asia Globalindo
+103.164.107.26   # ID  AS17995   PT iForte Global Internet
 103.164.194.238  # ID  AS17995   PT iForte Global Internet
 103.164.213.54   # ID  AS17995   PT iForte Global Internet
 103.164.221.138  # ID  AS17995   PT iForte Global Internet
@@ -797,6 +798,7 @@
 118.99.102.112   # ID  AS17451   BIZNET NETWORKS
 118.99.102.162   # ID  AS17451   BIZNET NETWORKS
 118.99.102.20    # ID  AS17451   BIZNET NETWORKS
+118.99.102.207   # ID  AS17451   BIZNET NETWORKS
 118.99.107.239   # ID  AS17451   BIZNET NETWORKS
 118.99.113.2     # ID  AS17451   BIZNET NETWORKS
 118.99.114.133   # ID  AS17451   BIZNET NETWORKS
