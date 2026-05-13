@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1646
-# Last updated:           2026-05-13 14:43:05
+# Number of ips:          1651
+# Last updated:           2026-05-13 19:59:48
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -93,6 +93,7 @@
 103.140.131.168  # ID  AS138866  PT Mitra Media Data
 103.140.199.90   # ID  AS134656  PT Cheil Jedang Indonesia
 103.140.54.85    # ID  AS138868  CV. RUMAH CLOUD INDONESIA
+103.141.255.141  # ID  AS131769  PT Mayatama Solusindo
 103.142.202.2    # ID  AS139378  PT. NEX Solusi Teknologi
 103.142.255.218  # ID  AS139381  PT.CITRA BERDIKARI NUSANTARA
 103.142.255.219  # ID  AS139381  PT.CITRA BERDIKARI NUSANTARA
@@ -314,6 +315,7 @@
 103.183.75.90    # ID  AS136052  PT Cloud Hosting Indonesia
 103.184.180.168  # ID  AS45305   Lintas Data Prima, PT
 103.184.65.58    # ID  AS149682  PT Aplikasi Platform Nomaden
+103.184.66.191   # ID  AS149670  PT Siber Tech Indonesia
 103.185.52.200   # ID  AS139456  PT DEWAWEB
 103.186.0.101    # ID  AS136052  PT Cloud Hosting Indonesia
 103.186.0.127    # ID  AS136052  PT Cloud Hosting Indonesia
@@ -351,6 +353,7 @@
 103.188.38.178   # ID  AS4800    PT Aplikanusa Lintasarta
 103.19.109.30    # ID  AS132641  PT Netciti Persada
 103.19.180.14    # ID  AS132642  Universitas Ahmad Dahlan
+103.19.231.166   # ID  AS132668  PT Bali Towerindo Sentra
 103.19.231.191   # ID  AS132668  PT Bali Towerindo Sentra
 103.19.56.102    # ID  AS132637  PT BINA INFORMATIKA SOLUSI
 103.190.108.82   # ID  AS149903  PT Pandawa Lintas Media
@@ -733,6 +736,7 @@
 109.111.52.76    # ID  AS141968  PT Industri Kreatif Digital
 110.136.190.226  # ID  AS7713    PT Telekomunikasi Indonesia
 110.139.60.14    # ID  AS7713    PT Telekomunikasi Indonesia
+110.232.84.104   # ID  AS23679   PT. Media Antar Nusa
 110.232.92.91    # ID  AS23679   PT. Media Antar Nusa
 110.239.65.57    # ID  AS136907  HUAWEI CLOUDS
 110.239.70.100   # ID  AS136907  HUAWEI CLOUDS
@@ -1635,6 +1639,7 @@
 8.215.41.147     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.69.55      # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.90.193     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
+89.21.85.28      # ID  AS141892  CV Andhika Pratama Sanggoro
 93.185.162.10    # ID  AS209854  Cyberzone S.A.
 93.185.162.116   # ID  AS209854  Cyberzone S.A.
 93.185.162.118   # ID  AS209854  Cyberzone S.A.
