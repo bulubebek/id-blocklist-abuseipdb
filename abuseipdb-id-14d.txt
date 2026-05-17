@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1231
-# Last updated:           2026-05-17 03:50:27
+# Number of ips:          1239
+# Last updated:           2026-05-17 08:25:08
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -255,6 +255,7 @@
 103.186.0.182    # ID  AS136052  PT Cloud Hosting Indonesia
 103.186.0.19     # ID  AS136052  PT Cloud Hosting Indonesia
 103.186.0.214    # ID  AS136052  PT Cloud Hosting Indonesia
+103.186.0.22     # ID  AS136052  PT Cloud Hosting Indonesia
 103.186.0.68     # ID  AS136052  PT Cloud Hosting Indonesia
 103.186.0.79     # ID  AS136052  PT Cloud Hosting Indonesia
 103.186.1.103    # ID  AS136052  PT Cloud Hosting Indonesia
@@ -347,6 +348,7 @@
 103.247.15.75    # ID  AS131706  PT SELARAS CITRA TERABIT
 103.247.20.83    # ID  AS58485   WIFIAN ID
 103.247.21.225   # ID  AS58485   WIFIAN ID
+103.247.9.222    # ID  AS58487   CV. Rumahweb Indonesia
 103.249.19.34    # ID  AS150206  PT Rafa Teknologi Solusi
 103.25.208.43    # ID  AS132653  PT Transdata Sejahtera
 103.252.12.242   # ID  AS133838  PT Infotek Global Network
@@ -400,6 +402,7 @@
 103.52.114.131   # ID  AS136052  PT Cloud Hosting Indonesia
 103.52.114.250   # ID  AS136052  PT Cloud Hosting Indonesia
 103.52.114.254   # ID  AS136052  PT Cloud Hosting Indonesia
+103.52.115.189   # ID  AS136052  PT Cloud Hosting Indonesia
 103.52.115.198   # ID  AS136052  PT Cloud Hosting Indonesia
 103.52.115.25    # ID  AS136052  PT Cloud Hosting Indonesia
 103.52.146.122   # ID  AS59147   PT. Drupadi Prima
@@ -566,6 +569,7 @@
 103.93.93.82     # ID  AS141140  PT Jinde Grup Indonesia
 103.93.93.86     # ID  AS141140  PT Jinde Grup Indonesia
 103.98.176.164   # ID  AS136827  Universitas PGRI Semarang
+104.28.165.29    # ID  AS13335   Cloudflare, Inc.
 104.28.253.100   # ID  AS13335   Cloudflare, Inc.
 108.136.131.13   # ID  AS16509   Amazon.com, Inc.
 108.136.162.67   # ID  AS16509   Amazon.com, Inc.
@@ -600,8 +604,10 @@
 115.124.75.254   # ID  AS38511   PT Remala Abadi
 115.85.80.12     # ID  AS23953   PT ARTHA TELEKOMINDO
 116.193.190.100  # ID  AS136052  PT Cloud Hosting Indonesia
+116.193.190.130  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.190.134  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.190.244  # ID  AS136052  PT Cloud Hosting Indonesia
+116.193.190.60   # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.190.62   # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.100  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.104  # ID  AS136052  PT Cloud Hosting Indonesia
@@ -916,6 +922,7 @@
 202.58.242.243   # ID  AS138050  Dinas Komunikasi Provins Jawa Barat
 202.6.238.242    # ID  AS23756   PADINET - Padi Internet
 202.61.124.68    # ID  AS55661   PT Informasi Teknologi Indonesia
+202.65.121.211   # ID  AS23951   PT JEMBATAN CITRA NUSANTARA
 202.72.196.75    # ID  AS18153   PT Multidata Rancana Prima
 202.93.133.49    # ID  AS4382    PT. Indonusa System Integrator Prima
 203.130.248.214  # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1204,6 +1211,7 @@
 43.252.159.79    # ID  AS149746  PT Blip Integrator Provider
 43.252.236.237   # ID  AS55701   PT. Usaha Adisanggoro
 45.149.187.138   # ID  AS141968  PT Industri Kreatif Digital
+45.198.0.224     # ID  AS135478  PT. Cyberindo Aditama
 48.193.41.100    # ID  AS8075    Microsoft Corporation
 49.128.179.75    # ID  AS55666   PT Media Sarana Data
 58.65.247.16     # ID  AS24535   PT.Insan Sarana Telematika
