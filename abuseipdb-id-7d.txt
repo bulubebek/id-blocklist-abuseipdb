@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1005
-# Last updated:           2026-05-18 15:39:51
+# Number of ips:          1010
+# Last updated:           2026-05-18 19:48:03
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -50,6 +50,7 @@
 103.132.52.46    # ID  AS138123  PT. ADEAKSA INDO JAYATAMA
 103.133.160.33   # ID  AS138136  Universitas Mataram
 103.137.65.2     # ID  AS58495   PT Parsaoran Global Datatrans
+103.137.83.51    # ID  AS138828  PT TELIO INTI NUSA
 103.138.53.19    # ID  AS149723  PT Afna Digital Indonesia
 103.138.62.198   # ID  AS138843  PT GLOBAL LINTAS SOLUSI
 103.139.11.52    # ID  AS55699   PT. Cemerlang Multimedia
@@ -74,6 +75,7 @@
 103.147.211.2    # ID  AS150544  PT Global Visi Vindici
 103.147.33.122   # ID  AS140389  PT Dewa Bisnis Digital
 103.148.100.146  # ID  AS139988  PT. GARUDA PRIMA INTERNETINDO
+103.148.194.111  # ID  AS140003  Rumah Sakit Umum Pusat DR Hasan Sadikin
 103.148.79.138   # ID  AS139980  Dinas Komunikasi Informasi Kota Tasikmalaya
 103.148.89.154   # ID  AS140421  PT APLIKA DATA NUSANTARA
 103.149.180.2    # ID  AS45325   PT PC24 Telekomunikasi Indonesia
@@ -174,6 +176,7 @@
 103.179.56.78    # ID  AS136052  PT Cloud Hosting Indonesia
 103.179.56.8     # ID  AS136052  PT Cloud Hosting Indonesia
 103.179.56.9     # ID  AS136052  PT Cloud Hosting Indonesia
+103.18.133.253   # ID  AS55693   PT. Bangun Abadi Teknologi Indonesia
 103.180.124.221  # ID  AS141968  PT Industri Kreatif Digital
 103.181.142.238  # ID  AS136052  PT Cloud Hosting Indonesia
 103.181.143.216  # ID  AS136052  PT Cloud Hosting Indonesia
@@ -442,6 +445,7 @@
 103.76.120.90    # ID  AS136052  PT Cloud Hosting Indonesia
 103.77.106.200   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.106.41    # ID  AS135450  PT Berkah Solusi Teknologi Informasi
+103.77.106.57    # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.107.178   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.78.97.230    # ID  AS131111  PT Mora Telematika Indonesia
 103.79.244.210   # ID  AS150949  PT RumahNET Internusa
@@ -536,6 +540,7 @@
 124.153.16.122   # ID  AS9326    PT Centrin Utama
 125.160.204.107  # ID  AS7713    PT Telekomunikasi Indonesia
 125.163.58.42    # ID  AS7713    PT Telekomunikasi Indonesia
+125.164.43.147   # ID  AS7713    PT Telekomunikasi Indonesia
 125.165.62.13    # ID  AS7713    PT Telekomunikasi Indonesia
 125.166.124.130  # ID  AS7713    PT Telekomunikasi Indonesia
 125.213.152.34   # ID  AS4800    PT Aplikanusa Lintasarta
