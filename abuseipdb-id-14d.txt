@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1203
-# Last updated:           2026-05-20 09:40:41
+# Number of ips:          1212
+# Last updated:           2026-05-20 15:30:27
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -221,6 +221,7 @@
 103.179.56.9     # ID  AS136052  PT Cloud Hosting Indonesia
 103.18.133.253   # ID  AS55693   PT. Bangun Abadi Teknologi Indonesia
 103.180.124.221  # ID  AS141968  PT Industri Kreatif Digital
+103.181.142.22   # ID  AS136052  PT Cloud Hosting Indonesia
 103.181.142.238  # ID  AS136052  PT Cloud Hosting Indonesia
 103.181.143.216  # ID  AS136052  PT Cloud Hosting Indonesia
 103.181.143.69   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -348,6 +349,7 @@
 103.253.244.94   # ID  AS140389  PT Dewa Bisnis Digital
 103.253.68.13    # ID  AS132644  PT. Cyberindo Mega Persada
 103.255.156.58   # ID  AS55699   PT. Cemerlang Multimedia
+103.26.209.118   # ID  AS18103   Neuviz Net
 103.26.209.157   # ID  AS18103   Neuviz Net
 103.26.209.182   # ID  AS18103   Neuviz Net
 103.27.206.6     # ID  AS55688   PT. Beon Intermedia
@@ -618,6 +620,7 @@
 116.197.133.25   # ID  AS58369   PT. Fiber Networks Indonesia
 116.254.101.65   # ID  AS55693   PT. Bangun Abadi Teknologi Indonesia
 116.254.119.202  # ID  AS55666   PT Media Sarana Data
+116.66.205.178   # ID  AS137346  PT Cyber Network Indonesia
 117.102.74.131   # ID  AS17451   BIZNET NETWORKS
 117.102.76.181   # ID  AS17451   BIZNET NETWORKS
 117.102.98.100   # ID  AS38482   Biznet ISP
@@ -643,6 +646,7 @@
 125.162.216.192  # ID  AS7713    PT Telekomunikasi Indonesia
 125.163.58.42    # ID  AS7713    PT Telekomunikasi Indonesia
 125.164.32.194   # ID  AS7713    PT Telekomunikasi Indonesia
+125.164.38.3     # ID  AS7713    PT Telekomunikasi Indonesia
 125.164.43.147   # ID  AS7713    PT Telekomunikasi Indonesia
 125.165.62.112   # ID  AS7713    PT Telekomunikasi Indonesia
 125.165.62.13    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -803,10 +807,12 @@
 180.178.94.223   # ID  AS45722   Widya Intersat Nusantara, PT
 180.178.94.73    # ID  AS45722   Widya Intersat Nusantara, PT
 180.178.99.166   # ID  AS38758   PT. HIPERNET INDODATA
+180.241.196.139  # ID  AS7713    PT Telekomunikasi Indonesia
 180.242.1.93     # ID  AS7713    PT Telekomunikasi Indonesia
 180.242.11.140   # ID  AS7713    PT Telekomunikasi Indonesia
 180.243.190.211  # ID  AS7713    PT Telekomunikasi Indonesia
 180.243.253.57   # ID  AS7713    PT Telekomunikasi Indonesia
+180.244.187.138  # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.187.142  # ID  AS7713    PT Telekomunikasi Indonesia
 180.248.10.152   # ID  AS7713    PT Telekomunikasi Indonesia
 180.248.18.164   # ID  AS7713    PT Telekomunikasi Indonesia
@@ -819,6 +825,7 @@
 182.13.110.113   # ID  AS23693   PT. Telekomunikasi Selular
 182.13.96.129    # ID  AS23693   PT. Telekomunikasi Selular
 182.16.252.18    # ID  AS45298   INTERLINK TECHNOLOGY, PT
+182.23.36.166    # ID  AS4800    PT Aplikanusa Lintasarta
 182.23.54.125    # ID  AS4800    PT Aplikanusa Lintasarta
 182.253.14.142   # ID  AS17451   BIZNET NETWORKS
 182.253.15.72    # ID  AS17451   BIZNET NETWORKS
@@ -852,6 +859,7 @@
 202.10.39.5      # ID  AS58487   CV. Rumahweb Indonesia
 202.10.43.162    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.44.12     # ID  AS58487   CV. Rumahweb Indonesia
+202.10.45.145    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.45.93     # ID  AS58487   CV. Rumahweb Indonesia
 202.10.46.108    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.48.226    # ID  AS58487   CV. Rumahweb Indonesia
@@ -1107,6 +1115,7 @@
 36.92.35.211     # ID  AS7713    PT Telekomunikasi Indonesia
 36.92.51.147     # ID  AS7713    PT Telekomunikasi Indonesia
 36.92.6.45       # ID  AS7713    PT Telekomunikasi Indonesia
+36.92.84.132     # ID  AS7713    PT Telekomunikasi Indonesia
 36.92.84.133     # ID  AS7713    PT Telekomunikasi Indonesia
 36.93.144.67     # ID  AS7713    PT Telekomunikasi Indonesia
 36.93.152.155    # ID  AS7713    PT Telekomunikasi Indonesia
