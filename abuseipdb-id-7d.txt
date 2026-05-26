@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1063
-# Last updated:           2026-05-26 15:44:03
+# Number of ips:          1064
+# Last updated:           2026-05-26 20:12:13
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -763,6 +763,7 @@
 195.88.211.70    # ID  AS214882  Hadi Santosa
 202.10.36.104    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.38.181    # ID  AS58487   CV. Rumahweb Indonesia
+202.10.38.248    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.39.5      # ID  AS58487   CV. Rumahweb Indonesia
 202.10.40.121    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.41.225    # ID  AS58487   CV. Rumahweb Indonesia
