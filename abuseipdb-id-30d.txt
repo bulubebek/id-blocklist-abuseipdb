@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1658
-# Last updated:           2026-05-27 09:59:52
+# Number of ips:          1660
+# Last updated:           2026-05-27 15:53:52
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -438,6 +438,7 @@
 103.245.17.220   # ID  AS46023   PT Quantum Tera Network
 103.245.17.222   # ID  AS46023   PT Quantum Tera Network
 103.245.39.181   # ID  AS55688   PT. Beon Intermedia
+103.247.10.181   # ID  AS58487   CV. Rumahweb Indonesia
 103.247.120.55   # ID  AS55666   PT Media Sarana Data
 103.247.13.142   # ID  AS131706  PT SELARAS CITRA TERABIT
 103.247.14.25    # ID  AS131706  PT SELARAS CITRA TERABIT
@@ -1383,6 +1384,7 @@
 34.101.254.68    # ID  AS396982  Google LLC
 34.101.255.209   # ID  AS396982  Google LLC
 34.101.33.44     # ID  AS396982  Google LLC
+34.101.54.173    # ID  AS396982  Google LLC
 34.101.62.96     # ID  AS396982  Google LLC
 34.101.76.190    # ID  AS396982  Google LLC
 34.101.82.19     # ID  AS396982  Google LLC
