@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1670
-# Last updated:           2026-05-29 15:48:13
+# Number of ips:          1671
+# Last updated:           2026-05-29 20:30:34
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -975,6 +975,7 @@
 157.15.40.90     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.91     # ID  AS139952  PT Trisari Data Indonusa
 157.15.40.93     # ID  AS139952  PT Trisari Data Indonusa
+157.15.62.169    # ID  AS152373  PT Anugerah Media Data Nusantara
 157.15.62.172    # ID  AS152373  PT Anugerah Media Data Nusantara
 157.15.67.253    # ID  AS152377  PT Trimitra Aditama Koneksindo
 157.15.73.34     # ID  AS150187  PT Indo Teknologi Konstruksi
