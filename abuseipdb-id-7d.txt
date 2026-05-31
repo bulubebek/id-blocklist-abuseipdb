@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1060
-# Last updated:           2026-05-31 13:52:22
+# Number of ips:          1070
+# Last updated:           2026-05-31 19:21:41
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -577,6 +577,7 @@
 116.193.191.8    # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.90   # ID  AS136052  PT Cloud Hosting Indonesia
 116.197.133.25   # ID  AS58369   PT. Fiber Networks Indonesia
+116.254.119.202  # ID  AS55666   PT Media Sarana Data
 116.66.205.178   # ID  AS137346  PT Cyber Network Indonesia
 117.102.109.34   # ID  AS17451   BIZNET NETWORKS
 117.102.76.181   # ID  AS17451   BIZNET NETWORKS
@@ -687,6 +688,7 @@
 157.66.56.90     # ID  AS58477   Argon Data Communication
 160.187.174.22   # ID  AS153135  PT Netindo Persada Nusantara
 160.19.146.209   # ID  AS152775  PT Taska Sarana Nusantara
+160.19.146.214   # ID  AS152775  PT Taska Sarana Nusantara
 160.19.156.35    # ID  AS152768  PT Tiga Pilar Banua
 160.22.193.35    # ID  AS152830  PT Elemen Jaringan Nusantara
 160.25.118.116   # ID  AS153096  PT High Speed Connection Network
@@ -725,6 +727,7 @@
 172.232.228.130  # ID  AS63949   Akamai Connected Cloud
 172.232.231.237  # ID  AS63949   Akamai Connected Cloud
 172.232.232.157  # ID  AS63949   Akamai Connected Cloud
+172.232.237.155  # ID  AS63949   Akamai Connected Cloud
 172.232.250.226  # ID  AS63949   Akamai Connected Cloud
 172.232.253.221  # ID  AS63949   Akamai Connected Cloud
 172.235.255.170  # ID  AS63949   Akamai Connected Cloud
@@ -752,6 +755,7 @@
 180.243.191.141  # ID  AS7713    PT Telekomunikasi Indonesia
 180.243.253.189  # ID  AS7713    PT Telekomunikasi Indonesia
 180.243.253.57   # ID  AS7713    PT Telekomunikasi Indonesia
+180.243.255.99   # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.187.138  # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.187.139  # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.187.73   # ID  AS7713    PT Telekomunikasi Indonesia
@@ -779,6 +783,7 @@
 182.253.79.195   # ID  AS17451   BIZNET NETWORKS
 182.8.161.230    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.178.24     # ID  AS23693   PT. Telekomunikasi Selular
+182.8.179.143    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.183.212    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.228.26     # ID  AS23693   PT. Telekomunikasi Selular
 195.88.211.165   # ID  AS214882  Hadi Santosa
@@ -817,6 +822,7 @@
 202.169.44.105   # ID  AS17451   BIZNET NETWORKS
 202.169.46.83    # ID  AS17451   BIZNET NETWORKS
 202.180.17.173   # ID  AS38758   PT. HIPERNET INDODATA
+202.180.20.137   # ID  AS38758   PT. HIPERNET INDODATA
 202.43.228.9     # ID  AS9422    PT SOLNET INDONESIA
 202.46.68.232    # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.51.101.250   # ID  AS17995   PT iForte Global Internet
@@ -857,11 +863,13 @@
 203.175.125.141  # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.164  # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.185  # ID  AS139952  PT Trisari Data Indonusa
+203.175.125.210  # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.217  # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.36   # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.37   # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.79   # ID  AS139952  PT Trisari Data Indonusa
 203.83.43.196    # ID  AS63859   PT. Eka Mas Republik
+206.237.100.3    # ID  AS140443  PT Herza Digital Indonesia
 206.84.112.212   # ID  AS64315   PT MITRA VISIONER PRATAMA
 206.84.116.139   # ID  AS64315   PT MITRA VISIONER PRATAMA
 210.210.155.71   # ID  AS4787    PT Cyberindo Aditama
@@ -948,6 +956,7 @@
 36.68.184.166    # ID  AS7713    PT Telekomunikasi Indonesia
 36.68.191.4      # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.144.255    # ID  AS7713    PT Telekomunikasi Indonesia
+36.69.152.41     # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.156.92     # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.160.195    # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.49.240     # ID  AS7713    PT Telekomunikasi Indonesia
@@ -960,6 +969,7 @@
 36.78.107.155    # ID  AS7713    PT Telekomunikasi Indonesia
 36.81.237.254    # ID  AS7713    PT Telekomunikasi Indonesia
 36.82.39.9       # ID  AS7713    PT Telekomunikasi Indonesia
+36.82.45.61      # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.113.9      # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.124.122    # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.72.0       # ID  AS7713    PT Telekomunikasi Indonesia
