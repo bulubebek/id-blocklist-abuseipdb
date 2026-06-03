@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1659
-# Last updated:           2026-06-03 04:39:44
+# Number of ips:          1666
+# Last updated:           2026-06-03 11:06:03
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -865,6 +865,7 @@
 129.227.46.180   # ID  AS21859   Zenlayer Inc
 139.0.12.92      # ID  AS9905    Linknet ASN
 139.0.23.124     # ID  AS9905    Linknet ASN
+139.228.12.25    # ID  AS23700   Linknet-Fastnet ASN
 139.228.4.83     # ID  AS23700   Linknet-Fastnet ASN
 139.255.100.188  # ID  AS9905    Linknet ASN
 139.255.17.207   # ID  AS9905    Linknet ASN
@@ -909,6 +910,7 @@
 152.32.153.53    # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 152.32.154.31    # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 153.92.8.48      # ID  AS47583   Hostinger International Limited
+153.92.9.180     # ID  AS47583   Hostinger International Limited
 154.19.37.146    # ID  AS55688   PT. Beon Intermedia
 154.19.37.199    # ID  AS55688   PT. Beon Intermedia
 154.19.37.43     # ID  AS55688   PT. Beon Intermedia
@@ -1180,6 +1182,7 @@
 202.145.0.61     # ID  AS17884   PT. Uninet Media Sakti (ISP)
 202.147.204.27   # ID  AS17670   PT. MNC Kabel Mediacom
 202.148.31.115   # ID  AS38778   PT. Dutakom Wibawa Putra
+202.152.139.194  # ID  AS23951   PT JEMBATAN CITRA NUSANTARA
 202.152.142.50   # ID  AS23951   PT JEMBATAN CITRA NUSANTARA
 202.152.201.166  # ID  AS63859   PT. Eka Mas Republik
 202.152.204.159  # ID  AS63859   PT. Eka Mas Republik
@@ -1442,6 +1445,7 @@
 36.69.156.92     # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.160.195    # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.49.240     # ID  AS7713    PT Telekomunikasi Indonesia
+36.69.56.38      # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.59.213     # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.107.135    # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.107.216    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1544,6 +1548,7 @@
 36.95.194.54     # ID  AS7713    PT Telekomunikasi Indonesia
 36.95.221.140    # ID  AS7713    PT Telekomunikasi Indonesia
 36.95.228.226    # ID  AS7713    PT Telekomunikasi Indonesia
+36.95.228.227    # ID  AS7713    PT Telekomunikasi Indonesia
 36.95.55.131     # ID  AS7713    PT Telekomunikasi Indonesia
 38.147.122.123   # ID  AS55688   PT. Beon Intermedia
 38.183.146.27    # ID  AS140457  PT Ikhlas Cipta Teknologi
@@ -1621,6 +1626,7 @@
 45.198.0.224     # ID  AS135478  PT. Cyberindo Aditama
 45.66.153.50     # ID  AS141968  PT Industri Kreatif Digital
 46.202.186.15    # ID  AS47583   Hostinger International Limited
+46.202.186.57    # ID  AS47583   Hostinger International Limited
 48.193.41.100    # ID  AS8075    Microsoft Corporation
 49.128.179.75    # ID  AS55666   PT Media Sarana Data
 58.147.186.81    # ID  AS24534   PT. Transhybrid Communication
@@ -1640,6 +1646,7 @@
 69.5.7.176       # ID  AS150436  Byteplus Pte. Ltd.
 69.5.7.218       # ID  AS150436  Byteplus Pte. Ltd.
 70.153.136.253   # ID  AS8075    Microsoft Corporation
+77.37.81.70      # ID  AS47583   Hostinger International Limited
 8.215.205.243    # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.30.93      # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.6.118      # ID  AS45102   Alibaba (US) Technology Co., Ltd.
