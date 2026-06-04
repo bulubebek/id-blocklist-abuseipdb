@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1262
-# Last updated:           2026-06-04 10:00:54
+# Number of ips:          1267
+# Last updated:           2026-06-04 15:27:18
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -225,6 +225,7 @@
 103.182.195.75   # ID  AS17995   PT iForte Global Internet
 103.182.200.10   # ID  AS17995   PT iForte Global Internet
 103.182.235.156  # ID  AS17995   PT iForte Global Internet
+103.182.79.149   # ID  AS149665  PT Cybernet Data Multimedia
 103.183.14.229   # ID  AS17995   PT iForte Global Internet
 103.183.74.130   # ID  AS136052  PT Cloud Hosting Indonesia
 103.183.74.182   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -666,6 +667,7 @@
 124.40.248.90    # ID  AS142327  PT Internet Prima Nusantara
 124.40.250.105   # ID  AS45305   Lintas Data Prima, PT
 124.40.252.3     # ID  AS45305   Lintas Data Prima, PT
+125.163.59.109   # ID  AS7713    PT Telekomunikasi Indonesia
 125.163.59.252   # ID  AS7713    PT Telekomunikasi Indonesia
 125.163.66.20    # ID  AS7713    PT Telekomunikasi Indonesia
 125.164.34.194   # ID  AS7713    PT Telekomunikasi Indonesia
@@ -717,6 +719,7 @@
 148.230.97.32    # ID  AS47583   Hostinger International Limited
 152.32.153.228   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 152.32.153.53    # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+153.92.10.189    # ID  AS47583   Hostinger International Limited
 153.92.8.48      # ID  AS47583   Hostinger International Limited
 153.92.9.180     # ID  AS47583   Hostinger International Limited
 154.19.37.146    # ID  AS55688   PT. Beon Intermedia
@@ -827,6 +830,7 @@
 172.232.250.226  # ID  AS63949   Akamai Connected Cloud
 172.232.253.220  # ID  AS63949   Akamai Connected Cloud
 172.232.253.221  # ID  AS63949   Akamai Connected Cloud
+172.235.246.101  # ID  AS63949   Akamai Connected Cloud
 172.235.255.170  # ID  AS63949   Akamai Connected Cloud
 180.131.131.177  # ID  AS150478  PT Solusi Teknologi Gemilang
 180.178.94.208   # ID  AS45722   Widya Intersat Nusantara, PT
@@ -1139,6 +1143,7 @@
 36.88.164.98     # ID  AS7713    PT Telekomunikasi Indonesia
 36.89.252.106    # ID  AS7713    PT Telekomunikasi Indonesia
 36.89.252.58     # ID  AS7713    PT Telekomunikasi Indonesia
+36.91.108.27     # ID  AS7713    PT Telekomunikasi Indonesia
 36.91.166.189    # ID  AS7713    PT Telekomunikasi Indonesia
 36.91.166.34     # ID  AS7713    PT Telekomunikasi Indonesia
 36.91.191.147    # ID  AS7713    PT Telekomunikasi Indonesia
