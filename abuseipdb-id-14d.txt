@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1267
-# Last updated:           2026-06-04 15:27:18
+# Number of ips:          1273
+# Last updated:           2026-06-04 20:09:27
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -129,6 +129,7 @@
 103.164.107.26   # ID  AS17995   PT iForte Global Internet
 103.164.235.138  # ID  AS141916  PT Bantani Media Utama
 103.164.252.237  # ID  AS141918  PT DesktopIP Teknologi Indonesia
+103.164.57.37    # ID  AS141903  PT Natha Buana Indonesia
 103.165.127.197  # ID  AS17995   PT iForte Global Internet
 103.165.128.173  # ID  AS17995   PT iForte Global Internet
 103.165.139.145  # ID  AS17995   PT iForte Global Internet
@@ -789,6 +790,7 @@
 160.25.118.116   # ID  AS153096  PT High Speed Connection Network
 160.25.200.18    # ID  AS153116  PT Mirzuno Solusi Komunikasi
 160.250.226.18   # ID  AS135649  PT Apci Network Solutions
+161.248.116.189  # ID  AS138106  PT Lintas Telematika Nusantara
 163.227.253.170  # ID  AS153904  PT Equator Telecom Indonesia
 163.7.0.179      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.1.156      # ID  AS150436  Byteplus Pte. Ltd.
@@ -812,6 +814,7 @@
 163.7.9.54       # ID  AS150436  Byteplus Pte. Ltd.
 163.7.9.55       # ID  AS150436  Byteplus Pte. Ltd.
 163.7.9.84       # ID  AS150436  Byteplus Pte. Ltd.
+165.101.179.34   # ID  AS154056  PT Metadata Teknovasi Nusantara
 165.101.42.77    # ID  AS58821   PT Lintas Jaringan Nusantara
 165.154.150.65   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 165.154.151.176  # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
@@ -925,6 +928,7 @@
 202.145.0.61     # ID  AS17884   PT. Uninet Media Sakti (ISP)
 202.147.204.27   # ID  AS17670   PT. MNC Kabel Mediacom
 202.148.31.115   # ID  AS38778   PT. Dutakom Wibawa Putra
+202.148.31.118   # ID  AS38778   PT. Dutakom Wibawa Putra
 202.152.139.194  # ID  AS23951   PT JEMBATAN CITRA NUSANTARA
 202.152.142.50   # ID  AS23951   PT JEMBATAN CITRA NUSANTARA
 202.152.201.166  # ID  AS63859   PT. Eka Mas Republik
@@ -1004,6 +1008,7 @@
 206.237.100.3    # ID  AS140443  PT Herza Digital Indonesia
 206.84.112.212   # ID  AS64315   PT MITRA VISIONER PRATAMA
 206.84.116.139   # ID  AS64315   PT MITRA VISIONER PRATAMA
+208.76.40.197    # ID  AS151592  PT Awan Data Teknologi
 210.210.155.71   # ID  AS4787    PT Cyberindo Aditama
 210.57.208.23    # ID  AS38142   Universitas Airlangga
 210.79.142.221   # ID  AS141607  PT Gayatri Lintas Nusantara
@@ -1230,6 +1235,7 @@
 43.252.159.79    # ID  AS149746  PT Blip Integrator Provider
 45.198.0.224     # ID  AS135478  PT. Cyberindo Aditama
 45.66.153.50     # ID  AS141968  PT Industri Kreatif Digital
+46.202.138.127   # ID  AS47583   Hostinger International Limited
 46.202.186.15    # ID  AS47583   Hostinger International Limited
 46.202.186.57    # ID  AS47583   Hostinger International Limited
 49.128.179.75    # ID  AS55666   PT Media Sarana Data
