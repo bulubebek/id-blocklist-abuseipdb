@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1642
-# Last updated:           2026-06-04 04:24:13
+# Number of ips:          1646
+# Last updated:           2026-06-04 10:00:54
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -450,6 +450,7 @@
 103.253.244.94   # ID  AS140389  PT Dewa Bisnis Digital
 103.253.68.13    # ID  AS132644  PT. Cyberindo Mega Persada
 103.255.156.58   # ID  AS55699   PT. Cemerlang Multimedia
+103.26.188.11    # ID  AS142319  PT Telemedia Komunikasi Pratama
 103.26.209.118   # ID  AS18103   Neuviz Net
 103.26.209.157   # ID  AS18103   Neuviz Net
 103.26.209.181   # ID  AS18103   Neuviz Net
@@ -1255,6 +1256,8 @@
 203.175.125.233  # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.36   # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.37   # ID  AS139952  PT Trisari Data Indonusa
+203.175.125.5    # ID  AS139952  PT Trisari Data Indonusa
+203.175.125.68   # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.7    # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.74   # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.79   # ID  AS139952  PT Trisari Data Indonusa
@@ -1588,6 +1591,7 @@
 43.243.142.42    # ID  AS131111  PT Mora Telematika Indonesia
 43.245.249.251   # ID  AS131740  PT Smart Media Pratama
 43.248.27.115    # ID  AS18103   Neuviz Net
+43.252.106.145   # ID  AS45305   Lintas Data Prima, PT
 43.252.156.204   # ID  AS55666   PT Media Sarana Data
 43.252.159.100   # ID  AS149746  PT Blip Integrator Provider
 43.252.159.101   # ID  AS149746  PT Blip Integrator Provider
