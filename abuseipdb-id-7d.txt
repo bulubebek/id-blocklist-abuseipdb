@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1076
-# Last updated:           2026-06-05 15:12:10
+# Number of ips:          1078
+# Last updated:           2026-06-05 19:59:34
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -686,6 +686,7 @@
 163.7.10.112     # ID  AS150436  Byteplus Pte. Ltd.
 163.7.11.155     # ID  AS150436  Byteplus Pte. Ltd.
 163.7.22.107     # ID  AS150436  Byteplus Pte. Ltd.
+163.7.3.154      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.3.26       # ID  AS150436  Byteplus Pte. Ltd.
 163.7.4.169      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.5.166      # ID  AS150436  Byteplus Pte. Ltd.
@@ -911,6 +912,7 @@
 34.101.111.76    # ID  AS396982  Google LLC
 34.101.140.25    # ID  AS396982  Google LLC
 34.101.183.11    # ID  AS396982  Google LLC
+34.101.189.231   # ID  AS396982  Google LLC
 34.101.212.219   # ID  AS396982  Google LLC
 34.101.33.44     # ID  AS396982  Google LLC
 34.101.42.175    # ID  AS396982  Google LLC
