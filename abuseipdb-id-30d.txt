@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1628
-# Last updated:           2026-06-06 13:51:30
+# Number of ips:          1633
+# Last updated:           2026-06-06 19:37:11
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -145,6 +145,7 @@
 103.155.221.74   # ID  AS141076  PT. Arthamas Cipta
 103.155.246.148  # ID  AS141078  PT Amanna Media Link
 103.155.251.35   # ID  AS17884   PT. Uninet Media Sakti (ISP)
+103.155.47.102   # ID  AS141049  PT Profesional Internet Indonesia
 103.155.47.210   # ID  AS141049  PT Profesional Internet Indonesia
 103.156.140.142  # ID  AS149883  PT Tekling Media Telematika
 103.156.164.0    # ID  AS63859   PT. Eka Mas Republik
@@ -825,6 +826,7 @@
 125.163.59.252   # ID  AS7713    PT Telekomunikasi Indonesia
 125.163.66.20    # ID  AS7713    PT Telekomunikasi Indonesia
 125.164.32.194   # ID  AS7713    PT Telekomunikasi Indonesia
+125.164.34.113   # ID  AS7713    PT Telekomunikasi Indonesia
 125.164.34.194   # ID  AS7713    PT Telekomunikasi Indonesia
 125.164.38.3     # ID  AS7713    PT Telekomunikasi Indonesia
 125.164.43.147   # ID  AS7713    PT Telekomunikasi Indonesia
@@ -855,6 +857,7 @@
 141.11.25.106    # ID  AS141968  PT Industri Kreatif Digital
 143.20.199.46    # ID  AS151592  PT Awan Data Teknologi
 143.20.49.135    # ID  AS150249  PT Atharva Telematika Persada
+143.20.49.38     # ID  AS150249  PT Atharva Telematika Persada
 144.79.187.16    # ID  -         -
 144.79.187.17    # ID  -         -
 144.79.187.18    # ID  -         -
@@ -1220,6 +1223,7 @@
 203.153.124.18   # ID  AS38505   PT Graha Multimedia Nusantara
 203.153.20.222   # ID  AS131769  PT Mayatama Solusindo
 203.160.61.18    # ID  AS24527   PT Hanastar dakara
+203.175.11.252   # ID  AS58487   CV. Rumahweb Indonesia
 203.175.125.114  # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.116  # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.118  # ID  AS139952  PT Trisari Data Indonusa
@@ -1603,6 +1607,7 @@
 69.5.21.194      # ID  AS150436  Byteplus Pte. Ltd.
 69.5.21.28       # ID  AS150436  Byteplus Pte. Ltd.
 69.5.22.138      # ID  AS150436  Byteplus Pte. Ltd.
+69.5.22.170      # ID  AS150436  Byteplus Pte. Ltd.
 69.5.23.222      # ID  AS150436  Byteplus Pte. Ltd.
 69.5.7.176       # ID  AS150436  Byteplus Pte. Ltd.
 69.5.7.218       # ID  AS150436  Byteplus Pte. Ltd.
