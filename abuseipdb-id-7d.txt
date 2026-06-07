@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1047
-# Last updated:           2026-06-07 09:19:06
+# Number of ips:          1059
+# Last updated:           2026-06-07 14:01:39
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -73,6 +73,7 @@
 103.146.203.212  # ID  AS136052  PT Cloud Hosting Indonesia
 103.147.159.91   # ID  AS38513   PT Aplikanusa Lintasarta
 103.147.211.2    # ID  AS150544  PT Global Visi Vindici
+103.147.237.208  # ID  AS139971  PT. Medialink Intercontinental
 103.147.8.16     # ID  AS55699   PT. Cemerlang Multimedia
 103.148.100.146  # ID  AS139988  PT. GARUDA PRIMA INTERNETINDO
 103.148.194.111  # ID  AS140003  Rumah Sakit Umum Pusat DR Hasan Sadikin
@@ -292,6 +293,7 @@
 103.239.165.114  # ID  AS131719  Dinas Perhubungan Kominfo Provinsi Sumatera Selatan
 103.24.212.42    # ID  AS132649  PT Adau Putra Network
 103.24.212.46    # ID  AS132649  PT Adau Putra Network
+103.240.68.61    # ID  AS58495   PT Parsaoran Global Datatrans
 103.242.104.81   # ID  AS58821   PT Lintas Jaringan Nusantara
 103.245.17.220   # ID  AS46023   PT Quantum Tera Network
 103.245.19.18    # ID  AS46023   PT Quantum Tera Network
@@ -596,6 +598,7 @@
 144.79.187.29    # ID  -         -
 144.79.187.31    # ID  -         -
 145.223.108.101  # ID  AS47583   Hostinger International Limited
+145.223.108.27   # ID  AS47583   Hostinger International Limited
 145.223.108.37   # ID  AS47583   Hostinger International Limited
 145.223.108.60   # ID  AS47583   Hostinger International Limited
 145.79.14.125    # ID  AS47583   Hostinger International Limited
@@ -608,6 +611,7 @@
 152.32.153.228   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 152.32.153.53    # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 153.92.10.189    # ID  AS47583   Hostinger International Limited
+153.92.8.104     # ID  AS47583   Hostinger International Limited
 153.92.8.48      # ID  AS47583   Hostinger International Limited
 153.92.8.8       # ID  AS47583   Hostinger International Limited
 153.92.8.96      # ID  AS47583   Hostinger International Limited
@@ -679,6 +683,7 @@
 163.7.4.169      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.5.166      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.5.25       # ID  AS150436  Byteplus Pte. Ltd.
+163.7.5.26       # ID  AS150436  Byteplus Pte. Ltd.
 163.7.6.154      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.6.41       # ID  AS150436  Byteplus Pte. Ltd.
 163.7.6.74       # ID  AS150436  Byteplus Pte. Ltd.
@@ -757,10 +762,12 @@
 182.253.79.195   # ID  AS17451   BIZNET NETWORKS
 182.253.89.116   # ID  AS17451   BIZNET NETWORKS
 182.8.161.27     # ID  AS23693   PT. Telekomunikasi Selular
+182.8.178.24     # ID  AS23693   PT. Telekomunikasi Selular
 182.8.179.143    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.182.229    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.183.212    # ID  AS23693   PT. Telekomunikasi Selular
 185.124.136.35   # ID  AS47583   Hostinger International Limited
+195.35.55.118    # ID  AS47583   Hostinger International Limited
 195.88.211.165   # ID  AS214882  Hadi Santosa
 195.88.211.190   # ID  AS214882  Hadi Santosa
 195.88.211.210   # ID  AS214882  Hadi Santosa
@@ -801,6 +808,7 @@
 202.51.208.195   # ID  AS55685   PT Jala Lintas Media
 202.51.214.98    # ID  AS10220   PT. Kreasi Sejahtera Teknologi
 202.51.214.99    # ID  AS10220   PT. Kreasi Sejahtera Teknologi
+202.57.25.82     # ID  AS140469  PT Wahyu Adidaya Network
 202.57.28.132    # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.58.242.243   # ID  AS138050  Dinas Komunikasi Provins Jawa Barat
 202.6.231.187    # ID  AS23756   PADINET - Padi Internet
@@ -809,6 +817,7 @@
 202.72.196.75    # ID  AS18153   PT Multidata Rancana Prima
 202.93.133.140   # ID  AS4382    PT. Indonusa System Integrator Prima
 202.93.133.49    # ID  AS4382    PT. Indonusa System Integrator Prima
+203.128.78.87    # ID  AS18103   Neuviz Net
 203.128.78.90    # ID  AS18103   Neuviz Net
 203.128.83.106   # ID  AS18103   Neuviz Net
 203.142.72.194   # ID  AS17451   BIZNET NETWORKS
@@ -907,6 +916,7 @@
 36.37.92.210     # ID  AS4800    PT Aplikanusa Lintasarta
 36.50.151.66     # ID  AS63859   PT. Eka Mas Republik
 36.50.92.145     # ID  AS141642  PT Ring Media Nusantara
+36.64.1.29       # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.10.42      # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.104.250    # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.131.68     # ID  AS7713    PT Telekomunikasi Indonesia
@@ -992,6 +1002,7 @@
 43.133.153.33    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.201.202   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.210.9     # ID  AS132203  Tencent Building, Kejizhongyi Avenue
+43.157.240.204   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.242.235   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.248.178   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.251.166   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
@@ -1021,6 +1032,7 @@
 46.202.138.127   # ID  AS47583   Hostinger International Limited
 46.202.186.15    # ID  AS47583   Hostinger International Limited
 46.202.186.57    # ID  AS47583   Hostinger International Limited
+46.202.186.89    # ID  AS47583   Hostinger International Limited
 49.128.179.75    # ID  AS55666   PT Media Sarana Data
 58.147.186.81    # ID  AS24534   PT. Transhybrid Communication
 58.147.187.189   # ID  AS24534   PT. Transhybrid Communication
