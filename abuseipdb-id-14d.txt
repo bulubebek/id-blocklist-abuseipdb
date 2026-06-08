@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1268
-# Last updated:           2026-06-08 11:03:27
+# Number of ips:          1275
+# Last updated:           2026-06-08 15:59:13
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -358,6 +358,7 @@
 103.26.209.157   # ID  AS18103   Neuviz Net
 103.26.209.181   # ID  AS18103   Neuviz Net
 103.27.206.6     # ID  AS55688   PT. Beon Intermedia
+103.27.206.64    # ID  AS55688   PT. Beon Intermedia
 103.27.36.2      # ID  AS132670  PT Aseli Dagadu Djokdja
 103.28.16.162    # ID  AS150254  PT Centrix Media Teknologi
 103.29.185.162   # ID  AS56260   PT Pascal Indonesia
@@ -557,6 +558,7 @@
 103.82.92.46     # ID  AS136052  PT Cloud Hosting Indonesia
 103.82.92.50     # ID  AS136052  PT Cloud Hosting Indonesia
 103.82.92.82     # ID  AS136052  PT Cloud Hosting Indonesia
+103.82.93.132    # ID  AS136052  PT Cloud Hosting Indonesia
 103.83.175.7     # ID  AS132641  PT Netciti Persada
 103.83.237.25    # ID  AS150540  PT. Kalam Digital Signalindo
 103.83.98.155    # ID  AS45305   Lintas Data Prima, PT
@@ -716,6 +718,8 @@
 153.92.8.48      # ID  AS47583   Hostinger International Limited
 153.92.8.8       # ID  AS47583   Hostinger International Limited
 153.92.8.96      # ID  AS47583   Hostinger International Limited
+153.92.9.104     # ID  AS47583   Hostinger International Limited
+153.92.9.111     # ID  AS47583   Hostinger International Limited
 153.92.9.180     # ID  AS47583   Hostinger International Limited
 154.19.37.146    # ID  AS55688   PT. Beon Intermedia
 154.19.37.199    # ID  AS55688   PT. Beon Intermedia
@@ -890,6 +894,7 @@
 182.253.209.189  # ID  AS17451   BIZNET NETWORKS
 182.253.240.91   # ID  AS17451   BIZNET NETWORKS
 182.253.31.67    # ID  AS17451   BIZNET NETWORKS
+182.253.50.139   # ID  AS17451   BIZNET NETWORKS
 182.253.79.194   # ID  AS17451   BIZNET NETWORKS
 182.253.79.195   # ID  AS17451   BIZNET NETWORKS
 182.253.89.116   # ID  AS17451   BIZNET NETWORKS
@@ -945,6 +950,7 @@
 202.169.46.83    # ID  AS17451   BIZNET NETWORKS
 202.180.17.173   # ID  AS38758   PT. HIPERNET INDODATA
 202.180.20.137   # ID  AS38758   PT. HIPERNET INDODATA
+202.180.31.154   # ID  AS38758   PT. HIPERNET INDODATA
 202.43.228.9     # ID  AS9422    PT SOLNET INDONESIA
 202.46.68.232    # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.46.85.198    # ID  AS9341    PT INDONESIA COMNETS PLUS
@@ -1054,6 +1060,7 @@
 27.50.25.190     # ID  AS131111  PT Mora Telematika Indonesia
 31.97.221.238    # ID  AS47583   Hostinger International Limited
 31.97.222.188    # ID  AS47583   Hostinger International Limited
+34.101.101.253   # ID  AS396982  Google LLC
 34.101.106.238   # ID  AS396982  Google LLC
 34.101.111.76    # ID  AS396982  Google LLC
 34.101.140.25    # ID  AS396982  Google LLC
