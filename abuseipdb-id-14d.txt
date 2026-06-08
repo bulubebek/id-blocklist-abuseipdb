@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1275
-# Last updated:           2026-06-08 15:59:13
+# Number of ips:          1280
+# Last updated:           2026-06-08 20:22:54
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -918,6 +918,7 @@
 202.10.39.5      # ID  AS58487   CV. Rumahweb Indonesia
 202.10.40.121    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.40.201    # ID  AS58487   CV. Rumahweb Indonesia
+202.10.41.188    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.41.225    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.41.249    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.43.162    # ID  AS58487   CV. Rumahweb Indonesia
@@ -927,6 +928,7 @@
 202.125.94.159   # ID  AS46042   Gunadarma University
 202.125.94.71    # ID  AS46042   Gunadarma University
 202.125.95.80    # ID  AS46042   Gunadarma University
+202.138.225.203  # ID  AS9657    Melsa-i-net AS
 202.145.0.112    # ID  AS17884   PT. Uninet Media Sakti (ISP)
 202.145.0.18     # ID  AS17884   PT. Uninet Media Sakti (ISP)
 202.145.0.61     # ID  AS17884   PT. Uninet Media Sakti (ISP)
@@ -940,6 +942,7 @@
 202.155.143.189  # ID  AS151592  PT Awan Data Teknologi
 202.155.143.247  # ID  AS151592  PT Awan Data Teknologi
 202.155.157.129  # ID  AS138115  PT Deneva
+202.155.18.103   # ID  -         -
 202.155.18.163   # ID  -         -
 202.155.18.249   # ID  -         -
 202.158.53.202   # ID  AS4787    PT Cyberindo Aditama
@@ -1169,6 +1172,7 @@
 36.93.152.155    # ID  AS7713    PT Telekomunikasi Indonesia
 36.93.154.207    # ID  AS7713    PT Telekomunikasi Indonesia
 36.93.249.106    # ID  AS7713    PT Telekomunikasi Indonesia
+36.94.56.242     # ID  AS7713    PT Telekomunikasi Indonesia
 36.95.14.145     # ID  AS7713    PT Telekomunikasi Indonesia
 36.95.16.251     # ID  AS7713    PT Telekomunikasi Indonesia
 36.95.194.50     # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1202,6 +1206,7 @@
 43.157.201.202   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.206.189   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.210.9     # ID  AS132203  Tencent Building, Kejizhongyi Avenue
+43.157.224.34    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.240.204   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.242.235   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.248.178   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
