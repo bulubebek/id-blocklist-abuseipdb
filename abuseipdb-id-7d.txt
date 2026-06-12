@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1098
-# Last updated:           2026-06-12 15:22:58
+# Number of ips:          1102
+# Last updated:           2026-06-12 20:14:45
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -115,6 +115,7 @@
 103.164.235.138  # ID  AS141916  PT Bantani Media Utama
 103.164.252.237  # ID  AS141918  PT DesktopIP Teknologi Indonesia
 103.164.57.37    # ID  AS141903  PT Natha Buana Indonesia
+103.165.127.196  # ID  AS17995   PT iForte Global Internet
 103.165.128.173  # ID  AS17995   PT iForte Global Internet
 103.165.139.145  # ID  AS17995   PT iForte Global Internet
 103.165.206.238  # ID  AS17995   PT iForte Global Internet
@@ -686,6 +687,7 @@
 157.66.55.50     # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.56.225    # ID  AS58477   Argon Data Communication
 157.66.56.90     # ID  AS58477   Argon Data Communication
+157.85.210.71    # ID  AS139994  PT XL Axiata Tbk
 160.187.174.22   # ID  AS153135  PT Netindo Persada Nusantara
 160.19.146.209   # ID  AS152775  PT Taska Sarana Nusantara
 160.19.156.35    # ID  AS152768  PT Tiga Pilar Banua
@@ -748,6 +750,7 @@
 180.178.94.223   # ID  AS45722   Widya Intersat Nusantara, PT
 180.178.94.73    # ID  AS45722   Widya Intersat Nusantara, PT
 180.240.181.38   # ID  AS7713    PT Telekomunikasi Indonesia
+180.243.191.155  # ID  AS7713    PT Telekomunikasi Indonesia
 180.243.253.189  # ID  AS7713    PT Telekomunikasi Indonesia
 180.243.254.154  # ID  AS7713    PT Telekomunikasi Indonesia
 180.243.255.71   # ID  AS7713    PT Telekomunikasi Indonesia
@@ -790,6 +793,7 @@
 195.88.211.165   # ID  AS214882  Hadi Santosa
 195.88.211.210   # ID  AS214882  Hadi Santosa
 195.88.211.70    # ID  AS214882  Hadi Santosa
+202.10.36.104    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.40.201    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.41.188    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.41.249    # ID  AS58487   CV. Rumahweb Indonesia

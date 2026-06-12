@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          790
-# Last updated:           2026-06-12 15:22:58
+# Number of ips:          800
+# Last updated:           2026-06-12 20:14:46
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -87,6 +87,7 @@
 103.164.235.138  # ID  AS141916  PT Bantani Media Utama
 103.164.252.237  # ID  AS141918  PT DesktopIP Teknologi Indonesia
 103.164.57.37    # ID  AS141903  PT Natha Buana Indonesia
+103.165.127.196  # ID  AS17995   PT iForte Global Internet
 103.165.128.173  # ID  AS17995   PT iForte Global Internet
 103.165.139.145  # ID  AS17995   PT iForte Global Internet
 103.165.206.238  # ID  AS17995   PT iForte Global Internet
@@ -159,6 +160,7 @@
 103.181.143.216  # ID  AS136052  PT Cloud Hosting Indonesia
 103.181.143.99   # ID  AS136052  PT Cloud Hosting Indonesia
 103.182.189.190  # ID  AS17995   PT iForte Global Internet
+103.182.189.90   # ID  AS17995   PT iForte Global Internet
 103.182.192.126  # ID  AS17995   PT iForte Global Internet
 103.182.192.6    # ID  AS17995   PT iForte Global Internet
 103.182.200.10   # ID  AS17995   PT iForte Global Internet
@@ -191,7 +193,11 @@
 103.186.1.197    # ID  AS136052  PT Cloud Hosting Indonesia
 103.186.1.20     # ID  AS136052  PT Cloud Hosting Indonesia
 103.186.1.59     # ID  AS136052  PT Cloud Hosting Indonesia
+103.186.31.182   # ID  AS141892  CV Andhika Pratama Sanggoro
+103.186.31.45    # ID  AS141892  CV Andhika Pratama Sanggoro
+103.186.31.46    # ID  AS141892  CV Andhika Pratama Sanggoro
 103.186.31.66    # ID  AS141892  CV Andhika Pratama Sanggoro
+103.186.35.98    # ID  AS142319  PT Telemedia Komunikasi Pratama
 103.187.165.26   # ID  AS149897  PT Amanusa Telemedia Mahardika
 103.188.170.216  # ID  AS58369   PT. Fiber Networks Indonesia
 103.188.170.59   # ID  AS58369   PT. Fiber Networks Indonesia
@@ -531,6 +537,7 @@
 157.66.55.50     # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.56.225    # ID  AS58477   Argon Data Communication
 157.66.56.90     # ID  AS58477   Argon Data Communication
+157.85.210.71    # ID  AS139994  PT XL Axiata Tbk
 160.187.174.22   # ID  AS153135  PT Netindo Persada Nusantara
 160.22.193.35    # ID  AS152830  PT Elemen Jaringan Nusantara
 160.25.118.116   # ID  AS153096  PT High Speed Connection Network
@@ -573,10 +580,12 @@
 180.178.94.217   # ID  AS45722   Widya Intersat Nusantara, PT
 180.178.94.218   # ID  AS45722   Widya Intersat Nusantara, PT
 180.178.94.219   # ID  AS45722   Widya Intersat Nusantara, PT
+180.178.94.220   # ID  AS45722   Widya Intersat Nusantara, PT
 180.178.94.221   # ID  AS45722   Widya Intersat Nusantara, PT
 180.178.94.222   # ID  AS45722   Widya Intersat Nusantara, PT
 180.178.94.223   # ID  AS45722   Widya Intersat Nusantara, PT
 180.178.94.73    # ID  AS45722   Widya Intersat Nusantara, PT
+180.243.191.155  # ID  AS7713    PT Telekomunikasi Indonesia
 180.243.255.91   # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.187.139  # ID  AS7713    PT Telekomunikasi Indonesia
 180.247.59.24    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -602,6 +611,7 @@
 182.8.182.229    # ID  AS23693   PT. Telekomunikasi Selular
 195.88.211.165   # ID  AS214882  Hadi Santosa
 195.88.211.210   # ID  AS214882  Hadi Santosa
+202.10.36.104    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.40.201    # ID  AS58487   CV. Rumahweb Indonesia
 202.10.45.93     # ID  AS58487   CV. Rumahweb Indonesia
 202.10.46.127    # ID  AS58487   CV. Rumahweb Indonesia
