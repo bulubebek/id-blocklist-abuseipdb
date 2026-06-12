@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1079
-# Last updated:           2026-06-12 04:20:43
+# Number of ips:          1083
+# Last updated:           2026-06-12 10:19:16
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -41,11 +41,13 @@
 103.122.34.142   # ID  AS131111  PT Mora Telematika Indonesia
 103.122.66.226   # ID  AS138064  PT. Jinom Network Indonesia
 103.122.67.223   # ID  AS138064  PT. Jinom Network Indonesia
+103.124.196.101  # ID  AS138096  PT INFORMASI NUSANTARA TEKNOLOGI
 103.125.103.201  # ID  AS38513   PT Aplikanusa Lintasarta
 103.126.116.125  # ID  AS133800  PT Biznet Gio Nusantara
 103.126.117.26   # ID  AS133800  PT Biznet Gio Nusantara
 103.126.117.76   # ID  AS133800  PT Biznet Gio Nusantara
 103.126.201.181  # ID  AS138113  PT Amron Citinet
+103.126.30.33    # ID  AS138119  PT Integra Kreasitama Solusindo
 103.126.30.61    # ID  AS138119  PT Integra Kreasitama Solusindo
 103.126.87.206   # ID  AS138109  PT. Rasi Bintang Perkasa
 103.127.133.131  # ID  AS133800  PT Biznet Gio Nusantara
@@ -772,6 +774,7 @@
 182.253.79.194   # ID  AS17451   BIZNET NETWORKS
 182.253.79.195   # ID  AS17451   BIZNET NETWORKS
 182.8.178.24     # ID  AS23693   PT. Telekomunikasi Selular
+182.8.182.1      # ID  AS23693   PT. Telekomunikasi Selular
 182.8.182.229    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.183.212    # ID  AS23693   PT. Telekomunikasi Selular
 185.124.136.35   # ID  AS47583   Hostinger International Limited
@@ -801,6 +804,7 @@
 202.155.143.189  # ID  AS151592  PT Awan Data Teknologi
 202.155.18.103   # ID  -         -
 202.155.18.163   # ID  -         -
+202.155.19.8     # ID  -         -
 202.162.198.19   # ID  AS23679   PT. Media Antar Nusa
 202.162.204.183  # ID  AS23679   PT. Media Antar Nusa
 202.162.33.222   # ID  AS17996   PT Global Prima Utama
