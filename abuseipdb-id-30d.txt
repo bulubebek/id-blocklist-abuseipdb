@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1662
-# Last updated:           2026-06-14 04:26:16
+# Number of ips:          1664
+# Last updated:           2026-06-14 09:40:54
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -20,6 +20,7 @@
 101.255.81.90    # ID  AS38511   PT Remala Abadi
 103.100.175.104  # ID  AS136841  PT MITRA TELEMEDIA MANUNGGAL
 103.100.84.116   # ID  AS136834  POLITANI Pangkep
+103.101.193.46   # ID  AS150468  PT Bintang Teknologi Sejahtera
 103.101.216.218  # ID  AS150941  PT Duta Trans Nusantara Network
 103.101.216.219  # ID  AS150941  PT Duta Trans Nusantara Network
 103.101.216.26   # ID  AS150941  PT Duta Trans Nusantara Network
@@ -1101,6 +1102,7 @@
 182.23.54.125    # ID  AS4800    PT Aplikanusa Lintasarta
 182.253.116.213  # ID  AS17451   BIZNET NETWORKS
 182.253.116.214  # ID  AS17451   BIZNET NETWORKS
+182.253.133.185  # ID  AS17451   BIZNET NETWORKS
 182.253.14.138   # ID  AS17451   BIZNET NETWORKS
 182.253.14.139   # ID  AS17451   BIZNET NETWORKS
 182.253.14.92    # ID  AS17451   BIZNET NETWORKS
