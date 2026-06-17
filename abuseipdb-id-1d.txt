@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          674
-# Last updated:           2026-06-17 11:03:28
+# Number of ips:          675
+# Last updated:           2026-06-17 15:42:16
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -465,6 +465,7 @@
 168.110.208.164  # ID  AS31898   Oracle Corporation
 168.110.215.172  # ID  AS31898   Oracle Corporation
 168.110.216.139  # ID  AS31898   Oracle Corporation
+168.110.223.205  # ID  AS31898   Oracle Corporation
 180.178.94.208   # ID  AS45722   Widya Intersat Nusantara, PT
 180.178.94.209   # ID  AS45722   Widya Intersat Nusantara, PT
 180.178.94.210   # ID  AS45722   Widya Intersat Nusantara, PT
