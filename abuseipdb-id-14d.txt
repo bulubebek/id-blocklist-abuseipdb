@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1305
-# Last updated:           2026-06-18 04:20:32
+# Number of ips:          1309
+# Last updated:           2026-06-18 10:25:50
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -381,6 +381,7 @@
 103.3.222.55     # ID  AS139994  PT XL Axiata Tbk
 103.31.204.113   # ID  AS133800  PT Biznet Gio Nusantara
 103.31.205.87    # ID  AS133800  PT Biznet Gio Nusantara
+103.31.249.53    # ID  AS139427  PT Lintas Persada Optika
 103.31.249.57    # ID  AS139427  PT Lintas Persada Optika
 103.31.38.209    # ID  AS136052  PT Cloud Hosting Indonesia
 103.31.38.83     # ID  AS136052  PT Cloud Hosting Indonesia
@@ -784,6 +785,7 @@
 157.15.66.90     # ID  AS152377  PT Trimitra Aditama Koneksindo
 157.15.67.253    # ID  AS152377  PT Trimitra Aditama Koneksindo
 157.15.73.34     # ID  AS150187  PT Indo Teknologi Konstruksi
+157.15.78.122    # ID  AS152367  PT Box Net Media
 157.20.159.54    # ID  AS141120  PT Warna Data Multimedia
 157.20.189.179   # ID  AS152422  Dinas Komunikasi dan Informatika Kabupaten Lamongan
 157.20.207.165   # ID  AS152436  PT Erajaya Telco Indonesia
@@ -869,6 +871,7 @@
 180.178.94.73    # ID  AS45722   Widya Intersat Nusantara, PT
 180.240.181.38   # ID  AS7713    PT Telekomunikasi Indonesia
 180.243.191.155  # ID  AS7713    PT Telekomunikasi Indonesia
+180.243.252.249  # ID  AS7713    PT Telekomunikasi Indonesia
 180.243.253.189  # ID  AS7713    PT Telekomunikasi Indonesia
 180.243.254.154  # ID  AS7713    PT Telekomunikasi Indonesia
 180.243.255.71   # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1236,6 +1239,7 @@
 43.133.153.33    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.133.156.85    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.201.202   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
+43.157.203.234   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.205.139   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.210.132   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.210.9     # ID  AS132203  Tencent Building, Kejizhongyi Avenue
