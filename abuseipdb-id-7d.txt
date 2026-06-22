@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          897
-# Last updated:           2026-06-22 12:10:57
+# Number of ips:          904
+# Last updated:           2026-06-22 20:51:55
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -37,6 +37,7 @@
 103.124.196.101  # ID  AS138096  PT INFORMASI NUSANTARA TEKNOLOGI
 103.126.117.26   # ID  AS133800  PT Biznet Gio Nusantara
 103.126.30.13    # ID  AS138119  PT Integra Kreasitama Solusindo
+103.126.30.33    # ID  AS138119  PT Integra Kreasitama Solusindo
 103.127.132.178  # ID  AS133800  PT Biznet Gio Nusantara
 103.129.221.202  # ID  AS138062  PT. Awan Kilat Semesta
 103.131.61.163   # ID  AS138126  PT. NEWTON CIPTA INFORMATIKA
@@ -293,6 +294,7 @@
 103.41.247.76    # ID  AS133802  Universitas Pasundan Bandung
 103.41.79.148    # ID  AS136093  PT Mitra Lintas Multimedia
 103.42.243.35    # ID  AS151595  PT Merdeka Media Teknologi
+103.49.223.111   # ID  AS24211   PT. Detik Ini JUga
 103.49.238.104   # ID  AS136052  PT Cloud Hosting Indonesia
 103.49.238.126   # ID  AS136052  PT Cloud Hosting Indonesia
 103.49.238.134   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -321,6 +323,7 @@
 103.52.114.250   # ID  AS136052  PT Cloud Hosting Indonesia
 103.52.115.189   # ID  AS136052  PT Cloud Hosting Indonesia
 103.52.115.76    # ID  AS136052  PT Cloud Hosting Indonesia
+103.54.80.147    # ID  AS45305   Lintas Data Prima, PT
 103.55.216.2     # ID  AS133824  Universitas Islam Negeri Alauddin Makasar
 103.56.70.243    # ID  AS133825  Universitas Pattimura
 103.59.160.135   # ID  AS150493  PT Gunung Sedayu Sentosa
@@ -377,6 +380,7 @@
 103.63.25.53     # ID  AS136052  PT Cloud Hosting Indonesia
 103.63.25.61     # ID  AS136052  PT Cloud Hosting Indonesia
 103.63.25.79     # ID  AS136052  PT Cloud Hosting Indonesia
+103.65.236.149   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.65.237.194   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.66.198.234   # ID  AS131111  PT Mora Telematika Indonesia
 103.67.244.133   # ID  AS138115  PT Deneva
@@ -456,6 +460,7 @@
 114.10.47.5      # ID  AS4761    INDOSAT Internet Network Provider
 114.141.51.170   # ID  AS38771   PT Cyberplus Media Pratama
 114.141.59.195   # ID  AS142362  PT Sukma Sejati Media
+114.4.240.82     # ID  AS4761    INDOSAT Internet Network Provider
 114.7.0.150      # ID  AS4761    INDOSAT Internet Network Provider
 114.9.48.34      # ID  AS4761    INDOSAT Internet Network Provider
 115.124.73.145   # ID  AS38511   PT Remala Abadi
@@ -596,6 +601,7 @@
 163.7.9.55       # ID  AS150436  Byteplus Pte. Ltd.
 163.7.9.84       # ID  AS150436  Byteplus Pte. Ltd.
 165.101.18.132   # ID  AS153985  PT LAYANAN SERVER INDONESIA
+165.101.231.114  # ID  AS141127  PT Anugerah Cimanuk Raya
 165.154.150.65   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 165.154.151.176  # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 165.154.151.207  # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
@@ -610,6 +616,7 @@
 168.110.216.139  # ID  AS31898   Oracle Corporation
 168.110.223.205  # ID  AS31898   Oracle Corporation
 172.232.232.104  # ID  AS63949   Akamai Connected Cloud
+172.235.240.148  # ID  AS63949   Akamai Connected Cloud
 172.235.255.170  # ID  AS63949   Akamai Connected Cloud
 180.131.131.177  # ID  AS150478  PT Solusi Teknologi Gemilang
 180.148.25.42    # ID  AS154201  PT GIGA NETWORK INDONESIA
