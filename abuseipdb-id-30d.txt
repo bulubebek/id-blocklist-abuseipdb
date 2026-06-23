@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1642
-# Last updated:           2026-06-23 03:54:16
+# Number of ips:          1646
+# Last updated:           2026-06-23 09:48:56
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -634,6 +634,7 @@
 103.74.5.44      # ID  AS135444  PT Ikubaru Indonesia
 103.75.54.67     # ID  AS46023   PT Quantum Tera Network
 103.75.96.130    # ID  AS131111  PT Mora Telematika Indonesia
+103.76.107.2     # ID  AS151577  PT Geka Solusi Utama
 103.76.120.106   # ID  AS136052  PT Cloud Hosting Indonesia
 103.76.120.118   # ID  AS136052  PT Cloud Hosting Indonesia
 103.76.120.139   # ID  AS136052  PT Cloud Hosting Indonesia
@@ -979,6 +980,7 @@
 163.7.10.112     # ID  AS150436  Byteplus Pte. Ltd.
 163.7.11.126     # ID  AS150436  Byteplus Pte. Ltd.
 163.7.11.155     # ID  AS150436  Byteplus Pte. Ltd.
+163.7.11.230     # ID  AS150436  Byteplus Pte. Ltd.
 163.7.12.183     # ID  AS150436  Byteplus Pte. Ltd.
 163.7.2.186      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.22.107     # ID  AS150436  Byteplus Pte. Ltd.
@@ -1066,6 +1068,7 @@
 180.244.187.139  # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.187.142  # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.187.73   # ID  AS7713    PT Telekomunikasi Indonesia
+180.245.144.97   # ID  AS7713    PT Telekomunikasi Indonesia
 180.247.56.166   # ID  AS7713    PT Telekomunikasi Indonesia
 180.247.59.226   # ID  AS7713    PT Telekomunikasi Indonesia
 180.247.59.24    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1131,6 +1134,7 @@
 182.8.228.26     # ID  AS23693   PT. Telekomunikasi Selular
 185.124.136.35   # ID  AS47583   Hostinger International Limited
 185.213.83.135   # ID  AS147049  PacketHub S.A.
+185.213.83.175   # ID  AS147049  PacketHub S.A.
 195.35.55.118    # ID  AS47583   Hostinger International Limited
 195.88.211.165   # ID  AS214882  Hadi Santosa
 195.88.211.190   # ID  AS214882  Hadi Santosa
