@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1207
-# Last updated:           2026-06-23 14:56:17
+# Number of ips:          1209
+# Last updated:           2026-06-23 20:10:03
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -40,6 +40,7 @@
 103.119.139.118  # ID  AS137381  Dinas Komunikasi dan Informatika Kabupaten Grobogan
 103.122.1.117    # ID  AS135477  PT. Java Digital Nusantara
 103.122.34.142   # ID  AS131111  PT Mora Telematika Indonesia
+103.122.66.226   # ID  AS138064  PT. Jinom Network Indonesia
 103.122.67.223   # ID  AS138064  PT. Jinom Network Indonesia
 103.124.137.202  # ID  AS138089  PT.Global Media Data Prima
 103.124.139.241  # ID  AS138089  PT.Global Media Data Prima
@@ -537,6 +538,7 @@
 103.76.120.90    # ID  AS136052  PT Cloud Hosting Indonesia
 103.76.203.207   # ID  AS135480  PT. Arjuna Global Teknologi Indonesia
 103.77.106.57    # ID  AS135450  PT Berkah Solusi Teknologi Informasi
+103.77.107.222   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.107.57    # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.78.97.230    # ID  AS131111  PT Mora Telematika Indonesia
 103.79.244.210   # ID  AS150949  PT RumahNET Internusa
