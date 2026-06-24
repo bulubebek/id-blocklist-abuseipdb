@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1172
-# Last updated:           2026-06-24 14:38:37
+# Number of ips:          1176
+# Last updated:           2026-06-24 19:50:43
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -488,6 +488,7 @@
 103.63.25.79     # ID  AS136052  PT Cloud Hosting Indonesia
 103.65.236.149   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.65.237.194   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
+103.65.237.216   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.66.198.234   # ID  AS131111  PT Mora Telematika Indonesia
 103.67.244.133   # ID  AS138115  PT Deneva
 103.67.78.102    # ID  AS136052  PT Cloud Hosting Indonesia
@@ -922,6 +923,7 @@
 203.145.34.82    # ID  AS136052  PT Cloud Hosting Indonesia
 203.145.63.139   # ID  AS46023   PT Quantum Tera Network
 203.148.84.6     # ID  AS45289   Indotrans Data, PT
+203.153.108.123  # ID  AS24207   PT NettoCyber Indonesia
 203.160.61.18    # ID  AS24527   PT Hanastar dakara
 203.175.11.252   # ID  AS58487   CV. Rumahweb Indonesia
 203.175.125.114  # ID  AS139952  PT Trisari Data Indonusa
@@ -1030,6 +1032,7 @@
 36.66.16.233     # ID  AS7713    PT Telekomunikasi Indonesia
 36.67.103.169    # ID  AS7713    PT Telekomunikasi Indonesia
 36.67.165.162    # ID  AS7713    PT Telekomunikasi Indonesia
+36.67.197.203    # ID  AS7713    PT Telekomunikasi Indonesia
 36.67.6.139      # ID  AS7713    PT Telekomunikasi Indonesia
 36.68.124.48     # ID  AS7713    PT Telekomunikasi Indonesia
 36.68.130.234    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1168,6 +1171,7 @@
 69.5.23.222      # ID  AS150436  Byteplus Pte. Ltd.
 69.5.7.218       # ID  AS150436  Byteplus Pte. Ltd.
 70.153.147.137   # ID  AS8075    Microsoft Corporation
+70.153.17.199    # ID  AS8075    Microsoft Corporation
 70.153.184.32    # ID  AS8075    Microsoft Corporation
 70.153.188.47    # ID  AS8075    Microsoft Corporation
 70.153.192.146   # ID  AS8075    Microsoft Corporation
