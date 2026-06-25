@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1637
-# Last updated:           2026-06-25 14:39:14
+# Number of ips:          1641
+# Last updated:           2026-06-25 20:05:15
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -965,6 +965,7 @@
 163.7.11.126     # ID  AS150436  Byteplus Pte. Ltd.
 163.7.11.155     # ID  AS150436  Byteplus Pte. Ltd.
 163.7.11.230     # ID  AS150436  Byteplus Pte. Ltd.
+163.7.11.69      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.12.183     # ID  AS150436  Byteplus Pte. Ltd.
 163.7.2.186      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.22.107     # ID  AS150436  Byteplus Pte. Ltd.
@@ -1360,6 +1361,7 @@
 34.128.123.44    # ID  AS396982  Google LLC
 34.128.127.91    # ID  AS396982  Google LLC
 34.128.77.56     # ID  AS396982  Google LLC
+34.128.79.208    # ID  AS396982  Google LLC
 34.128.93.18     # ID  AS396982  Google LLC
 34.128.95.203    # ID  AS396982  Google LLC
 34.34.223.108    # ID  AS396982  Google LLC
@@ -1517,6 +1519,7 @@
 36.95.55.131     # ID  AS7713    PT Telekomunikasi Indonesia
 36.95.77.99      # ID  AS7713    PT Telekomunikasi Indonesia
 38.147.122.123   # ID  AS55688   PT. Beon Intermedia
+38.147.122.163   # ID  AS55688   PT. Beon Intermedia
 38.226.44.2      # ID  AS142307  PT CYB Media Group
 38.253.239.21    # ID  AS141146  PT Indonesia Telekomunikasi Teknologi
 38.47.83.117     # ID  AS59134   PT. Datacomm Diangraha
@@ -1613,6 +1616,7 @@
 70.153.184.32    # ID  AS8075    Microsoft Corporation
 70.153.188.47    # ID  AS8075    Microsoft Corporation
 70.153.192.146   # ID  AS8075    Microsoft Corporation
+70.153.25.72     # ID  AS8075    Microsoft Corporation
 70.153.81.141    # ID  AS8075    Microsoft Corporation
 70.153.96.99     # ID  AS8075    Microsoft Corporation
 72.60.72.197     # ID  AS47583   Hostinger International Limited
