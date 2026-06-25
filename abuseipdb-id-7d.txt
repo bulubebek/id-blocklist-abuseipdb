@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          841
-# Last updated:           2026-06-25 03:56:36
+# Number of ips:          845
+# Last updated:           2026-06-25 09:28:01
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -251,6 +251,7 @@
 103.253.244.222  # ID  AS140389  PT Dewa Bisnis Digital
 103.253.244.242  # ID  AS140389  PT Dewa Bisnis Digital
 103.26.188.11    # ID  AS142319  PT Telemedia Komunikasi Pratama
+103.26.209.157   # ID  AS18103   Neuviz Net
 103.26.209.181   # ID  AS18103   Neuviz Net
 103.28.16.162    # ID  AS150254  PT Centrix Media Teknologi
 103.29.185.162   # ID  AS56260   PT Pascal Indonesia
@@ -598,6 +599,7 @@
 180.252.147.158  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.150.60   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.158.64   # ID  AS7713    PT Telekomunikasi Indonesia
+182.11.154.100   # ID  AS23693   PT. Telekomunikasi Selular
 182.13.96.107    # ID  AS23693   PT. Telekomunikasi Selular
 182.16.252.18    # ID  AS45298   INTERLINK TECHNOLOGY, PT
 182.160.54.167   # ID  AS136907  HUAWEI CLOUDS
@@ -721,6 +723,7 @@
 27.112.79.178    # ID  AS136052  PT Cloud Hosting Indonesia
 27.112.79.9      # ID  AS136052  PT Cloud Hosting Indonesia
 27.121.83.84     # ID  AS55652   Sumidhaz Permata Bunda, PT
+27.124.75.84     # ID  AS152052  PT Arsa Work Indonesia
 34.101.127.234   # ID  AS396982  Google LLC
 34.101.189.231   # ID  AS396982  Google LLC
 34.101.74.212    # ID  AS396982  Google LLC
@@ -729,6 +732,7 @@
 34.128.111.153   # ID  AS396982  Google LLC
 34.128.77.56     # ID  AS396982  Google LLC
 34.34.223.108    # ID  AS396982  Google LLC
+34.50.111.135    # ID  AS396982  Google LLC
 36.37.111.10     # ID  AS4800    PT Aplikanusa Lintasarta
 36.37.117.50     # ID  AS4800    PT Aplikanusa Lintasarta
 36.37.69.163     # ID  AS4800    PT Aplikanusa Lintasarta
