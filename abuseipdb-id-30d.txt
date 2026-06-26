@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1628
-# Last updated:           2026-06-26 09:33:25
+# Number of ips:          1633
+# Last updated:           2026-06-26 14:32:20
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -316,6 +316,7 @@
 103.186.1.197    # ID  AS136052  PT Cloud Hosting Indonesia
 103.186.1.20     # ID  AS136052  PT Cloud Hosting Indonesia
 103.186.1.59     # ID  AS136052  PT Cloud Hosting Indonesia
+103.186.11.70    # ID  AS4800    PT Aplikanusa Lintasarta
 103.186.30.230   # ID  AS141892  CV Andhika Pratama Sanggoro
 103.186.31.182   # ID  AS141892  CV Andhika Pratama Sanggoro
 103.186.31.247   # ID  AS141892  CV Andhika Pratama Sanggoro
@@ -718,6 +719,7 @@
 111.68.120.152   # ID  AS45287   Varnion Technology Semesta, PT
 111.68.25.6      # ID  AS55666   PT Media Sarana Data
 112.78.135.82    # ID  AS38482   Biznet ISP
+112.78.187.211   # ID  AS38482   Biznet ISP
 113.20.30.146    # ID  AS45731   ARDH GLOBAL INDONESIA, PT
 114.10.44.205    # ID  AS4761    INDOSAT Internet Network Provider
 114.10.47.235    # ID  AS4761    INDOSAT Internet Network Provider
@@ -1465,6 +1467,7 @@
 36.88.164.114    # ID  AS7713    PT Telekomunikasi Indonesia
 36.88.164.98     # ID  AS7713    PT Telekomunikasi Indonesia
 36.89.252.106    # ID  AS7713    PT Telekomunikasi Indonesia
+36.89.252.178    # ID  AS7713    PT Telekomunikasi Indonesia
 36.89.252.58     # ID  AS7713    PT Telekomunikasi Indonesia
 36.91.108.27     # ID  AS7713    PT Telekomunikasi Indonesia
 36.91.145.235    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1539,6 +1542,7 @@
 43.157.224.34    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.240.204   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.242.235   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
+43.157.243.191   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.247.85    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.248.178   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.251.166   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
@@ -1608,6 +1612,7 @@
 70.153.96.99     # ID  AS8075    Microsoft Corporation
 72.60.72.197     # ID  AS47583   Hostinger International Limited
 72.60.78.83      # ID  AS47583   Hostinger International Limited
+72.61.209.11     # ID  AS47583   Hostinger International Limited
 77.37.81.70      # ID  AS47583   Hostinger International Limited
 8.215.205.243    # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.24.140     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
