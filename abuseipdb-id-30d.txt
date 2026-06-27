@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1619
-# Last updated:           2026-06-27 08:40:31
+# Number of ips:          1623
+# Last updated:           2026-06-27 13:50:10
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -1093,6 +1093,7 @@
 182.253.79.195   # ID  AS17451   BIZNET NETWORKS
 182.253.89.115   # ID  AS17451   BIZNET NETWORKS
 182.253.89.116   # ID  AS17451   BIZNET NETWORKS
+182.253.89.119   # ID  AS17451   BIZNET NETWORKS
 182.8.161.100    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.161.191    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.161.230    # ID  AS23693   PT. Telekomunikasi Selular
@@ -1189,6 +1190,7 @@
 202.6.231.187    # ID  AS23756   PADINET - Padi Internet
 202.6.238.242    # ID  AS23756   PADINET - Padi Internet
 202.61.124.68    # ID  AS55661   PT Informasi Teknologi Indonesia
+202.65.118.212   # ID  AS23951   PT JEMBATAN CITRA NUSANTARA
 202.65.121.211   # ID  AS23951   PT JEMBATAN CITRA NUSANTARA
 202.72.196.75    # ID  AS18153   PT Multidata Rancana Prima
 202.77.108.186   # ID  AS9905    Linknet ASN
@@ -1330,6 +1332,7 @@
 34.101.62.96     # ID  AS396982  Google LLC
 34.101.65.109    # ID  AS396982  Google LLC
 34.101.67.208    # ID  AS396982  Google LLC
+34.101.69.2      # ID  AS396982  Google LLC
 34.101.72.10     # ID  AS396982  Google LLC
 34.101.72.225    # ID  AS396982  Google LLC
 34.101.74.212    # ID  AS396982  Google LLC
@@ -1426,6 +1429,7 @@
 36.78.107.60     # ID  AS7713    PT Telekomunikasi Indonesia
 36.78.148.216    # ID  AS7713    PT Telekomunikasi Indonesia
 36.78.149.71     # ID  AS7713    PT Telekomunikasi Indonesia
+36.78.151.154    # ID  AS7713    PT Telekomunikasi Indonesia
 36.79.231.52     # ID  AS7713    PT Telekomunikasi Indonesia
 36.79.232.215    # ID  AS7713    PT Telekomunikasi Indonesia
 36.79.236.127    # ID  AS7713    PT Telekomunikasi Indonesia
