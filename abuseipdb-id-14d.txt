@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1035
-# Last updated:           2026-07-02 14:09:40
+# Number of ips:          1039
+# Last updated:           2026-07-02 19:35:31
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -437,6 +437,7 @@
 103.8.195.18     # ID  AS4800    PT Aplikanusa Lintasarta
 103.8.238.177    # ID  AS132634  Direktorat E-Goverment Kementerian KOMINFO
 103.8.59.250     # ID  AS45707   Prime Link Communication, PT
+103.81.64.153    # ID  AS136055  PT Queen Network Nusantara
 103.82.14.51     # ID  AS131111  PT Mora Telematika Indonesia
 103.82.92.130    # ID  AS136052  PT Cloud Hosting Indonesia
 103.82.92.50     # ID  AS136052  PT Cloud Hosting Indonesia
@@ -690,6 +691,7 @@
 180.247.61.189   # ID  AS7713    PT Telekomunikasi Indonesia
 180.247.63.92    # ID  AS7713    PT Telekomunikasi Indonesia
 180.248.55.70    # ID  AS7713    PT Telekomunikasi Indonesia
+180.248.56.127   # ID  AS7713    PT Telekomunikasi Indonesia
 180.250.196.141  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.147.158  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.147.44   # ID  AS7713    PT Telekomunikasi Indonesia
@@ -751,6 +753,7 @@
 202.155.143.247  # ID  AS151592  PT Awan Data Teknologi
 202.155.157.145  # ID  AS138115  PT Deneva
 202.155.90.19    # ID  AS138115  PT Deneva
+202.155.94.204   # ID  AS138115  PT Deneva
 202.162.198.19   # ID  AS23679   PT. Media Antar Nusa
 202.162.204.183  # ID  AS23679   PT. Media Antar Nusa
 202.169.231.163  # ID  AS23671   PT. Sarana InsanMuda Selaras
@@ -1000,6 +1003,7 @@
 43.173.1.57      # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.173.1.69      # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.173.1.89      # ID  AS132203  Tencent Building, Kejizhongyi Avenue
+43.218.132.214   # ID  AS16509   Amazon.com, Inc.
 43.225.186.100   # ID  AS9422    PT SOLNET INDONESIA
 43.230.5.42      # ID  AS58558   PT Jagat Media Teknologi
 43.243.142.42    # ID  AS131111  PT Mora Telematika Indonesia
