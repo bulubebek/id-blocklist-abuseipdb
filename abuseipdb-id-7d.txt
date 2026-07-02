@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          727
-# Last updated:           2026-07-02 09:17:56
+# Number of ips:          736
+# Last updated:           2026-07-02 14:09:41
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -12,6 +12,7 @@
 101.128.94.203   # ID  AS135478  PT. Cyberindo Aditama
 101.128.99.142   # ID  AS135478  PT. Cyberindo Aditama
 101.255.125.2    # ID  AS38511   PT Remala Abadi
+103.100.175.104  # ID  AS136841  PT MITRA TELEMEDIA MANUNGGAL
 103.101.216.26   # ID  AS150941  PT Duta Trans Nusantara Network
 103.102.152.72   # ID  AS58404   PT Qwords Company International
 103.105.197.2    # ID  AS137287  DINAS KOMUNIKASI DAN INFORMATIKA KAB. BEKASI
@@ -316,6 +317,7 @@
 110.76.145.154   # ID  AS140481  PT Tonggak Teknologi Netikom
 111.68.120.152   # ID  AS45287   Varnion Technology Semesta, PT
 112.78.187.211   # ID  AS38482   Biznet ISP
+113.192.54.17    # ID  AS58495   PT Parsaoran Global Datatrans
 114.10.47.235    # ID  AS4761    INDOSAT Internet Network Provider
 114.141.51.170   # ID  AS38771   PT Cyberplus Media Pratama
 114.141.59.195   # ID  AS142362  PT Sukma Sejati Media
@@ -413,6 +415,8 @@
 157.85.212.49    # ID  AS139994  PT XL Axiata Tbk
 158.140.171.183  # ID  AS63859   PT. Eka Mas Republik
 16.78.21.156     # ID  AS16509   Amazon.com, Inc.
+16.78.23.247     # ID  AS16509   Amazon.com, Inc.
+16.79.112.1      # ID  AS16509   Amazon.com, Inc.
 160.187.165.50   # ID  AS153128  PT Techchandra Solusi Telematika
 160.187.174.22   # ID  AS153135  PT Netindo Persada Nusantara
 160.19.146.209   # ID  AS152775  PT Taska Sarana Nusantara
@@ -516,13 +520,16 @@
 202.162.198.19   # ID  AS23679   PT. Media Antar Nusa
 202.162.204.183  # ID  AS23679   PT. Media Antar Nusa
 202.169.44.105   # ID  AS17451   BIZNET NETWORKS
+202.180.20.138   # ID  AS38758   PT. HIPERNET INDODATA
 202.180.29.77    # ID  AS38758   PT. HIPERNET INDODATA
 202.4.170.20     # ID  AS45726   Lion Mentari Airlines, PT
 202.43.228.9     # ID  AS9422    PT SOLNET INDONESIA
 202.46.29.90     # ID  AS63491   Universitas Katolik Widya Mandala
 202.46.68.177    # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.46.92.242    # ID  AS9341    PT INDONESIA COMNETS PLUS
+202.51.101.250   # ID  AS17995   PT iForte Global Internet
 202.51.101.253   # ID  AS17995   PT iForte Global Internet
+202.51.104.162   # ID  AS17995   PT iForte Global Internet
 202.51.114.190   # ID  AS17995   PT iForte Global Internet
 202.51.202.242   # ID  AS55685   PT Jala Lintas Media
 202.51.214.98    # ID  AS10220   PT. Kreasi Sejahtera Teknologi
@@ -630,6 +637,7 @@
 36.67.165.162    # ID  AS7713    PT Telekomunikasi Indonesia
 36.67.197.203    # ID  AS7713    PT Telekomunikasi Indonesia
 36.67.6.139      # ID  AS7713    PT Telekomunikasi Indonesia
+36.68.125.159    # ID  AS7713    PT Telekomunikasi Indonesia
 36.68.130.234    # ID  AS7713    PT Telekomunikasi Indonesia
 36.68.131.238    # ID  AS7713    PT Telekomunikasi Indonesia
 36.68.186.7      # ID  AS7713    PT Telekomunikasi Indonesia
@@ -736,3 +744,4 @@
 8.215.89.194     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.90.193     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 9.154.222.189    # ID  AS131111  PT Mora Telematika Indonesia
+9.154.226.145    # ID  AS131111  PT Mora Telematika Indonesia
