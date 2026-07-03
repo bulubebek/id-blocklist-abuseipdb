@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1584
-# Last updated:           2026-07-03 09:23:55
+# Number of ips:          1585
+# Last updated:           2026-07-03 14:15:09
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -419,6 +419,7 @@
 103.253.244.242  # ID  AS140389  PT Dewa Bisnis Digital
 103.253.244.7    # ID  AS140389  PT Dewa Bisnis Digital
 103.253.244.94   # ID  AS140389  PT Dewa Bisnis Digital
+103.253.245.115  # ID  AS140389  PT Dewa Bisnis Digital
 103.253.245.232  # ID  AS140389  PT Dewa Bisnis Digital
 103.253.245.96   # ID  AS140389  PT Dewa Bisnis Digital
 103.253.68.13    # ID  AS132644  PT. Cyberindo Mega Persada
