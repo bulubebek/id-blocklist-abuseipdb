@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          976
-# Last updated:           2026-07-06 15:40:18
+# Number of ips:          977
+# Last updated:           2026-07-06 20:02:12
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -42,6 +42,7 @@
 103.126.30.85    # ID  AS138119  PT Integra Kreasitama Solusindo
 103.127.133.131  # ID  AS133800  PT Biznet Gio Nusantara
 103.129.221.202  # ID  AS138062  PT. Awan Kilat Semesta
+103.130.130.56   # ID  AS63859   PT. Eka Mas Republik
 103.131.17.32    # ID  AS138080  PT Global Media Inti Semesta
 103.131.61.163   # ID  AS138126  PT. NEWTON CIPTA INFORMATIKA
 103.132.230.62   # ID  AS138127  PEMERINTAH KABUPATEN MADIUN
