@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          950
-# Last updated:           2026-07-10 09:41:02
+# Number of ips:          956
+# Last updated:           2026-07-10 14:34:51
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -60,6 +60,7 @@
 103.137.83.51    # ID  AS138828  PT TELIO INTI NUSA
 103.138.68.157   # ID  AS138842  PT Internetwork Komunikasi Indonesia
 103.139.192.221  # ID  AS136052  PT Cloud Hosting Indonesia
+103.139.193.182  # ID  AS136052  PT Cloud Hosting Indonesia
 103.139.193.187  # ID  AS136052  PT Cloud Hosting Indonesia
 103.139.193.223  # ID  AS136052  PT Cloud Hosting Indonesia
 103.139.244.233  # ID  AS151000  PT Awan Data Indonesia
@@ -476,6 +477,7 @@
 147.139.244.130  # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 147.93.83.81     # ID  AS47583   Hostinger International Limited
 148.230.102.84   # ID  AS47583   Hostinger International Limited
+149.100.71.139   # ID  AS149940  PT Mulia Batam Net
 149.129.193.163  # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 152.32.153.228   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 152.32.153.53    # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
@@ -736,6 +738,7 @@
 203.175.125.78   # ID  AS139952  PT Trisari Data Indonusa
 203.194.115.25   # ID  AS58487   CV. Rumahweb Indonesia
 203.83.45.36     # ID  AS63859   PT. Eka Mas Republik
+206.237.98.242   # ID  AS140443  PT Herza Digital Indonesia
 208.76.40.121    # ID  AS151592  PT Awan Data Teknologi
 208.76.40.197    # ID  AS151592  PT Awan Data Teknologi
 210.210.155.71   # ID  AS4787    PT Cyberindo Aditama
@@ -816,6 +819,7 @@
 36.67.197.203    # ID  AS7713    PT Telekomunikasi Indonesia
 36.67.6.139      # ID  AS7713    PT Telekomunikasi Indonesia
 36.68.125.159    # ID  AS7713    PT Telekomunikasi Indonesia
+36.68.125.232    # ID  AS7713    PT Telekomunikasi Indonesia
 36.68.130.234    # ID  AS7713    PT Telekomunikasi Indonesia
 36.68.131.238    # ID  AS7713    PT Telekomunikasi Indonesia
 36.68.140.180    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -889,8 +893,10 @@
 36.95.55.131     # ID  AS7713    PT Telekomunikasi Indonesia
 38.147.122.163   # ID  AS55688   PT. Beon Intermedia
 38.253.224.16    # ID  AS174     Cogent Communications, LLC
+38.253.224.18    # ID  AS174     Cogent Communications, LLC
 38.253.224.25    # ID  AS174     Cogent Communications, LLC
 38.253.224.34    # ID  AS174     Cogent Communications, LLC
+38.253.224.39    # ID  AS174     Cogent Communications, LLC
 38.253.224.41    # ID  AS174     Cogent Communications, LLC
 38.253.224.42    # ID  AS174     Cogent Communications, LLC
 38.253.239.21    # ID  AS141146  PT Indonesia Telekomunikasi Teknologi
