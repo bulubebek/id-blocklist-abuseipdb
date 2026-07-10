@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1503
-# Last updated:           2026-07-10 14:34:51
+# Number of ips:          1510
+# Last updated:           2026-07-10 19:37:30
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -693,6 +693,7 @@
 116.193.190.244  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.190.60   # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.190.62   # ID  AS136052  PT Cloud Hosting Indonesia
+116.193.190.84   # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.100  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.104  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.137  # ID  AS136052  PT Cloud Hosting Indonesia
@@ -736,6 +737,7 @@
 123.231.179.26   # ID  AS4800    PT Aplikanusa Lintasarta
 124.153.16.122   # ID  AS9326    PT Centrin Utama
 124.40.252.3     # ID  AS45305   Lintas Data Prima, PT
+125.163.142.142  # ID  AS7713    PT Telekomunikasi Indonesia
 125.164.232.222  # ID  AS7713    PT Telekomunikasi Indonesia
 125.164.233.37   # ID  AS7713    PT Telekomunikasi Indonesia
 125.165.35.40    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -744,6 +746,7 @@
 125.166.140.59   # ID  AS7713    PT Telekomunikasi Indonesia
 125.166.151.145  # ID  AS7713    PT Telekomunikasi Indonesia
 125.213.152.34   # ID  AS4800    PT Aplikanusa Lintasarta
+128.14.232.142   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 128.14.232.186   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 128.14.232.254   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 128.14.233.253   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
@@ -779,6 +782,7 @@
 150.107.142.34   # ID  AS55685   PT Jala Lintas Media
 152.32.153.228   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 152.32.153.53    # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+152.32.154.44    # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 153.92.10.189    # ID  AS47583   Hostinger International Limited
 154.18.255.9     # ID  AS142393  PT Media Solusi Sukses
 154.19.37.43     # ID  AS55688   PT. Beon Intermedia
@@ -959,6 +963,7 @@
 180.243.255.91   # ID  AS7713    PT Telekomunikasi Indonesia
 180.243.255.99   # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.133.148  # ID  AS7713    PT Telekomunikasi Indonesia
+180.244.187.121  # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.187.139  # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.187.234  # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.187.237  # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1406,6 +1411,7 @@
 38.253.224.25    # ID  AS174     Cogent Communications, LLC
 38.253.224.34    # ID  AS174     Cogent Communications, LLC
 38.253.224.39    # ID  AS174     Cogent Communications, LLC
+38.253.224.40    # ID  AS174     Cogent Communications, LLC
 38.253.224.41    # ID  AS174     Cogent Communications, LLC
 38.253.224.42    # ID  AS174     Cogent Communications, LLC
 38.253.239.21    # ID  AS141146  PT Indonesia Telekomunikasi Teknologi
@@ -1476,6 +1482,7 @@
 49.0.24.107      # ID  AS17995   PT iForte Global Internet
 58.147.187.189   # ID  AS24534   PT. Transhybrid Communication
 59.153.80.34     # ID  AS56233   PT Asia Teknologi Solusi
+61.5.21.19       # ID  AS7713    PT Telekomunikasi Indonesia
 61.5.24.171      # ID  AS7713    PT Telekomunikasi Indonesia
 69.5.0.120       # ID  AS150436  Byteplus Pte. Ltd.
 69.5.13.33       # ID  AS150436  Byteplus Pte. Ltd.
