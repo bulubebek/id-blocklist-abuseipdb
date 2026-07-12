@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          762
-# Last updated:           2026-07-12 13:34:16
+# Number of ips:          763
+# Last updated:           2026-07-12 19:09:35
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -539,6 +539,7 @@
 182.8.179.55     # ID  AS23693   PT. Telekomunikasi Selular
 182.8.179.92     # ID  AS23693   PT. Telekomunikasi Selular
 182.8.182.229    # ID  AS23693   PT. Telekomunikasi Selular
+182.8.183.103    # ID  AS23693   PT. Telekomunikasi Selular
 182.9.193.112    # ID  AS23693   PT. Telekomunikasi Selular
 195.88.211.25    # ID  AS214882  Hadi Santosa
 195.88.211.70    # ID  AS214882  Hadi Santosa

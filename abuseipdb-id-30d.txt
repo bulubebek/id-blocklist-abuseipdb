@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1461
-# Last updated:           2026-07-12 13:34:15
+# Number of ips:          1462
+# Last updated:           2026-07-12 19:09:34
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -996,6 +996,7 @@
 182.8.179.92     # ID  AS23693   PT. Telekomunikasi Selular
 182.8.182.1      # ID  AS23693   PT. Telekomunikasi Selular
 182.8.182.229    # ID  AS23693   PT. Telekomunikasi Selular
+182.8.183.103    # ID  AS23693   PT. Telekomunikasi Selular
 182.9.193.112    # ID  AS23693   PT. Telekomunikasi Selular
 185.213.83.135   # ID  AS147049  PacketHub S.A.
 185.213.83.175   # ID  AS147049  PacketHub S.A.
