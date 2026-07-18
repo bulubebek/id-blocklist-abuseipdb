@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1390
-# Last updated:           2026-07-18 13:22:46
+# Number of ips:          1394
+# Last updated:           2026-07-18 19:09:39
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -457,6 +457,7 @@
 103.59.160.93    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.95    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.161.120   # ID  AS150493  PT Gunung Sedayu Sentosa
+103.59.161.129   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.161.132   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.161.138   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.161.151   # ID  AS150493  PT Gunung Sedayu Sentosa
@@ -647,6 +648,7 @@
 118.99.102.207   # ID  AS17451   BIZNET NETWORKS
 118.99.110.156   # ID  AS17451   BIZNET NETWORKS
 118.99.114.224   # ID  AS17451   BIZNET NETWORKS
+118.99.115.14    # ID  AS17451   BIZNET NETWORKS
 118.99.115.97    # ID  AS17451   BIZNET NETWORKS
 119.2.52.140     # ID  AS55666   PT Media Sarana Data
 119.2.54.35      # ID  AS55666   PT Media Sarana Data
@@ -667,6 +669,7 @@
 124.153.16.122   # ID  AS9326    PT Centrin Utama
 124.40.252.3     # ID  AS45305   Lintas Data Prima, PT
 125.160.156.206  # ID  AS7713    PT Telekomunikasi Indonesia
+125.160.158.15   # ID  AS7713    PT Telekomunikasi Indonesia
 125.162.213.139  # ID  AS7713    PT Telekomunikasi Indonesia
 125.163.138.160  # ID  AS7713    PT Telekomunikasi Indonesia
 125.163.142.142  # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1145,6 +1148,7 @@
 34.128.106.55    # ID  AS396982  Google LLC
 34.128.111.153   # ID  AS396982  Google LLC
 34.128.121.72    # ID  AS396982  Google LLC
+34.128.64.121    # ID  AS396982  Google LLC
 34.128.77.56     # ID  AS396982  Google LLC
 34.128.79.208    # ID  AS396982  Google LLC
 34.128.89.105    # ID  AS396982  Google LLC

@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          708
-# Last updated:           2026-07-18 13:22:46
+# Number of ips:          713
+# Last updated:           2026-07-18 19:09:40
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -268,6 +268,7 @@
 103.59.160.82    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.95    # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.161.120   # ID  AS150493  PT Gunung Sedayu Sentosa
+103.59.161.129   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.161.138   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.161.151   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.161.159   # ID  AS150493  PT Gunung Sedayu Sentosa
@@ -304,6 +305,7 @@
 103.82.93.80     # ID  AS136052  PT Cloud Hosting Indonesia
 103.83.237.25    # ID  AS150540  PT. Kalam Digital Signalindo
 103.83.98.155    # ID  AS45305   Lintas Data Prima, PT
+103.84.116.31    # ID  AS136070  UNIVERSITAS SAM RATULANGI
 103.84.5.9       # ID  AS132641  PT Netciti Persada
 103.84.7.190     # ID  AS132641  PT Netciti Persada
 103.85.66.217    # ID  AS131111  PT Mora Telematika Indonesia
@@ -349,6 +351,7 @@
 116.254.119.202  # ID  AS55666   PT Media Sarana Data
 117.102.86.226   # ID  AS17451   BIZNET NETWORKS
 118.99.114.224   # ID  AS17451   BIZNET NETWORKS
+118.99.115.14    # ID  AS17451   BIZNET NETWORKS
 118.99.115.97    # ID  AS17451   BIZNET NETWORKS
 119.235.221.137  # ID  AS131111  PT Mora Telematika Indonesia
 119.252.170.155  # ID  AS9341    PT INDONESIA COMNETS PLUS
@@ -364,6 +367,7 @@
 124.153.16.122   # ID  AS9326    PT Centrin Utama
 124.40.252.3     # ID  AS45305   Lintas Data Prima, PT
 125.160.156.206  # ID  AS7713    PT Telekomunikasi Indonesia
+125.160.158.15   # ID  AS7713    PT Telekomunikasi Indonesia
 125.162.213.139  # ID  AS7713    PT Telekomunikasi Indonesia
 125.163.138.160  # ID  AS7713    PT Telekomunikasi Indonesia
 125.164.232.79   # ID  AS7713    PT Telekomunikasi Indonesia
@@ -577,6 +581,7 @@
 34.101.152.37    # ID  AS396982  Google LLC
 34.128.111.153   # ID  AS396982  Google LLC
 34.128.121.72    # ID  AS396982  Google LLC
+34.128.64.121    # ID  AS396982  Google LLC
 34.128.77.56     # ID  AS396982  Google LLC
 34.34.223.108    # ID  AS396982  Google LLC
 34.50.100.112    # ID  AS396982  Google LLC
