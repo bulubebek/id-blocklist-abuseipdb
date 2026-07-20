@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1315
-# Last updated:           2026-07-20 03:30:03
+# Number of ips:          1317
+# Last updated:           2026-07-20 09:20:40
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -290,6 +290,7 @@
 103.188.33.26    # ID  AS4800    PT Aplikanusa Lintasarta
 103.188.38.178   # ID  AS4800    PT Aplikanusa Lintasarta
 103.189.201.235  # ID  AS9341    PT INDONESIA COMNETS PLUS
+103.19.109.7     # ID  AS132641  PT Netciti Persada
 103.19.180.6     # ID  AS132642  Universitas Ahmad Dahlan
 103.19.231.170   # ID  AS132668  PT Bali Towerindo Sentra
 103.19.56.102    # ID  AS132637  PT BINA INFORMATIKA SOLUSI
@@ -1296,6 +1297,7 @@
 61.5.26.65       # ID  AS7713    PT Telekomunikasi Indonesia
 69.5.0.120       # ID  AS150436  Byteplus Pte. Ltd.
 69.5.13.33       # ID  AS150436  Byteplus Pte. Ltd.
+69.5.20.170      # ID  AS150436  Byteplus Pte. Ltd.
 69.5.20.205      # ID  AS150436  Byteplus Pte. Ltd.
 69.5.20.232      # ID  AS150436  Byteplus Pte. Ltd.
 69.5.20.46       # ID  AS150436  Byteplus Pte. Ltd.
