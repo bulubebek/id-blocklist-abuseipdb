@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1338
-# Last updated:           2026-07-21 08:33:58
+# Number of ips:          1351
+# Last updated:           2026-07-21 13:59:59
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -223,6 +223,7 @@
 103.176.79.24    # ID  AS136052  PT Cloud Hosting Indonesia
 103.177.15.14    # ID  AS147138  PT Angkasa Pura Sarana Digital
 103.178.175.117  # ID  AS137331  PT Cloud Teknologi Nusantara
+103.178.175.124  # ID  AS137331  PT Cloud Teknologi Nusantara
 103.178.175.171  # ID  AS137331  PT Cloud Teknologi Nusantara
 103.178.175.180  # ID  AS137331  PT Cloud Teknologi Nusantara
 103.178.175.187  # ID  AS137331  PT Cloud Teknologi Nusantara
@@ -318,6 +319,7 @@
 103.210.121.29   # ID  AS134658  PT JULIA MULTIMEDIA NUSANTARA
 103.210.121.64   # ID  AS134658  PT JULIA MULTIMEDIA NUSANTARA
 103.210.250.198  # ID  AS150933  PT Cmdj Network Solution
+103.210.35.122   # ID  AS59151   Diskominfo DIY
 103.211.160.228  # ID  AS131769  PT Mayatama Solusindo
 103.213.234.148  # ID  AS136873  MEGADATA-ISP
 103.214.112.253  # ID  AS136052  PT Cloud Hosting Indonesia
@@ -346,6 +348,7 @@
 103.242.104.81   # ID  AS58821   PT Lintas Jaringan Nusantara
 103.245.17.220   # ID  AS46023   PT Quantum Tera Network
 103.245.19.18    # ID  AS46023   PT Quantum Tera Network
+103.245.27.124   # ID  AS139952  PT Trisari Data Indonusa
 103.245.38.203   # ID  AS55688   PT. Beon Intermedia
 103.247.13.142   # ID  AS131706  PT SELARAS CITRA TERABIT
 103.247.15.179   # ID  AS131706  PT SELARAS CITRA TERABIT
@@ -516,6 +519,7 @@
 103.82.92.82     # ID  AS136052  PT Cloud Hosting Indonesia
 103.82.93.69     # ID  AS136052  PT Cloud Hosting Indonesia
 103.82.93.80     # ID  AS136052  PT Cloud Hosting Indonesia
+103.83.237.2     # ID  AS150540  PT. Kalam Digital Signalindo
 103.83.237.25    # ID  AS150540  PT. Kalam Digital Signalindo
 103.83.98.155    # ID  AS45305   Lintas Data Prima, PT
 103.84.116.31    # ID  AS136070  UNIVERSITAS SAM RATULANGI
@@ -600,6 +604,7 @@
 118.99.114.224   # ID  AS17451   BIZNET NETWORKS
 118.99.115.14    # ID  AS17451   BIZNET NETWORKS
 118.99.115.97    # ID  AS17451   BIZNET NETWORKS
+118.99.84.43     # ID  AS17451   BIZNET NETWORKS
 118.99.98.32     # ID  AS17451   BIZNET NETWORKS
 119.2.52.140     # ID  AS55666   PT Media Sarana Data
 119.2.54.35      # ID  AS55666   PT Media Sarana Data
@@ -628,6 +633,7 @@
 125.164.232.222  # ID  AS7713    PT Telekomunikasi Indonesia
 125.164.232.79   # ID  AS7713    PT Telekomunikasi Indonesia
 125.164.233.37   # ID  AS7713    PT Telekomunikasi Indonesia
+125.164.233.50   # ID  AS7713    PT Telekomunikasi Indonesia
 125.166.138.96   # ID  AS7713    PT Telekomunikasi Indonesia
 125.166.140.59   # ID  AS7713    PT Telekomunikasi Indonesia
 125.166.151.145  # ID  AS7713    PT Telekomunikasi Indonesia
@@ -641,6 +647,7 @@
 139.0.23.124     # ID  AS9905    Linknet ASN
 139.228.161.54   # ID  AS23700   Linknet-Fastnet ASN
 139.255.100.188  # ID  AS9905    Linknet ASN
+139.255.253.74   # ID  AS9905    Linknet ASN
 139.255.254.163  # ID  AS9905    Linknet ASN
 141.11.25.250    # ID  AS141968  PT Industri Kreatif Digital
 143.20.49.38     # ID  AS150249  PT Atharva Telematika Persada
@@ -825,6 +832,7 @@
 180.244.133.148  # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.187.121  # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.187.139  # ID  AS7713    PT Telekomunikasi Indonesia
+180.244.187.150  # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.187.179  # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.187.234  # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.187.237  # ID  AS7713    PT Telekomunikasi Indonesia
@@ -953,6 +961,7 @@
 202.180.20.137   # ID  AS38758   PT. HIPERNET INDODATA
 202.180.20.138   # ID  AS38758   PT. HIPERNET INDODATA
 202.180.29.77    # ID  AS38758   PT. HIPERNET INDODATA
+202.180.31.154   # ID  AS38758   PT. HIPERNET INDODATA
 202.182.50.52    # ID  AS38511   PT Remala Abadi
 202.4.170.20     # ID  AS45726   Lion Mentari Airlines, PT
 202.43.228.9     # ID  AS9422    PT SOLNET INDONESIA
@@ -1006,6 +1015,7 @@
 203.175.125.146  # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.147  # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.148  # ID  AS139952  PT Trisari Data Indonusa
+203.175.125.156  # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.179  # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.185  # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.194  # ID  AS139952  PT Trisari Data Indonusa
@@ -1064,11 +1074,14 @@
 34.101.127.234   # ID  AS396982  Google LLC
 34.101.151.1     # ID  AS396982  Google LLC
 34.101.152.37    # ID  AS396982  Google LLC
+34.101.153.152   # ID  AS396982  Google LLC
 34.101.165.107   # ID  AS396982  Google LLC
+34.101.192.175   # ID  AS396982  Google LLC
 34.101.205.250   # ID  AS396982  Google LLC
 34.101.209.142   # ID  AS396982  Google LLC
 34.101.219.41    # ID  AS396982  Google LLC
 34.101.220.106   # ID  AS396982  Google LLC
+34.101.227.89    # ID  AS396982  Google LLC
 34.101.38.235    # ID  AS396982  Google LLC
 34.101.45.192    # ID  AS396982  Google LLC
 34.101.60.85     # ID  AS396982  Google LLC
