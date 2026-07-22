@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1348
-# Last updated:           2026-07-22 02:54:11
+# Number of ips:          1355
+# Last updated:           2026-07-22 08:33:39
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -122,6 +122,8 @@
 103.150.45.45    # ID  AS140388  PT. Garis Waktu Kita
 103.151.140.79   # ID  AS140417  PT Indotechno Digital Komputasi
 103.151.140.97   # ID  AS140417  PT Indotechno Digital Komputasi
+103.151.155.20   # ID  AS140425  DINAS KOMUNIKASI DAN INFORMATIKA KABUPATEN DEMAK
+103.151.34.138   # ID  AS140413  PT. GAYUH MEDIA INFORMATIKA
 103.152.242.106  # ID  AS139456  PT DEWAWEB
 103.153.184.227  # ID  AS139392  PT APLIKA KARYA SOLUSI BISNIS
 103.153.190.105  # ID  AS140469  PT Wahyu Adidaya Network
@@ -160,6 +162,7 @@
 103.160.63.246   # ID  AS140443  PT Herza Digital Indonesia
 103.161.207.6    # ID  AS141627  PT Media Solusi Network
 103.162.54.147   # ID  AS141645  PT Pratama Asia Globalindo
+103.164.172.10   # ID  AS138131  CV. NATANETWORK SOLUTION
 103.164.173.66   # ID  AS138131  CV. NATANETWORK SOLUTION
 103.164.235.138  # ID  AS141916  PT Bantani Media Utama
 103.164.252.237  # ID  AS141918  PT DesktopIP Teknologi Indonesia
@@ -375,6 +378,7 @@
 103.29.185.162   # ID  AS56260   PT Pascal Indonesia
 103.3.220.120    # ID  AS139994  PT XL Axiata Tbk
 103.3.221.216    # ID  AS139994  PT XL Axiata Tbk
+103.3.77.254     # ID  AS9341    PT INDONESIA COMNETS PLUS
 103.30.183.233   # ID  AS45302   PT DES Teknologi Informasi
 103.31.233.213   # ID  AS55701   PT. Usaha Adisanggoro
 103.31.38.83     # ID  AS136052  PT Cloud Hosting Indonesia
@@ -569,6 +573,7 @@
 112.78.135.82    # ID  AS38482   Biznet ISP
 112.78.187.211   # ID  AS38482   Biznet ISP
 113.192.54.17    # ID  AS58495   PT Parsaoran Global Datatrans
+114.10.44.25     # ID  AS4761    INDOSAT Internet Network Provider
 114.10.47.235    # ID  AS4761    INDOSAT Internet Network Provider
 114.141.51.170   # ID  AS38771   PT Cyberplus Media Pratama
 114.141.59.195   # ID  AS142362  PT Sukma Sejati Media
@@ -839,6 +844,7 @@
 180.244.187.73   # ID  AS7713    PT Telekomunikasi Indonesia
 180.245.144.97   # ID  AS7713    PT Telekomunikasi Indonesia
 180.245.30.166   # ID  AS7713    PT Telekomunikasi Indonesia
+180.246.206.137  # ID  AS7713    PT Telekomunikasi Indonesia
 180.247.179.206  # ID  AS7713    PT Telekomunikasi Indonesia
 180.247.56.30    # ID  AS7713    PT Telekomunikasi Indonesia
 180.247.57.155   # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1308,6 +1314,7 @@
 43.249.140.69    # ID  AS55653   Skyline Semesta, PT
 43.252.106.145   # ID  AS45305   Lintas Data Prima, PT
 43.252.107.210   # ID  AS45305   Lintas Data Prima, PT
+43.252.145.4     # ID  AS56233   PT Asia Teknologi Solusi
 43.252.159.117   # ID  AS149746  PT Blip Integrator Provider
 43.252.159.41    # ID  AS149746  PT Blip Integrator Provider
 45.126.43.245    # ID  AS151592  PT Awan Data Teknologi
