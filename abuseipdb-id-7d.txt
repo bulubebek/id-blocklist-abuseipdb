@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          765
-# Last updated:           2026-07-23 08:35:09
+# Number of ips:          770
+# Last updated:           2026-07-23 14:08:49
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -221,6 +221,7 @@
 103.211.160.228  # ID  AS131769  PT Mayatama Solusindo
 103.213.234.148  # ID  AS136873  MEGADATA-ISP
 103.214.112.253  # ID  AS136052  PT Cloud Hosting Indonesia
+103.215.187.225  # ID  AS141664  PT Jaringan Inti Exadata
 103.217.144.113  # ID  AS136052  PT Cloud Hosting Indonesia
 103.217.145.41   # ID  AS136052  PT Cloud Hosting Indonesia
 103.217.217.226  # ID  AS24529   PT. Infotama Lintas Global
@@ -351,6 +352,7 @@
 116.193.190.134  # ID  AS136052  PT Cloud Hosting Indonesia
 116.193.191.8    # ID  AS136052  PT Cloud Hosting Indonesia
 116.197.133.25   # ID  AS58369   PT. Fiber Networks Indonesia
+116.254.101.102  # ID  AS55693   PT. Bangun Abadi Teknologi Indonesia
 116.254.119.202  # ID  AS55666   PT Media Sarana Data
 117.102.86.226   # ID  AS17451   BIZNET NETWORKS
 117.53.47.72     # ID  AS58397   PT Infinys System Indonesia
@@ -390,6 +392,7 @@
 139.255.253.74   # ID  AS9905    Linknet ASN
 139.255.254.163  # ID  AS9905    Linknet ASN
 139.255.50.117   # ID  AS9905    Linknet ASN
+139.255.62.10    # ID  AS9905    Linknet ASN
 141.11.25.250    # ID  AS141968  PT Industri Kreatif Digital
 143.20.49.38     # ID  AS150249  PT Atharva Telematika Persada
 143.20.49.93     # ID  AS150249  PT Atharva Telematika Persada
@@ -575,6 +578,7 @@
 203.142.69.146   # ID  AS17451   BIZNET NETWORKS
 203.142.72.194   # ID  AS17451   BIZNET NETWORKS
 203.145.63.139   # ID  AS46023   PT Quantum Tera Network
+203.148.84.6     # ID  AS45289   Indotrans Data, PT
 203.153.108.123  # ID  AS24207   PT NettoCyber Indonesia
 203.175.125.118  # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.156  # ID  AS139952  PT Trisari Data Indonusa
@@ -614,6 +618,7 @@
 36.37.122.175    # ID  AS38513   PT Aplikanusa Lintasarta
 36.37.69.163     # ID  AS4800    PT Aplikanusa Lintasarta
 36.37.73.242     # ID  AS4800    PT Aplikanusa Lintasarta
+36.37.92.210     # ID  AS4800    PT Aplikanusa Lintasarta
 36.50.151.66     # ID  AS63859   PT. Eka Mas Republik
 36.50.92.145     # ID  AS141642  PT Ring Media Nusantara
 36.64.10.42      # ID  AS7713    PT Telekomunikasi Indonesia
