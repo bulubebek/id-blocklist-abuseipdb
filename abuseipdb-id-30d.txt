@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1339
-# Last updated:           2026-07-25 02:54:27
+# Number of ips:          1343
+# Last updated:           2026-07-25 08:10:26
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -898,6 +898,7 @@
 182.9.193.112    # ID  AS23693   PT. Telekomunikasi Selular
 183.91.83.132    # ID  AS4800    PT Aplikanusa Lintasarta
 185.213.83.175   # ID  AS147049  PacketHub S.A.
+195.88.211.226   # ID  AS214882  Hadi Santosa
 195.88.211.25    # ID  AS214882  Hadi Santosa
 195.88.211.70    # ID  AS214882  Hadi Santosa
 202.10.36.207    # ID  AS58487   CV. Rumahweb Indonesia
@@ -1056,6 +1057,7 @@
 27.123.220.195   # ID  AS58369   PT. Fiber Networks Indonesia
 27.123.220.219   # ID  AS58369   PT. Fiber Networks Indonesia
 27.50.25.190     # ID  AS131111  PT Mora Telematika Indonesia
+27.50.29.181     # ID  AS131111  PT Mora Telematika Indonesia
 34.101.101.253   # ID  AS396982  Google LLC
 34.101.127.234   # ID  AS396982  Google LLC
 34.101.151.1     # ID  AS396982  Google LLC
@@ -1175,6 +1177,7 @@
 36.78.148.150    # ID  AS7713    PT Telekomunikasi Indonesia
 36.78.150.237    # ID  AS7713    PT Telekomunikasi Indonesia
 36.78.151.154    # ID  AS7713    PT Telekomunikasi Indonesia
+36.78.151.162    # ID  AS7713    PT Telekomunikasi Indonesia
 36.78.222.106    # ID  AS7713    PT Telekomunikasi Indonesia
 36.78.222.223    # ID  AS7713    PT Telekomunikasi Indonesia
 36.79.134.174    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1310,6 +1313,7 @@
 45.251.75.110    # ID  AS131711  PT Global Teknologi Teraindo
 45.64.100.26     # ID  AS45786   PT. Hawk Teknologi Solusi
 49.0.24.107      # ID  AS17995   PT iForte Global Internet
+59.153.80.34     # ID  AS56233   PT Asia Teknologi Solusi
 61.5.21.19       # ID  AS7713    PT Telekomunikasi Indonesia
 61.5.24.171      # ID  AS7713    PT Telekomunikasi Indonesia
 61.5.26.65       # ID  AS7713    PT Telekomunikasi Indonesia
