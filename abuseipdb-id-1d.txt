@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          445
-# Last updated:           2026-07-25 13:41:40
+# Number of ips:          449
+# Last updated:           2026-07-25 19:12:13
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -38,6 +38,7 @@
 103.140.206.213  # ID  AS9341    PT INDONESIA COMNETS PLUS
 103.140.35.140   # ID  AS58369   PT. Fiber Networks Indonesia
 103.141.255.141  # ID  AS131769  PT Mayatama Solusindo
+103.144.179.87   # ID  AS9341    PT INDONESIA COMNETS PLUS
 103.146.202.174  # ID  AS136052  PT Cloud Hosting Indonesia
 103.146.202.84   # ID  AS136052  PT Cloud Hosting Indonesia
 103.147.159.91   # ID  AS38513   PT Aplikanusa Lintasarta
@@ -282,6 +283,7 @@
 165.154.151.207  # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 165.154.48.160   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 165.154.48.24    # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+165.154.49.137   # ID  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 165.99.21.11     # ID  AS153896  PT Shofanet Media Telekomunikasi
 168.110.195.99   # ID  AS31898   Oracle Corporation
 168.110.218.47   # ID  AS31898   Oracle Corporation
@@ -304,6 +306,7 @@
 182.11.154.5     # ID  AS23693   PT. Telekomunikasi Selular
 182.13.96.107    # ID  AS23693   PT. Telekomunikasi Selular
 182.16.252.18    # ID  AS45298   INTERLINK TECHNOLOGY, PT
+182.23.54.125    # ID  AS4800    PT Aplikanusa Lintasarta
 182.23.66.99     # ID  AS38513   PT Aplikanusa Lintasarta
 182.253.156.173  # ID  AS17451   BIZNET NETWORKS
 182.253.156.184  # ID  AS17451   BIZNET NETWORKS
@@ -410,6 +413,7 @@
 38.253.224.30    # ID  AS174     Cogent Communications, LLC
 38.253.224.32    # ID  AS174     Cogent Communications, LLC
 38.253.224.33    # ID  AS174     Cogent Communications, LLC
+38.253.224.38    # ID  AS174     Cogent Communications, LLC
 38.253.224.40    # ID  AS174     Cogent Communications, LLC
 38.253.224.41    # ID  AS174     Cogent Communications, LLC
 38.253.224.42    # ID  AS174     Cogent Communications, LLC

@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1346
-# Last updated:           2026-07-25 13:41:38
+# Number of ips:          1348
+# Last updated:           2026-07-25 19:12:12
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -98,6 +98,7 @@
 103.142.21.19    # ID  AS138131  CV. NATANETWORK SOLUTION
 103.142.89.234   # ID  AS139368  Dinas Komunikasi Dan Informatika Pemerintah Provinsi Kalimantan Selatan
 103.144.170.56   # ID  AS9341    PT INDONESIA COMNETS PLUS
+103.144.179.87   # ID  AS9341    PT INDONESIA COMNETS PLUS
 103.145.131.94   # ID  AS9341    PT INDONESIA COMNETS PLUS
 103.145.176.77   # ID  AS9341    PT INDONESIA COMNETS PLUS
 103.146.202.174  # ID  AS136052  PT Cloud Hosting Indonesia
@@ -1254,6 +1255,7 @@
 38.253.224.32    # ID  AS174     Cogent Communications, LLC
 38.253.224.33    # ID  AS174     Cogent Communications, LLC
 38.253.224.34    # ID  AS174     Cogent Communications, LLC
+38.253.224.38    # ID  AS174     Cogent Communications, LLC
 38.253.224.39    # ID  AS174     Cogent Communications, LLC
 38.253.224.40    # ID  AS174     Cogent Communications, LLC
 38.253.224.41    # ID  AS174     Cogent Communications, LLC
