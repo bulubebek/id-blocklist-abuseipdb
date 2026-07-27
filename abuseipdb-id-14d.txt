@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          944
-# Last updated:           2026-07-27 09:57:17
+# Number of ips:          950
+# Last updated:           2026-07-27 14:43:10
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -240,6 +240,7 @@
 103.193.178.119  # ID  AS136052  PT Cloud Hosting Indonesia
 103.193.178.240  # ID  AS136052  PT Cloud Hosting Indonesia
 103.193.178.42   # ID  AS136052  PT Cloud Hosting Indonesia
+103.193.179.139  # ID  AS136052  PT Cloud Hosting Indonesia
 103.195.31.152   # ID  AS134612  PT Atria Teknologi Indonesia
 103.196.116.156  # ID  AS23679   PT. Media Antar Nusa
 103.196.116.88   # ID  AS23679   PT. Media Antar Nusa
@@ -257,6 +258,7 @@
 103.226.138.52   # ID  AS136052  PT Cloud Hosting Indonesia
 103.226.139.139  # ID  AS136052  PT Cloud Hosting Indonesia
 103.226.139.69   # ID  AS136052  PT Cloud Hosting Indonesia
+103.228.117.98   # ID  AS59281   PT Sumber Koneksi Indonesia
 103.23.199.128   # ID  AS136052  PT Cloud Hosting Indonesia
 103.236.201.24   # ID  AS136052  PT Cloud Hosting Indonesia
 103.24.12.108    # ID  AS132644  PT. Cyberindo Mega Persada
@@ -573,6 +575,7 @@
 180.243.188.193  # ID  AS7713    PT Telekomunikasi Indonesia
 180.243.189.147  # ID  AS7713    PT Telekomunikasi Indonesia
 180.243.192.47   # ID  AS7713    PT Telekomunikasi Indonesia
+180.244.132.164  # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.187.139  # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.187.150  # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.187.179  # ID  AS7713    PT Telekomunikasi Indonesia
@@ -615,6 +618,7 @@
 182.253.221.210  # ID  AS38482   Biznet ISP
 182.253.50.137   # ID  AS17451   BIZNET NETWORKS
 182.253.50.139   # ID  AS17451   BIZNET NETWORKS
+182.253.55.72    # ID  AS17451   BIZNET NETWORKS
 182.253.63.5     # ID  AS17451   BIZNET NETWORKS
 182.253.64.224   # ID  AS17451   BIZNET NETWORKS
 182.253.79.195   # ID  AS17451   BIZNET NETWORKS
@@ -796,6 +800,7 @@
 36.74.219.125    # ID  AS7713    PT Telekomunikasi Indonesia
 36.74.222.124    # ID  AS7713    PT Telekomunikasi Indonesia
 36.74.236.62     # ID  AS7713    PT Telekomunikasi Indonesia
+36.75.24.130     # ID  AS7713    PT Telekomunikasi Indonesia
 36.75.29.248     # ID  AS7713    PT Telekomunikasi Indonesia
 36.75.5.73       # ID  AS7713    PT Telekomunikasi Indonesia
 36.75.9.77       # ID  AS7713    PT Telekomunikasi Indonesia
@@ -847,6 +852,7 @@
 36.93.249.106    # ID  AS7713    PT Telekomunikasi Indonesia
 36.94.56.242     # ID  AS7713    PT Telekomunikasi Indonesia
 36.94.9.51       # ID  AS7713    PT Telekomunikasi Indonesia
+36.95.109.78     # ID  AS7713    PT Telekomunikasi Indonesia
 36.95.14.145     # ID  AS7713    PT Telekomunikasi Indonesia
 36.95.145.2      # ID  AS7713    PT Telekomunikasi Indonesia
 36.95.194.50     # ID  AS7713    PT Telekomunikasi Indonesia
