@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          930
-# Last updated:           2026-07-28 14:16:02
+# Number of ips:          938
+# Last updated:           2026-07-28 19:37:09
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -54,6 +54,7 @@
 103.126.201.184  # ID  AS138113  PT Amron Citinet
 103.127.134.40   # ID  AS133800  PT Biznet Gio Nusantara
 103.129.221.202  # ID  AS138062  PT. Awan Kilat Semesta
+103.130.18.131   # ID  AS63859   PT. Eka Mas Republik
 103.130.18.145   # ID  AS63859   PT. Eka Mas Republik
 103.131.105.122  # ID  AS59151   Diskominfo DIY
 103.131.61.136   # ID  AS138126  PT. NEWTON CIPTA INFORMATIKA
@@ -184,6 +185,7 @@
 103.18.79.82     # ID  AS55701   PT. Usaha Adisanggoro
 103.180.119.50   # ID  AS149359  PT Persada Data Multimedia
 103.180.124.221  # ID  AS141968  PT Industri Kreatif Digital
+103.180.125.173  # ID  AS141968  PT Industri Kreatif Digital
 103.181.143.216  # ID  AS136052  PT Cloud Hosting Indonesia
 103.181.143.41   # ID  AS136052  PT Cloud Hosting Indonesia
 103.182.189.90   # ID  AS17995   PT iForte Global Internet
@@ -207,6 +209,7 @@
 103.186.1.59     # ID  AS136052  PT Cloud Hosting Indonesia
 103.186.11.70    # ID  AS4800    PT Aplikanusa Lintasarta
 103.186.167.2    # ID  AS149703  SMK Negeri 5 Malang
+103.186.167.42   # ID  AS149703  SMK Negeri 5 Malang
 103.186.211.59   # ID  AS149716  PT Mahakam Global Media
 103.186.30.22    # ID  AS141892  CV Andhika Pratama Sanggoro
 103.186.30.230   # ID  AS141892  CV Andhika Pratama Sanggoro
@@ -254,6 +257,7 @@
 103.23.199.128   # ID  AS136052  PT Cloud Hosting Indonesia
 103.236.201.24   # ID  AS136052  PT Cloud Hosting Indonesia
 103.24.12.108    # ID  AS132644  PT. Cyberindo Mega Persada
+103.24.13.25     # ID  AS132644  PT. Cyberindo Mega Persada
 103.24.212.42    # ID  AS132649  PT Adau Putra Network
 103.240.109.194  # ID  AS58819   PT Arsenet Global Solusi
 103.240.110.108  # ID  AS58819   PT Arsenet Global Solusi
@@ -355,6 +359,7 @@
 103.84.116.31    # ID  AS136070  UNIVERSITAS SAM RATULANGI
 103.84.206.197   # ID  AS58487   CV. Rumahweb Indonesia
 103.84.5.172     # ID  AS132641  PT Netciti Persada
+103.84.7.190     # ID  AS132641  PT Netciti Persada
 103.85.66.217    # ID  AS131111  PT Mora Telematika Indonesia
 103.86.117.203   # ID  AS150552  PT Link Data Sumber Barokah
 103.90.27.83     # ID  AS132673  PT Arana Teknologi Indonesia
@@ -433,6 +438,7 @@
 124.40.252.3     # ID  AS45305   Lintas Data Prima, PT
 125.160.156.206  # ID  AS7713    PT Telekomunikasi Indonesia
 125.160.158.15   # ID  AS7713    PT Telekomunikasi Indonesia
+125.161.159.189  # ID  AS7713    PT Telekomunikasi Indonesia
 125.162.213.139  # ID  AS7713    PT Telekomunikasi Indonesia
 125.164.232.79   # ID  AS7713    PT Telekomunikasi Indonesia
 125.164.233.50   # ID  AS7713    PT Telekomunikasi Indonesia
@@ -611,6 +617,7 @@
 182.253.63.5     # ID  AS17451   BIZNET NETWORKS
 182.253.64.224   # ID  AS17451   BIZNET NETWORKS
 182.253.79.195   # ID  AS17451   BIZNET NETWORKS
+182.253.89.114   # ID  AS17451   BIZNET NETWORKS
 182.253.89.118   # ID  AS17451   BIZNET NETWORKS
 182.253.89.119   # ID  AS17451   BIZNET NETWORKS
 182.8.179.195    # ID  AS23693   PT. Telekomunikasi Selular
@@ -645,6 +652,7 @@
 202.155.18.46    # ID  -         -
 202.155.18.56    # ID  -         -
 202.155.19.165   # ID  -         -
+202.155.19.234   # ID  -         -
 202.155.95.46    # ID  AS138115  PT Deneva
 202.158.3.37     # ID  AS4787    PT Cyberindo Aditama
 202.158.3.39     # ID  AS4787    PT Cyberindo Aditama
