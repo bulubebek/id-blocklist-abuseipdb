@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1405
-# Last updated:           2026-08-07 07:20:26
+# Number of ips:          1407
+# Last updated:           2026-08-07 13:10:44
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -599,6 +599,7 @@
 117.103.69.166   # ID  AS56234   PT Naraya Telematika
 117.53.45.180    # ID  AS58397   PT Infinys System Indonesia
 117.53.47.72     # ID  AS58397   PT Infinys System Indonesia
+118.96.125.209   # ID  AS7713    PT Telekomunikasi Indonesia
 118.97.46.244    # ID  AS7713    PT Telekomunikasi Indonesia
 118.99.102.207   # ID  AS17451   BIZNET NETWORKS
 118.99.114.224   # ID  AS17451   BIZNET NETWORKS
@@ -899,6 +900,7 @@
 182.253.89.118   # ID  AS17451   BIZNET NETWORKS
 182.253.89.119   # ID  AS17451   BIZNET NETWORKS
 182.8.161.203    # ID  AS23693   PT. Telekomunikasi Selular
+182.8.161.255    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.179.195    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.179.210    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.179.246    # ID  AS23693   PT. Telekomunikasi Selular
