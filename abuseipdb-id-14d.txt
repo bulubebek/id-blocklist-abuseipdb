@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1142
-# Last updated:           2026-08-12 13:16:09
+# Number of ips:          1148
+# Last updated:           2026-08-12 19:04:29
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -135,7 +135,9 @@
 103.157.26.66    # ID  AS141107  PT Linkgo Metro Teknologi
 103.157.78.153   # ID  AS141114  PT Super Media Indonesia
 103.157.79.0     # ID  AS141114  PT Super Media Indonesia
+103.157.79.1     # ID  AS141114  PT Super Media Indonesia
 103.159.221.207  # ID  AS58369   PT. Fiber Networks Indonesia
+103.159.96.27    # ID  AS141140  PT Jinde Grup Indonesia
 103.16.116.249   # ID  AS55688   PT. Beon Intermedia
 103.16.117.30    # ID  AS55688   PT. Beon Intermedia
 103.160.150.185  # ID  AS138093  PT. LINTASMAYA MULTI MEDIA
@@ -729,6 +731,7 @@
 180.247.126.121  # ID  AS7713    PT Telekomunikasi Indonesia
 180.247.58.117   # ID  AS7713    PT Telekomunikasi Indonesia
 180.247.58.50    # ID  AS7713    PT Telekomunikasi Indonesia
+180.247.60.40    # ID  AS7713    PT Telekomunikasi Indonesia
 180.247.61.189   # ID  AS7713    PT Telekomunikasi Indonesia
 180.247.61.52    # ID  AS7713    PT Telekomunikasi Indonesia
 180.247.62.26    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -764,6 +767,7 @@
 182.253.135.19   # ID  AS17451   BIZNET NETWORKS
 182.253.156.184  # ID  AS17451   BIZNET NETWORKS
 182.253.163.195  # ID  AS17451   BIZNET NETWORKS
+182.253.173.26   # ID  AS17451   BIZNET NETWORKS
 182.253.186.142  # ID  AS17451   BIZNET NETWORKS
 182.253.194.20   # ID  AS17451   BIZNET NETWORKS
 182.253.194.24   # ID  AS17451   BIZNET NETWORKS
@@ -999,6 +1003,7 @@
 36.69.69.243     # ID  AS7713    PT Telekomunikasi Indonesia
 36.69.74.163     # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.153.130    # ID  AS7713    PT Telekomunikasi Indonesia
+36.70.228.230    # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.237.96     # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.253.142    # ID  AS7713    PT Telekomunikasi Indonesia
 36.71.158.2      # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1079,6 +1084,7 @@
 38.253.224.30    # ID  AS174     Cogent Communications, LLC
 38.253.224.32    # ID  AS174     Cogent Communications, LLC
 38.253.224.33    # ID  AS174     Cogent Communications, LLC
+38.253.224.37    # ID  AS174     Cogent Communications, LLC
 38.253.224.38    # ID  AS174     Cogent Communications, LLC
 38.253.224.39    # ID  AS174     Cogent Communications, LLC
 38.253.224.40    # ID  AS174     Cogent Communications, LLC
