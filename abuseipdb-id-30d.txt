@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1512
-# Last updated:           2026-08-15 01:23:48
+# Number of ips:          1519
+# Last updated:           2026-08-15 06:42:01
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -83,6 +83,7 @@
 103.132.52.250   # ID  AS138123  PT. ADEAKSA INDO JAYATAMA
 103.132.52.46    # ID  AS138123  PT. ADEAKSA INDO JAYATAMA
 103.133.160.33   # ID  AS138136  Universitas Mataram
+103.134.222.110  # ID  AS138810  PT Global Media Pratama Solusindo
 103.137.65.2     # ID  AS58495   PT Parsaoran Global Datatrans
 103.137.83.51    # ID  AS138828  PT TELIO INTI NUSA
 103.139.11.207   # ID  AS55699   PT. Cemerlang Multimedia
@@ -396,6 +397,7 @@
 103.36.32.186    # ID  AS131111  PT Mora Telematika Indonesia
 103.41.247.76    # ID  AS133802  Universitas Pasundan Bandung
 103.42.205.115   # ID  AS133796  Subbid Sistem Jaringan dan Infrastruktur
+103.44.19.165    # ID  AS150191  PT Sarana Intimedia Telematika
 103.46.8.70      # ID  AS64300   PT JARINGANKU SARANA NUSANTARA
 103.47.134.107   # ID  AS63859   PT. Eka Mas Republik
 103.47.134.127   # ID  AS63859   PT. Eka Mas Republik
@@ -412,6 +414,7 @@
 103.52.69.5      # ID  AS24534   PT. Transhybrid Communication
 103.54.80.147    # ID  AS45305   Lintas Data Prima, PT
 103.56.148.173   # ID  AS55688   PT. Beon Intermedia
+103.56.232.39    # ID  AS131111  PT Mora Telematika Indonesia
 103.58.161.133   # ID  AS59278   PT Jaringan VNT Indonesia
 103.59.160.121   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.131   # ID  AS150493  PT Gunung Sedayu Sentosa
@@ -925,6 +928,7 @@
 180.249.101.191  # ID  AS7713    PT Telekomunikasi Indonesia
 180.249.109.177  # ID  AS7713    PT Telekomunikasi Indonesia
 180.249.210.218  # ID  AS7713    PT Telekomunikasi Indonesia
+180.249.36.46    # ID  AS7713    PT Telekomunikasi Indonesia
 180.249.61.24    # ID  AS7713    PT Telekomunikasi Indonesia
 180.249.96.176   # ID  AS7713    PT Telekomunikasi Indonesia
 180.249.99.67    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -939,6 +943,7 @@
 180.252.199.123  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.200.223  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.237.142  # ID  AS7713    PT Telekomunikasi Indonesia
+180.252.24.245   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.82.68    # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.88.208   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.90.17    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1023,6 +1028,7 @@
 202.145.0.61     # ID  AS17884   PT. Uninet Media Sakti (ISP)
 202.149.86.236   # ID  AS17826   Jl. Raya Pasar Minggu no 99D
 202.152.139.194  # ID  AS23951   PT JEMBATAN CITRA NUSANTARA
+202.152.148.27   # ID  AS23951   PT JEMBATAN CITRA NUSANTARA
 202.152.148.30   # ID  AS23951   PT JEMBATAN CITRA NUSANTARA
 202.152.156.202  # ID  AS23951   PT JEMBATAN CITRA NUSANTARA
 202.152.156.233  # ID  AS23951   PT JEMBATAN CITRA NUSANTARA
@@ -1344,6 +1350,7 @@
 36.78.222.106    # ID  AS7713    PT Telekomunikasi Indonesia
 36.78.222.223    # ID  AS7713    PT Telekomunikasi Indonesia
 36.79.148.76     # ID  AS7713    PT Telekomunikasi Indonesia
+36.79.151.69     # ID  AS7713    PT Telekomunikasi Indonesia
 36.79.234.222    # ID  AS7713    PT Telekomunikasi Indonesia
 36.80.116.146    # ID  AS7713    PT Telekomunikasi Indonesia
 36.80.167.179    # ID  AS7713    PT Telekomunikasi Indonesia
