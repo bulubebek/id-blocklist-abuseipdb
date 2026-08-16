@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1527
-# Last updated:           2026-08-16 12:44:29
+# Number of ips:          1533
+# Last updated:           2026-08-16 18:32:49
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -73,6 +73,7 @@
 103.126.30.97    # ID  AS138119  PT Integra Kreasitama Solusindo
 103.127.134.40   # ID  AS133800  PT Biznet Gio Nusantara
 103.129.221.202  # ID  AS138062  PT. Awan Kilat Semesta
+103.130.130.56   # ID  AS63859   PT. Eka Mas Republik
 103.130.18.131   # ID  AS63859   PT. Eka Mas Republik
 103.130.18.145   # ID  AS63859   PT. Eka Mas Republik
 103.130.18.27    # ID  AS63859   PT. Eka Mas Republik
@@ -553,6 +554,7 @@
 109.105.194.151  # ID  AS141968  PT Industri Kreatif Digital
 109.110.188.178  # ID  AS199695  PT Anym Network Indonesia
 110.136.10.27    # ID  AS7713    PT Telekomunikasi Indonesia
+110.136.122.165  # ID  AS7713    PT Telekomunikasi Indonesia
 110.136.122.230  # ID  AS7713    PT Telekomunikasi Indonesia
 110.136.126.131  # ID  AS7713    PT Telekomunikasi Indonesia
 110.136.146.134  # ID  AS7713    PT Telekomunikasi Indonesia
@@ -658,6 +660,7 @@
 125.160.197.209  # ID  AS7713    PT Telekomunikasi Indonesia
 125.160.54.248   # ID  AS7713    PT Telekomunikasi Indonesia
 125.161.159.189  # ID  AS7713    PT Telekomunikasi Indonesia
+125.161.242.159  # ID  AS7713    PT Telekomunikasi Indonesia
 125.162.165.87   # ID  AS7713    PT Telekomunikasi Indonesia
 125.162.226.7    # ID  AS7713    PT Telekomunikasi Indonesia
 125.163.54.254   # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1050,6 +1053,7 @@
 202.154.187.10   # ID  AS9422    PT SOLNET INDONESIA
 202.155.14.71    # ID  AS138115  PT Deneva
 202.155.143.185  # ID  AS151592  PT Awan Data Teknologi
+202.155.143.190  # ID  AS151592  PT Awan Data Teknologi
 202.155.157.128  # ID  AS138115  PT Deneva
 202.155.157.131  # ID  AS138115  PT Deneva
 202.155.157.145  # ID  AS138115  PT Deneva
@@ -1446,6 +1450,7 @@
 38.253.239.21    # ID  AS141146  PT Indonesia Telekomunikasi Teknologi
 38.47.179.3      # ID  AS140443  PT Herza Digital Indonesia
 38.47.80.69      # ID  AS59134   PT. Datacomm Diangraha
+39.194.1.247     # ID  AS23693   PT. Telekomunikasi Selular
 39.194.2.136     # ID  AS23693   PT. Telekomunikasi Selular
 39.194.2.195     # ID  AS23693   PT. Telekomunikasi Selular
 39.194.2.90      # ID  AS23693   PT. Telekomunikasi Selular
@@ -1501,6 +1506,7 @@
 45.64.100.26     # ID  AS45786   PT. Hawk Teknologi Solusi
 45.64.100.28     # ID  AS45786   PT. Hawk Teknologi Solusi
 49.0.24.107      # ID  AS17995   PT iForte Global Internet
+49.0.3.46        # ID  AS55701   PT. Usaha Adisanggoro
 59.153.80.34     # ID  AS56233   PT Asia Teknologi Solusi
 60.253.115.6     # ID  AS38144   PT Jalawave Cakrawala
 69.5.0.120       # ID  AS150436  Byteplus Pte. Ltd.
