@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          470
-# Last updated:           2026-08-19 06:49:11
+# Number of ips:          479
+# Last updated:           2026-08-19 12:52:56
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -47,8 +47,10 @@
 103.140.78.114   # ID  AS138873  PT GREEN NET INDONESIA
 103.146.169.26   # ID  AS139939  Institut Seni Budaya Indonesia Bandung
 103.146.185.162  # ID  AS139967  PT. Yasmin Amanah Media
+103.146.197.220  # ID  AS139941  RIYAD NETWORK
 103.146.197.39   # ID  AS139941  RIYAD NETWORK
 103.146.202.84   # ID  AS136052  PT Cloud Hosting Indonesia
+103.146.30.43    # ID  AS64315   PT MITRA VISIONER PRATAMA
 103.147.157.122  # ID  AS142360  PT Internet Mulia Untuk Negeri
 103.147.159.198  # ID  AS38513   PT Aplikanusa Lintasarta
 103.147.159.91   # ID  AS38513   PT Aplikanusa Lintasarta
@@ -62,6 +64,7 @@
 103.149.180.2    # ID  AS45325   PT PC24 Telekomunikasi Indonesia
 103.150.218.222  # ID  AS140401  PT Proxi Jaringan Nusantara
 103.151.140.79   # ID  AS140417  PT Indotechno Digital Komputasi
+103.152.37.86    # ID  AS140433  PT. Colo Media Netindo
 103.153.190.105  # ID  AS140469  PT Wahyu Adidaya Network
 103.154.139.95   # ID  AS131111  PT Mora Telematika Indonesia
 103.155.197.224  # ID  AS141071  PT Jembatan Data Pangrango
@@ -86,6 +89,7 @@
 103.168.135.187  # ID  AS38513   PT Aplikanusa Lintasarta
 103.168.190.114  # ID  AS142319  PT Telemedia Komunikasi Pratama
 103.170.97.16    # ID  AS142368  PT Global Data Akses Persada
+103.171.153.31   # ID  AS63859   PT. Eka Mas Republik
 103.172.18.139   # ID  AS142382  PT Klinik Digital Indonesia JNHOST
 103.172.186.197  # ID  AS142400  PT Inovasi Digital Telekomunikasi
 103.172.20.218   # ID  AS142383  PT Vaiotech Lintas Nusantara
@@ -172,6 +176,7 @@
 103.65.236.108   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.65.236.109   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.65.236.197   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
+103.65.236.212   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.65.236.217   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.65.237.194   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.65.237.40    # ID  AS135450  PT Berkah Solusi Teknologi Informasi
@@ -202,7 +207,9 @@
 103.99.214.143   # ID  AS136837  Universitas Muhammadiyah Palembang
 104.28.213.127   # ID  AS13335   Cloudflare, Inc.
 108.137.12.146   # ID  AS16509   Amazon.com, Inc.
+108.137.190.123  # ID  AS16509   Amazon.com, Inc.
 108.137.80.195   # ID  AS16509   Amazon.com, Inc.
+109.176.17.174   # ID  AS141968  PT Industri Kreatif Digital
 110.232.82.46    # ID  AS23679   PT. Media Antar Nusa
 110.35.80.116    # ID  AS17727   PT. NAP Info Lintas Nusa
 111.68.126.186   # ID  AS45287   Varnion Technology Semesta, PT
@@ -279,6 +286,7 @@
 160.19.156.35    # ID  AS152768  PT Tiga Pilar Banua
 160.22.134.25    # ID  AS152810  PT GALAXY SINERGI NETWORK
 160.25.119.85    # ID  AS153096  PT High Speed Connection Network
+163.227.143.30   # ID  AS153823  PT JARINGAN TEKNOLOGI SEJAHTERA
 163.227.52.50    # ID  AS153804  PT Jagoan Data Nusantara
 163.61.225.171   # ID  AS153666  PT JARINGAN INTERNET TERPADU
 163.7.1.156      # ID  AS150436  Byteplus Pte. Ltd.
@@ -369,6 +377,7 @@
 202.51.214.99    # ID  AS10220   PT. Kreasi Sejahtera Teknologi
 202.57.28.132    # ID  AS9341    PT INDONESIA COMNETS PLUS
 202.58.206.242   # ID  AS45701   Internet Madju Abad Millenindo, PT
+202.61.124.68    # ID  AS55661   PT Informasi Teknologi Indonesia
 202.72.196.75    # ID  AS18153   PT Multidata Rancana Prima
 202.93.133.140   # ID  AS4382    PT. Indonusa System Integrator Prima
 202.93.133.49    # ID  AS4382    PT. Indonusa System Integrator Prima
