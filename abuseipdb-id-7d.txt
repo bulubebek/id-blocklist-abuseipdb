@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          786
-# Last updated:           2026-08-21 12:53:33
+# Number of ips:          796
+# Last updated:           2026-08-21 18:40:12
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -109,10 +109,12 @@
 103.155.47.50    # ID  AS141049  PT Profesional Internet Indonesia
 103.156.17.241   # ID  AS141077  RSTNET
 103.156.71.98    # ID  AS141081  PT Indo Access Semesta
+103.156.75.40    # ID  AS141082  PT Trika Global Media
 103.157.48.74    # ID  AS63859   PT. Eka Mas Republik
 103.157.79.0     # ID  AS141114  PT Super Media Indonesia
 103.157.79.1     # ID  AS141114  PT Super Media Indonesia
 103.158.208.34   # ID  AS141146  PT Indonesia Telekomunikasi Teknologi
+103.159.199.43   # ID  AS131111  PT Mora Telematika Indonesia
 103.159.96.27    # ID  AS141140  PT Jinde Grup Indonesia
 103.16.116.249   # ID  AS55688   PT. Beon Intermedia
 103.16.117.30    # ID  AS55688   PT. Beon Intermedia
@@ -164,6 +166,7 @@
 103.180.123.42   # ID  AS149360  PT Indo Telemedia Solusi
 103.180.124.162  # ID  AS141968  PT Industri Kreatif Digital
 103.180.125.173  # ID  AS141968  PT Industri Kreatif Digital
+103.182.189.190  # ID  AS17995   PT iForte Global Internet
 103.182.189.90   # ID  AS17995   PT iForte Global Internet
 103.182.192.6    # ID  AS17995   PT iForte Global Internet
 103.182.200.10   # ID  AS17995   PT iForte Global Internet
@@ -201,6 +204,7 @@
 103.191.14.243   # ID  AS38513   PT Aplikanusa Lintasarta
 103.191.165.34   # ID  AS149925  PT Sakti Wijaya Network
 103.193.179.139  # ID  AS136052  PT Cloud Hosting Indonesia
+103.209.184.70   # ID  AS134655  PT. DUMAI MANDIRI NET
 103.210.116.222  # ID  AS64024   PT Yesi Media Utama
 103.210.35.122   # ID  AS59151   Diskominfo DIY
 103.214.102.162  # ID  AS64027   PT SURYA TEKNIKA PRATAMA
@@ -219,6 +223,7 @@
 103.245.19.18    # ID  AS46023   PT Quantum Tera Network
 103.245.38.203   # ID  AS55688   PT. Beon Intermedia
 103.247.21.209   # ID  AS58485   WIFIAN ID
+103.247.8.169    # ID  AS58487   CV. Rumahweb Indonesia
 103.249.18.209   # ID  AS150206  PT Rafa Teknologi Solusi
 103.252.12.242   # ID  AS133838  PT Infotek Global Network
 103.253.245.222  # ID  AS140389  PT Dewa Bisnis Digital
@@ -227,6 +232,7 @@
 103.26.188.11    # ID  AS142319  PT Telemedia Komunikasi Pratama
 103.26.188.24    # ID  AS142319  PT Telemedia Komunikasi Pratama
 103.26.209.178   # ID  AS18103   Neuviz Net
+103.28.112.58    # ID  AS45305   Lintas Data Prima, PT
 103.28.16.162    # ID  AS150254  PT Centrix Media Teknologi
 103.29.185.162   # ID  AS56260   PT Pascal Indonesia
 103.3.221.62     # ID  AS139994  PT XL Axiata Tbk
@@ -428,6 +434,7 @@
 157.20.144.199   # ID  AS150279  PT Lintas Network Solusi
 157.20.144.241   # ID  AS150279  PT Lintas Network Solusi
 157.20.207.165   # ID  AS152436  PT Erajaya Telco Indonesia
+157.20.253.26    # ID  AS138089  PT.Global Media Data Prima
 157.20.32.147    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.37.254    # ID  AS140470  PT Andalan Dinamika Informatika
 157.20.98.244    # ID  AS152435  PT Konnek Jaya Bersama
@@ -531,6 +538,7 @@
 180.247.62.26    # ID  AS7713    PT Telekomunikasi Indonesia
 180.248.40.14    # ID  AS7713    PT Telekomunikasi Indonesia
 180.248.52.207   # ID  AS7713    PT Telekomunikasi Indonesia
+180.248.62.53    # ID  AS7713    PT Telekomunikasi Indonesia
 180.249.109.177  # ID  AS7713    PT Telekomunikasi Indonesia
 180.249.36.46    # ID  AS7713    PT Telekomunikasi Indonesia
 180.249.98.64    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -631,12 +639,14 @@
 203.175.125.116  # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.146  # ID  AS139952  PT Trisari Data Indonusa
 203.29.27.10     # ID  AS135477  PT. Java Digital Nusantara
+203.29.27.131    # ID  AS135477  PT. Java Digital Nusantara
 203.29.27.216    # ID  AS135477  PT. Java Digital Nusantara
 203.89.28.114    # ID  AS24521   PT. DATA Utama Dinamika
 208.76.40.173    # ID  AS151592  PT Awan Data Teknologi
 208.76.40.195    # ID  AS151592  PT Awan Data Teknologi
 210.57.210.20    # ID  AS38142   Universitas Airlangga
 210.79.142.230   # ID  AS141607  PT Gayatri Lintas Nusantara
+210.79.191.174   # ID  AS136052  PT Cloud Hosting Indonesia
 210.87.90.218    # ID  AS63859   PT. Eka Mas Republik
 210.87.92.33     # ID  AS149360  PT Indo Telemedia Solusi
 210.87.93.41     # ID  AS149360  PT Indo Telemedia Solusi
