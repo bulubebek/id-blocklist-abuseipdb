@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1583
-# Last updated:           2026-08-25 01:24:51
+# Number of ips:          1586
+# Last updated:           2026-08-25 06:53:11
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -1010,6 +1010,7 @@
 180.249.99.67    # ID  AS7713    PT Telekomunikasi Indonesia
 180.250.196.141  # ID  AS7713    PT Telekomunikasi Indonesia
 180.251.182.177  # ID  AS7713    PT Telekomunikasi Indonesia
+180.251.182.47   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.143.135  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.149.148  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.151.141  # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1346,6 +1347,7 @@
 36.66.16.233     # ID  AS7713    PT Telekomunikasi Indonesia
 36.66.162.10     # ID  AS7713    PT Telekomunikasi Indonesia
 36.66.162.11     # ID  AS7713    PT Telekomunikasi Indonesia
+36.66.7.82       # ID  AS7713    PT Telekomunikasi Indonesia
 36.66.72.4       # ID  AS7713    PT Telekomunikasi Indonesia
 36.67.127.60     # ID  AS7713    PT Telekomunikasi Indonesia
 36.67.165.162    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1484,6 +1486,7 @@
 36.95.248.97     # ID  AS7713    PT Telekomunikasi Indonesia
 36.95.77.99      # ID  AS7713    PT Telekomunikasi Indonesia
 38.253.224.126   # ID  AS174     Cogent Communications, LLC
+38.253.224.14    # ID  AS174     Cogent Communications, LLC
 38.253.224.15    # ID  AS174     Cogent Communications, LLC
 38.253.224.16    # ID  AS174     Cogent Communications, LLC
 38.253.224.2     # ID  AS174     Cogent Communications, LLC
