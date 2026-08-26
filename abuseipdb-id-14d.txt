@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1027
-# Last updated:           2026-08-26 01:34:45
+# Number of ips:          1033
+# Last updated:           2026-08-26 06:54:18
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -171,6 +171,7 @@
 103.166.122.209  # ID  AS141945  PT Hydra Media Indonesia
 103.166.158.130  # ID  AS141955  PT Timor Lintas Nusantara
 103.166.226.235  # ID  AS141959  PT Arta Flash Sintesa Nusantara
+103.166.65.194   # ID  -         -
 103.167.218.34   # ID  AS17995   PT iForte Global Internet
 103.167.4.155    # ID  AS17995   PT iForte Global Internet
 103.167.4.156    # ID  AS17995   PT iForte Global Internet
@@ -257,6 +258,7 @@
 103.215.187.128  # ID  AS141664  PT Jaringan Inti Exadata
 103.217.217.226  # ID  AS24529   PT. Infotama Lintas Global
 103.217.219.197  # ID  AS24529   PT. Infotama Lintas Global
+103.22.216.2     # ID  AS150261  PT Cybermedia Network Nusantara
 103.224.19.154   # ID  AS56229   LightsUp Network Solution Sdn. Bhd.
 103.224.19.186   # ID  AS56229   LightsUp Network Solution Sdn. Bhd.
 103.224.64.82    # ID  AS59158   PT Blambangan Cahaya Timur
@@ -266,6 +268,7 @@
 103.229.73.90    # ID  AS136170  PT. EXABYTES NETWORK INDONESIA
 103.230.81.164   # ID  AS150961  PT. Pandeglang Akses Semesta
 103.232.20.136   # ID  AS151508  PT Terabyte Network Indonesia
+103.232.20.85    # ID  AS151508  PT Terabyte Network Indonesia
 103.24.12.220    # ID  AS132644  PT. Cyberindo Mega Persada
 103.24.212.42    # ID  AS132649  PT Adau Putra Network
 103.242.104.141  # ID  AS58821   PT Lintas Jaringan Nusantara
@@ -389,6 +392,7 @@
 103.87.68.59     # ID  AS150249  PT Atharva Telematika Persada
 103.88.169.146   # ID  AS136093  PT Mitra Lintas Multimedia
 103.88.169.148   # ID  AS136093  PT Mitra Lintas Multimedia
+103.88.169.150   # ID  AS136093  PT Mitra Lintas Multimedia
 103.90.27.83     # ID  AS132673  PT Arana Teknologi Indonesia
 103.90.67.3      # ID  AS150265  PT Rajawali Bintang Cemerlang Telkomedia
 103.90.67.84     # ID  AS150265  PT Rajawali Bintang Cemerlang Telkomedia
@@ -441,6 +445,7 @@
 114.10.43.72     # ID  AS4761    INDOSAT Internet Network Provider
 114.10.44.138    # ID  AS4761    INDOSAT Internet Network Provider
 114.10.44.163    # ID  AS4761    INDOSAT Internet Network Provider
+114.10.45.156    # ID  AS4761    INDOSAT Internet Network Provider
 114.10.45.94     # ID  AS4761    INDOSAT Internet Network Provider
 114.10.47.152    # ID  AS4761    INDOSAT Internet Network Provider
 114.10.47.158    # ID  AS4761    INDOSAT Internet Network Provider
@@ -652,6 +657,7 @@
 180.243.254.143  # ID  AS7713    PT Telekomunikasi Indonesia
 180.243.59.178   # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.187.150  # ID  AS7713    PT Telekomunikasi Indonesia
+180.244.187.20   # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.187.44   # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.187.49   # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.187.79   # ID  AS7713    PT Telekomunikasi Indonesia
