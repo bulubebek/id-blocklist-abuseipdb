@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          990
-# Last updated:           2026-08-30 16:20:19
+# Number of ips:          996
+# Last updated:           2026-08-30 20:46:16
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -262,6 +262,7 @@
 103.205.82.16    # ID  AS134641  PEMERINTAH KABUPATEN MAGETAN
 103.205.82.25    # ID  AS134641  PEMERINTAH KABUPATEN MAGETAN
 103.209.184.70   # ID  AS134655  PT. DUMAI MANDIRI NET
+103.21.205.202   # ID  AS131746  PT. Medianusa Permana
 103.210.35.122   # ID  AS59151   Diskominfo DIY
 103.214.102.162  # ID  AS64027   PT SURYA TEKNIKA PRATAMA
 103.214.102.99   # ID  AS64027   PT SURYA TEKNIKA PRATAMA
@@ -369,6 +370,7 @@
 103.66.196.235   # ID  AS131111  PT Mora Telematika Indonesia
 103.67.80.61     # ID  AS152001  PT Komunikasi Profesional Indonesia
 103.67.85.22     # ID  AS152004  PT Tujuh Fondasi Teknologi
+103.68.213.26    # ID  AS150530  PT Mars Data Telekomunikasi
 103.7.226.63     # ID  AS59135   PT Suraloka Digital Kreatif
 103.70.123.254   # ID  AS150980  PT Menara Digital Salama
 103.71.161.54    # ID  AS139981  PT. Menaksopal Link Nusantara
@@ -449,6 +451,7 @@
 114.10.40.252    # ID  AS4761    INDOSAT Internet Network Provider
 114.10.43.223    # ID  AS4761    INDOSAT Internet Network Provider
 114.10.43.4      # ID  AS4761    INDOSAT Internet Network Provider
+114.10.43.6      # ID  AS4761    INDOSAT Internet Network Provider
 114.10.43.72     # ID  AS4761    INDOSAT Internet Network Provider
 114.10.44.138    # ID  AS4761    INDOSAT Internet Network Provider
 114.10.44.163    # ID  AS4761    INDOSAT Internet Network Provider
@@ -501,6 +504,7 @@
 122.200.150.90   # ID  AS38148   QIANDRA INFORMATION TECHNOLOGY PT
 123.100.226.79   # ID  AS136170  PT. EXABYTES NETWORK INDONESIA
 123.231.171.242  # ID  AS4800    PT Aplikanusa Lintasarta
+123.231.179.186  # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.189.211  # ID  AS4800    PT Aplikanusa Lintasarta
 123.231.210.210  # ID  AS4800    PT Aplikanusa Lintasarta
 124.153.16.122   # ID  AS9326    PT Centrin Utama
@@ -656,6 +660,7 @@
 182.253.154.31   # ID  AS17451   BIZNET NETWORKS
 182.253.156.184  # ID  AS17451   BIZNET NETWORKS
 182.253.168.82   # ID  AS17451   BIZNET NETWORKS
+182.253.170.58   # ID  AS17451   BIZNET NETWORKS
 182.253.173.67   # ID  AS17451   BIZNET NETWORKS
 182.253.186.142  # ID  AS17451   BIZNET NETWORKS
 182.253.209.189  # ID  AS17451   BIZNET NETWORKS
@@ -973,6 +978,7 @@
 43.252.159.79    # ID  AS149746  PT Blip Integrator Provider
 45.126.43.37     # ID  AS151592  PT Awan Data Teknologi
 45.157.16.157    # ID  -         -
+45.198.148.48    # ID  AS63859   PT. Eka Mas Republik
 45.198.20.29     # ID  AS140457  PT Ikhlas Cipta Teknologi
 45.198.32.107    # ID  AS138089  PT.Global Media Data Prima
 45.64.100.28     # ID  AS45786   PT. Hawk Teknologi Solusi
