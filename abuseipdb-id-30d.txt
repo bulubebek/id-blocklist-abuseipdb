@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1916
-# Last updated:           2026-09-02 16:14:35
+# Number of ips:          1928
+# Last updated:           2026-09-02 20:45:59
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -138,6 +138,7 @@
 103.139.11.92    # ID  AS55699   PT. Cemerlang Multimedia
 103.139.192.221  # ID  AS136052  PT Cloud Hosting Indonesia
 103.139.193.187  # ID  AS136052  PT Cloud Hosting Indonesia
+103.139.193.223  # ID  AS136052  PT Cloud Hosting Indonesia
 103.14.16.13     # ID  AS55699   PT. Cemerlang Multimedia
 103.140.131.9    # ID  AS138866  PT Mitra Media Data
 103.140.206.213  # ID  AS9341    PT INDONESIA COMNETS PLUS
@@ -299,6 +300,7 @@
 103.171.185.6    # ID  AS142374  PT Solusi Integra Datakom
 103.171.83.237   # ID  AS142373  PT Multi Network Indonesia
 103.171.85.124   # ID  AS136052  PT Cloud Hosting Indonesia
+103.171.85.192   # ID  AS136052  PT Cloud Hosting Indonesia
 103.171.85.42    # ID  AS136052  PT Cloud Hosting Indonesia
 103.172.120.111  # ID  AS142398  PT Digital Akses Nusantara
 103.172.18.139   # ID  AS142382  PT Klinik Digital Indonesia JNHOST
@@ -460,6 +462,7 @@
 103.193.178.240  # ID  AS136052  PT Cloud Hosting Indonesia
 103.193.178.42   # ID  AS136052  PT Cloud Hosting Indonesia
 103.193.179.139  # ID  AS136052  PT Cloud Hosting Indonesia
+103.195.142.102  # ID  AS134614  Universitas Hasanuddin
 103.195.142.154  # ID  AS134614  Universitas Hasanuddin
 103.195.30.133   # ID  AS134612  PT Atria Teknologi Indonesia
 103.196.116.156  # ID  AS23679   PT. Media Antar Nusa
@@ -637,6 +640,7 @@
 103.59.94.61     # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.94.62     # ID  AS136052  PT Cloud Hosting Indonesia
 103.59.94.82     # ID  AS136052  PT Cloud Hosting Indonesia
+103.60.180.150   # ID  AS55685   PT Jala Lintas Media
 103.60.182.22    # ID  AS55685   PT Jala Lintas Media
 103.61.71.50     # ID  AS45734   PT Media Televisi Indonesia
 103.63.101.24    # ID  AS150273  PT Berkah Maju Interasional
@@ -1328,6 +1332,7 @@
 182.8.226.150    # ID  AS23693   PT. Telekomunikasi Selular
 182.8.68.12      # ID  AS23693   PT. Telekomunikasi Selular
 182.8.99.144     # ID  AS23693   PT. Telekomunikasi Selular
+182.9.1.61       # ID  AS23693   PT. Telekomunikasi Selular
 182.9.2.134      # ID  AS23693   PT. Telekomunikasi Selular
 183.91.81.22     # ID  AS4800    PT Aplikanusa Lintasarta
 183.91.83.132    # ID  AS4800    PT Aplikanusa Lintasarta
@@ -1469,6 +1474,7 @@
 203.29.27.11     # ID  AS135477  PT. Java Digital Nusantara
 203.29.27.131    # ID  AS135477  PT. Java Digital Nusantara
 203.29.27.216    # ID  AS135477  PT. Java Digital Nusantara
+203.30.221.70    # ID  AS154218  PT LINTAS JARINGAN TUNGKAL
 203.30.237.34    # ID  AS55666   PT Media Sarana Data
 203.83.45.43     # ID  AS63859   PT. Eka Mas Republik
 203.89.28.114    # ID  AS24521   PT. DATA Utama Dinamika
@@ -1564,6 +1570,7 @@
 34.101.56.63     # ID  AS396982  Google LLC
 34.101.59.9      # ID  AS396982  Google LLC
 34.101.61.112    # ID  AS396982  Google LLC
+34.101.62.92     # ID  AS396982  Google LLC
 34.101.65.68     # ID  AS396982  Google LLC
 34.101.67.50     # ID  AS396982  Google LLC
 34.101.70.83     # ID  AS396982  Google LLC
@@ -1593,10 +1600,12 @@
 34.128.90.58     # ID  AS396982  Google LLC
 34.128.96.248    # ID  AS396982  Google LLC
 34.128.97.59     # ID  AS396982  Google LLC
+34.34.216.235    # ID  AS396982  Google LLC
 34.34.216.245    # ID  AS396982  Google LLC
 34.34.217.220    # ID  AS396982  Google LLC
 34.34.221.204    # ID  AS396982  Google LLC
 34.50.101.250    # ID  AS396982  Google LLC
+34.50.104.244    # ID  AS396982  Google LLC
 34.50.106.137    # ID  AS396982  Google LLC
 34.50.107.223    # ID  AS396982  Google LLC
 34.50.110.149    # ID  AS396982  Google LLC
@@ -1621,8 +1630,10 @@
 34.50.78.49      # ID  AS396982  Google LLC
 34.50.79.192     # ID  AS396982  Google LLC
 34.50.79.219     # ID  AS396982  Google LLC
+34.50.79.54      # ID  AS396982  Google LLC
 34.50.80.37      # ID  AS396982  Google LLC
 34.50.80.63      # ID  AS396982  Google LLC
+34.50.81.229     # ID  AS396982  Google LLC
 34.50.85.109     # ID  AS396982  Google LLC
 34.50.93.33      # ID  AS396982  Google LLC
 34.50.96.30      # ID  AS396982  Google LLC
@@ -1645,6 +1656,7 @@
 36.64.1.29       # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.10.42      # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.131.68     # ID  AS7713    PT Telekomunikasi Indonesia
+36.64.148.186    # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.211.93     # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.33.82      # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.36.101     # ID  AS7713    PT Telekomunikasi Indonesia
