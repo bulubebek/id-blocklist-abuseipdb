@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1642
-# Last updated:           2026-09-06 15:10:43
+# Number of ips:          1649
+# Last updated:           2026-09-06 20:11:00
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -164,6 +164,7 @@
 103.150.218.222  # ID  AS140401  PT Proxi Jaringan Nusantara
 103.150.218.86   # ID  AS140401  PT Proxi Jaringan Nusantara
 103.150.218.94   # ID  AS140401  PT Proxi Jaringan Nusantara
+103.150.81.74    # ID  AS133800  PT Biznet Gio Nusantara
 103.151.140.79   # ID  AS140417  PT Indotechno Digital Komputasi
 103.152.140.58   # ID  AS140482  IdeaNet
 103.152.233.101  # ID  AS140446  PT Kingpolah Network Solutions
@@ -418,6 +419,7 @@
 103.196.116.156  # ID  AS23679   PT. Media Antar Nusa
 103.196.146.184  # ID  AS133800  PT Biznet Gio Nusantara
 103.196.147.189  # ID  AS133800  PT Biznet Gio Nusantara
+103.198.120.66   # ID  AS46055   PT ROKA LANE ASIA
 103.20.189.51    # ID  AS55685   PT Jala Lintas Media
 103.20.219.5     # ID  AS149968  Diskominfo Kabupaten Humbang Hasundutan
 103.205.82.16    # ID  AS134641  PEMERINTAH KABUPATEN MAGETAN
@@ -719,6 +721,7 @@
 114.10.44.163    # ID  AS4761    INDOSAT Internet Network Provider
 114.10.44.5      # ID  AS4761    INDOSAT Internet Network Provider
 114.10.45.156    # ID  AS4761    INDOSAT Internet Network Provider
+114.10.45.47     # ID  AS4761    INDOSAT Internet Network Provider
 114.10.47.158    # ID  AS4761    INDOSAT Internet Network Provider
 114.10.47.204    # ID  AS4761    INDOSAT Internet Network Provider
 114.10.47.234    # ID  AS4761    INDOSAT Internet Network Provider
@@ -1048,6 +1051,7 @@
 180.250.158.199  # ID  AS7713    PT Telekomunikasi Indonesia
 180.250.196.141  # ID  AS7713    PT Telekomunikasi Indonesia
 180.251.182.47   # ID  AS7713    PT Telekomunikasi Indonesia
+180.252.214.228  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.248.100  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.254.244  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.52.2     # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1225,7 +1229,9 @@
 202.93.225.6     # ID  AS38758   PT. HIPERNET INDODATA
 202.93.228.123   # ID  AS38758   PT. HIPERNET INDODATA
 202.93.228.70    # ID  AS38758   PT. HIPERNET INDODATA
+202.93.27.36     # ID  AS23952   Thamrin Telekomunikasi Network PT.
 202.93.27.37     # ID  AS23952   Thamrin Telekomunikasi Network PT.
+203.128.71.117   # ID  AS18103   Neuviz Net
 203.128.83.106   # ID  AS18103   Neuviz Net
 203.130.240.54   # ID  AS7713    PT Telekomunikasi Indonesia
 203.142.72.194   # ID  AS17451   BIZNET NETWORKS
@@ -1293,6 +1299,7 @@
 27.123.4.138     # ID  AS45706   Tele Globe Global, PT
 27.123.7.170     # ID  AS45706   Tele Globe Global, PT
 27.123.7.187     # ID  AS45706   Tele Globe Global, PT
+27.124.86.69     # ID  AS9341    PT INDONESIA COMNETS PLUS
 27.50.20.36      # ID  AS131111  PT Mora Telematika Indonesia
 27.50.29.181     # ID  AS131111  PT Mora Telematika Indonesia
 34.101.101.216   # ID  AS396982  Google LLC
