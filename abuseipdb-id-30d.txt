@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          2138
-# Last updated:           2026-09-07 17:42:12
+# Number of ips:          2141
+# Last updated:           2026-09-07 21:18:46
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -239,6 +239,7 @@
 103.155.197.225  # ID  AS141071  PT Jembatan Data Pangrango
 103.155.197.226  # ID  AS141071  PT Jembatan Data Pangrango
 103.155.197.227  # ID  AS141071  PT Jembatan Data Pangrango
+103.155.198.185  # ID  AS58821   PT Lintas Jaringan Nusantara
 103.155.221.74   # ID  AS141076  PT. Arthamas Cipta
 103.155.221.91   # ID  AS141076  PT. Arthamas Cipta
 103.155.47.102   # ID  AS141049  PT Profesional Internet Indonesia
@@ -656,6 +657,7 @@
 103.52.6.71      # ID  AS150202  PT Nanaka Network Communication
 103.52.69.5      # ID  AS24534   PT. Transhybrid Communication
 103.54.1.5       # ID  AS140411  UNIVERSITAS PARAMADINA
+103.54.1.8       # ID  AS140411  UNIVERSITAS PARAMADINA
 103.54.94.222    # ID  AS133823  PT Infokom Elektrindo
 103.56.149.19    # ID  AS55688   PT. Beon Intermedia
 103.56.232.39    # ID  AS131111  PT Mora Telematika Indonesia
@@ -1607,6 +1609,7 @@
 203.190.55.94    # ID  AS24530   PT. Power Telecom Indonesia
 203.194.113.225  # ID  AS58487   CV. Rumahweb Indonesia
 203.2.151.15     # ID  AS142043  PT BARAYA BARENG SADULUR
+203.2.151.27     # ID  AS142043  PT BARAYA BARENG SADULUR
 203.201.164.82   # ID  AS9794    PT. Core Mediatech (D-NET)
 203.29.27.10     # ID  AS135477  PT. Java Digital Nusantara
 203.29.27.11     # ID  AS135477  PT. Java Digital Nusantara
