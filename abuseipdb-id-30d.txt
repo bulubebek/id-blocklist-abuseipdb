@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          2122
-# Last updated:           2026-09-08 03:47:16
+# Number of ips:          2128
+# Last updated:           2026-09-08 10:53:58
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -398,6 +398,7 @@
 103.180.124.221  # ID  AS141968  PT Industri Kreatif Digital
 103.180.125.173  # ID  AS141968  PT Industri Kreatif Digital
 103.181.143.216  # ID  AS136052  PT Cloud Hosting Indonesia
+103.181.143.224  # ID  AS136052  PT Cloud Hosting Indonesia
 103.181.254.19   # ID  AS141145  PT Giga Digital Nusantara
 103.182.189.190  # ID  AS17995   PT iForte Global Internet
 103.182.189.90   # ID  AS17995   PT iForte Global Internet
@@ -938,6 +939,8 @@
 118.96.249.211   # ID  AS7713    PT Telekomunikasi Indonesia
 118.97.46.244    # ID  AS7713    PT Telekomunikasi Indonesia
 118.97.91.229    # ID  AS7713    PT Telekomunikasi Indonesia
+118.98.237.230   # ID  AS18051   Pustekkom
+118.98.237.43    # ID  AS18051   Pustekkom
 118.99.103.51    # ID  AS17451   BIZNET NETWORKS
 118.99.114.224   # ID  AS17451   BIZNET NETWORKS
 118.99.115.14    # ID  AS17451   BIZNET NETWORKS
@@ -1662,6 +1665,7 @@
 34.101.101.253   # ID  AS396982  Google LLC
 34.101.103.191   # ID  AS396982  Google LLC
 34.101.105.185   # ID  AS396982  Google LLC
+34.101.105.44    # ID  AS396982  Google LLC
 34.101.113.30    # ID  AS396982  Google LLC
 34.101.116.77    # ID  AS396982  Google LLC
 34.101.118.202   # ID  AS396982  Google LLC
@@ -1787,6 +1791,7 @@
 34.50.101.250    # ID  AS396982  Google LLC
 34.50.104.244    # ID  AS396982  Google LLC
 34.50.105.82     # ID  AS396982  Google LLC
+34.50.106.115    # ID  AS396982  Google LLC
 34.50.106.137    # ID  AS396982  Google LLC
 34.50.106.233    # ID  AS396982  Google LLC
 34.50.107.223    # ID  AS396982  Google LLC
@@ -1832,6 +1837,7 @@
 34.50.89.44      # ID  AS396982  Google LLC
 34.50.93.33      # ID  AS396982  Google LLC
 34.50.93.5       # ID  AS396982  Google LLC
+34.50.96.134     # ID  AS396982  Google LLC
 34.50.96.30      # ID  AS396982  Google LLC
 34.50.97.127     # ID  AS396982  Google LLC
 34.50.97.184     # ID  AS396982  Google LLC
