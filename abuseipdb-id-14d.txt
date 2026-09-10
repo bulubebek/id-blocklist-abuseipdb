@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1670
-# Last updated:           2026-09-10 16:04:16
+# Number of ips:          1678
+# Last updated:           2026-09-10 20:36:47
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -225,6 +225,7 @@
 103.160.213.162  # ID  AS140389  PT Dewa Bisnis Digital
 103.160.213.217  # ID  AS140389  PT Dewa Bisnis Digital
 103.160.213.54   # ID  AS140389  PT Dewa Bisnis Digital
+103.161.184.12   # ID  AS141623  PT Registrasi Neva Angkasa
 103.161.207.6    # ID  AS141627  PT Media Solusi Network
 103.161.62.216   # ID  AS38156   PT. Union Routelink Communication
 103.162.69.11    # ID  AS141644  Dinas Komunikasi dan Informatika Kabupaten Blora
@@ -484,6 +485,7 @@
 103.247.21.204   # ID  AS58485   WIFIAN ID
 103.247.21.205   # ID  AS58485   WIFIAN ID
 103.247.21.209   # ID  AS58485   WIFIAN ID
+103.247.22.129   # ID  AS58485   WIFIAN ID
 103.247.22.61    # ID  AS58485   WIFIAN ID
 103.247.23.133   # ID  AS58485   WIFIAN ID
 103.248.25.177   # ID  AS132658  Dinas Komunikasi dan Informatika Provinsi Sumatera Utara
@@ -699,6 +701,7 @@
 108.137.12.146   # ID  AS16509   Amazon.com, Inc.
 108.137.190.123  # ID  AS16509   Amazon.com, Inc.
 108.137.80.195   # ID  AS16509   Amazon.com, Inc.
+110.136.23.80    # ID  AS7713    PT Telekomunikasi Indonesia
 110.136.67.136   # ID  AS7713    PT Telekomunikasi Indonesia
 110.138.92.67    # ID  AS7713    PT Telekomunikasi Indonesia
 110.139.60.44    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -812,6 +815,7 @@
 123.253.29.3     # ID  AS58404   PT Qwords Company International
 124.153.16.122   # ID  AS9326    PT Centrin Utama
 124.40.252.3     # ID  AS45305   Lintas Data Prima, PT
+125.160.133.82   # ID  AS7713    PT Telekomunikasi Indonesia
 125.160.141.33   # ID  AS7713    PT Telekomunikasi Indonesia
 125.160.190.75   # ID  AS7713    PT Telekomunikasi Indonesia
 125.161.142.96   # ID  AS7713    PT Telekomunikasi Indonesia
@@ -864,6 +868,7 @@
 156.230.182.143  # ID  AS63859   PT. Eka Mas Republik
 156.230.182.39   # ID  AS63859   PT. Eka Mas Republik
 157.10.109.66    # ID  AS58495   PT Parsaoran Global Datatrans
+157.10.109.74    # ID  AS58495   PT Parsaoran Global Datatrans
 157.10.160.213   # ID  AS136052  PT Cloud Hosting Indonesia
 157.10.182.14    # ID  AS152344  PT Linea Global Teknologi
 157.10.182.4     # ID  AS152344  PT Linea Global Teknologi
@@ -1198,6 +1203,7 @@
 202.158.3.39     # ID  AS4787    PT Cyberindo Aditama
 202.158.42.134   # ID  AS4787    PT Cyberindo Aditama
 202.158.46.42    # ID  AS4787    PT Cyberindo Aditama
+202.159.101.194  # ID  AS9340    INDO Internet, PT
 202.159.107.90   # ID  AS9340    INDO Internet, PT
 202.162.204.183  # ID  AS23679   PT. Media Antar Nusa
 202.162.204.223  # ID  AS23679   PT. Media Antar Nusa
@@ -1541,6 +1547,7 @@
 36.70.109.121    # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.111.225    # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.72.44      # ID  AS7713    PT Telekomunikasi Indonesia
+36.70.79.7       # ID  AS7713    PT Telekomunikasi Indonesia
 36.71.176.47     # ID  AS7713    PT Telekomunikasi Indonesia
 36.71.177.59     # ID  AS7713    PT Telekomunikasi Indonesia
 36.71.182.64     # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1664,6 +1671,7 @@
 49.0.3.46        # ID  AS55701   PT. Usaha Adisanggoro
 49.128.186.100   # ID  AS131745  PT. Cybertechtonic Pratama
 59.153.80.34     # ID  AS56233   PT Asia Teknologi Solusi
+60.253.107.228   # ID  AS38144   PT Jalawave Cakrawala
 66.96.241.52     # ID  AS133798  PT. Smartfren Telecom, Tbk
 69.5.0.120       # ID  AS150436  Byteplus Pte. Ltd.
 69.5.20.133      # ID  AS150436  Byteplus Pte. Ltd.
