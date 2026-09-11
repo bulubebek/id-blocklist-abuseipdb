@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1652
-# Last updated:           2026-09-11 03:47:36
+# Number of ips:          1656
+# Last updated:           2026-09-11 10:53:28
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -727,6 +727,7 @@
 114.10.44.5      # ID  AS4761    INDOSAT Internet Network Provider
 114.10.45.156    # ID  AS4761    INDOSAT Internet Network Provider
 114.10.45.47     # ID  AS4761    INDOSAT Internet Network Provider
+114.10.45.94     # ID  AS4761    INDOSAT Internet Network Provider
 114.10.47.158    # ID  AS4761    INDOSAT Internet Network Provider
 114.10.47.204    # ID  AS4761    INDOSAT Internet Network Provider
 114.10.47.234    # ID  AS4761    INDOSAT Internet Network Provider
@@ -1446,7 +1447,9 @@
 34.50.113.115    # ID  AS396982  Google LLC
 34.50.115.129    # ID  AS396982  Google LLC
 34.50.116.12     # ID  AS396982  Google LLC
+34.50.117.16     # ID  AS396982  Google LLC
 34.50.117.19     # ID  AS396982  Google LLC
+34.50.119.143    # ID  AS396982  Google LLC
 34.50.119.199    # ID  AS396982  Google LLC
 34.50.120.20     # ID  AS396982  Google LLC
 34.50.122.152    # ID  AS396982  Google LLC
@@ -1539,6 +1542,7 @@
 36.80.171.78     # ID  AS7713    PT Telekomunikasi Indonesia
 36.80.176.101    # ID  AS7713    PT Telekomunikasi Indonesia
 36.80.178.106    # ID  AS7713    PT Telekomunikasi Indonesia
+36.82.125.23     # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.215.173    # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.66.132     # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.73.1       # ID  AS7713    PT Telekomunikasi Indonesia
