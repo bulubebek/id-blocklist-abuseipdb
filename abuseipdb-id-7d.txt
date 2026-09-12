@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1124
-# Last updated:           2026-09-12 15:15:43
+# Number of ips:          1128
+# Last updated:           2026-09-12 20:20:51
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -339,6 +339,7 @@
 103.26.188.24    # ID  AS142319  PT Telemedia Komunikasi Pratama
 103.26.188.26    # ID  AS142319  PT Telemedia Komunikasi Pratama
 103.29.185.162   # ID  AS56260   PT Pascal Indonesia
+103.3.221.107    # ID  AS139994  PT XL Axiata Tbk
 103.3.59.98      # ID  AS45289   Indotrans Data, PT
 103.30.87.221    # ID  AS18103   Neuviz Net
 103.31.132.189   # ID  AS131749  PT. Arthatama Adhiprima Persada
@@ -798,6 +799,7 @@
 202.154.15.177   # ID  AS141898  PT Milenial Inti Telekomunikasi
 202.154.187.10   # ID  AS9422    PT SOLNET INDONESIA
 202.155.14.144   # ID  AS138115  PT Deneva
+202.155.14.71    # ID  AS138115  PT Deneva
 202.155.143.185  # ID  AS151592  PT Awan Data Teknologi
 202.155.143.190  # ID  AS151592  PT Awan Data Teknologi
 202.155.157.112  # ID  AS138115  PT Deneva
@@ -866,6 +868,7 @@
 203.175.103.186  # ID  AS152014  PT. Mitra Kita Brilian
 203.175.124.198  # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.146  # ID  AS139952  PT Trisari Data Indonusa
+203.175.125.250  # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.36   # ID  AS139952  PT Trisari Data Indonusa
 203.194.113.225  # ID  AS58487   CV. Rumahweb Indonesia
 203.194.115.91   # ID  AS58487   CV. Rumahweb Indonesia
@@ -885,6 +888,7 @@
 210.211.19.178   # ID  AS56239   PT Graha Anugrah Sejahtera
 210.79.142.201   # ID  AS141607  PT Gayatri Lintas Nusantara
 210.79.190.151   # ID  AS136052  PT Cloud Hosting Indonesia
+210.79.190.251   # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.191.170   # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.191.174   # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.191.205   # ID  AS136052  PT Cloud Hosting Indonesia

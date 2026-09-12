@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          2123
-# Last updated:           2026-09-12 15:15:42
+# Number of ips:          2126
+# Last updated:           2026-09-12 20:20:49
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -605,6 +605,7 @@
 103.28.148.61    # ID  AS58477   Argon Data Communication
 103.28.16.162    # ID  AS150254  PT Centrix Media Teknologi
 103.29.185.162   # ID  AS56260   PT Pascal Indonesia
+103.3.221.107    # ID  AS139994  PT XL Axiata Tbk
 103.3.221.62     # ID  AS139994  PT XL Axiata Tbk
 103.3.222.147    # ID  AS139994  PT XL Axiata Tbk
 103.3.59.98      # ID  AS45289   Indotrans Data, PT
@@ -1600,6 +1601,7 @@
 203.175.124.198  # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.116  # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.146  # ID  AS139952  PT Trisari Data Indonusa
+203.175.125.250  # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.36   # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.7    # ID  AS139952  PT Trisari Data Indonusa
 203.194.113.225  # ID  AS58487   CV. Rumahweb Indonesia
@@ -1632,6 +1634,7 @@
 210.79.142.230   # ID  AS141607  PT Gayatri Lintas Nusantara
 210.79.142.69    # ID  AS141607  PT Gayatri Lintas Nusantara
 210.79.190.151   # ID  AS136052  PT Cloud Hosting Indonesia
+210.79.190.251   # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.191.170   # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.191.174   # ID  AS136052  PT Cloud Hosting Indonesia
 210.79.191.205   # ID  AS136052  PT Cloud Hosting Indonesia
