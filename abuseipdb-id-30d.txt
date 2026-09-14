@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          2128
-# Last updated:           2026-09-14 04:06:30
+# Number of ips:          2139
+# Last updated:           2026-09-14 12:14:09
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -280,6 +280,7 @@
 103.161.184.12   # ID  AS141623  PT Registrasi Neva Angkasa
 103.161.207.6    # ID  AS141627  PT Media Solusi Network
 103.161.62.216   # ID  AS38156   PT. Union Routelink Communication
+103.162.1.80     # ID  AS141634  PT Satu Sistem Integrasi
 103.162.69.11    # ID  AS141644  Dinas Komunikasi dan Informatika Kabupaten Blora
 103.163.13.160   # ID  AS141889  PT Solusi Media Telekomunikasi
 103.163.139.49   # ID  AS55688   PT. Beon Intermedia
@@ -454,6 +455,7 @@
 103.19.181.1     # ID  AS132642  Universitas Ahmad Dahlan
 103.19.231.170   # ID  AS132668  PT Bali Towerindo Sentra
 103.19.231.181   # ID  AS132668  PT Bali Towerindo Sentra
+103.19.231.188   # ID  AS132668  PT Bali Towerindo Sentra
 103.19.78.119    # ID  AS149359  PT Persada Data Multimedia
 103.190.0.39     # ID  AS149890  CV Mentari Hakiki
 103.190.171.217  # ID  AS141642  PT Ring Media Nusantara
@@ -790,6 +792,7 @@
 103.84.206.197   # ID  AS58487   CV. Rumahweb Indonesia
 103.84.5.172     # ID  AS132641  PT Netciti Persada
 103.85.117.17    # ID  AS63874   PT Bosowa Network Media
+103.85.149.166   # ID  AS17995   PT iForte Global Internet
 103.85.66.206    # ID  AS131111  PT Mora Telematika Indonesia
 103.86.117.203   # ID  AS150552  PT Link Data Sumber Barokah
 103.86.139.29    # ID  AS136083  Dinas Komunikasi, Informatika dan Statistika Kota Magelang
@@ -1037,6 +1040,7 @@
 125.166.17.22    # ID  AS7713    PT Telekomunikasi Indonesia
 125.166.239.163  # ID  AS7713    PT Telekomunikasi Indonesia
 125.166.61.217   # ID  AS7713    PT Telekomunikasi Indonesia
+125.166.8.38     # ID  AS7713    PT Telekomunikasi Indonesia
 125.166.9.51     # ID  AS7713    PT Telekomunikasi Indonesia
 125.167.205.193  # ID  AS7713    PT Telekomunikasi Indonesia
 125.167.51.14    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1432,7 +1436,9 @@
 182.253.64.199   # ID  AS17451   BIZNET NETWORKS
 182.253.64.224   # ID  AS17451   BIZNET NETWORKS
 182.253.79.178   # ID  AS17451   BIZNET NETWORKS
+182.253.79.194   # ID  AS17451   BIZNET NETWORKS
 182.253.79.195   # ID  AS17451   BIZNET NETWORKS
+182.253.89.113   # ID  AS17451   BIZNET NETWORKS
 182.253.89.118   # ID  AS17451   BIZNET NETWORKS
 182.253.89.119   # ID  AS17451   BIZNET NETWORKS
 182.253.94.228   # ID  AS17451   BIZNET NETWORKS
@@ -1545,6 +1551,7 @@
 202.51.101.250   # ID  AS17995   PT iForte Global Internet
 202.51.102.86    # ID  AS17995   PT iForte Global Internet
 202.51.104.162   # ID  AS17995   PT iForte Global Internet
+202.51.124.26    # ID  AS17995   PT iForte Global Internet
 202.51.197.163   # ID  AS55685   PT Jala Lintas Media
 202.51.199.2     # ID  AS55685   PT Jala Lintas Media
 202.51.202.242   # ID  AS55685   PT Jala Lintas Media
@@ -1568,6 +1575,7 @@
 202.65.118.212   # ID  AS23951   PT JEMBATAN CITRA NUSANTARA
 202.72.193.82    # ID  AS18153   PT Multidata Rancana Prima
 202.72.196.75    # ID  AS18153   PT Multidata Rancana Prima
+202.72.206.190   # ID  AS18153   PT Multidata Rancana Prima
 202.72.206.212   # ID  AS18153   PT Multidata Rancana Prima
 202.72.215.109   # ID  AS23953   PT ARTHA TELEKOMINDO
 202.75.96.89     # ID  AS45710   Yudhawira Khatulistiwa, PT
@@ -1929,6 +1937,7 @@
 36.70.105.152    # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.109.121    # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.111.225    # ID  AS7713    PT Telekomunikasi Indonesia
+36.70.234.88     # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.237.96     # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.72.44      # ID  AS7713    PT Telekomunikasi Indonesia
 36.70.79.7       # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1974,6 +1983,7 @@
 36.80.176.101    # ID  AS7713    PT Telekomunikasi Indonesia
 36.80.178.106    # ID  AS7713    PT Telekomunikasi Indonesia
 36.81.79.73      # ID  AS7713    PT Telekomunikasi Indonesia
+36.82.123.117    # ID  AS7713    PT Telekomunikasi Indonesia
 36.82.125.23     # ID  AS7713    PT Telekomunikasi Indonesia
 36.82.90.226     # ID  AS7713    PT Telekomunikasi Indonesia
 36.83.215.173    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -2076,6 +2086,7 @@
 43.157.224.34    # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.230.160   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.157.241.9     # ID  AS132203  Tencent Building, Kejizhongyi Avenue
+43.157.248.241   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.165.195.234   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.165.197.116   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.165.198.144   # ID  AS132203  Tencent Building, Kejizhongyi Avenue
