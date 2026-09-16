@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1488
-# Last updated:           2026-09-16 16:27:45
+# Number of ips:          1494
+# Last updated:           2026-09-16 21:03:27
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -751,6 +751,7 @@
 125.166.239.163  # ID  AS7713    PT Telekomunikasi Indonesia
 125.166.61.217   # ID  AS7713    PT Telekomunikasi Indonesia
 125.166.8.38     # ID  AS7713    PT Telekomunikasi Indonesia
+125.166.95.218   # ID  AS7713    PT Telekomunikasi Indonesia
 125.167.205.193  # ID  AS7713    PT Telekomunikasi Indonesia
 125.167.51.14    # ID  AS7713    PT Telekomunikasi Indonesia
 125.213.152.34   # ID  AS4800    PT Aplikanusa Lintasarta
@@ -902,6 +903,7 @@
 168.110.195.99   # ID  AS31898   Oracle Corporation
 168.110.217.188  # ID  AS31898   Oracle Corporation
 172.232.225.73   # ID  AS63949   Akamai Connected Cloud
+172.232.226.120  # ID  AS63949   Akamai Connected Cloud
 172.232.226.156  # ID  AS63949   Akamai Connected Cloud
 172.232.228.222  # ID  AS63949   Akamai Connected Cloud
 172.232.237.135  # ID  AS63949   Akamai Connected Cloud
@@ -911,6 +913,7 @@
 172.232.240.80   # ID  AS63949   Akamai Connected Cloud
 172.232.245.229  # ID  AS63949   Akamai Connected Cloud
 172.232.245.247  # ID  AS63949   Akamai Connected Cloud
+172.232.251.178  # ID  AS63949   Akamai Connected Cloud
 172.232.253.123  # ID  AS63949   Akamai Connected Cloud
 172.232.253.198  # ID  AS63949   Akamai Connected Cloud
 172.232.253.221  # ID  AS63949   Akamai Connected Cloud
@@ -1266,6 +1269,7 @@
 34.128.96.248    # ID  AS396982  Google LLC
 34.34.216.235    # ID  AS396982  Google LLC
 34.34.217.220    # ID  AS396982  Google LLC
+34.34.218.206    # ID  AS396982  Google LLC
 34.34.218.54     # ID  AS396982  Google LLC
 34.34.218.55     # ID  AS396982  Google LLC
 34.50.100.127    # ID  AS396982  Google LLC
@@ -1287,6 +1291,7 @@
 34.50.116.143    # ID  AS396982  Google LLC
 34.50.117.16     # ID  AS396982  Google LLC
 34.50.118.136    # ID  AS396982  Google LLC
+34.50.118.48     # ID  AS396982  Google LLC
 34.50.119.143    # ID  AS396982  Google LLC
 34.50.119.199    # ID  AS396982  Google LLC
 34.50.121.212    # ID  AS396982  Google LLC
@@ -1298,6 +1303,7 @@
 34.50.64.89      # ID  AS396982  Google LLC
 34.50.65.104     # ID  AS396982  Google LLC
 34.50.65.250     # ID  AS396982  Google LLC
+34.50.66.91      # ID  AS396982  Google LLC
 34.50.69.122     # ID  AS396982  Google LLC
 34.50.70.114     # ID  AS396982  Google LLC
 34.50.71.9       # ID  AS396982  Google LLC
