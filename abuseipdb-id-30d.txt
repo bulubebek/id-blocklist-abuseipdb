@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          2178
-# Last updated:           2026-09-18 10:50:09
+# Number of ips:          2186
+# Last updated:           2026-09-18 16:05:03
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -1034,6 +1034,7 @@
 125.161.142.96   # ID  AS7713    PT Telekomunikasi Indonesia
 125.161.242.159  # ID  AS7713    PT Telekomunikasi Indonesia
 125.161.251.62   # ID  AS7713    PT Telekomunikasi Indonesia
+125.161.91.25    # ID  AS7713    PT Telekomunikasi Indonesia
 125.162.181.108  # ID  AS7713    PT Telekomunikasi Indonesia
 125.162.226.7    # ID  AS7713    PT Telekomunikasi Indonesia
 125.163.106.82   # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1423,6 +1424,7 @@
 182.253.112.35   # ID  AS17451   BIZNET NETWORKS
 182.253.112.36   # ID  AS17451   BIZNET NETWORKS
 182.253.124.171  # ID  AS17451   BIZNET NETWORKS
+182.253.126.65   # ID  AS17451   BIZNET NETWORKS
 182.253.126.66   # ID  AS17451   BIZNET NETWORKS
 182.253.128.3    # ID  AS17451   BIZNET NETWORKS
 182.253.135.72   # ID  AS17451   BIZNET NETWORKS
@@ -1452,6 +1454,7 @@
 182.253.221.210  # ID  AS38482   Biznet ISP
 182.253.237.100  # ID  AS38482   Biznet ISP
 182.253.243.83   # ID  AS17451   BIZNET NETWORKS
+182.253.252.40   # ID  AS17451   BIZNET NETWORKS
 182.253.50.142   # ID  AS17451   BIZNET NETWORKS
 182.253.50.47    # ID  AS17451   BIZNET NETWORKS
 182.253.61.173   # ID  AS17451   BIZNET NETWORKS
@@ -1856,6 +1859,7 @@
 34.50.110.149    # ID  AS396982  Google LLC
 34.50.110.253    # ID  AS396982  Google LLC
 34.50.112.40     # ID  AS396982  Google LLC
+34.50.112.47     # ID  AS396982  Google LLC
 34.50.113.115    # ID  AS396982  Google LLC
 34.50.115.129    # ID  AS396982  Google LLC
 34.50.115.136    # ID  AS396982  Google LLC
@@ -1920,6 +1924,7 @@
 34.50.94.87      # ID  AS396982  Google LLC
 34.50.96.134     # ID  AS396982  Google LLC
 34.50.96.30      # ID  AS396982  Google LLC
+34.50.96.72      # ID  AS396982  Google LLC
 34.50.97.184     # ID  AS396982  Google LLC
 34.50.97.71      # ID  AS396982  Google LLC
 34.50.98.16      # ID  AS396982  Google LLC
@@ -2015,6 +2020,7 @@
 36.80.171.78     # ID  AS7713    PT Telekomunikasi Indonesia
 36.80.176.101    # ID  AS7713    PT Telekomunikasi Indonesia
 36.80.178.106    # ID  AS7713    PT Telekomunikasi Indonesia
+36.81.68.128     # ID  AS7713    PT Telekomunikasi Indonesia
 36.81.79.73      # ID  AS7713    PT Telekomunikasi Indonesia
 36.82.123.117    # ID  AS7713    PT Telekomunikasi Indonesia
 36.82.125.23     # ID  AS7713    PT Telekomunikasi Indonesia
@@ -2069,6 +2075,7 @@
 36.95.14.145     # ID  AS7713    PT Telekomunikasi Indonesia
 36.95.145.2      # ID  AS7713    PT Telekomunikasi Indonesia
 36.95.221.140    # ID  AS7713    PT Telekomunikasi Indonesia
+36.95.228.226    # ID  AS7713    PT Telekomunikasi Indonesia
 36.95.228.227    # ID  AS7713    PT Telekomunikasi Indonesia
 36.95.248.97     # ID  AS7713    PT Telekomunikasi Indonesia
 36.95.77.99      # ID  AS7713    PT Telekomunikasi Indonesia
@@ -2186,4 +2193,5 @@
 8.215.88.36      # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 9.154.222.189    # ID  AS131111  PT Mora Telematika Indonesia
 93.127.219.29    # ID  AS47583   Hostinger International Limited
+93.185.162.116   # ID  AS209854  Cyberzone S.A.
 93.185.162.128   # ID  AS209854  Cyberzone S.A.
