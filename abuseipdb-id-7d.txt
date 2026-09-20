@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1022
-# Last updated:           2026-09-20 04:08:57
+# Number of ips:          1030
+# Last updated:           2026-09-20 10:56:13
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -431,6 +431,7 @@
 108.136.62.223   # ID  AS16509   Amazon.com, Inc.
 108.137.80.195   # ID  AS16509   Amazon.com, Inc.
 110.136.235.240  # ID  AS7713    PT Telekomunikasi Indonesia
+110.136.71.150   # ID  AS7713    PT Telekomunikasi Indonesia
 110.138.133.150  # ID  AS7713    PT Telekomunikasi Indonesia
 110.139.21.239   # ID  AS7713    PT Telekomunikasi Indonesia
 110.35.80.116    # ID  AS17727   PT. NAP Info Lintas Nusa
@@ -471,6 +472,7 @@
 116.0.3.247      # ID  AS59139   PT Wifiku Indonesia
 116.197.133.25   # ID  AS58369   PT. Fiber Networks Indonesia
 116.212.73.108   # ID  AS46030   PT Jastrindo Dinamika
+116.66.204.203   # ID  AS38496   PT Cyber Network Indonesia
 116.90.162.186   # ID  AS18059   DTPNET NAP
 117.102.101.50   # ID  AS17451   BIZNET NETWORKS
 117.102.109.34   # ID  AS17451   BIZNET NETWORKS
@@ -479,6 +481,7 @@
 117.102.87.140   # ID  AS17451   BIZNET NETWORKS
 117.102.95.6     # ID  AS17451   BIZNET NETWORKS
 117.54.184.25    # ID  AS9340    INDO Internet, PT
+117.54.2.134     # ID  AS9340    INDO Internet, PT
 118.137.178.223  # ID  AS23700   Linknet-Fastnet ASN
 118.97.93.4      # ID  AS7713    PT Telekomunikasi Indonesia
 118.98.237.227   # ID  AS18051   Pustekkom
@@ -579,6 +582,7 @@
 160.22.240.235   # ID  AS152839  PT Seeplus Media Transformasi
 160.22.31.41     # ID  AS152798  PT Aufa Berkah Media
 160.25.119.85    # ID  AS153096  PT High Speed Connection Network
+163.61.134.228   # ID  AS153615  PT Lentera Abadi Solusinet
 163.7.1.156      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.1.218      # ID  AS150436  Byteplus Pte. Ltd.
 163.7.11.126     # ID  AS150436  Byteplus Pte. Ltd.
@@ -666,6 +670,7 @@
 180.254.74.60    # ID  AS7713    PT Telekomunikasi Indonesia
 180.254.8.70     # ID  AS7713    PT Telekomunikasi Indonesia
 182.10.168.173   # ID  AS23693   PT. Telekomunikasi Selular
+182.10.168.235   # ID  AS23693   PT. Telekomunikasi Selular
 182.16.252.18    # ID  AS45298   INTERLINK TECHNOLOGY, PT
 182.23.5.229     # ID  AS4800    PT Aplikanusa Lintasarta
 182.23.54.125    # ID  AS4800    PT Aplikanusa Lintasarta
@@ -692,6 +697,7 @@
 182.253.79.194   # ID  AS17451   BIZNET NETWORKS
 182.253.79.195   # ID  AS17451   BIZNET NETWORKS
 182.253.89.113   # ID  AS17451   BIZNET NETWORKS
+182.253.89.117   # ID  AS17451   BIZNET NETWORKS
 182.253.89.118   # ID  AS17451   BIZNET NETWORKS
 182.253.94.63    # ID  AS17451   BIZNET NETWORKS
 182.8.161.162    # ID  AS23693   PT. Telekomunikasi Selular
@@ -827,6 +833,7 @@
 222.124.177.148  # ID  AS7713    PT Telekomunikasi Indonesia
 222.124.191.185  # ID  AS7713    PT Telekomunikasi Indonesia
 222.124.214.14   # ID  AS7713    PT Telekomunikasi Indonesia
+222.165.214.60   # ID  AS24207   PT NettoCyber Indonesia
 223.25.105.10    # ID  AS4821    PT Sinergi Semesta Telematika
 223.25.108.2     # ID  AS4821    PT Sinergi Semesta Telematika
 223.25.96.181    # ID  AS9341    PT INDONESIA COMNETS PLUS
@@ -999,6 +1006,7 @@
 43.173.10.13     # ID  AS132203  Tencent Building, Kejizhongyi Avenue
 43.230.5.42      # ID  AS58558   PT Jagat Media Teknologi
 43.245.248.2     # ID  AS131740  PT Smart Media Pratama
+43.248.27.115    # ID  AS18103   Neuviz Net
 43.252.10.166    # ID  AS46023   PT Quantum Tera Network
 43.252.11.4      # ID  AS46023   PT Quantum Tera Network
 43.252.138.163   # ID  AS58404   PT Qwords Company International
