@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          627
-# Last updated:           2026-09-23 16:26:29
+# Number of ips:          637
+# Last updated:           2026-09-23 21:16:56
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -195,10 +195,12 @@
 103.46.186.148   # ID  AS150462  PT Air Lintas Komunikasi
 103.46.186.85    # ID  AS150462  PT Air Lintas Komunikasi
 103.49.188.186   # ID  -         -
+103.49.238.63    # ID  AS136052  PT Cloud Hosting Indonesia
 103.50.24.19     # ID  AS63869   PT MERAH PUTIH TELEMATIKA
 103.52.115.189   # ID  AS136052  PT Cloud Hosting Indonesia
 103.52.6.72      # ID  AS150202  PT Nanaka Network Communication
 103.53.77.70     # ID  AS133817  PT Inti Data Telematika
+103.59.160.131   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.164   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.179   # ID  AS150493  PT Gunung Sedayu Sentosa
 103.59.160.18    # ID  AS150493  PT Gunung Sedayu Sentosa
@@ -267,6 +269,7 @@
 110.136.22.30    # ID  AS7713    PT Telekomunikasi Indonesia
 110.136.23.80    # ID  AS7713    PT Telekomunikasi Indonesia
 110.136.235.240  # ID  AS7713    PT Telekomunikasi Indonesia
+110.136.71.150   # ID  AS7713    PT Telekomunikasi Indonesia
 110.139.126.135  # ID  AS7713    PT Telekomunikasi Indonesia
 110.35.80.116    # ID  AS17727   PT. NAP Info Lintas Nusa
 111.95.62.191    # ID  AS23700   Linknet-Fastnet ASN
@@ -346,6 +349,7 @@
 157.20.207.165   # ID  AS152436  PT Erajaya Telco Indonesia
 157.20.32.147    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.171    # ID  AS152390  PT Intercloud Digital Inovasi
+157.66.55.189    # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.55.50     # ID  AS141892  CV Andhika Pratama Sanggoro
 157.66.56.22     # ID  AS58477   Argon Data Communication
 157.85.208.39    # ID  AS24203   PT XL Axiata
@@ -387,6 +391,7 @@
 165.99.71.193    # ID  AS153937  PT Ring Data Prima
 168.110.195.99   # ID  AS31898   Oracle Corporation
 168.110.206.56   # ID  AS31898   Oracle Corporation
+168.110.212.49   # ID  AS31898   Oracle Corporation
 172.235.240.44   # ID  AS63949   Akamai Connected Cloud
 172.235.245.96   # ID  AS63949   Akamai Connected Cloud
 175.158.55.114   # ID  AS135478  PT. Cyberindo Aditama
@@ -439,6 +444,7 @@
 202.154.15.177   # ID  AS141898  PT Milenial Inti Telekomunikasi
 202.155.157.112  # ID  AS138115  PT Deneva
 202.159.101.194  # ID  AS9340    INDO Internet, PT
+202.165.33.162   # ID  AS17538   PT. Circlecom Nusantara Indonesia
 202.169.44.105   # ID  AS17451   BIZNET NETWORKS
 202.180.20.138   # ID  AS38758   PT. HIPERNET INDODATA
 202.180.20.140   # ID  AS38758   PT. HIPERNET INDODATA
@@ -495,6 +501,7 @@
 34.101.124.123   # ID  AS396982  Google LLC
 34.101.130.187   # ID  AS396982  Google LLC
 34.101.160.150   # ID  AS396982  Google LLC
+34.101.162.133   # ID  AS396982  Google LLC
 34.101.166.131   # ID  AS396982  Google LLC
 34.101.166.98    # ID  AS396982  Google LLC
 34.101.191.234   # ID  AS396982  Google LLC
@@ -510,14 +517,17 @@
 34.101.238.237   # ID  AS396982  Google LLC
 34.101.249.68    # ID  AS396982  Google LLC
 34.101.76.213    # ID  AS396982  Google LLC
+34.101.96.26     # ID  AS396982  Google LLC
 34.101.98.177    # ID  AS396982  Google LLC
 34.128.114.169   # ID  AS396982  Google LLC
+34.128.114.48    # ID  AS396982  Google LLC
 34.128.125.22    # ID  AS396982  Google LLC
 34.128.82.22     # ID  AS396982  Google LLC
 34.128.85.64     # ID  AS396982  Google LLC
 34.128.96.248    # ID  AS396982  Google LLC
 34.128.96.37     # ID  AS396982  Google LLC
 34.34.217.140    # ID  AS396982  Google LLC
+34.34.217.187    # ID  AS396982  Google LLC
 34.34.218.206    # ID  AS396982  Google LLC
 34.34.218.54     # ID  AS396982  Google LLC
 34.50.100.111    # ID  AS396982  Google LLC
