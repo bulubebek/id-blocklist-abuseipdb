@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1343
-# Last updated:           2026-09-25 11:28:06
+# Number of ips:          1347
+# Last updated:           2026-09-25 16:52:06
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -545,6 +545,7 @@
 108.137.190.123  # ID  AS16509   Amazon.com, Inc.
 108.137.80.195   # ID  AS16509   Amazon.com, Inc.
 109.105.194.6    # ID  AS141968  PT Industri Kreatif Digital
+109.110.188.67   # ID  AS199695  PT Anym Network Indonesia
 110.136.191.105  # ID  AS7713    PT Telekomunikasi Indonesia
 110.136.191.116  # ID  AS7713    PT Telekomunikasi Indonesia
 110.136.22.30    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1017,6 +1018,7 @@
 203.175.103.186  # ID  AS152014  PT. Mitra Kita Brilian
 203.175.124.199  # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.146  # ID  AS139952  PT Trisari Data Indonusa
+203.175.125.156  # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.196  # ID  AS139952  PT Trisari Data Indonusa
 203.175.125.250  # ID  AS139952  PT Trisari Data Indonusa
 203.2.151.27     # ID  AS142043  PT BARAYA BARENG SADULUR
@@ -1085,6 +1087,7 @@
 34.101.151.95    # ID  AS396982  Google LLC
 34.101.160.150   # ID  AS396982  Google LLC
 34.101.162.133   # ID  AS396982  Google LLC
+34.101.163.99    # ID  AS396982  Google LLC
 34.101.166.131   # ID  AS396982  Google LLC
 34.101.166.98    # ID  AS396982  Google LLC
 34.101.174.55    # ID  AS396982  Google LLC
@@ -1347,6 +1350,7 @@
 8.215.25.3       # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.61.112     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.69.55      # ID  AS45102   Alibaba (US) Technology Co., Ltd.
+8.215.74.231     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.85.137     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.88.36      # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 9.154.222.189    # ID  AS131111  PT Mora Telematika Indonesia
