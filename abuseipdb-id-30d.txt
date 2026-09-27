@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          2206
-# Last updated:           2026-09-27 11:41:55
+# Number of ips:          2215
+# Last updated:           2026-09-27 16:39:52
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -211,6 +211,7 @@
 103.153.149.128  # ID  AS64300   PT JARINGANKU SARANA NUSANTARA
 103.153.184.227  # ID  AS139392  PT APLIKA KARYA SOLUSI BISNIS
 103.153.190.105  # ID  AS140469  PT Wahyu Adidaya Network
+103.153.190.226  # ID  AS140469  PT Wahyu Adidaya Network
 103.153.191.42   # ID  AS140469  PT Wahyu Adidaya Network
 103.153.61.40    # ID  AS140456  PT Era Awan Digital
 103.153.62.92    # ID  AS140457  PT Ikhlas Cipta Teknologi
@@ -577,6 +578,7 @@
 103.230.81.164   # ID  AS150961  PT. Pandeglang Akses Semesta
 103.232.20.134   # ID  AS151508  PT Terabyte Network Indonesia
 103.232.20.138   # ID  AS151508  PT Terabyte Network Indonesia
+103.232.20.139   # ID  AS151508  PT Terabyte Network Indonesia
 103.232.20.85    # ID  AS151508  PT Terabyte Network Indonesia
 103.233.146.11   # ID  AS131111  PT Mora Telematika Indonesia
 103.233.146.187  # ID  AS131111  PT Mora Telematika Indonesia
@@ -771,6 +773,7 @@
 103.76.15.242    # ID  AS131111  PT Mora Telematika Indonesia
 103.76.15.244    # ID  AS131111  PT Mora Telematika Indonesia
 103.77.106.196   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
+103.77.106.41    # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.106.45    # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.107.178   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
 103.77.107.182   # ID  AS135450  PT Berkah Solusi Teknologi Informasi
@@ -1097,6 +1100,7 @@
 154.19.38.58     # ID  AS150279  PT Lintas Network Solusi
 154.19.39.190    # ID  AS150279  PT Lintas Network Solusi
 154.40.136.245   # ID  AS138119  PT Integra Kreasitama Solusindo
+156.230.179.145  # ID  AS63859   PT. Eka Mas Republik
 156.230.182.28   # ID  AS63859   PT. Eka Mas Republik
 156.230.182.39   # ID  AS63859   PT. Eka Mas Republik
 156.230.182.59   # ID  AS63859   PT. Eka Mas Republik
@@ -1128,6 +1132,7 @@
 157.20.32.171    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.172    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.32.202    # ID  AS152390  PT Intercloud Digital Inovasi
+157.20.32.217    # ID  AS152390  PT Intercloud Digital Inovasi
 157.20.37.254    # ID  AS140470  PT Andalan Dinamika Informatika
 157.20.98.244    # ID  AS152435  PT Konnek Jaya Bersama
 157.66.122.203   # ID  AS63858   PT Solusi Digital Manira
@@ -1344,6 +1349,7 @@
 180.243.3.49     # ID  AS7713    PT Telekomunikasi Indonesia
 180.243.3.99     # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.133.233  # ID  AS7713    PT Telekomunikasi Indonesia
+180.244.187.10   # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.187.172  # ID  AS7713    PT Telekomunikasi Indonesia
 180.245.44.142   # ID  AS7713    PT Telekomunikasi Indonesia
 180.245.96.98    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1798,6 +1804,7 @@
 34.101.250.182   # ID  AS396982  Google LLC
 34.101.253.134   # ID  AS396982  Google LLC
 34.101.254.18    # ID  AS396982  Google LLC
+34.101.255.15    # ID  AS396982  Google LLC
 34.101.255.202   # ID  AS396982  Google LLC
 34.101.32.80     # ID  AS396982  Google LLC
 34.101.35.156    # ID  AS396982  Google LLC
@@ -1830,6 +1837,7 @@
 34.101.84.209    # ID  AS396982  Google LLC
 34.101.88.31     # ID  AS396982  Google LLC
 34.101.90.160    # ID  AS396982  Google LLC
+34.101.91.230    # ID  AS396982  Google LLC
 34.101.95.124    # ID  AS396982  Google LLC
 34.101.96.26     # ID  AS396982  Google LLC
 34.101.97.83     # ID  AS396982  Google LLC
@@ -2124,6 +2132,7 @@
 38.253.224.42    # ID  AS174     Cogent Communications, LLC
 38.253.224.43    # ID  AS174     Cogent Communications, LLC
 38.253.224.47    # ID  AS174     Cogent Communications, LLC
+38.253.224.7     # ID  AS174     Cogent Communications, LLC
 38.253.239.66    # ID  AS141146  PT Indonesia Telekomunikasi Teknologi
 38.253.240.163   # ID  AS142386  PT JARINGAN LINTAS ARTHA
 38.47.185.27     # ID  AS140443  PT Herza Digital Indonesia
