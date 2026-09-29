@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          2223
-# Last updated:           2026-09-29 04:59:45
+# Number of ips:          2231
+# Last updated:           2026-09-29 12:25:06
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -535,6 +535,7 @@
 103.205.82.16    # ID  AS134641  PEMERINTAH KABUPATEN MAGETAN
 103.205.82.25    # ID  AS134641  PEMERINTAH KABUPATEN MAGETAN
 103.205.82.50    # ID  AS134641  PEMERINTAH KABUPATEN MAGETAN
+103.206.240.250  # ID  AS9341    PT INDONESIA COMNETS PLUS
 103.206.253.106  # ID  AS9422    PT SOLNET INDONESIA
 103.207.103.115  # ID  AS133796  Subbid Sistem Jaringan dan Infrastruktur
 103.207.99.32    # ID  AS134643  PT Jaya Kartha Solusindo
@@ -615,6 +616,7 @@
 103.253.213.166  # ID  AS58487   CV. Rumahweb Indonesia
 103.253.244.145  # ID  AS140389  PT Dewa Bisnis Digital
 103.253.245.222  # ID  AS140389  PT Dewa Bisnis Digital
+103.255.109.151  # ID  AS150191  PT Sarana Intimedia Telematika
 103.26.188.11    # ID  AS142319  PT Telemedia Komunikasi Pratama
 103.26.188.24    # ID  AS142319  PT Telemedia Komunikasi Pratama
 103.26.188.25    # ID  AS142319  PT Telemedia Komunikasi Pratama
@@ -1377,6 +1379,7 @@
 180.248.62.53    # ID  AS7713    PT Telekomunikasi Indonesia
 180.248.63.46    # ID  AS7713    PT Telekomunikasi Indonesia
 180.249.124.57   # ID  AS7713    PT Telekomunikasi Indonesia
+180.249.37.145   # ID  AS7713    PT Telekomunikasi Indonesia
 180.249.96.253   # ID  AS7713    PT Telekomunikasi Indonesia
 180.249.98.64    # ID  AS7713    PT Telekomunikasi Indonesia
 180.249.98.90    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1698,6 +1701,7 @@
 210.87.92.197    # ID  AS149360  PT Indo Telemedia Solusi
 210.87.92.224    # ID  AS149360  PT Indo Telemedia Solusi
 210.87.93.41     # ID  AS149360  PT Indo Telemedia Solusi
+210.87.93.99     # ID  AS149360  PT Indo Telemedia Solusi
 210.87.97.90     # ID  AS149393  PT Solusi Data Cepat
 212.117.61.60    # ID  AS58376   PT Angkasa Komunikasi Global Utama
 216.244.94.253   # ID  AS58381   Wow Internet Indonesia
@@ -1832,6 +1836,7 @@
 34.101.43.116    # ID  AS396982  Google LLC
 34.101.50.100    # ID  AS396982  Google LLC
 34.101.51.213    # ID  AS396982  Google LLC
+34.101.51.92     # ID  AS396982  Google LLC
 34.101.54.192    # ID  AS396982  Google LLC
 34.101.56.63     # ID  AS396982  Google LLC
 34.101.62.92     # ID  AS396982  Google LLC
@@ -1858,6 +1863,7 @@
 34.128.107.11    # ID  AS396982  Google LLC
 34.128.108.253   # ID  AS396982  Google LLC
 34.128.109.6     # ID  AS396982  Google LLC
+34.128.113.250   # ID  AS396982  Google LLC
 34.128.114.169   # ID  AS396982  Google LLC
 34.128.114.48    # ID  AS396982  Google LLC
 34.128.125.22    # ID  AS396982  Google LLC
@@ -1894,6 +1900,7 @@
 34.50.101.250    # ID  AS396982  Google LLC
 34.50.101.53     # ID  AS396982  Google LLC
 34.50.102.220    # ID  AS396982  Google LLC
+34.50.102.7      # ID  AS396982  Google LLC
 34.50.103.171    # ID  AS396982  Google LLC
 34.50.104.111    # ID  AS396982  Google LLC
 34.50.104.244    # ID  AS396982  Google LLC
@@ -2000,6 +2007,7 @@
 36.64.10.42      # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.131.68     # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.148.186    # ID  AS7713    PT Telekomunikasi Indonesia
+36.64.163.191    # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.169.227    # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.169.228    # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.169.242    # ID  AS7713    PT Telekomunikasi Indonesia
