@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          2201
-# Last updated:           2026-10-01 04:59:03
+# Number of ips:          2206
+# Last updated:           2026-10-01 12:44:31
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -594,6 +594,7 @@
 103.245.27.98    # ID  AS139952  PT Trisari Data Indonusa
 103.247.10.161   # ID  AS58487   CV. Rumahweb Indonesia
 103.247.13.170   # ID  AS131706  PT SELARAS CITRA TERABIT
+103.247.14.206   # ID  AS131706  PT SELARAS CITRA TERABIT
 103.247.21.204   # ID  AS58485   WIFIAN ID
 103.247.21.209   # ID  AS58485   WIFIAN ID
 103.247.22.129   # ID  AS58485   WIFIAN ID
@@ -603,6 +604,7 @@
 103.247.9.204    # ID  AS58487   CV. Rumahweb Indonesia
 103.248.25.177   # ID  AS132658  Dinas Komunikasi dan Informatika Provinsi Sumatera Utara
 103.248.25.62    # ID  AS132658  Dinas Komunikasi dan Informatika Provinsi Sumatera Utara
+103.249.18.101   # ID  AS150206  PT Rafa Teknologi Solusi
 103.25.192.218   # ID  AS132652  PT. Cahaya Buana Raksa
 103.250.14.8     # ID  AS151590  PT Pandawa Global Telematika
 103.251.8.54     # ID  AS141082  PT Trika Global Media
@@ -981,6 +983,7 @@
 119.18.153.180   # ID  AS55685   PT Jala Lintas Media
 119.2.42.84      # ID  AS38524   Laxo Global Akses, PT
 119.235.214.121  # ID  AS131111  PT Mora Telematika Indonesia
+119.235.222.102  # ID  AS131111  PT Mora Telematika Indonesia
 119.235.222.219  # ID  AS131111  PT Mora Telematika Indonesia
 119.235.222.29   # ID  AS131111  PT Mora Telematika Indonesia
 119.47.88.2      # ID  AS38527   JAWA POS NATIONAL NETWORK MEDIALINK, PT
@@ -1353,6 +1356,7 @@
 180.248.52.68    # ID  AS7713    PT Telekomunikasi Indonesia
 180.248.53.168   # ID  AS7713    PT Telekomunikasi Indonesia
 180.248.55.119   # ID  AS7713    PT Telekomunikasi Indonesia
+180.248.55.142   # ID  AS7713    PT Telekomunikasi Indonesia
 180.248.59.152   # ID  AS7713    PT Telekomunikasi Indonesia
 180.248.63.46    # ID  AS7713    PT Telekomunikasi Indonesia
 180.249.124.57   # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1402,6 +1406,7 @@
 182.23.83.98     # ID  AS4800    PT Aplikanusa Lintasarta
 182.23.86.182    # ID  AS4800    PT Aplikanusa Lintasarta
 182.23.94.122    # ID  AS4800    PT Aplikanusa Lintasarta
+182.253.110.194  # ID  AS17451   BIZNET NETWORKS
 182.253.112.35   # ID  AS17451   BIZNET NETWORKS
 182.253.124.171  # ID  AS17451   BIZNET NETWORKS
 182.253.126.65   # ID  AS17451   BIZNET NETWORKS
