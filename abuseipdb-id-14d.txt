@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1366
-# Last updated:           2026-10-03 04:31:45
+# Number of ips:          1370
+# Last updated:           2026-10-03 11:19:27
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -230,6 +230,7 @@
 103.174.19.83    # ID  AS131111  PT Mora Telematika Indonesia
 103.174.237.120  # ID  AS147106  PT Global Erasiber Teknologi
 103.174.67.40    # ID  AS133337  PT Menara Sinar Semesta
+103.175.189.137  # ID  AS134658  PT JULIA MULTIMEDIA NUSANTARA
 103.175.224.123  # ID  AS63859   PT. Eka Mas Republik
 103.175.225.238  # ID  AS63859   PT. Eka Mas Republik
 103.175.237.231  # ID  AS147121  PT Marva Global Telekomunikasi
@@ -272,6 +273,7 @@
 103.182.234.226  # ID  AS17995   PT iForte Global Internet
 103.182.234.253  # ID  AS17995   PT iForte Global Internet
 103.182.235.156  # ID  AS17995   PT iForte Global Internet
+103.182.236.26   # ID  AS17995   PT iForte Global Internet
 103.182.79.149   # ID  AS149665  PT Cybernet Data Multimedia
 103.183.22.74    # ID  AS17995   PT iForte Global Internet
 103.183.5.98     # ID  AS38758   PT. HIPERNET INDODATA
@@ -800,6 +802,7 @@
 172.235.245.96   # ID  AS63949   Akamai Connected Cloud
 172.235.246.176  # ID  AS63949   Akamai Connected Cloud
 175.158.55.114   # ID  AS135478  PT. Cyberindo Aditama
+180.131.131.169  # ID  AS150478  PT Solusi Teknologi Gemilang
 180.131.131.177  # ID  AS150478  PT Solusi Teknologi Gemilang
 180.148.24.170   # ID  AS154201  PT GIGA NETWORK INDONESIA
 180.240.216.244  # ID  AS56308   TELEKOMUNIKASI INDONESIA INTERNATIONAL, PTE.LTD
@@ -1369,6 +1372,7 @@
 8.215.69.55      # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.74.231     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.76.90      # ID  AS45102   Alibaba (US) Technology Co., Ltd.
+8.215.84.228     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.85.137     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 8.215.88.36      # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 9.154.222.189    # ID  AS131111  PT Mora Telematika Indonesia
