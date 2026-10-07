@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1974
-# Last updated:           2026-10-07 12:55:47
+# Number of ips:          1983
+# Last updated:           2026-10-07 22:53:40
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -682,6 +682,7 @@
 103.76.109.118   # ID  AS151576  PT Mahawira Nusantara Grup
 103.76.109.210   # ID  AS151576  PT Mahawira Nusantara Grup
 103.76.120.114   # ID  AS136052  PT Cloud Hosting Indonesia
+103.76.120.28    # ID  AS136052  PT Cloud Hosting Indonesia
 103.76.120.90    # ID  AS136052  PT Cloud Hosting Indonesia
 103.76.15.174    # ID  AS131111  PT Mora Telematika Indonesia
 103.76.15.242    # ID  AS131111  PT Mora Telematika Indonesia
@@ -1051,6 +1052,7 @@
 160.22.31.41     # ID  AS152798  PT Aufa Berkah Media
 160.25.119.85    # ID  AS153096  PT High Speed Connection Network
 160.25.50.253    # ID  AS153081  PT Semua Apikasi Indonesia
+160.25.58.19     # ID  AS152833  PT Tuxsindo Cyber Networks
 161.248.117.154  # ID  AS138096  PT INFORMASI NUSANTARA TEKNOLOGI
 163.227.124.56   # ID  AS131775  PT. Jupiter Jala Arta
 163.227.253.170  # ID  AS153904  PT Equator Telecom Indonesia
@@ -1122,6 +1124,7 @@
 172.232.228.222  # ID  AS63949   Akamai Connected Cloud
 172.232.237.135  # ID  AS63949   Akamai Connected Cloud
 172.232.240.139  # ID  AS63949   Akamai Connected Cloud
+172.232.240.202  # ID  AS63949   Akamai Connected Cloud
 172.232.240.51   # ID  AS63949   Akamai Connected Cloud
 172.232.240.54   # ID  AS63949   Akamai Connected Cloud
 172.232.240.80   # ID  AS63949   Akamai Connected Cloud
@@ -1164,6 +1167,7 @@
 180.243.197.14   # ID  AS7713    PT Telekomunikasi Indonesia
 180.243.197.57   # ID  AS7713    PT Telekomunikasi Indonesia
 180.243.199.8    # ID  AS7713    PT Telekomunikasi Indonesia
+180.243.2.3      # ID  AS7713    PT Telekomunikasi Indonesia
 180.243.255.1    # ID  AS7713    PT Telekomunikasi Indonesia
 180.243.3.99     # ID  AS7713    PT Telekomunikasi Indonesia
 180.243.4.77     # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1400,6 +1404,7 @@
 202.6.200.210    # ID  AS139640  PT Amana Digital Nusantara
 202.65.118.212   # ID  AS23951   PT JEMBATAN CITRA NUSANTARA
 202.65.121.211   # ID  AS23951   PT JEMBATAN CITRA NUSANTARA
+202.72.193.34    # ID  AS18153   PT Multidata Rancana Prima
 202.72.193.82    # ID  AS18153   PT Multidata Rancana Prima
 202.72.196.26    # ID  AS18153   PT Multidata Rancana Prima
 202.72.196.75    # ID  AS18153   PT Multidata Rancana Prima
@@ -1736,12 +1741,15 @@
 34.50.99.239     # ID  AS396982  Google LLC
 35.219.10.126    # ID  AS15169   Google LLC
 35.219.101.102   # ID  AS15169   Google LLC
+35.219.113.172   # ID  AS15169   Google LLC
 35.219.118.59    # ID  AS15169   Google LLC
 35.219.120.85    # ID  AS15169   Google LLC
 35.219.123.125   # ID  AS15169   Google LLC
+35.219.14.62     # ID  AS15169   Google LLC
 35.219.15.244    # ID  AS15169   Google LLC
 35.219.16.116    # ID  AS15169   Google LLC
 35.219.17.207    # ID  AS15169   Google LLC
+35.219.29.141    # ID  AS15169   Google LLC
 35.219.81.71     # ID  AS15169   Google LLC
 36.143.24.111    # ID  AS24547   Hebei Mobile Communication Company Limited
 36.37.73.242     # ID  AS4800    PT Aplikanusa Lintasarta
@@ -1931,6 +1939,7 @@
 43.247.39.242    # ID  AS38320   PT Maxindo Mitra Solusi
 43.248.27.115    # ID  AS18103   Neuviz Net
 43.252.10.166    # ID  AS46023   PT Quantum Tera Network
+43.252.107.148   # ID  AS45305   Lintas Data Prima, PT
 43.252.11.4      # ID  AS46023   PT Quantum Tera Network
 43.252.138.163   # ID  AS58404   PT Qwords Company International
 43.252.159.41    # ID  AS149746  PT Blip Integrator Provider
