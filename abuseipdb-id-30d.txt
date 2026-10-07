@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1966
-# Last updated:           2026-10-07 05:06:13
+# Number of ips:          1974
+# Last updated:           2026-10-07 12:55:47
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -335,6 +335,7 @@
 103.177.15.14    # ID  AS147138  PT Angkasa Pura Sarana Digital
 103.178.175.229  # ID  AS137331  PT Cloud Teknologi Nusantara
 103.178.175.233  # ID  AS137331  PT Cloud Teknologi Nusantara
+103.178.3.131    # ID  AS141077  RSTNET
 103.178.89.243   # ID  AS138854  PT INTER MEDIALINK SOLUSI
 103.179.183.185  # ID  AS142394  PT Cahaya Solusindo Internusa
 103.179.183.83   # ID  AS142394  PT Cahaya Solusindo Internusa
@@ -916,6 +917,7 @@
 125.164.86.179   # ID  AS7713    PT Telekomunikasi Indonesia
 125.165.32.181   # ID  AS7713    PT Telekomunikasi Indonesia
 125.166.100.5    # ID  AS7713    PT Telekomunikasi Indonesia
+125.166.19.3     # ID  AS7713    PT Telekomunikasi Indonesia
 125.166.61.217   # ID  AS7713    PT Telekomunikasi Indonesia
 125.166.8.134    # ID  AS7713    PT Telekomunikasi Indonesia
 125.166.8.38     # ID  AS7713    PT Telekomunikasi Indonesia
@@ -974,6 +976,7 @@
 156.230.182.39   # ID  AS63859   PT. Eka Mas Republik
 156.230.182.59   # ID  AS63859   PT. Eka Mas Republik
 156.230.182.63   # ID  AS63859   PT. Eka Mas Republik
+156.230.187.96   # ID  AS63859   PT. Eka Mas Republik
 156.230.191.131  # ID  AS63859   PT. Eka Mas Republik
 156.230.191.172  # ID  AS63859   PT. Eka Mas Republik
 157.10.107.103   # ID  AS58495   PT Parsaoran Global Datatrans
@@ -1253,6 +1256,7 @@
 182.253.252.40   # ID  AS17451   BIZNET NETWORKS
 182.253.46.108   # ID  AS17451   BIZNET NETWORKS
 182.253.50.142   # ID  AS17451   BIZNET NETWORKS
+182.253.50.43    # ID  AS17451   BIZNET NETWORKS
 182.253.50.47    # ID  AS17451   BIZNET NETWORKS
 182.253.64.188   # ID  AS17451   BIZNET NETWORKS
 182.253.64.199   # ID  AS17451   BIZNET NETWORKS
@@ -1529,6 +1533,7 @@
 34.101.114.139   # ID  AS396982  Google LLC
 34.101.114.237   # ID  AS396982  Google LLC
 34.101.118.76    # ID  AS396982  Google LLC
+34.101.119.19    # ID  AS396982  Google LLC
 34.101.121.69    # ID  AS396982  Google LLC
 34.101.122.86    # ID  AS396982  Google LLC
 34.101.124.123   # ID  AS396982  Google LLC
@@ -1730,11 +1735,14 @@
 34.50.99.12      # ID  AS396982  Google LLC
 34.50.99.239     # ID  AS396982  Google LLC
 35.219.10.126    # ID  AS15169   Google LLC
+35.219.101.102   # ID  AS15169   Google LLC
+35.219.118.59    # ID  AS15169   Google LLC
 35.219.120.85    # ID  AS15169   Google LLC
 35.219.123.125   # ID  AS15169   Google LLC
 35.219.15.244    # ID  AS15169   Google LLC
 35.219.16.116    # ID  AS15169   Google LLC
 35.219.17.207    # ID  AS15169   Google LLC
+35.219.81.71     # ID  AS15169   Google LLC
 36.143.24.111    # ID  AS24547   Hebei Mobile Communication Company Limited
 36.37.73.242     # ID  AS4800    PT Aplikanusa Lintasarta
 36.37.92.210     # ID  AS4800    PT Aplikanusa Lintasarta
