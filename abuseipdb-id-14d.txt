@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1330
-# Last updated:           2026-10-09 05:19:46
+# Number of ips:          1335
+# Last updated:           2026-10-09 12:50:35
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -524,6 +524,7 @@
 112.215.69.2     # ID  AS17885   PT XL Axiata Tbk
 112.78.134.58    # ID  AS17451   BIZNET NETWORKS
 112.78.187.211   # ID  AS38482   Biznet ISP
+113.192.12.3     # ID  AS58495   PT Parsaoran Global Datatrans
 113.192.3.58     # ID  AS142331  PT Boombas Carlo Medianet
 113.192.48.217   # ID  AS138089  PT.Global Media Data Prima
 113.192.54.17    # ID  AS58495   PT Parsaoran Global Datatrans
@@ -782,6 +783,7 @@
 180.247.7.13     # ID  AS7713    PT Telekomunikasi Indonesia
 180.248.55.119   # ID  AS7713    PT Telekomunikasi Indonesia
 180.248.55.142   # ID  AS7713    PT Telekomunikasi Indonesia
+180.248.62.229   # ID  AS7713    PT Telekomunikasi Indonesia
 180.249.124.57   # ID  AS7713    PT Telekomunikasi Indonesia
 180.249.37.145   # ID  AS7713    PT Telekomunikasi Indonesia
 180.249.98.60    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -792,6 +794,7 @@
 180.251.181.133  # ID  AS7713    PT Telekomunikasi Indonesia
 180.251.182.115  # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.224.192  # ID  AS7713    PT Telekomunikasi Indonesia
+180.252.48.252   # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.89.9     # ID  AS7713    PT Telekomunikasi Indonesia
 180.252.93.56    # ID  AS7713    PT Telekomunikasi Indonesia
 180.254.10.87    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -937,6 +940,7 @@
 202.93.133.49    # ID  AS4382    PT. Indonusa System Integrator Prima
 203.128.83.106   # ID  AS18103   Neuviz Net
 203.142.72.194   # ID  AS17451   BIZNET NETWORKS
+203.145.34.54    # ID  AS136052  PT Cloud Hosting Indonesia
 203.145.35.161   # ID  AS136052  PT Cloud Hosting Indonesia
 203.145.35.29    # ID  AS136052  PT Cloud Hosting Indonesia
 203.145.63.139   # ID  AS46023   PT Quantum Tera Network
@@ -1159,6 +1163,7 @@
 35.219.3.71      # ID  AS15169   Google LLC
 35.219.3.86      # ID  AS15169   Google LLC
 35.219.30.62     # ID  AS15169   Google LLC
+35.219.33.240    # ID  AS15169   Google LLC
 35.219.75.22     # ID  AS15169   Google LLC
 35.219.81.71     # ID  AS15169   Google LLC
 36.143.24.111    # ID  AS24547   Hebei Mobile Communication Company Limited
