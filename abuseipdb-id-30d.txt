@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1860
-# Last updated:           2026-10-15 16:35:12
+# Number of ips:          1862
+# Last updated:           2026-10-15 21:05:43
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -673,6 +673,7 @@
 103.85.66.206    # ID  AS131111  PT Mora Telematika Indonesia
 103.86.116.38    # ID  AS150552  PT Link Data Sumber Barokah
 103.86.117.203   # ID  AS150552  PT Link Data Sumber Barokah
+103.86.163.122   # ID  AS4787    PT Cyberindo Aditama
 103.87.16.26     # ID  AS136085  Pemerintah Kabupaten Bojonegoro
 103.87.230.11    # ID  AS136088  PT. Araz Inti Line
 103.87.231.50    # ID  AS136088  PT. Araz Inti Line
@@ -1049,6 +1050,7 @@
 172.232.232.43   # ID  AS63949   Akamai Connected Cloud
 172.232.240.202  # ID  AS63949   Akamai Connected Cloud
 172.232.243.106  # ID  AS63949   Akamai Connected Cloud
+172.232.243.49   # ID  AS63949   Akamai Connected Cloud
 172.232.245.247  # ID  AS63949   Akamai Connected Cloud
 172.232.250.100  # ID  AS63949   Akamai Connected Cloud
 172.232.251.178  # ID  AS63949   Akamai Connected Cloud
