@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1833
-# Last updated:           2026-10-17 10:21:02
+# Number of ips:          1840
+# Last updated:           2026-10-17 15:14:30
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -105,6 +105,7 @@
 103.130.130.56   # ID  AS63859   PT. Eka Mas Republik
 103.130.18.12    # ID  AS63859   PT. Eka Mas Republik
 103.130.18.14    # ID  AS63859   PT. Eka Mas Republik
+103.130.18.149   # ID  AS63859   PT. Eka Mas Republik
 103.130.18.17    # ID  AS63859   PT. Eka Mas Republik
 103.130.18.230   # ID  AS63859   PT. Eka Mas Republik
 103.130.18.255   # ID  AS63859   PT. Eka Mas Republik
@@ -286,6 +287,7 @@
 103.169.189.6    # ID  AS142347  PT Sarana Media Cemerlang
 103.169.189.7    # ID  AS142347  PT Sarana Media Cemerlang
 103.169.207.216  # ID  AS45325   PT PC24 Telekomunikasi Indonesia
+103.169.238.213  # ID  AS138881  PT INDONESIA TRANS NETWORK
 103.170.97.18    # ID  AS142368  PT Global Data Akses Persada
 103.171.185.27   # ID  AS142374  PT Solusi Integra Datakom
 103.171.185.6    # ID  AS142374  PT Solusi Integra Datakom
@@ -322,6 +324,7 @@
 103.176.79.117   # ID  AS136052  PT Cloud Hosting Indonesia
 103.176.79.139   # ID  AS136052  PT Cloud Hosting Indonesia
 103.176.96.121   # ID  AS147131  PT Global Sarana Elektronika
+103.176.96.150   # ID  AS147131  PT Global Sarana Elektronika
 103.177.15.14    # ID  AS147138  PT Angkasa Pura Sarana Digital
 103.178.175.229  # ID  AS137331  PT Cloud Teknologi Nusantara
 103.178.3.131    # ID  AS141077  RSTNET
@@ -703,6 +706,7 @@
 104.28.245.128   # ID  AS13335   Cloudflare, Inc.
 104.28.247.132   # ID  AS13335   Cloudflare, Inc.
 104.28.247.133   # ID  AS13335   Cloudflare, Inc.
+104.28.250.135   # ID  AS13335   Cloudflare, Inc.
 108.136.62.223   # ID  AS16509   Amazon.com, Inc.
 108.137.12.146   # ID  AS16509   Amazon.com, Inc.
 108.137.190.123  # ID  AS16509   Amazon.com, Inc.
@@ -754,6 +758,7 @@
 114.12.0.126     # ID  -         -
 114.12.17.98     # ID  -         -
 114.12.19.138    # ID  -         -
+114.12.20.198    # ID  -         -
 114.12.21.132    # ID  -         -
 114.12.21.133    # ID  -         -
 114.12.21.83     # ID  -         -
@@ -1244,6 +1249,7 @@
 202.155.132.99   # ID  AS138115  PT Deneva
 202.155.14.144   # ID  AS138115  PT Deneva
 202.155.143.185  # ID  AS151592  PT Awan Data Teknologi
+202.155.143.189  # ID  AS151592  PT Awan Data Teknologi
 202.155.143.190  # ID  AS151592  PT Awan Data Teknologi
 202.155.157.112  # ID  AS138115  PT Deneva
 202.155.16.73    # ID  -         -
@@ -1661,6 +1667,7 @@
 36.71.190.70     # ID  AS7713    PT Telekomunikasi Indonesia
 36.73.137.224    # ID  AS7713    PT Telekomunikasi Indonesia
 36.73.24.241     # ID  AS7713    PT Telekomunikasi Indonesia
+36.74.225.238    # ID  AS7713    PT Telekomunikasi Indonesia
 36.74.91.202     # ID  AS7713    PT Telekomunikasi Indonesia
 36.75.240.57     # ID  AS7713    PT Telekomunikasi Indonesia
 36.75.4.115      # ID  AS7713    PT Telekomunikasi Indonesia
