@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1160
-# Last updated:           2026-10-20 11:09:16
+# Number of ips:          1168
+# Last updated:           2026-10-20 16:34:04
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -439,6 +439,7 @@
 103.87.16.26     # ID  AS136085  Pemerintah Kabupaten Bojonegoro
 103.87.230.11    # ID  AS136088  PT. Araz Inti Line
 103.87.231.50    # ID  AS136088  PT. Araz Inti Line
+103.87.68.151    # ID  AS150249  PT Atharva Telematika Persada
 103.88.169.150   # ID  AS136093  PT Mitra Lintas Multimedia
 103.90.25.243    # ID  AS63497   PT. Arana Teknologi Indonesia
 103.90.25.52     # ID  AS63497   PT. Arana Teknologi Indonesia
@@ -474,6 +475,7 @@
 110.139.20.34    # ID  AS7713    PT Telekomunikasi Indonesia
 110.232.66.64    # ID  AS23679   PT. Media Antar Nusa
 110.35.80.116    # ID  AS17727   PT. NAP Info Lintas Nusa
+111.95.12.157    # ID  AS23700   Linknet-Fastnet ASN
 111.95.62.69     # ID  AS23700   Linknet-Fastnet ASN
 112.215.69.2     # ID  AS17885   PT XL Axiata Tbk
 112.78.132.173   # ID  AS17451   BIZNET NETWORKS
@@ -706,6 +708,7 @@
 180.243.193.38   # ID  AS7713    PT Telekomunikasi Indonesia
 180.243.2.3      # ID  AS7713    PT Telekomunikasi Indonesia
 180.243.200.68   # ID  AS7713    PT Telekomunikasi Indonesia
+180.243.59.57    # ID  AS7713    PT Telekomunikasi Indonesia
 180.244.0.79     # ID  AS7713    PT Telekomunikasi Indonesia
 180.246.110.227  # ID  AS7713    PT Telekomunikasi Indonesia
 180.246.170.254  # ID  AS7713    PT Telekomunikasi Indonesia
@@ -734,6 +737,7 @@
 182.10.168.208   # ID  AS23693   PT. Telekomunikasi Selular
 182.10.170.81    # ID  AS23693   PT. Telekomunikasi Selular
 182.10.97.43     # ID  AS23693   PT. Telekomunikasi Selular
+182.10.99.102    # ID  AS23693   PT. Telekomunikasi Selular
 182.10.99.162    # ID  AS23693   PT. Telekomunikasi Selular
 182.16.172.206   # ID  AS17995   PT iForte Global Internet
 182.16.174.146   # ID  AS17995   PT iForte Global Internet
@@ -747,6 +751,7 @@
 182.253.112.38   # ID  AS17451   BIZNET NETWORKS
 182.253.135.69   # ID  AS17451   BIZNET NETWORKS
 182.253.156.184  # ID  AS17451   BIZNET NETWORKS
+182.253.168.75   # ID  AS17451   BIZNET NETWORKS
 182.253.170.172  # ID  AS17451   BIZNET NETWORKS
 182.253.170.206  # ID  AS17451   BIZNET NETWORKS
 182.253.171.213  # ID  AS17451   BIZNET NETWORKS
@@ -1013,6 +1018,7 @@
 35.219.90.144    # ID  AS15169   Google LLC
 35.219.90.171    # ID  AS15169   Google LLC
 36.143.24.111    # ID  AS24547   Hebei Mobile Communication Company Limited
+36.37.117.50     # ID  AS4800    PT Aplikanusa Lintasarta
 36.37.73.242     # ID  AS4800    PT Aplikanusa Lintasarta
 36.37.92.210     # ID  AS4800    PT Aplikanusa Lintasarta
 36.64.10.42      # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1046,6 +1052,7 @@
 36.70.78.201     # ID  AS7713    PT Telekomunikasi Indonesia
 36.71.190.70     # ID  AS7713    PT Telekomunikasi Indonesia
 36.73.137.224    # ID  AS7713    PT Telekomunikasi Indonesia
+36.73.18.32      # ID  AS7713    PT Telekomunikasi Indonesia
 36.73.18.53      # ID  AS7713    PT Telekomunikasi Indonesia
 36.74.225.238    # ID  AS7713    PT Telekomunikasi Indonesia
 36.75.4.115      # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1167,5 +1174,6 @@
 8.215.84.228     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 9.154.222.189    # ID  AS131111  PT Mora Telematika Indonesia
 9.154.36.130     # ID  AS131111  PT Mora Telematika Indonesia
+93.185.162.121   # ID  AS209854  Cyberzone S.A.
 93.185.162.142   # ID  AS209854  Cyberzone S.A.
 93.185.162.26    # ID  AS209854  Cyberzone S.A.
