@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          882
-# Last updated:           2026-10-31 11:54:24
+# Number of ips:          888
+# Last updated:           2026-10-31 17:00:42
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -143,6 +143,7 @@
 103.165.128.69   # ID  AS17995   PT iForte Global Internet
 103.165.194.82   # ID  AS17995   PT iForte Global Internet
 103.165.206.238  # ID  AS17995   PT iForte Global Internet
+103.165.207.82   # ID  AS17995   PT iForte Global Internet
 103.165.227.178  # ID  AS17995   PT iForte Global Internet
 103.165.230.198  # ID  AS17995   PT iForte Global Internet
 103.165.41.114   # ID  AS17995   PT iForte Global Internet
@@ -446,6 +447,7 @@
 125.161.91.25    # ID  AS7713    PT Telekomunikasi Indonesia
 125.162.165.233  # ID  AS7713    PT Telekomunikasi Indonesia
 125.162.166.62   # ID  AS7713    PT Telekomunikasi Indonesia
+125.162.167.248  # ID  AS7713    PT Telekomunikasi Indonesia
 125.165.47.127   # ID  AS7713    PT Telekomunikasi Indonesia
 125.166.119.187  # ID  AS7713    PT Telekomunikasi Indonesia
 125.166.151.32   # ID  AS7713    PT Telekomunikasi Indonesia
@@ -741,6 +743,7 @@
 34.101.151.241   # ID  AS396982  Google LLC
 34.101.41.47     # ID  AS396982  Google LLC
 34.128.120.109   # ID  AS396982  Google LLC
+34.128.67.196    # ID  AS396982  Google LLC
 34.128.95.201    # ID  AS396982  Google LLC
 34.34.217.121    # ID  AS396982  Google LLC
 34.34.219.27     # ID  AS396982  Google LLC
@@ -756,6 +759,7 @@
 34.50.120.47     # ID  AS396982  Google LLC
 34.50.121.129    # ID  AS396982  Google LLC
 34.50.121.253    # ID  AS396982  Google LLC
+34.50.126.102    # ID  AS396982  Google LLC
 34.50.72.104     # ID  AS396982  Google LLC
 34.50.76.189     # ID  AS396982  Google LLC
 34.50.83.138     # ID  AS396982  Google LLC
@@ -763,6 +767,7 @@
 34.50.93.164     # ID  AS396982  Google LLC
 36.37.117.50     # ID  AS4800    PT Aplikanusa Lintasarta
 36.37.73.242     # ID  AS4800    PT Aplikanusa Lintasarta
+36.50.92.145     # ID  AS141642  PT Ring Media Nusantara
 36.64.10.42      # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.131.68     # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.148.186    # ID  AS7713    PT Telekomunikasi Indonesia
@@ -891,3 +896,4 @@
 8.215.85.137     # ID  AS45102   Alibaba (US) Technology Co., Ltd.
 9.154.222.189    # ID  AS131111  PT Mora Telematika Indonesia
 93.185.162.121   # ID  AS209854  Cyberzone S.A.
+93.185.162.142   # ID  AS209854  Cyberzone S.A.

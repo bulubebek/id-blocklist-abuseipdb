@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1674
-# Last updated:           2026-10-31 11:54:23
+# Number of ips:          1678
+# Last updated:           2026-10-31 17:00:42
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -235,6 +235,7 @@
 103.165.155.171  # ID  AS141921  PT Jaringan Keluarga Bersama
 103.165.194.82   # ID  AS17995   PT iForte Global Internet
 103.165.206.238  # ID  AS17995   PT iForte Global Internet
+103.165.207.82   # ID  AS17995   PT iForte Global Internet
 103.165.212.210  # ID  AS17995   PT iForte Global Internet
 103.165.222.189  # ID  AS17995   PT iForte Global Internet
 103.165.225.74   # ID  AS17995   PT iForte Global Internet
@@ -766,6 +767,7 @@
 125.161.91.25    # ID  AS7713    PT Telekomunikasi Indonesia
 125.162.165.233  # ID  AS7713    PT Telekomunikasi Indonesia
 125.162.166.62   # ID  AS7713    PT Telekomunikasi Indonesia
+125.162.167.248  # ID  AS7713    PT Telekomunikasi Indonesia
 125.163.144.93   # ID  AS7713    PT Telekomunikasi Indonesia
 125.163.179.179  # ID  AS7713    PT Telekomunikasi Indonesia
 125.164.178.138  # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1364,6 +1366,7 @@
 34.128.114.48    # ID  AS396982  Google LLC
 34.128.120.109   # ID  AS396982  Google LLC
 34.128.125.22    # ID  AS396982  Google LLC
+34.128.67.196    # ID  AS396982  Google LLC
 34.128.75.111    # ID  AS396982  Google LLC
 34.128.85.64     # ID  AS396982  Google LLC
 34.128.95.201    # ID  AS396982  Google LLC
@@ -1450,6 +1453,7 @@
 36.37.117.50     # ID  AS4800    PT Aplikanusa Lintasarta
 36.37.73.242     # ID  AS4800    PT Aplikanusa Lintasarta
 36.37.92.210     # ID  AS4800    PT Aplikanusa Lintasarta
+36.50.92.145     # ID  AS141642  PT Ring Media Nusantara
 36.64.10.42      # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.131.68     # ID  AS7713    PT Telekomunikasi Indonesia
 36.64.148.186    # ID  AS7713    PT Telekomunikasi Indonesia
