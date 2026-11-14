@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1637
-# Last updated:           2026-11-14 05:38:03
+# Number of ips:          1640
+# Last updated:           2026-11-14 13:12:37
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -11,6 +11,7 @@
 #
 101.0.6.165      # ID  AS55670   PT. Universal Broadband
 101.128.106.53   # ID  AS135478  PT. Cyberindo Aditama
+101.128.110.145  # ID  AS135478  PT. Cyberindo Aditama
 101.128.96.107   # ID  AS135478  PT. Cyberindo Aditama
 101.255.101.17   # ID  AS38511   PT Remala Abadi
 101.255.167.237  # ID  AS38511   PT Remala Abadi
@@ -285,6 +286,7 @@
 103.173.139.2    # ID  AS147078  PT Serayu Multi Connection
 103.173.140.185  # ID  AS58485   WIFIAN ID
 103.174.115.74   # ID  AS136052  PT Cloud Hosting Indonesia
+103.174.115.89   # ID  AS136052  PT Cloud Hosting Indonesia
 103.174.19.83    # ID  AS131111  PT Mora Telematika Indonesia
 103.174.237.120  # ID  AS147106  PT Global Erasiber Teknologi
 103.174.238.6    # ID  AS141127  PT Anugerah Cimanuk Raya
@@ -1067,6 +1069,7 @@
 182.253.112.35   # ID  AS17451   BIZNET NETWORKS
 182.253.112.36   # ID  AS17451   BIZNET NETWORKS
 182.253.112.38   # ID  AS17451   BIZNET NETWORKS
+182.253.131.0    # ID  AS17451   BIZNET NETWORKS
 182.253.131.7    # ID  AS17451   BIZNET NETWORKS
 182.253.135.69   # ID  AS17451   BIZNET NETWORKS
 182.253.155.52   # ID  AS17451   BIZNET NETWORKS
