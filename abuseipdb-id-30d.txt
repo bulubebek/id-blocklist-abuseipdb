@@ -1,8 +1,8 @@
 #
 # Aggregated Blocklist for AbuseIPDB: Indonesia most reported IP addresses.
 #
-# Number of ips:          1801
-# Last updated:           2026-11-18 15:21:24
+# Number of ips:          1812
+# Last updated:           2026-11-19 00:01:32
 #
 # Source:                 https://github.com/borestad/blocklist-abuseipdb
 # Stats:                  https://github.com/borestad/blocklist-abuseipdb/tree/main/stats
@@ -77,6 +77,7 @@
 103.126.87.227   # ID  AS138109  PT. Rasi Bintang Perkasa
 103.126.9.102    # ID  AS138106  PT Lintas Telematika Nusantara
 103.130.130.56   # ID  AS63859   PT. Eka Mas Republik
+103.130.18.0     # ID  AS63859   PT. Eka Mas Republik
 103.130.18.1     # ID  AS63859   PT. Eka Mas Republik
 103.130.18.101   # ID  AS63859   PT. Eka Mas Republik
 103.130.18.102   # ID  AS63859   PT. Eka Mas Republik
@@ -92,6 +93,7 @@
 103.130.18.137   # ID  AS63859   PT. Eka Mas Republik
 103.130.18.139   # ID  AS63859   PT. Eka Mas Republik
 103.130.18.14    # ID  AS63859   PT. Eka Mas Republik
+103.130.18.141   # ID  AS63859   PT. Eka Mas Republik
 103.130.18.144   # ID  AS63859   PT. Eka Mas Republik
 103.130.18.145   # ID  AS63859   PT. Eka Mas Republik
 103.130.18.149   # ID  AS63859   PT. Eka Mas Republik
@@ -104,6 +106,7 @@
 103.130.18.17    # ID  AS63859   PT. Eka Mas Republik
 103.130.18.18    # ID  AS63859   PT. Eka Mas Republik
 103.130.18.19    # ID  AS63859   PT. Eka Mas Republik
+103.130.18.193   # ID  AS63859   PT. Eka Mas Republik
 103.130.18.194   # ID  AS63859   PT. Eka Mas Republik
 103.130.18.195   # ID  AS63859   PT. Eka Mas Republik
 103.130.18.196   # ID  AS63859   PT. Eka Mas Republik
@@ -141,8 +144,10 @@
 103.130.18.242   # ID  AS63859   PT. Eka Mas Republik
 103.130.18.246   # ID  AS63859   PT. Eka Mas Republik
 103.130.18.248   # ID  AS63859   PT. Eka Mas Republik
+103.130.18.249   # ID  AS63859   PT. Eka Mas Republik
 103.130.18.250   # ID  AS63859   PT. Eka Mas Republik
 103.130.18.253   # ID  AS63859   PT. Eka Mas Republik
+103.130.18.254   # ID  AS63859   PT. Eka Mas Republik
 103.130.18.255   # ID  AS63859   PT. Eka Mas Republik
 103.130.18.26    # ID  AS63859   PT. Eka Mas Republik
 103.130.18.30    # ID  AS63859   PT. Eka Mas Republik
@@ -156,8 +161,10 @@
 103.130.18.44    # ID  AS63859   PT. Eka Mas Republik
 103.130.18.5     # ID  AS63859   PT. Eka Mas Republik
 103.130.18.52    # ID  AS63859   PT. Eka Mas Republik
+103.130.18.53    # ID  AS63859   PT. Eka Mas Republik
 103.130.18.56    # ID  AS63859   PT. Eka Mas Republik
 103.130.18.6     # ID  AS63859   PT. Eka Mas Republik
+103.130.18.60    # ID  AS63859   PT. Eka Mas Republik
 103.130.18.61    # ID  AS63859   PT. Eka Mas Republik
 103.130.18.66    # ID  AS63859   PT. Eka Mas Republik
 103.130.18.68    # ID  AS63859   PT. Eka Mas Republik
@@ -171,6 +178,7 @@
 103.130.18.80    # ID  AS63859   PT. Eka Mas Republik
 103.130.18.81    # ID  AS63859   PT. Eka Mas Republik
 103.130.18.82    # ID  AS63859   PT. Eka Mas Republik
+103.130.18.86    # ID  AS63859   PT. Eka Mas Republik
 103.130.18.9     # ID  AS63859   PT. Eka Mas Republik
 103.130.18.90    # ID  AS63859   PT. Eka Mas Republik
 103.130.18.92    # ID  AS63859   PT. Eka Mas Republik
@@ -818,6 +826,7 @@
 113.192.12.100   # ID  AS58495   PT Parsaoran Global Datatrans
 113.192.12.3     # ID  AS58495   PT Parsaoran Global Datatrans
 113.192.12.34    # ID  AS58495   PT Parsaoran Global Datatrans
+113.192.12.36    # ID  AS58495   PT Parsaoran Global Datatrans
 113.192.12.78    # ID  AS58495   PT Parsaoran Global Datatrans
 113.192.3.50     # ID  AS142331  PT Boombas Carlo Medianet
 113.192.48.178   # ID  AS138089  PT.Global Media Data Prima
@@ -931,6 +940,7 @@
 124.158.184.101  # ID  AS55685   PT Jala Lintas Media
 124.158.184.99   # ID  AS55685   PT Jala Lintas Media
 124.40.250.105   # ID  AS45305   Lintas Data Prima, PT
+124.40.251.146   # ID  AS45305   Lintas Data Prima, PT
 124.40.252.3     # ID  AS45305   Lintas Data Prima, PT
 125.161.91.25    # ID  AS7713    PT Telekomunikasi Indonesia
 125.162.165.233  # ID  AS7713    PT Telekomunikasi Indonesia
@@ -1005,6 +1015,7 @@
 156.230.191.172  # ID  AS63859   PT. Eka Mas Republik
 157.10.107.103   # ID  AS58495   PT Parsaoran Global Datatrans
 157.10.109.67    # ID  AS58495   PT Parsaoran Global Datatrans
+157.10.109.74    # ID  AS58495   PT Parsaoran Global Datatrans
 157.10.109.83    # ID  AS58495   PT Parsaoran Global Datatrans
 157.10.160.103   # ID  AS136052  PT Cloud Hosting Indonesia
 157.10.160.151   # ID  AS136052  PT Cloud Hosting Indonesia
